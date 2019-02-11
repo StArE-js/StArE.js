@@ -353,3 +353,7 @@ function bubbleChart(){
     //Return the Chart.
     return chart;
 }
+
+module.exports={
+  bubbleChart
+};

@@ -8,7 +8,10 @@
 
 //DEPENDENCIES
 var fs= require('fs');
+//language detect
 const LanguageDetect = require('languagedetect');
+//syllables count
+const hyphenopoly = require("hyphenopoly")
 
 //DECLARATIONS OF VARIABLES.
 const lngDetector = new LanguageDetect();
@@ -63,6 +66,10 @@ var get_value= function(input, index) {
         });
     });
 };
+
+
+
+
 
 //WHAT KIND OF ENTRY IT USES
 var use_DOC= function(){return true},
