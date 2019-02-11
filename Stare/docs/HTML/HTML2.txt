@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>avena - Wiktionary</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"avena","wgTitle":"avena","wgCurRevisionId":50667959,"wgRevisionId":50667959,"wgArticleId":51343,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Spanish redlinks","Spanish redlinks/l","Italian terms inherited from Latin","Italian terms derived from Latin","Italian lemmas","Italian nouns","Italian countable nouns","Latin terms borrowed from substrate languages","Latin terms derived from substrate languages","Latin 3-syllable words","Latin terms with IPA pronunciation","Latin lemmas","Latin nouns","Latin feminine nouns","Latin first declension nouns","Latin feminine nouns in the first declension","la:Grains","Spanish terms inherited from Latin","Spanish terms derived from Latin","Spanish terms with IPA pronunciation","Spanish lemmas","Spanish nouns","Spanish 3-syllable words","es:Grains"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"avena","wgRelevantArticleId":51343,"wgRequestId":"XGF6YApAMEwAAFxN-mkAAADU","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wiktionary","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.LegacyScripts","ext.gadget.JavascriptHeadings","ext.gadget.TargetedTranslations","ext.gadget.DocTabs","ext.gadget.BlockInfo","ext.gadget.RevdelInfo","ext.gadget.CodeLinks","ext.gadget.TranslationAdder","ext.gadget.RhymesAdder","ext.gadget.SpecialSearch","ext.gadget.zhDialMap","ext.gadget.catfix","ext.gadget.Edittools","ext.gadget.defaultVisibilityToggles","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.16"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=avena&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/w/index.php?title=avena&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary/en.png"/>
+<link rel="shortcut icon" href="/static/favicon/wiktionary/en.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wiktionary (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wiktionary Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wiktionary.org/wiki/avena"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-avena rootpage-avena skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">avena</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">Definition from Wiktionary, the free dictionary</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="disambig-see-also"><i>See also:</i> <b class="Latn"><a href="/wiki/Avena" title="Avena">Avena</a></b></div>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Italian"><span class="tocnumber">1</span> <span class="toctext">Italian</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Etymology"><span class="tocnumber">1.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Noun"><span class="tocnumber">1.2</span> <span class="toctext">Noun</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Latin"><span class="tocnumber">2</span> <span class="toctext">Latin</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Etymology_2"><span class="tocnumber">2.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Pronunciation"><span class="tocnumber">2.2</span> <span class="toctext">Pronunciation</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Noun_2"><span class="tocnumber">2.3</span> <span class="toctext">Noun</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Declension"><span class="tocnumber">2.3.1</span> <span class="toctext">Declension</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Derived_terms"><span class="tocnumber">2.3.2</span> <span class="toctext">Derived terms</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Descendants"><span class="tocnumber">2.3.3</span> <span class="toctext">Descendants</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#References"><span class="tocnumber">2.4</span> <span class="toctext">References</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Spanish"><span class="tocnumber">3</span> <span class="toctext">Spanish</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Etymology_3"><span class="tocnumber">3.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Pronunciation_2"><span class="tocnumber">3.2</span> <span class="toctext">Pronunciation</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Noun_3"><span class="tocnumber">3.3</span> <span class="toctext">Noun</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Derived_terms_2"><span class="tocnumber">3.3.1</span> <span class="toctext">Derived terms</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-17"><a href="#Further_reading"><span class="tocnumber">3.4</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Italian">Italian</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=1" title="Edit section: Italian">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=2" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From <span class="etyl"><a href="https://en.wikipedia.org/wiki/Latin" class="extiw" title="w:Latin">Latin</a></span> <i class="Latn mention" lang="la"><a href="/wiki/avena#Latin" title="avena">avēna</a></i>.
+</p>
+<h3><span class="mw-headline" id="Noun">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=3" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="it">avena</strong>&#160;<span class="gender"><abbr title="feminine gender">f</abbr></span> (<i>plural</i> <b class="Latn" lang="it"><a href="/wiki/avene#Italian" title="avene">avene</a></b>)
+</p>
+<ol><li><a href="/wiki/oats" title="oats">oats</a></li></ol>
+<hr />
+<h2><span class="mw-headline" id="Latin">Latin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=4" title="Edit section: Latin">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology_2">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=5" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Probably a non-Indo-European <span class="etyl"><a href="https://en.wikipedia.org/wiki/Stratum_(linguistics)" class="extiw" title="w:Stratum (linguistics)">substrate</a></span> word. Cognate with Lithuanian <i class="Latn mention" lang="lt"><a href="/wiki/avi%C5%BEa#Lithuanian" title="aviža">aviža</a></i>, Latvian <i class="Latn mention" lang="lv"><a href="/wiki/auzas#Latvian" title="auzas">auzas</a></i>, and Proto-Slavic <i class="Latinx mention" lang="sla-pro"><a href="/wiki/Reconstruction:Proto-Slavic/ov%D1%8Cs%D1%8A" title="Reconstruction:Proto-Slavic/ovьsъ">*ovьsъ</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Pronunciation">Pronunciation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=6" title="Edit section: Pronunciation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://en.wikipedia.org/wiki/Classical_Latin" class="extiw" title="w:Classical Latin">Classical</a></span><span class="ib-brac qualifier-brac">)</span> <a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="/wiki/Appendix:Latin_pronunciation" title="Appendix:Latin pronunciation">key</a>)</sup>:&#32;<span class="IPA">/aˈweː.na/</span></li></ul>
+<h3><span class="mw-headline" id="Noun_2">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=7" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="la">avēna</strong>&#160;<span class="gender"><abbr title="feminine gender">f</abbr></span> (<i>genitive</i> <b class="Latn" lang="la"><a href="/wiki/avenae#Latin" title="avenae">avēnae</a></b>); <i><a href="/wiki/Appendix:Latin_first_declension" title="Appendix:Latin first declension">first declension</a></i>
+</p>
+<ol><li><a href="/wiki/oat" title="oat">oats</a></li>
+<li><a href="/w/index.php?title=wild_oat&amp;action=edit&amp;redlink=1" class="new" title="wild oat (page does not exist)">wild oats</a></li>
+<li><a href="/wiki/straw" title="straw">straw</a></li>
+<li>A shepherd's pipe</li></ol>
+<h4><span class="mw-headline" id="Declension">Declension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=8" title="Edit section: Declension">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Appendix:Latin_first_declension" title="Appendix:Latin first declension">First declension</a>.<style data-mw-deduplicate="TemplateStyles:r50505018">.mw-parser-output .inflection-table-la .corner-header,.mw-parser-output .inflection-table-la .number-header,.mw-parser-output .inflection-table-la .case-header{font-style:italic}.mw-parser-output .inflection-table-la .corner-header,.mw-parser-output .inflection-table-la .number-header{background-color:#549EA0}.mw-parser-output .inflection-table-la .case-header{background-color:#40E0D0}.mw-parser-output .inflection-table-la .form-cell{background-color:#F8F8FF}</style>
+</p>
+<table class="prettytable inflection-table inflection-table-la">
+
+<tbody><tr>
+<th class="corner-header">Case
+</th>
+<th class="number-header">Singular
+</th>
+<th class="number-header">Plural
+</th></tr>
+<tr>
+<th class="case-header"><a href="/wiki/nominative_case" title="nominative case">Nominative</a>
+</th>
+<td class="form-cell"><span class="Latn" lang="la"><strong class="selflink">avēna</strong></span>
+</td>
+<td class="form-cell"><span class="Latn" lang="la"><a href="/wiki/avenae#Latin" title="avenae">avēnae</a></span>
+</td></tr>
+<tr>
+<th class="case-header"><a href="/wiki/genitive_case" title="genitive case">Genitive</a>
+</th>
+<td class="form-cell"><span class="Latn" lang="la"><a href="/wiki/avenae#Latin" title="avenae">avēnae</a></span>
+</td>
+<td class="form-cell"><span class="Latn" lang="la"><a href="/wiki/avenarum#Latin" title="avenarum">avēnārum</a></span>
+</td></tr>
+<tr>
+<th class="case-header"><a href="/wiki/dative_case" title="dative case">Dative</a>
+</th>
+<td class="form-cell"><span class="Latn" lang="la"><a href="/wiki/avenae#Latin" title="avenae">avēnae</a></span>
+</td>
+<td class="form-cell"><span class="Latn" lang="la"><a href="/wiki/avenis#Latin" title="avenis">avēnīs</a></span>
+</td></tr>
+<tr>
+<th class="case-header"><a href="/wiki/accusative_case" title="accusative case">Accusative</a>
+</th>
+<td class="form-cell"><span class="Latn" lang="la"><a href="/wiki/avenam#Latin" title="avenam">avēnam</a></span>
+</td>
+<td class="form-cell"><span class="Latn" lang="la"><a href="/wiki/avenas#Latin" title="avenas">avēnās</a></span>
+</td></tr>
+<tr>
+<th class="case-header"><a href="/wiki/ablative_case" title="ablative case">Ablative</a>
+</th>
+<td class="form-cell"><span class="Latn" lang="la"><strong class="selflink">avēnā</strong></span>
+</td>
+<td class="form-cell"><span class="Latn" lang="la"><a href="/wiki/avenis#Latin" title="avenis">avēnīs</a></span>
+</td></tr>
+<tr>
+<th class="case-header"><a href="/wiki/vocative_case" title="vocative case">Vocative</a>
+</th>
+<td class="form-cell"><span class="Latn" lang="la"><strong class="selflink">avēna</strong></span>
+</td>
+<td class="form-cell"><span class="Latn" lang="la"><a href="/wiki/avenae#Latin" title="avenae">avēnae</a></span>
+</td></tr>
+</tbody></table>
+<h4><span class="mw-headline" id="Derived_terms">Derived terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=9" title="Edit section: Derived terms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="Latn" lang="la"><a href="/w/index.php?title=avenaceus&amp;action=edit&amp;redlink=1" class="new" title="avenaceus (page does not exist)">avēnāceus</a></span></li>
+<li><span class="Latn" lang="la"><a href="/w/index.php?title=avenarius&amp;action=edit&amp;redlink=1" class="new" title="avenarius (page does not exist)">avēnārius</a></span></li></ul>
+<h4><span class="mw-headline" id="Descendants">Descendants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=10" title="Edit section: Descendants">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="derivedterms" style="column-count: 2; -moz-column-count: 2; -ms-column-count: 2; -o-column-count: 2; -webkit-column-count: 2;;">
+<ul><li>Bourguignon: <span class="Latn" lang="roa-brg"><a href="/wiki/aivoigne#Bourguignon" title="aivoigne">aivoigne</a></span></li>
+<li>Champaignat: <a href="/w/index.php?title=av%C3%A8ne&amp;action=edit&amp;redlink=1" class="new" title="avène (page does not exist)">avène</a>, <a href="/w/index.php?title=avou%C3%A8ne&amp;action=edit&amp;redlink=1" class="new" title="avouène (page does not exist)">avouène</a></li>
+<li>Dalmatian: <span class="Latn" lang="dlm"><a href="/wiki/vun#Dalmatian" title="vun">vun</a></span></li>
+<li>French: <span class="Latn" lang="fr"><a href="/wiki/avoine#French" title="avoine">avoine</a></span></li>
+<li>Friulian: <span class="Latn" lang="fur"><a href="/wiki/vene#Friulian" title="vene">vene</a></span></li>
+<li>Galician: <span class="Latn" lang="gl"><a href="/wiki/avea#Galician" title="avea">avea</a></span></li>
+<li>Italian: <span class="Latn" lang="it"><a href="/wiki/avena#Italian" title="avena">avena</a></span></li>
+<li>Norman: <span class="Latn" lang="nrf"><a href="/wiki/avaine#Norman" title="avaine">avaine</a></span></li>
+<li>Picard: <span class="Latn" lang="pcd"><a href="/w/index.php?title=avin%C2%B7ne&amp;action=edit&amp;redlink=1" class="new" title="avin·ne (page does not exist)">avin·ne</a></span></li></ul>
+<ul><li>Portuguese: <span class="Latn" lang="pt"><a href="/wiki/aveia#Portuguese" title="aveia">aveia</a></span></li>
+<li>Romansh: <span class="Latn" lang="rm"><a href="/w/index.php?title=avaina&amp;action=edit&amp;redlink=1" class="new" title="avaina (page does not exist)">avaina</a></span>, <span class="Latn" lang="rm"><a href="/w/index.php?title=avagna&amp;action=edit&amp;redlink=1" class="new" title="avagna (page does not exist)">avagna</a></span></li>
+<li>Sardinian: <span class="Latn" lang="sc"><a href="/wiki/aena#Sardinian" title="aena">aena</a></span>, <span class="Latn" lang="sc"><a href="/wiki/avena#Sardinian" title="avena">avena</a></span>, <span class="Latn" lang="sc"><a href="/w/index.php?title=auena&amp;action=edit&amp;redlink=1" class="new" title="auena (page does not exist)">auena</a></span>, <span class="Latn" lang="sc"><a href="/wiki/ena#Sardinian" title="ena">ena</a></span></li>
+<li>Sicilian: <span class="Latn" lang="scn"><a href="/wiki/aina#Sicilian" title="aina">aina</a></span>, <span class="Latn" lang="scn"><a href="/wiki/avina#Sicilian" title="avina">avina</a></span></li>
+<li>Spanish: <span class="Latn" lang="es"><a href="/wiki/avena#Spanish" title="avena">avena</a></span></li>
+<li>Venetian: <span class="Latn" lang="vec"><a href="/wiki/v%C3%A9na#Venetian" title="véna">véna</a></span></li>
+<li>Walloon: <span class="Latn" lang="wa"><a href="/w/index.php?title=avoenne&amp;action=edit&amp;redlink=1" class="new" title="avoenne (page does not exist)">avoenne</a></span></li></ul>
+</div>
+<h3><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=avena"><span class="Latn" lang="la">avena</span></a> in Charlton T. Lewis and Charles Short&#32;(1879)&#32;<cite><a href="https://en.wikipedia.org/wiki/A_Latin_Dictionary" class="extiw" title="w:A Latin Dictionary">A Latin Dictionary</a></cite>, Oxford&#58; Clarendon Press</li>
+<li><a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0060:entry=avena"><span class="Latn" lang="la">avena</span></a> in Charlton T. Lewis&#32;(1891)&#32;<cite>An Elementary Latin Dictionary</cite>, New York&#58; Harper &amp; Brothers</li>
+<li><span class="Latn" lang="la"><a rel="nofollow" class="external text" href="http://ducange.enc.sorbonne.fr/AVENA">avena</a></span> in Charles du Fresne du Cange’s <a href="https://en.wikipedia.org/wiki/Charles_du_Fresne,_sieur_du_Cange#Works" class="extiw" title="wikipedia:Charles du Fresne, sieur du Cange"><i>Glossarium Mediæ et Infimæ Latinitatis</i></a> (augmented edition, 1883–1887)</li>
+<li><a rel="nofollow" class="external text" href="http://micmap.org/dicfro/search/gaffiot/avena">avena</a> in Gaffiot, Félix&#32;(1934)&#32;<cite><a href="/wiki/Appendix:Reference_detail#Gaffiot_1934" title="Appendix:Reference detail">Dictionnaire Illustré Latin-Français</a></cite>, Hachette</li></ul>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><a href="#cite_ref-1"> ^ </a> <span class="reference-text"><a href="https://en.wikipedia.org/wiki/Michiel_de_Vaan" class="extiw" title="w:Michiel de Vaan">De Vaan, Michiel</a>&#32;(2008)&#32;<cite>Etymological Dictionary of Latin and the other Italic Languages</cite>&#32;(Leiden Indo-European Etymological Dictionary Series&#59; 7), Leiden, Boston&#58; Brill</span>
+</li>
+</ol></div>
+<hr />
+<h2><span class="mw-headline" id="Spanish">Spanish</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=12" title="Edit section: Spanish">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="sister-wikipedia sister-project noprint floatright" style="border: 1px solid #aaa; font-size: 90%; background: #f9f9f9; width: 250px; padding: 4px; text-align: left;"><div style="float: left;"><div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/44px-Wikipedia-logo.png" decoding="async" width="44" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/66px-Wikipedia-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/88px-Wikipedia-logo.png 2x" data-file-width="200" data-file-height="200" /></div></div><div style="margin-left: 60px;">Spanish <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> has an article on:<div style="margin-left: 10px;"><b class="Latn" lang="es"><a href="https://en.wikipedia.org/wiki/es:avena" class="extiw" title="w:es:avena">avena</a></b></div></div><span class="interProject"><a href="https://en.wikipedia.org/wiki/es:avena" class="extiw" title="w:es:avena">Wikipedia <sup>es</sup></a></span></div>
+<h3><span class="mw-headline" id="Etymology_3">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=13" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From <span class="etyl"><a href="https://en.wikipedia.org/wiki/Latin" class="extiw" title="w:Latin">Latin</a></span> <i class="Latn mention" lang="la"><a href="/wiki/avena#Latin" title="avena">avēna</a></i>.
+</p>
+<h3><span class="mw-headline" id="Pronunciation_2">Pronunciation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=14" title="Edit section: Pronunciation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="/wiki/Appendix:Spanish_pronunciation" title="Appendix:Spanish pronunciation">key</a>)</sup>:&#32;<span class="IPA">/aˈbena/</span>, <span class="IPA">[aˈβena]</span></li></ul>
+<h3><span class="mw-headline" id="Noun_3">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=15" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="es">avena</strong>&#160;<span class="gender"><abbr title="feminine gender">f</abbr></span> (<i>plural</i> <b class="Latn form-of lang-es p-form-of" lang="es"><a href="/wiki/avenas#Spanish" title="avenas">avenas</a></b>)
+</p>
+<ol><li><a href="/wiki/oat" title="oat">oat</a></li>
+<li><a href="/wiki/oats" title="oats">oats</a></li>
+<li><a href="/wiki/oatmeal" title="oatmeal">oatmeal</a> <a href="/wiki/porridge" title="porridge">porridge</a></li></ol>
+<h4><span class="mw-headline" id="Derived_terms_2">Derived terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=16" title="Edit section: Derived terms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="Latn" lang="es"><a href="/w/index.php?title=avena_loca&amp;action=edit&amp;redlink=1" class="new" title="avena loca (page does not exist)">avena loca</a></span></li></ul>
+<h3><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=17" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>“<a rel="nofollow" class="external text" href="http://dle.rae.es/?w=avena">avena</a>” in <i><a href="https://en.wikipedia.org/wiki/Diccionario_de_la_lengua_espa%C3%B1ola" class="extiw" title="w:Diccionario de la lengua española">Diccionario de la lengua española</a>, Vigésima tercera edición</i>, Real Academia Española, 2014.</li></ul>
+
+<!-- 
+NewPP limit report
+Parsed by mw1326
+Cached time: 20190211110035
+Cache expiry: 2073600
+Dynamic content: false
+CPU time usage: 0.500 seconds
+Real time usage: 0.723 seconds
+Preprocessor visited node count: 4335/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18684/2097152 bytes
+Template argument size: 2270/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1012/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.318/10.000 seconds
+Lua memory usage: 11 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  665.058      1 -total
+ 18.81%  125.085     23 Template:l
+ 13.13%   87.349      2 Template:inh
+  9.90%   65.838      1 Template:la-IPA
+  9.56%   63.605      1 Template:R:L&amp;S
+  7.48%   49.738     26 Template:redlink_category
+  6.39%   42.489      3 Template:m
+  6.11%   40.654      1 Template:la-decl-1st
+  5.86%   38.967      1 Template:es-IPA
+  5.54%   36.821      4 Template:cite-book
+-->
+
+<!-- Saved in parser cache with key enwiktionary:pcache:idhash:51343-0!canonical and timestamp 20190211110034 and revision id 50667959
+ -->
+</div><noscript><img src="//en.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wiktionary.org/w/index.php?title=avena&amp;oldid=50667959">https://en.wiktionary.org/w/index.php?title=avena&amp;oldid=50667959</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Italian_terms_inherited_from_Latin" title="Category:Italian terms inherited from Latin">Italian terms inherited from Latin</a></li><li><a href="/wiki/Category:Italian_terms_derived_from_Latin" title="Category:Italian terms derived from Latin">Italian terms derived from Latin</a></li><li><a href="/wiki/Category:Italian_lemmas" title="Category:Italian lemmas">Italian lemmas</a></li><li><a href="/wiki/Category:Italian_nouns" title="Category:Italian nouns">Italian nouns</a></li><li><a href="/wiki/Category:Italian_countable_nouns" title="Category:Italian countable nouns">Italian countable nouns</a></li><li><a href="/wiki/Category:Latin_terms_borrowed_from_substrate_languages" title="Category:Latin terms borrowed from substrate languages">Latin terms borrowed from substrate languages</a></li><li><a href="/wiki/Category:Latin_terms_derived_from_substrate_languages" title="Category:Latin terms derived from substrate languages">Latin terms derived from substrate languages</a></li><li><a href="/wiki/Category:Latin_3-syllable_words" title="Category:Latin 3-syllable words">Latin 3-syllable words</a></li><li><a href="/wiki/Category:Latin_terms_with_IPA_pronunciation" title="Category:Latin terms with IPA pronunciation">Latin terms with IPA pronunciation</a></li><li><a href="/wiki/Category:Latin_lemmas" title="Category:Latin lemmas">Latin lemmas</a></li><li><a href="/wiki/Category:Latin_nouns" title="Category:Latin nouns">Latin nouns</a></li><li><a href="/wiki/Category:Latin_feminine_nouns" title="Category:Latin feminine nouns">Latin feminine nouns</a></li><li><a href="/wiki/Category:Latin_first_declension_nouns" title="Category:Latin first declension nouns">Latin first declension nouns</a></li><li><a href="/wiki/Category:Latin_feminine_nouns_in_the_first_declension" title="Category:Latin feminine nouns in the first declension">Latin feminine nouns in the first declension</a></li><li><a href="/wiki/Category:la:Grains" title="Category:la:Grains">la:Grains</a></li><li><a href="/wiki/Category:Spanish_terms_inherited_from_Latin" title="Category:Spanish terms inherited from Latin">Spanish terms inherited from Latin</a></li><li><a href="/wiki/Category:Spanish_terms_derived_from_Latin" title="Category:Spanish terms derived from Latin">Spanish terms derived from Latin</a></li><li><a href="/wiki/Category:Spanish_terms_with_IPA_pronunciation" title="Category:Spanish terms with IPA pronunciation">Spanish terms with IPA pronunciation</a></li><li><a href="/wiki/Category:Spanish_lemmas" title="Category:Spanish lemmas">Spanish lemmas</a></li><li><a href="/wiki/Category:Spanish_nouns" title="Category:Spanish nouns">Spanish nouns</a></li><li><a href="/wiki/Category:Spanish_3-syllable_words" title="Category:Spanish 3-syllable words">Spanish 3-syllable words</a></li><li><a href="/wiki/Category:es:Grains" title="Category:es:Grains">es:Grains</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Spanish_redlinks" title="Category:Spanish redlinks">Spanish redlinks</a></li><li><a href="/wiki/Category:Spanish_redlinks/l" title="Category:Spanish redlinks/l">Spanish redlinks/l</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=avena" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=avena" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/avena" title="View the content page [c]" accesskey="c">Entry</a></span></li><li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:avena&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/avena">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=avena&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=avena&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wiktionary" title="Search Wiktionary [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wiktionary:Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-text"><a href="/wiki/Wiktionary:Main_Page">Main Page</a></li><li id="n-portal"><a href="/wiki/Wiktionary:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-wiktprefs"><a href="/wiki/Wiktionary:Per-browser_preferences">Preferences</a></li><li id="n-requestedarticles"><a href="/wiki/Wiktionary:Requested_entries">Requested entries</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random entry</a></li><li id="n-help"><a href="https://en.wiktionary.org/wiki/Help:Contents" title="The place to find out">Help</a></li><li id="n-Glossary"><a href="/wiki/Appendix:Glossary">Glossary</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wiktionary.org&amp;uselang=en" title="Support us">Donations</a></li><li id="n-contact"><a href="/wiki/Wiktionary:Contact_us">Contact us</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/avena" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/avena" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=avena&amp;oldid=50667959" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=avena&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=avena&amp;id=50667959" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">In other languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-az"><a href="https://az.wiktionary.org/wiki/avena" title="avena – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wiktionary.org/wiki/avena" title="avena – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wiktionary.org/wiki/avena" title="avena – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wiktionary.org/wiki/avena" title="avena – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wiktionary.org/wiki/avena" title="avena – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wiktionary.org/wiki/avena" title="avena – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wiktionary.org/wiki/avena" title="avena – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wiktionary.org/wiki/avena" title="avena – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wiktionary.org/wiki/avena" title="avena – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wiktionary.org/wiki/avena" title="avena – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wiktionary.org/wiki/avena" title="avena – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wiktionary.org/wiki/avena" title="avena – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wiktionary.org/wiki/avena" title="avena – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wiktionary.org/wiki/avena" title="avena – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wiktionary.org/wiki/avena" title="avena – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wiktionary.org/wiki/avena" title="avena – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wiktionary.org/wiki/avena" title="avena – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wiktionary.org/wiki/avena" title="avena – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wiktionary.org/wiki/avena" title="avena – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wiktionary.org/wiki/avena" title="avena – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wiktionary.org/wiki/avena" title="avena – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wiktionary.org/wiki/avena" title="avena – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-chr"><a href="https://chr.wiktionary.org/wiki/avena" title="avena – Cherokee" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wiktionary.org/wiki/avena" title="avena – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wiktionary.org/wiki/avena" title="avena – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=avena">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=avena&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=avena&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 11 November 2018, at 10:07.</li>
+								<li id="footer-info-copyright">Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wiktionary:About" class="mw-redirect" title="Wiktionary:About">About Wiktionary</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wiktionary:General_disclaimer" title="Wiktionary:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wiktionary.org/w/index.php?title=avena&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.500","walltime":"0.723","ppvisitednodes":{"value":4335,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18684,"limit":2097152},"templateargumentsize":{"value":2270,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1012,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  665.058      1 -total"," 18.81%  125.085     23 Template:l"," 13.13%   87.349      2 Template:inh","  9.90%   65.838      1 Template:la-IPA","  9.56%   63.605      1 Template:R:L\u0026amp;S","  7.48%   49.738     26 Template:redlink_category","  6.39%   42.489      3 Template:m","  6.11%   40.654      1 Template:la-decl-1st","  5.86%   38.967      1 Template:es-IPA","  5.54%   36.821      4 Template:cite-book"]},"scribunto":{"limitreport-timeusage":{"value":"0.318","limit":"10.000"},"limitreport-memusage":{"value":11533122,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20190211110035","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1241"});});</script>
+	</body>
+</html>

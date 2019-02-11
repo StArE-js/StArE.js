@@ -1,0 +1,13 @@
+
+.visited {
+    stroke-width: 3px;
+    -webkit-text-stroke-color: blue;
+}
+
+.unvisited {
+    stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+}
+
+
+

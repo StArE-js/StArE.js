@@ -1,0 +1,2810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Plants Profile for Avena (oat)</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="Identifier"
+	content="" />
+<meta name="Language"
+	content="en-US" />
+<meta name="Creator"
+	content="PLANTS Web Development Team" />
+<meta name="Create-date"
+	content="" />
+<meta name="Publish-date"
+	content="" />
+<meta name="Affiliated-agency"
+	content="USDA National Plant Data Center" />
+<meta name="Title"
+	content="" />
+<meta name="Subject"
+	content="" />
+<meta name="Navigation-ID"
+	content="" />
+<meta name="Link Title"
+	content="" />
+<meta name="Description"
+	content="" />
+<meta name="Keywords"
+	content="USDA, NRCS, PLANTS, Plant taxonomy, Plant identification" />
+<link href="/plants_style.css" rel="stylesheet" type="text/css" />
+
+<!--  insert external file references -->
+
+
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+	function MM_swapImgRestore() { //v3.0
+		var i, x, a = document.MM_sr;
+		for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++)
+			x.src = x.oSrc;
+	}
+
+	function MM_preloadImages() { //v3.0
+		var d = document;
+		if (d.images) {
+			if (!d.MM_p)
+				d.MM_p = new Array();
+			var i, j = d.MM_p.length, a = MM_preloadImages.arguments;
+			for (i = 0; i < a.length; i++)
+				if (a[i].indexOf("#") != 0) {
+					d.MM_p[j] = new Image;
+					d.MM_p[j++].src = a[i];
+				}
+		}
+	}
+
+	function MM_findObj(n, d) { //v4.01
+		var p, i, x;
+		if (!d)
+			d = document;
+		if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+			d = parent.frames[n.substring(p + 1)].document;
+			n = n.substring(0, p);
+		}
+		if (!(x = d[n]) && d.all)
+			x = d.all[n];
+		for (i = 0; !x && i < d.forms.length; i++)
+			x = d.forms[i][n];
+		for (i = 0; !x && d.layers && i < d.layers.length; i++)
+			x = MM_findObj(n, d.layers[i].document);
+		if (!x && d.getElementById)
+			x = d.getElementById(n);
+		return x;
+	}
+
+	function MM_swapImage() { //v3.0
+		var i, j = 0, x, a = MM_swapImage.arguments;
+		document.MM_sr = new Array;
+		for (i = 0; i < (a.length - 2); i += 3)
+			if ((x = MM_findObj(a[i])) != null) {
+				document.MM_sr[j++] = x;
+				if (!x.oSrc)
+					x.oSrc = x.src;
+				x.src = a[i + 2];
+			}
+	}
+
+	function cookieLoad() {
+
+		var PlantCooky = document.cookie;
+
+		var posit = PlantCooky.indexOf("namserchkey=");
+		if (posit != -1) {
+			var startKey = posit + 12;
+			var endKey = PlantCooky.indexOf(";", startKey);
+			if (endKey == -1)
+				endKey = PlantCooky.length;
+			var valKey = PlantCooky.substring(startKey, endKey);
+			valKey = unescape(valKey);
+			var elemKey = document.namserch.mode;
+			elemKey.selectedIndex = valKey;
+		}
+
+		var posval = PlantCooky.indexOf("namserchval");
+		if (posval != -1) {
+			var startVal = posval + 12;
+			var endVal = PlantCooky.indexOf(";", startVal);
+			if (endVal == -1)
+				endVal = document.cookie.length;
+			var valVal = PlantCooky.substring(startVal, endVal);
+			valVal = unescape(valVal);
+			var elemVal = document.namserch.keywordquery;
+			elemVal.value = valVal;
+		}
+	}
+
+	function addhandlers() {
+		document.namserch.mode.onchange = new Function("modeChanged()");
+		document.namserch.keywordquery.onchange = new Function(
+				"keywordChanged()");
+		document.namserch.onsubmit = new Function("keywordChanged()");
+	}
+
+	function modeChanged() {
+		var elemVal = document.namserch.mode.selectedIndex;
+		document.cookie = "namserchkey=" + escape(elemVal) + ";";
+	}
+
+	function keywordChanged() {
+		var elemVal = document.namserch.keywordquery.value;
+		document.cookie = "namserchval=" + escape(elemVal) + ";";
+	}
+//-->
+</script>
+
+
+<script type="text/javascript" src="/js/ga_script.js"></script>
+
+<style type="text/css">
+.error {
+	color: red;
+}
+</style>
+</head>
+
+<body class="GrayBackgroundColor"
+	onload="MM_preloadImages('/images/top_nav/top_nav_about_plants_on.gif','/images/top_nav/top_nav_team_on.gif','/images/top_nav/top_nav_partners_on.gif','/images/top_nav/top_nav_what_new_on.gif','/images/top_nav/top_nav_npdc_on.gif','/images/top_nav/top_nav_help_on.gif','/images/top_nav/top_nav_contact_us_on.gif','/images/lh_nav/lh_plants_topics_head_on.gif','/images/lh_nav/lh_download_head_on.gif','/images/lh_nav/lh_related_tools_head_on.gif'); cookieLoad()">
+	
+	<!-- Begin Skip Top Navigation  -->
+
+	<a href="#skipheader" id="Skip repetitive navigation links"
+		title="Skip repetitive navigation links" class="bypass-nav"> <img
+		src="/images/spacer.gif" alt="Link: Skip repetitive navigation links"
+		width="1" height="0" border="0"
+		title="Link: Skip repetitive navigation links" /></a>
+	<br />
+
+	<!-- End Skip Top Navigation -->
+
+	<table width="98%" border="0" align="center" cellpadding="0"
+		cellspacing="0" bgcolor="#ffffff">
+
+		<!-- Begin Top Banner -->
+		<tr>
+			<td align="center"><table width="100%" border="0"
+					cellspacing="0" cellpadding="0">
+					<tr>
+						<td><img src="/images/masthead_names.gif"
+							alt="USDA and NRCS Identifier" width="522" height="64" border="0"
+							usemap="#Map1" /></td>
+						<td align="right"><a href="http://www.nrcs.usda.gov/"
+							target="_blank"><img src="/images/masthead_nrcs_logo.gif"
+								alt="NRCS Logo" width="102" height="64" border="0" /></a></td>
+					</tr>
+				</table> <map name="Map1" id="Map12">
+					<area shape="rect" coords="5,11,61,49" href="http://www.usda.gov/"
+						alt="USDA.gov Web Site" />
+				</map> <img src="/images/plants_photo_banner.jpg"
+				alt="PLANTS photo banner" width="767" height="44" /></td>
+		</tr>
+		<tr>
+			<td><img src="/images/spacer.gif" alt=" " width="1" height="5"
+				border="0" /></td>
+		</tr>
+		<tr>
+
+			<!-- Begin top Button Navigation -->
+
+			<td align="right"
+				background="/images/top_nav/top_buttons_background.gif"><a href='/index.html' onmouseout='MM_swapImgRestore()' onmouseover="MM_swapImage('Image81','','/images/top_nav/top_nav_home_on.gif',1)"><img
+				src="/images/top_nav/top_nav_home_off.gif"
+				alt="PLANTS Home" name="Image81" width="50" height="21" border="0"
+				id="Image81" /></a><img
+				src="/images/top_nav/top_nav_dash_off.gif" alt=" " width="1"
+				height="21" /><a href='/about_plants.html' onmouseout='MM_swapImgRestore()' onmouseover="MM_swapImage('Image36','','/images/top_nav/top_nav_about_plants_on.gif',1)"><img
+				src="/images/top_nav/top_nav_about_plants_off.gif"
+				alt="about PLANTS" name="Image36" width="105" height="21" border="0"
+				id="Image36" /></a><img
+				src="/images/top_nav/top_nav_dash_off.gif" alt=" " width="1"
+				height="21" /><a href='/team.html' onmouseout='MM_swapImgRestore()' onmouseover="MM_swapImage('Image38','','/images/top_nav/top_nav_team_on.gif',1)"><img
+				src="/images/top_nav/top_nav_team_off.gif"
+				alt="PLANTS Team" name="Image38" width="52" height="21" border="0"
+				id="Image38" /></a><img
+				src="/images/top_nav/top_nav_dash_off.gif" alt=" " width="1"
+				height="21" /><a href='/partners.html' onmouseout='MM_swapImgRestore()' onmouseover="MM_swapImage('Image40','','/images/top_nav/top_nav_partners_on.gif',1)"><img
+				src="/images/top_nav/top_nav_partners_off.gif"
+				alt="Partners of PLANTS" name="Image40" width="63" height="21"
+				border="0" id="Image40" /></a><img
+				src="/images/top_nav/top_nav_dash_off.gif" alt=" " width="1"
+				height="21" /><a href='/whats_new.html' onmouseout='MM_swapImgRestore()' onmouseover="MM_swapImage('Image42','','/images/top_nav/top_nav_what_new_on.gif',1)"><img
+				src="/images/top_nav/top_nav_what_new_off.gif"
+				alt="What's New at PLANTS" name="Image42" width="87" height="21"
+				border="0" id="Image42" /></a><img
+				src="/images/top_nav/top_nav_dash_off.gif" alt=" " width="1"
+				height="21" /><a href="http://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/plants/?&cid=stelprdb1047060" onclick="_gaq.push(['_trackEvent', 'External Plants Service', 'Click Link to External Service', 'NPDT Info Page']);"  onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image44','','/images/top_nav/top_nav_npdc_on.gif',1)"><img
+				src="/images/top_nav/top_nav_npdc_off.gif"
+				alt="National Plant Data Team Web Site" name="Image44" width="53"
+				height="21" border="0" id="Image44" /></a><img
+				src="/images/top_nav/top_nav_dash_off.gif" alt=" " width="1"
+				height="21" /><a href='/help.html' onmouseout='MM_swapImgRestore()' onmouseover="MM_swapImage('Image46','','/images/top_nav/top_nav_help_on.gif',1)"><img
+				src="/images/top_nav/top_nav_help_off.gif"
+				alt="Help using PLANTS" name="Image46" width="43" height="21"
+				border="0" id="Image46" /></a><img
+				src="/images/top_nav/top_nav_dash_off.gif" alt=" " width="1"
+				height="21" /><a href='/contact.html' onmouseout='MM_swapImgRestore()' onmouseover="MM_swapImage('Image48','','/images/top_nav/top_nav_contact_us_on.gif',1)"><img
+				src="/images/top_nav/top_nav_contact_us_off.gif"
+				alt="Contact PLANTS" name="Image48" width="83" height="21"
+				border="0" id="Image48" /></a></td>
+
+			<!-- End top Button Navigation -->
+		</tr>
+		<tr>
+			<td><img src="/images/spacer.gif" alt=" " width="1" height="10" /></td>
+		</tr>
+
+		<!-- End Top Banner -->
+
+		<tr>
+			<td><table width="100%" border="0" cellspacing="0"
+					cellpadding="0">
+					<tr>
+						<td width="10">&nbsp;</td>
+						<td width="171" valign="top">
+							<!-- Begin Left Navigation -->
+							<form name="namserch" id="namserch" method="post"
+								action="/java/nameSearch">
+								<table width="171" border="0" cellpadding="0" cellspacing="0">
+									<tr>
+										<td colspan="3"><img
+											src="/images/lh_nav/lh_topborder.gif" alt=" " width="172"
+											height="4" title=" " /></td>
+									</tr>
+									<tr>
+										<td valign="top">
+											<!-- Left Border for LC Navigation Box --> <img
+											src="/images/lh_nav/lh_leftborder2.gif" alt=" " width="5"
+											height="790" title=" " />
+										</td>
+										<td valign="top" bgcolor="#c5c5c5"><img
+											src="/images/lh_nav/lh_search_head_off.gif"
+											alt="Search the PLANTS Web site" width="163" height="19" />
+											<table width="162" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td colspan="2">&nbsp;Name Search</td>
+												</tr>
+												<tr>
+													<td colspan="2" align="left"><label for="searchtype"
+														class="accessibility">name search type</label> <label
+														for="searchtext" class="accessibility">enter a
+															search name</label> <img src="/images/spacer.gif" alt=" "
+														width="1" height="1" /> <input name="keywordquery"
+														type="text" class="searchformtext" id="searchtext"
+														maxlength="150" /> <br /> <img src="/images/spacer.gif"
+														width="1" height="1" /> <select name="mode"
+														class="searchform" id="searchtype">
+															<option value="sciname" selected="selected">Scientific
+																Name</option>
+															<option value="comname">Common Name</option>
+															<option value="symbol">Symbol</option>
+													</select> <input name="submit" type="image" id="submit"
+														src="/images/button_go.gif"
+														title="Perform a PLANTS Name Search" align="top"
+														width="29" height="20" border="0" /></td>
+												</tr>
+												<tr>
+													<td height="17" class="lhlinkbox"><img
+														src="/images/namesearchbullet.gif" alt=" " width="16"
+														height="14" /></td>
+													<td height="17" valign="middle" class="lhlinkbox"><a
+														href="/checklist.html" class="lhlink"
+														title="Perform simple state searches of the PLANTS database.">State
+															Search</a></td>
+												</tr>
+												<tr>
+													<td class="lhlinkbox"><img
+														src="/images/namesearchbullet.gif" alt=" " width="16"
+														height="14" /></td>
+													<td height="17" valign="middle" class="lhlinkbox"><a
+														href="/adv_search.html"
+														title="Perform complex searches of the PLANTS Database."
+														class="lhlink">Advanced Search</a></td>
+												</tr>
+												<tr>
+													<td class="lhlinkbox"><img
+														src="/images/namesearchbullet.gif" alt=" " width="16"
+														height="14" /></td>
+													<td height="17" valign="middle" class="lhlinkbox"><a
+														href="/search_tips.html" class="lhlink"
+														title="Learn more about searching for plants on the PLANTS web site.">Search
+															Help</a></td>
+												</tr>
+												<tr>
+													<td colspan="2"><a href="/topics.html" target="_top"
+														onmouseover="MM_swapImage('Image52','','/images/lh_nav/lh_plants_topics_head_on.gif',1)"
+														onmouseout="MM_swapImgRestore()"><img
+															src="/images/lh_nav/lh_plants_topics_head_off.gif"
+															alt="PLANTS Topics" name="Image52" width="163"
+															height="20" border="0" id="Image52" /></a></td>
+												</tr>
+												<tr>
+													<td colspan="2" class="lhrowspace">&nbsp;</td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/alt_crops.html"
+														title="The Alternative Crops Module. An easy way to learn more about crops suitable for small scale farming by limited-resource farmers, small landowners, and homeowners."
+														target="_top"
+														class="lhlink">Alternative
+															Crops</a></td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/characteristics.html"
+														class="lhlink"
+														title="A list of plants with expanded plant characteristic information.">Characteristics</a></td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/classification.html"
+														class="lhlink"
+														title="View and download the taxonomic hierarchy for any plant, or the entire classification for North American non-vascular plants and lichens or U.S. vascular plants.  Entries are linked to PLANTS profiles for easy access to more information.">Classification</a></td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/java/coverCrops"
+														class="lhlink"
+														title="List of commonly used cover crops, with links to profile pages.">Cover
+															Crops</a></td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/java/factSheet?cultural=yes"
+														title="Information about culturally significant plants, including usage, management, and cultural importance."
+														target="_top"
+														class="lhlink">Culturally
+															Significant</a></td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/du/DistributionUpdate.html"
+														title="Please help us improve the PLANTS database by sharing information about where plants grow in the U.S."
+														class="lhlink">Distribution
+															Update</a></td>
+												</tr>
+												<tr>
+													<td class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif" alt=" " width="16"
+														height="14" /></td>
+													<td height="22" valign="middle" class="lhlinkbox"><a
+														href="/documents.html"
+														title="Documents related to the PLANTS database"
+														target="_top" class="lhlink">Documentation</a></td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/java/factSheet"
+														title="Plants for which we have conservation information including: establishment and growth, suitable uses, and appearance."
+														target="_top"
+														class="lhlink">Fact
+															Sheets &amp; Plant Guides</a></td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/java/noxiousDriver"
+														title="Lists of introduced, invasive, state-listed noxious, and federally-listed noxious plants, with thousands of links to species abstracts, identification guides, and control measures."
+														target="_top"
+														class="lhlink">Introduced,
+															Invasive, and Noxious Plants </a></td>
+												</tr>
+											
+
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/threat.html"
+														title="PLANTS Threatened and Endangered lists provide access to state and federally protected plants."
+														target="_top"
+														class="lhlink">Threatened
+															&amp; Endangered</a></td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/core/wetlandSearch"
+														title="View the plants on the National Wetland Plant List."
+														target="_top"
+														class="lhlink">Wetland
+															Indicator Status</a></td>
+												</tr>
+												<tr>
+													<td colspan="2" class="lhrowspace">&nbsp;</td>
+												</tr>
+												<tr>
+													<td colspan="2"><img
+														src="/images/lh_nav/lh_image_gallery_head_off.gif"
+														alt="PLANTS Image Gallery" width="163" height="20" /></td>
+												</tr>
+												<tr>
+													<td colspan="2" class="lhrowspace">&nbsp;</td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/gallery.html"
+														title="View more than 50,000 plant images." target="_top"
+														class="lhlink">50,000+
+															Plant Images</a></td>
+												</tr>
+												<tr>
+													<td colspan="2" class="lhrowspace">&nbsp;</td>
+												</tr>
+												<tr>
+													<td colspan="2"><a href="/download.html" target="_top"
+														onmouseover="MM_swapImage('Image66','','/images/lh_nav/lh_download_head_on.gif',1)"
+														onmouseout="MM_swapImgRestore()"><img
+															src="/images/lh_nav/lh_download_head_off.gif"
+															alt="Download PLANTS data" name="Image66" width="163"
+															height="20" border="0" id="Image66" /></a></td>
+												</tr>
+												<tr>
+													<td colspan="2" class="lhrowspace">&nbsp;</td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/dl_all.html"
+														title="The complete PLANTS list is nearly 7 MB and includes the symbol, scientific name, accepted name for synonyms or common name for accepted names, and family."
+														target="_top"
+														class="lhlink">Complete
+															PLANTS Checklist</a></td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/dl_state.html"
+														title="State PLANTS Checklists include Symbol, Synonym Symbol, Scientific Name with Authors, National Common Name, and Family."
+														target="_top"
+														class="lhlink">State
+															PLANTS Checklist</a></td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/adv_search.html"
+														title="Download search results generated by the Advanced Search."
+														class="lhlink">Advanced
+															Search Download</a></td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/dl_unknown.html"
+														title="Symbols for Unknown PLANTS includes Symbols and descriptive Common Names for generic categories."
+														target="_top"
+														class="lhlink">Symbols
+															for Unknown Plants</a></td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/dl_gsat.html"
+														title="NRCS personnel and cooperators can download an NRCS State GSAT List."
+														target="_top"
+														class="lhlink">NRCS
+															State GSAT Lists</a></td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/dl_nrcs_state_plants.html"
+														title="NRCS personnel and cooperators can download an NRCS State Plants List."
+														target="_top"
+														class="lhlink">NRCS
+															State Plants Lists</a></td>
+												</tr>
+
+												<tr>
+													<td colspan="2" class="lhrowspace">&nbsp;</td>
+												</tr>
+												<tr>
+													<td colspan="2"><a href="/tools.html" target="_top"
+														onmouseover="MM_swapImage('Image74','','/images/lh_nav/lh_related_tools_head_on.gif',1)"
+														onmouseout="MM_swapImgRestore()"><img
+															src="/images/lh_nav/lh_related_tools_head_off.gif"
+															alt="Related tools" name="Image74" width="163"
+															height="20" border="0" id="Image74" /></a></td>
+												</tr>
+												<tr>
+													<td colspan="2" class="lhrowspace">&nbsp;</td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="/npk/main"
+														class="lhlink"
+														title="The Crop Nutrient Uptake Tool provides estimates of nutrient removal by crops at various levels, such as the farm, conservation district, and watershed level.">Crop
+															Nutrient Tool</a></td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="35" valign="middle"
+														class="lhlinkbox"><a
+														href="https://esis.sc.egov.usda.gov/" target="_blank"
+														onclick="_gaq.push(['_trackEvent', 'External Plants Service', 'Click Link to External Service', 'ESIS Home Page']);"
+														class="lhlink"
+														title="The Ecological Site Inventory (ESI) application provides the capability to enter, edit and retrieve forestry and agroforestry site plot data.">Ecological
+															Site Information System</a></td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle" class="lhlinkbox"><a
+														href="http://www.nrcs.usda.gov/wps/portal/nrcs/detail/?ss=16&navtype=SUBNAVIGATION&cid=stelprdb1044954&navid=120160320130000&pnavid=120000000000000&position=Not Yet Determined.Html&ttype=detail&pname=PLANTS Interactive ID Keys: Introduction | NRCS"
+														target="_blank"
+														onclick="_gaq.push(['_trackEvent', 'External Plants Service', 'Click Link to External Service', 'Plants Keys - NRCS Site']);"
+														class="lhlink"
+														title="Interactive plant identification keys and plant character data sets for selected groups of U.S. plants.">PLANTS
+															Identification Keys</a>
+													</td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="http://plant-materials.nrcs.usda.gov/"
+														target="_blank"
+														onclick="_gaq.push(['_trackEvent', 'External Plants Service', 'Click Link to External Service', 'Plant Materials Home Page']);"
+														class="lhlink"
+														title="The Plant Materials Program develops plant materials and plant technology for the conservation of the nation's natural resources.">Plant
+															Materials Web Site</a></td>
+												</tr>
+												<tr>
+													<td
+														class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif"
+														alt=" " width="16" height="14" /></td>
+													<td height="22" valign="middle"
+														class="lhlinkbox"><a
+														href="http://www.nrcs.usda.gov/wps/portal/nrcs/main/plantmaterials/technical/publications"
+														target="_blank"
+														class="lhlink"
+														onclick="_gaq.push(['_trackEvent', 'External Plants Service', 'Click Link to External Service', 'Plant Materials Publications']);"
+														title="The Plant Materials Program has an extensive listing of publications categorized by topic and Plant Materials Center.">Plant
+															Materials Publications</a></td>
+												</tr>
+
+												<tr>
+													<td class="lhlinkbox"><img
+														src="/images/lh_nav/lharrow.gif" alt=" " width="16"
+														height="14" /></td>
+													<td height="22" valign="middle" class="lhlink"><a
+														href="/hardiness.html"
+														title="Link and information on the USDA ARS Plant Hardiness Zone Map"
+														class="lhlink">USDA Plant Hardiness Map</a></td>
+												</tr>
+
+												<tr>
+													<td colspan="2" class="lhrowspace">&nbsp;</td>
+												</tr>
+											</table></td>
+										<td>
+											<!-- Right Border for the LC Navigation Box --> <img
+											src="/images/lh_nav/lh_rightside_border2.gif" alt=" "
+											width="5" height="790" vspace="0" />
+										</td>
+									</tr>
+									<tr>
+										<td width="4" valign="top"></td>
+										<td colspan="2" valign="top"><img
+											src="/images/lh_nav/lh_bottom_off.gif" alt=" " width="168"
+											height="16" title=" " /></td>
+									</tr>
+								</table>
+							</form> <!-- End Left Navigation -->
+						</td>
+
+						<td width="10">&nbsp;</td>
+						<td valign="top"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<head>
+<meta name="viewport"
+	content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<!-- Style Sheets -->
+<link rel="stylesheet" type="text/css"
+	href="https://js.arcgis.com/3.13/esri/css/esri.css">
+<link rel="stylesheet" href="https://js.arcgis.com/3.13/dijit/themes/claro/claro.css">
+<link rel="stylesheet" type="text/css" href="resources/css/plants.css">
+
+<!-- scripts -->
+<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="resources/js/jssor.core.js"></script>
+<script type="text/javascript" src="resources/js/jssor.utils.js"></script>
+<script type="text/javascript" src="resources/js/jssor.slider.js"></script>
+
+<style>
+a,img {
+	border: none;
+}
+
+html,body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#tabImages img:hover,#tabImages img:focus {
+	outline: 2px solid #ccc;
+}
+
+div.columns {
+	width: 100%;
+}
+
+/** div.columns div {float:left;}  */
+div.left {
+	float: left;
+	margin-top: 1%;
+	margin-right: 2%;
+}
+
+div.center {
+	float: left;
+	width: 132
+
+px;
+
+            
+padding-left:2%;
+
+            
+padding-right:2%;
+
+        
+}
+div.right {
+	float: left;
+}
+
+.mapHeading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: green;
+	text-align: center;
+}
+
+.subHeading {
+	max-width: 880px;
+	padding-top: 10px;
+	border-bottom: 1px solid #2d3d2d;
+	margin-bottom: 10px;
+}
+
+.subHeading p {
+	display: inline-block;
+	margin: 0px;
+	height: 0;
+	line-height: 30px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #fff;
+	border-right: 25px solid transparent;
+	border-bottom: 30px solid #2d3d2d;
+	padding: 0 15px;
+	z-index: 3;
+	border-bottom-color: 0;
+	opacity: .6;
+	filter: alpha(opacity = 100)
+}
+
+/** ESRI MAPPING **/
+.esriScalebar {
+	padding: 20px 20px;
+}
+
+.showAll {
+	font-weight: 500;
+	border: solid #ccc 1px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	-webkit-box-shadow: 0 1px 1px #ccc;
+	-moz-box-shadow: 0 1px 1px #ccc;
+	box-shadow: 0 1px 1px #ccc;
+	float: right;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #227A1F;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+#map {
+	padding: 0;
+}
+
+#map_zoom_slider{ 
+     height: 60%; 
+     padding-top: 5%;      
+ } 
+
+.esriLargeSliderTicks{
+    position: absolute;
+}
+
+.plain td {
+	border: 0;
+	padding: 2px;
+	text-align: center;
+}
+
+.cprt{
+	font-size:12px;
+}
+
+</style>
+
+<!-- shiv me up -->
+<!--[if lt IE 9]>
+	<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+
+
+	<input type="hidden" id="vSymbol" value="AVENA" />
+
+
+<table width="100%">
+	<tr>
+
+		<!-- Begin Breadcrumb Here -->
+		<td colspan="2">
+			<!-- InstanceBeginEditable name="breadcrumb" --> <span
+			class="breadcrumb">You are here: <a href="/" class="sm">Home</a>
+				/ Plant Profile
+		</span> <!-- InstanceEndEditable -->
+		</td>
+		<!-- End Breadcrumb Here -->
+
+	</tr>
+</table>
+
+
+
+	
+
+		<!-- TOP LEVEL TABS -->
+		<ul id="tabs" style="border-bottom: 1px solid black">
+			<li><a href="#" name="#tabGeneral">General</a></li>
+			
+				<li><a href="#tabImages" name="#tabImages">Images</a></li>
+			
+
+			
+			<li><a href="#" name="#tabClassification">Classification</a></li>
+			
+				<li><a href="#" name="#tabSubordinateTaxa">Subordinate Taxa</a></li>
+			
+			
+			
+			
+				<li><a href="#" name="#tabRelatedLinks">Related Links</a></li>
+			
+			
+				<li><a href="#" name="#tabWildlife">Wildlife</a>
+			
+			<!-- 
+	<li><a href="#" name="#tabIntroduced">Introduced</a></li>
+	<li><a href="#" name="#tabMore">More</a></li>	
+	-->
+		</ul>
+        
+
+		<div style="max-width: 880px;">
+			<p class="headline_text">
+
+				<span class="search">
+					<!-- mj20150311, JIRA 216970-->					
+					<i>Avena</i> L.
+					<button id="ShowAllButton" class="showAll" onclick="ShowAll()">Show All</button>
+					<button id="ShowTabsButton" class="showAll" onclick="ShowTabs()"
+						style="display: none;">Show Tabs</button> <br>
+						oat
+				</span>
+			</p>
+		</div>
+
+		<div id="content">
+			<!--  First Row of Divs for attributes, image and more information -->
+			<div id="tabGeneral" class="columns">
+
+				<!-- Simple Plant Attributes Div -->
+				<div class="left">
+
+
+					<!-- Main Image -->
+					
+						<table align="center" style="text-align: center; width: 100px;">
+							<tr>
+								<td>
+										
+
+											
+												
+													
+														
+															<div id="mainPic">
+																<a href="#"
+																	title="click to view all images for this plant"> <img
+																	src="/gallery/standard/avena_001_svp.jpg"
+																	alt="Image of Avena"
+																	width="132"
+																	height="198" /></a>
+															</div>
+															<br />
+														
+														
+													
+												
+
+												
+											
+
+										
+										
+									</td>
+							</tr>
+						</table>
+					
+					<br>
+
+					<!-- General Information Table -->
+					<table class="bordered" border="0" cellspacing="0" cellpadding="0">
+
+						<tr>
+							<th style="text-align: center" colspan="2"><strong>General
+									Information</strong></th>
+						</tr>
+
+						<tr>
+							<td valign="top"><strong>Symbol:</strong></td>
+							<td valign="top">
+									
+										AVENA
+									
+									
+								</td>
+						</tr>
+						<tr>
+							<td valign="top"><strong>Group:</strong></td>
+							<td valign="top">
+									
+										Monocot
+									
+									
+								</td>
+						</tr>
+						<tr>
+							<td valign="top"><strong>Family:</strong></td>
+							<td valign="top">
+									
+										Poaceae
+									
+									
+								</td>
+						</tr>
+						<tr>
+							<td valign="top"><strong>Duration:</strong></td>
+							<td valign="top">
+									
+									
+								&nbsp;
+								
+								</td>
+						</tr>
+						<tr>
+							<td valign="top"><a target="_blank"
+								title="Opens in a new window" href="/growth_habits_def.html"><strong>Growth
+										Habit</strong></a><strong>:</strong></td>
+							<td valign="top">
+									
+									
+									&nbsp;
+									
+								</td>
+						</tr>
+						<tr>
+							<td valign="top"><a target="_blank"
+								title="Opens in a new window" href="/native_status_def.html"><strong>Native
+										Status</strong></a><strong>:</strong></td>
+							<td valign="top">
+									
+																			
+									AK &nbsp; I<br>
+																			
+									CAN &nbsp; I,W<br>
+																			
+									GL &nbsp; W<br>
+																			
+									HI &nbsp; I<br>
+																			
+									L48 &nbsp; I,W<br>
+																			
+									PR &nbsp; I<br>
+																			
+									SPM &nbsp; W<br>
+										
+									
+									
+								</td>
+						</tr>
+						
+
+						
+
+
+
+						<!-- More Information Section -->
+						
+
+
+							
+
+							
+							
+							
+							
+							
+							
+							<!-- /Plant Guides/Fact Sheets for Synonyms -->
+							<tr>
+								<td colspan="2"><a target="_blank"
+									title="Opens in a new window"
+									href="/java/reference?symbol=AVENA"><strong>Data
+											Source and Documentation</strong></a></td>
+							</tr>
+
+						
+					</table>
+				</div>
+
+				<!-- MAP DIV -->
+				<div class="left" style="max-width: 650px;">
+
+					<!-- NEW MAP -->
+					<div class="mapHeading" style="margin-bottom: 1%;"><a target="_blank" href="/Data/news/PLANTS_has_a_new_mapping_system/files/PLANTS%20maps.pdf" style="position: relative; right: 36.3%; color: red; font-size:15px">About our new maps</a>
+					</div>					
+
+					<div class="claro" dojotype="dijit.layout.BorderContainer"
+						design="headline" gutters="false"
+						style="width: 650px; height: 540px; margin-bottom: 2%; position: relative; overflow-x: hidden; border: 1px solid #ccc; box-shadow: 1px 1px 1px 1px #aaa;">
+						<div id="map" dojotype="dijit.layout.ContentPane" region="center"
+							style="padding: 0; overflow: hidden;">
+							<div id="pageTitle"
+								style="position: absolute; bottom: 5px; left: 5px; z-Index: 999;"></div>
+							<div
+								style="position: absolute; left: 0px; top: 0px; z-Index: 999;">
+								<img src="/images/masthead_logos.gif" alt="Plants-NRCS Logos"
+									width="150px" height="42px" border="0" />
+							</div>
+						</div>
+					</div>
+
+					
+					
+
+					<table class="sm" width="100%">
+						<tr>
+							<td><img src="/images/map/legend-green.png"
+								border="0" alt="green round image for nativity" /></td>
+							<td>Native</td>
+
+							<td><img src="/images/map/legend-blue.png"
+								border="0" alt="blue round image for introduced" /></td>
+							<td>Introduced</td>
+
+							<td><img src="/images/map/legend-ocre.png"
+								border="0" alt="ocre round image for introduced and nativity" /></td>
+							<td>Both</td>
+
+							<td><img src="/images/map/legend-white.png"
+								border="0" alt="white round image for no status" /></td>
+							<td>Absent/Unreported</td>
+						</tr>
+						<tr>
+							<td><img
+								src="/images/map/legend-hatch-green.png" border="0"
+								alt="image for native, but no county data" /></td>
+							<td>Native, No County Data</td>
+
+							<td><img
+								src="/images/map/legend-hatch-blue.png" border="0"
+								alt="image for introduced, but no county data" /></td>
+							<td>Introduced, No County Data</td>
+
+							<td><img
+								src="/images/map/legend-hatch-ochre.png" border="0"
+								alt="both introduced and native, but no county data" /></td>
+							<td>Both, No County Data</td>
+							
+						</tr>
+					</table>
+
+					
+
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+
+					
+						
+							
+							
+							
+								
+							
+							
+							
+							
+							
+							
+							
+							
+							
+						
+							
+							
+							
+							
+							
+							
+							
+								
+							
+							
+							
+							
+							
+						
+							
+							
+							
+							
+							
+							
+							
+							
+								
+							
+							
+							
+							
+						
+							
+							
+							
+							
+								
+							
+							
+							
+							
+							
+							
+							
+							
+						
+							
+							
+								
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+						
+							
+							
+							
+							
+							
+								
+							
+							
+							
+							
+							
+							
+							
+						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+								
+							
+							
+							
+						
+					
+
+					<table>
+						<tr>
+							<td height="16"></td>
+						</tr>
+						<tr>
+							<td colspan="8"><a href="#"
+								title="The Native Status table opens in a new window"
+								onclick="window.open('/native_status_def.html','mywindow','scrollbars=yes,resizable=yes,menubar=no,width=700,left=0,top=20,screenX=0,screenY=20')">
+									Native Status:</a></td>
+						</tr>
+						<tr>
+							<td><img src="/images/map/nativity_I.png"
+								alt="lower 48 status" /></td>
+							<td style="vertical-align: middle;">L48&nbsp; &nbsp;</td>
+							<td width="8"></td>
+							
+							<td valign="middle"><img src="/images/map/nativity_I.png"
+								alt="Alaska status" /></td>
+							<td style="vertical-align: middle;">AK&nbsp; &nbsp;</td>
+							<td width="8"></td>
+							
+							<td valign="middle"><img src="/images/map/nativity_I.png"
+								alt="Hawaii status" /></td>
+							<td style="vertical-align: middle;">HI&nbsp; &nbsp;</td>
+							<td width="8"></td>
+							
+							<td valign="middle"><img src="/images/map/nativity_I.png"
+								alt="Puerto Rico status" /></td>
+							<td style="vertical-align: middle;">PR&nbsp; &nbsp;</td>
+							<td width="8"></td>
+							
+							<td valign="middle"><img src="/images/map/nativity_none.png"
+								alt="Virgin Islands status" /></td>
+							<td style="vertical-align: middle;">VI&nbsp; &nbsp;</td>
+							<td width="8"></td>
+							
+							<td valign="middle"><img src="/images/map/nativity_none.png"
+								alt="Navassa Island" /></td>
+							<td style="vertical-align: middle;">NAV&nbsp; &nbsp;</td>
+							<td width="8"></td>
+							
+							<td valign="middle"><img src="/images/map/nativity_I.png"
+								alt="Canada status" /></td>
+							<td style="vertical-align: middle;">CAN&nbsp; &nbsp;</td>
+							<td width="8"></td>
+								
+							<td valign="middle"><img src="/images/map/nativity_I.png"
+								alt="Greenland status" /></td>
+							<td style="vertical-align: middle;">GL&nbsp; &nbsp;</td>
+							<td width="8"></td>
+
+							<td valign="middle"><img src="/images/map/nativity_I.png"
+								alt="Saint Pierre and Michelon status" /></td>
+							<td style="vertical-align: middle;">SPM&nbsp; &nbsp;</td>
+							<td width="8"></td>
+
+							<td valign="middle"><img src="/images/map/nativity_none.png"
+								alt="North America"/></td>
+							<td style="vertical-align: middle;">NA&nbsp; &nbsp;</td>
+
+						</tr>
+						<tr>
+							<td height="12"></td>
+						</tr>
+					</table>
+
+				</div>
+
+			</div>
+			<!-- End General Tab -->
+
+			<!--************ Images Section **************** -->
+			<div id="tabImages" style="clear: left;">
+				<div id="ImagesHeader" class="subHeading">
+					<p>Images</p>
+				</div>
+				
+				 click on a thumbnail to view an image, or <a target="_blank"
+						title="Opens in a new window"
+						href="/java/imageGallery?category=sciname&txtparm=Avena&familycategory=all&growthhabit=all&duration=all&origin=all&wetland=all&imagetype=all&artist=all&copyright=all&location=all&stateSelect=all&cite=all&viewsort=25&sort=sciname">
+						see all the <em>Avena</em> thumbnails at the
+						Plants Gallery
+					</a>
+				
+				<br> <br>
+
+				<!-- Jssor Slider Begin -->
+				<!-- You can move inline styles to css file or css block. -->
+				<div id="slider1_container"
+					style="position: relative; left: 10%; width: 576px; height: 550px; overflow: hidden;">
+
+					<!-- Slides Container -->
+					<div u="slides"
+						style="cursor: move; position: absolute; left: 0px; width: 576px; height: 550px; overflow: hidden;">
+						
+							
+								
+								
+								
+								
+								
+									
+									
+										
+										
+										
+										
+									
+								
+								
+								
+								
+								
+									
+									
+									
+									
+										
+										
+									
+								
+
+								<div>
+									<div u="image">
+										<a target="_blank" title="click to view a large image"
+											href="/java/largeImage?imageID=avena_001_avp.tif">
+											<img
+											alt="no standard photo"
+											style="position: absolute; left: 178px; top: 0px; width:220px; height:330px"
+											src="/gallery/standard/avena_001_svp.jpg" onerror="this.src='/gallery/standard/avena_001_avp.tif'"/>
+										</a>
+									</div>
+									<div u="caption" t="MCLIP|B"
+										style="position: absolute; width: 576px; left: 0px; bottom: 0px">
+										
+											
+												<p style="font-size:12px">&copy;Robert Soreng. Provided by <A HREF="http://persoon.si.edu/PlantImages/" class="cprt" TARGET="_blank">Smithsonian Institution, Department of Botany</A>. <a target="_blank" href="/java/usageGuidelines?imageID=avena_001_avp.tif" ><em style="font-size:12px">Usage Requirements</em></a>.</p>
+											
+										
+											
+										
+											
+										
+											
+										
+									</div>
+									<div u="thumb" style="width: 72px; height:72px; overflow:hidden">
+										<img style="width: 60; height: 90; margin: -9px 6px -9px 6px" src="/gallery/thumbs/avena_001_tvp.jpg"></img>
+									</div>
+								</div>
+							
+						
+							
+								
+								
+								
+								
+								
+									
+									
+										
+										
+										
+										
+									
+								
+								
+								
+								
+								
+									
+									
+									
+									
+										
+										
+									
+								
+
+								<div>
+									<div u="image">
+										<a target="_blank" title="click to view a large image"
+											href="/java/largeImage?imageID=avena_002_avp.tif">
+											<img
+											alt="no standard photo"
+											style="position: absolute; left: 178px; top: 0px; width:220px; height:330px"
+											src="/gallery/standard/avena_002_svp.jpg" onerror="this.src='/gallery/standard/avena_002_avp.tif'"/>
+										</a>
+									</div>
+									<div u="caption" t="MCLIP|B"
+										style="position: absolute; width: 576px; left: 0px; bottom: 0px">
+										
+											
+										
+											
+												<p style="font-size:12px">&copy;Robert Soreng. Provided by <A HREF="http://persoon.si.edu/PlantImages/" class="cprt" TARGET="_blank">Smithsonian Institution, Department of Botany</A>. <a target="_blank" href="/java/usageGuidelines?imageID=avena_002_avp.tif" ><em style="font-size:12px">Usage Requirements</em></a>.</p>
+											
+										
+											
+										
+											
+										
+									</div>
+									<div u="thumb" style="width: 72px; height:72px; overflow:hidden">
+										<img style="width: 60; height: 90; margin: -9px 6px -9px 6px" src="/gallery/thumbs/avena_002_tvp.jpg"></img>
+									</div>
+								</div>
+							
+						
+							
+								
+								
+								
+								
+								
+									
+									
+										
+										
+										
+										
+									
+								
+								
+								
+								
+								
+									
+									
+									
+									
+										
+										
+									
+								
+
+								<div>
+									<div u="image">
+										<a target="_blank" title="click to view a large image"
+											href="/java/largeImage?imageID=avena_003_avp.tif">
+											<img
+											alt="no standard photo"
+											style="position: absolute; left: 178px; top: 0px; width:220px; height:330px"
+											src="/gallery/standard/avena_003_svp.jpg" onerror="this.src='/gallery/standard/avena_003_avp.tif'"/>
+										</a>
+									</div>
+									<div u="caption" t="MCLIP|B"
+										style="position: absolute; width: 576px; left: 0px; bottom: 0px">
+										
+											
+										
+											
+										
+											
+												<p style="font-size:12px">&copy;Robert Soreng. Provided by <A HREF="http://persoon.si.edu/PlantImages/" class="cprt" TARGET="_blank">Smithsonian Institution, Department of Botany</A>. <a target="_blank" href="/java/usageGuidelines?imageID=avena_003_avp.tif" ><em style="font-size:12px">Usage Requirements</em></a>.</p>
+											
+										
+											
+										
+									</div>
+									<div u="thumb" style="width: 72px; height:72px; overflow:hidden">
+										<img style="width: 60; height: 90; margin: -9px 6px -9px 6px" src="/gallery/thumbs/avena_003_tvp.jpg"></img>
+									</div>
+								</div>
+							
+						
+							
+								
+								
+								
+								
+								
+									
+									
+										
+										
+										
+										
+									
+								
+								
+								
+								
+								
+									
+									
+									
+									
+										
+										
+									
+								
+
+								<div>
+									<div u="image">
+										<a target="_blank" title="click to view a large image"
+											href="/java/largeImage?imageID=avena_004_avp.tif">
+											<img
+											alt="no standard photo"
+											style="position: absolute; left: 178px; top: 0px; width:220px; height:330px"
+											src="/gallery/standard/avena_004_svp.jpg" onerror="this.src='/gallery/standard/avena_004_avp.tif'"/>
+										</a>
+									</div>
+									<div u="caption" t="MCLIP|B"
+										style="position: absolute; width: 576px; left: 0px; bottom: 0px">
+										
+											
+										
+											
+										
+											
+										
+											
+												<p style="font-size:12px">&copy;Robert Soreng. Provided by <A HREF="http://persoon.si.edu/PlantImages/" class="cprt" TARGET="_blank">Smithsonian Institution, Department of Botany</A>. <a target="_blank" href="/java/usageGuidelines?imageID=avena_004_avp.tif" ><em style="font-size:12px">Usage Requirements</em></a>.</p>
+											
+										
+									</div>
+									<div u="thumb" style="width: 72px; height:72px; overflow:hidden">
+										<img style="width: 60; height: 90; margin: -9px 6px -9px 6px" src="/gallery/thumbs/avena_004_tvp.jpg"></img>
+									</div>
+								</div>
+							
+						
+					</div>
+
+					<!-- 	Thumbnail Navigator Skin Begin -->
+					<div u="thumbnavigator" class="jssort07"
+						style="position: absolute; width: 576px; height: 72px; left: 0px; bottom: 100px; overflow: hidden;">
+						<div
+							style="background-color: #000; filter: alpha(opacity = 30); opacity: .3; width: 100%; height: 100%;"></div>
+						<div u="slides" style="cursor: move;">
+							<div u="prototype" class="p"
+								style="POSITION: absolute; WIDTH: 72px; HEIGHT: 72px; TOP: 0; LEFT: 0;">
+								<thumbnailtemplate class="i" style="position:absolute;"></thumbnailtemplate>
+								<div class="o"></div>
+							</div>
+						</div>
+
+						<style>
+							.jssora11l,.jssora11r,.jssora11ldn,.jssora11rdn {
+								position: absolute;
+								cursor: pointer;
+								display: block;
+								background: url(resources/img/a11.png) no-repeat;
+								overflow: hidden;
+							}
+
+							.jssora11l {
+								background-position: -11px -41px;
+							}
+
+							.jssora11r {
+								background-position: -71px -41px;
+							}
+
+							.jssora11l:hover {
+								background-position: -131px -41px;
+							}
+
+							.jssora11r:hover {
+								background-position: -191px -41px;
+							}
+
+							.jssora11ldn {
+								background-position: -251px -41px;
+							}
+
+							.jssora11rdn {
+								background-position: -311px -41px;
+							}
+						</style>
+
+						<!-- 						Arrow Left -->
+						<span u="arrowleft" class="jssora11l"
+							style="width: 37px; height: 37px; top: 123px; left: 8px;">
+						</span>
+						<!-- 						Arrow Right -->
+						<span u="arrowright" class="jssora11r"
+							style="width: 37px; height: 37px; top: 123px; right: 8px">
+						</span>
+						<!-- 						Arrow Navigator Skin End -->
+					</div>
+					<!-- 					ThumbnailNavigator Skin End -->
+					<a style="display: none" href="http://www.jssor.com">slideshow</a>
+					<!-- 					Trigger -->
+				</div>
+
+			</div>
+
+
+			<!-- Synonyms Section -->
+			<div id="tabSynonyms" style="clear: left;">
+				<div id="SynonymsHeader" class="subHeading">
+					<p>Synonyms</p>
+				</div>
+				
+
+			</div>
+
+			<!-- Classification Section-->
+			<div id="tabClassification" style="clear: left;">
+				<div id="ClassificationHeader" class="subHeading">
+					<p>Classification</p>
+				</div>
+				Click on a scientific name below to expand it in the PLANTS
+				Classification Report.
+				
+				<table class="bordered"
+					style="*border-collapse: no; margin-top: 12px;" border="0"
+					cellspacing="0" cellpadding="2">
+					<thead>
+						<tr>
+							<th scope="col">Rank</th>
+							<th scope="col">Scientific Name and Common Name</th>
+						</tr>
+					</thead>
+					
+						<tr>
+							<td style="padding-left: 0px;" scope="row">Kingdom</td>
+							<td style="padding-left: 12px;">
+									
+										<a target="_blank"
+											href="/java/ClassificationServlet?source=profile&symbol=Plantae&display=31">Plantae
+											
+										</a>
+									
+									
+								 &ndash; Plants
+							</td>
+						</tr>
+						
+					
+						<tr>
+							<td style="padding-left: 10px;" scope="row">Subkingdom</td>
+							<td style="padding-left: 12px;">
+									
+										<a target="_blank"
+											href="/java/ClassificationServlet?source=profile&symbol=Tracheobionta&display=31">Tracheobionta
+											
+										</a>
+									
+									
+								 &ndash; Vascular plants
+							</td>
+						</tr>
+						
+					
+						<tr>
+							<td style="padding-left: 20px;" scope="row">Superdivision</td>
+							<td style="padding-left: 12px;">
+									
+										<a target="_blank"
+											href="/java/ClassificationServlet?source=profile&symbol=Spermatophyta&display=31">Spermatophyta
+											
+										</a>
+									
+									
+								 &ndash; Seed plants
+							</td>
+						</tr>
+						
+					
+						<tr>
+							<td style="padding-left: 30px;" scope="row">Division</td>
+							<td style="padding-left: 12px;">
+									
+										<a target="_blank"
+											href="/java/ClassificationServlet?source=profile&symbol=Magnoliophyta&display=31">Magnoliophyta
+											
+										</a>
+									
+									
+								 &ndash; Flowering plants
+							</td>
+						</tr>
+						
+					
+						<tr>
+							<td style="padding-left: 40px;" scope="row">Class</td>
+							<td style="padding-left: 12px;">
+									
+										<a target="_blank"
+											href="/java/ClassificationServlet?source=profile&symbol=Liliopsida&display=31">Liliopsida
+											
+										</a>
+									
+									
+								 &ndash; Monocotyledons
+							</td>
+						</tr>
+						
+					
+						<tr>
+							<td style="padding-left: 50px;" scope="row">Subclass</td>
+							<td style="padding-left: 12px;">
+									
+										<a target="_blank"
+											href="/java/ClassificationServlet?source=profile&symbol=Commelinidae&display=31">Commelinidae
+											
+										</a>
+									
+									
+								 
+							</td>
+						</tr>
+						
+					
+						<tr>
+							<td style="padding-left: 60px;" scope="row">Order</td>
+							<td style="padding-left: 12px;">
+									
+										<a target="_blank"
+											href="/java/ClassificationServlet?source=profile&symbol=Cyperales&display=31">Cyperales
+											
+										</a>
+									
+									
+								 
+							</td>
+						</tr>
+						
+					
+						<tr>
+							<td style="padding-left: 70px;" scope="row">Family</td>
+							<td style="padding-left: 12px;">
+									
+										<a target="_blank"
+											href="/java/ClassificationServlet?source=profile&symbol=Poaceae&display=31">Poaceae
+											&frasl; Gramineae
+										</a>
+									
+									
+								 &ndash; Grass family
+							</td>
+						</tr>
+						
+					
+						<tr>
+							<td style="padding-left: 80px;" scope="row">Genus</td>
+							<td style="padding-left: 12px;">
+									
+									
+										<a target="_blank"
+											href="/java/ClassificationServlet?source=profile&symbol=AVENA&display=31">											
+											<em>Avena </em>L.</a>
+									
+								 &ndash; oat
+							</td>
+						</tr>
+						
+					
+				</table>
+			</div>
+
+			<!-- SubordinateTaxa Section-->
+			<div id="tabSubordinateTaxa" style="clear: left;">
+				<div id="SubordinateTaxaHeader" class="subHeading">
+					<p>Subordinate Taxa</p>
+				</div>
+				
+					
+					
+						
+						
+							
+								
+							
+							
+							
+							
+							
+						
+						<p>
+							The Plants Database includes the following 11
+							species of <i>Avena </i>. Click below on a thumbnail map or name for species profiles.
+							<!-- Changed for Sprint # 23, tracker id 194790 Start  -->
+							<!-- Removing Child Symbol because all images are now placed into root directory, Changed size of the images, Added logic to show "No nativity data" image
+						if maps are not present and used new legends  -->
+						<div id="thumbnailLegend"
+							style="clear: left; float: left; border: thin; border-color: black; border-style: solid; padding: 5px;">
+							<img src="/images/native_legend_box_2.gif"
+								alt="Plant is native (blue)" width="20" height="8"
+								style="vertical-align: super;" /> <a target="_blank"
+								href="/native_status_def.html"
+								title="The Native Status table opens in a new window" class="sm"
+								style="vertical-align: super;">Native</a> <img
+								src="/images/introduced_legend_box_2.gif"
+								alt="Plant is introduced" width="20" height="8"
+								style="vertical-align: super;" /> <a target="_blank"
+								href="/native_status_def.html" class="sm"
+								title="The Native Status table opens in a new window"
+								style="vertical-align: super;">Introduced</a> <img
+								src="/images/both_legend_box_2.gif" alt="Plant is introduced"
+								width="20" height="8" style="vertical-align: super;" /> <a
+								target="_blank" href="/native_status_def.html" class="sm"
+								title="The Native Status table opens in a new window"
+								style="vertical-align: super;">Native and Introduced</a> <img
+								src="/images/profile_rel_taxa_legend_icons.gif"
+								alt="Related taxa legend" width="357" height="15" />
+						</div>
+						<div id="thumbnails"
+							style="max-width: 100%; clear: left; float: left;">
+							
+
+								
+
+								<div id="wrapLink"
+									style="float: left; text-align: center; max-width: 162px; height: 200px; padding-top: 25px; padding-bottom: 25px; padding-left: 10px;"
+									class="sm">
+									<a target="_blank"
+										href="profile?symbol=AVAB"> <img
+										src="/maps/thumbs2/AVAB.png"
+										alt="Distribution of <i>Avena abyssinica</i> Hochst." vspace="4"
+										hspace="4" border="0" width="168px" height="168px"
+										onerror="this.src='/images/NoNativity.png'" />
+									</a> <br />
+									<!-- Changed for Sprint # 23, tracker id 194790  End -->
+									<a href="/core/profile?symbol=AVAB"><i>Avena abyssinica </i></a>									
+									<br /> Abyssinian oat
+								</div>
+							
+
+								
+
+								<div id="wrapLink"
+									style="float: left; text-align: center; max-width: 162px; height: 200px; padding-top: 25px; padding-bottom: 25px; padding-left: 10px;"
+									class="sm">
+									<a target="_blank"
+										href="profile?symbol=AVBA"> <img
+										src="/maps/thumbs2/AVBA.png"
+										alt="Distribution of <i>Avena barbata</i> Pott ex Link" vspace="4"
+										hspace="4" border="0" width="168px" height="168px"
+										onerror="this.src='/images/NoNativity.png'" />
+									</a> <br />
+									<!-- Changed for Sprint # 23, tracker id 194790  End -->
+									<a href="/core/profile?symbol=AVBA"><i>Avena barbata </i></a>									
+									<br /> slender oat
+								</div>
+							
+
+								
+
+								<div id="wrapLink"
+									style="float: left; text-align: center; max-width: 162px; height: 200px; padding-top: 25px; padding-bottom: 25px; padding-left: 10px;"
+									class="sm">
+									<a target="_blank"
+										href="profile?symbol=AVBR2"> <img
+										src="/maps/thumbs2/AVBR2.png"
+										alt="Distribution of <i>Avena brevis</i> Roth [excluded]" vspace="4"
+										hspace="4" border="0" width="168px" height="168px"
+										onerror="this.src='/images/NoNativity.png'" />
+									</a> <br />
+									<!-- Changed for Sprint # 23, tracker id 194790  End -->
+									<a href="/core/profile?symbol=AVBR2"><i>Avena brevis </i></a>									
+									<br /> 
+								</div>
+							
+
+								
+
+								<div id="wrapLink"
+									style="float: left; text-align: center; max-width: 162px; height: 200px; padding-top: 25px; padding-bottom: 25px; padding-left: 10px;"
+									class="sm">
+									<a target="_blank"
+										href="profile?symbol=AVFA"> <img
+										src="/maps/thumbs2/AVFA.png"
+										alt="Distribution of <i>Avena fatua</i> L." vspace="4"
+										hspace="4" border="0" width="168px" height="168px"
+										onerror="this.src='/images/NoNativity.png'" />
+									</a> <br />
+									<!-- Changed for Sprint # 23, tracker id 194790  End -->
+									<a href="/core/profile?symbol=AVFA"><i>Avena fatua </i></a>									
+									<br /> wild oat
+								</div>
+							
+
+								
+
+								<div id="wrapLink"
+									style="float: left; text-align: center; max-width: 162px; height: 200px; padding-top: 25px; padding-bottom: 25px; padding-left: 10px;"
+									class="sm">
+									<a target="_blank"
+										href="profile?symbol=AVHY"> <img
+										src="/maps/thumbs2/AVHY.png"
+										alt="Distribution of <i>Avena hybrida</i> Peterm. ex Rchb." vspace="4"
+										hspace="4" border="0" width="168px" height="168px"
+										onerror="this.src='/images/NoNativity.png'" />
+									</a> <br />
+									<!-- Changed for Sprint # 23, tracker id 194790  End -->
+									<a href="/core/profile?symbol=AVHY"><i>Avena hybrida </i></a>									
+									<br /> oat
+								</div>
+							
+
+								
+
+								<div id="wrapLink"
+									style="float: left; text-align: center; max-width: 162px; height: 200px; padding-top: 25px; padding-bottom: 25px; padding-left: 10px;"
+									class="sm">
+									<a target="_blank"
+										href="profile?symbol=AVMA"> <img
+										src="/maps/thumbs2/AVMA.png"
+										alt="Distribution of <i>Avena maroccana</i> Gand." vspace="4"
+										hspace="4" border="0" width="168px" height="168px"
+										onerror="this.src='/images/NoNativity.png'" />
+									</a> <br />
+									<!-- Changed for Sprint # 23, tracker id 194790  End -->
+									<a href="/core/profile?symbol=AVMA"><i>Avena maroccana </i></a>									
+									<br /> Moraccan oat
+								</div>
+							
+
+								
+
+								<div id="wrapLink"
+									style="float: left; text-align: center; max-width: 162px; height: 200px; padding-top: 25px; padding-bottom: 25px; padding-left: 10px;"
+									class="sm">
+									<a target="_blank"
+										href="profile?symbol=AVNU2"> <img
+										src="/maps/thumbs2/AVNU2.png"
+										alt="Distribution of <i>Avena nuda</i> L. [excluded]" vspace="4"
+										hspace="4" border="0" width="168px" height="168px"
+										onerror="this.src='/images/NoNativity.png'" />
+									</a> <br />
+									<!-- Changed for Sprint # 23, tracker id 194790  End -->
+									<a href="/core/profile?symbol=AVNU2"><i>Avena nuda </i></a>									
+									<br /> naked oat
+								</div>
+							
+
+								
+
+								<div id="wrapLink"
+									style="float: left; text-align: center; max-width: 162px; height: 200px; padding-top: 25px; padding-bottom: 25px; padding-left: 10px;"
+									class="sm">
+									<a target="_blank"
+										href="profile?symbol=AVOC"> <img
+										src="/maps/thumbs2/AVOC.png"
+										alt="Distribution of <i>Avena occidentalis</i> Durieu" vspace="4"
+										hspace="4" border="0" width="168px" height="168px"
+										onerror="this.src='/images/NoNativity.png'" />
+									</a> <br />
+									<!-- Changed for Sprint # 23, tracker id 194790  End -->
+									<a href="/core/profile?symbol=AVOC"><i>Avena occidentalis </i></a>									
+									<br /> western oat
+								</div>
+							
+
+								
+
+								<div id="wrapLink"
+									style="float: left; text-align: center; max-width: 162px; height: 200px; padding-top: 25px; padding-bottom: 25px; padding-left: 10px;"
+									class="sm">
+									<a target="_blank"
+										href="profile?symbol=AVSA"> <img
+										src="/maps/thumbs2/AVSA.png"
+										alt="Distribution of <i>Avena sativa</i> L." vspace="4"
+										hspace="4" border="0" width="168px" height="168px"
+										onerror="this.src='/images/NoNativity.png'" />
+									</a> <br />
+									<!-- Changed for Sprint # 23, tracker id 194790  End -->
+									<a href="/core/profile?symbol=AVSA"><i>Avena sativa </i></a>									
+									<br /> common oat
+								</div>
+							
+
+								
+
+								<div id="wrapLink"
+									style="float: left; text-align: center; max-width: 162px; height: 200px; padding-top: 25px; padding-bottom: 25px; padding-left: 10px;"
+									class="sm">
+									<a target="_blank"
+										href="profile?symbol=AVST"> <img
+										src="/maps/thumbs2/AVST.png"
+										alt="Distribution of <i>Avena sterilis</i> L." vspace="4"
+										hspace="4" border="0" width="168px" height="168px"
+										onerror="this.src='/images/NoNativity.png'" />
+									</a> <br />
+									<!-- Changed for Sprint # 23, tracker id 194790  End -->
+									<a href="/core/profile?symbol=AVST"><i>Avena sterilis </i></a>									
+									<br /> animated oat
+								</div>
+							
+
+								
+
+								<div id="wrapLink"
+									style="float: left; text-align: center; max-width: 162px; height: 200px; padding-top: 25px; padding-bottom: 25px; padding-left: 10px;"
+									class="sm">
+									<a target="_blank"
+										href="profile?symbol=AVST2"> <img
+										src="/maps/thumbs2/AVST2.png"
+										alt="Distribution of <i>Avena strigosa</i> Schreb." vspace="4"
+										hspace="4" border="0" width="168px" height="168px"
+										onerror="this.src='/images/NoNativity.png'" />
+									</a> <br />
+									<!-- Changed for Sprint # 23, tracker id 194790  End -->
+									<a href="/core/profile?symbol=AVST2"><i>Avena strigosa </i></a>									
+									<br /> black oats
+								</div>
+							
+						</div>
+						
+
+						<!-- 					     <td height="10" align="center"> -->
+						<!--             <img src="/images/native_legend_box.gif" alt="Plant is native (blue)" width="20" height="8" />  -->
+						<!--             <a href="#" title="The Native Status table opens in a new window"  -->
+						<!--           			class="sm" onclick="window.open('/native_status_def.html','mywindow','scrollbars=yes,resizable=yes,menubar=no,width=700,left=0,top=20,screenX=0,screenY=20')">Native</a>&nbsp;&nbsp; -->
+						<!--           	<img src="/images/introduced_legend_box.gif" alt="Plant is introduced" width="20" height="8" />  -->
+						<!--           	<a href="#" class="sm" title="The Native Status table opens in a new window"  -->
+						<!--           			onclick="window.open('/native_status_def.html','mywindow','scrollbars=yes,resizable=yes,menubar=no,width=700,left=0,top=20,screenX=0,screenY=20')">Introduced</a> -->
+						<!--           </td> -->
+						<!--         </tr> -->
+						<!--         <tr> -->
+						<!--           <td height="10" align="center"><img src="/images/profile_rel_taxa_legend_icons.gif"  -->
+						<!--           			alt="Related taxa legend" width="357" height="15" /> -->
+					
+				
+
+				<!-- ****************************************************** -->
+
+
+				
+				
+				
+				<!--                   width="162" height="162" border="0" /></a></td> -->
+				<!--             </tr> -->
+				<!--             <tr> -->
+				
+				
+
+
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<!-- ****************************************************** -->
+				<!-- 				<div style="float: left; clear: left;"> -->
+				<!--                  <table class="plain" style="margin-bottom:8px;" border="0" cellspacing="0" cellpadding="0"> -->
+				<!--                     <tr> -->
+				<!--                         <td class="" valign="middle">Native Status:&nbsp;</td> -->
+				
+				<!--                         <td class="" valign="middle">&nbsp;Native&nbsp;&nbsp;</td> -->
+				
+				<!--                         <td class="" valign="middle">&nbsp;Introduced&nbsp;&nbsp;</td> -->
+				
+				<!--                         <td class="" valign="middle">&nbsp;Both&nbsp;&nbsp;</td> -->
+				<!--                     </tr> -->
+				<!--                  </table> -->
+
+				<!--                <table class="bordered" border="0" cellspacing="0" cellpadding="0" style="margin-right:20px;"> -->
+
+				<!--                     <thead> -->
+				<!--                     <tr> -->
+				<!--                         <th scope="col">Symbol</th> -->
+				<!--                         <th scope="col">Scientific Name</th> -->
+				<!--                         <th scope="col">Native Status</th> -->
+				<!--                         <th scope="col">Common Name</th> -->
+				<!--                         <th scope="col">Noxious</th> -->
+				<!--                         <th scope="col">T/E</th> -->
+				<!--                         <th scope="col">Wetland</th> -->
+				<!--                         <th scope="col">Images</th> -->
+				<!--                     </tr> -->
+				<!--                     </thead> -->
+
+				
+				
+				
+				
+				<!--                         <tr> -->
+				
+				
+				<!--                         Nativity -->
+				<!--                             <td> -->
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+				
+				
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+				<!--                              <table class="plain"  border="0" cellspacing="0" cellpadding="0"> -->
+				<!--                                   <tr> -->
+				
+				
+				
+				
+				
+				
+				
+				
+				<!--                                     </tr> -->
+				<!--                                     <tr> -->
+				<!--                                         <td>L48</td> -->
+				<!--                                         <td>AK</td> -->
+				<!--                                         <td>HI</td> -->
+				<!--                                         <td>PR</td> -->
+				<!--                                         <td>VI</td> -->
+				<!--                                         <td>CAN</td> -->
+				<!--                                         <td>GL</td> -->
+				<!--                                         <td>SPM</td> -->
+				<!--                                     </tr> -->
+				<!--                                 </table> -->
+
+				<!--                             </td> -->
+				
+				<!--                         Noxious -->
+				<!--                             <td style="text-align:center;">                            	 -->
+				
+				<!--                                     &#9679; -->
+				
+				
+				<!--                                 	&nbsp -->
+				
+				<!--                             </td> -->
+
+				<!--                         Threatend and Endg -->
+				<!--                             <td style="text-align:center;"> -->
+				
+				<!--                                  &#9679; -->
+				
+				
+				<!--                                 &nbsp -->
+				
+				<!--                             </td> -->
+
+				<!--                         Wetland -->
+				<!--                             <td style="text-align:center;"> -->
+				
+				<!--                                   &#9679; -->
+				
+				
+				<!--                                 &nbsp -->
+				
+				<!--                             </td> -->
+				<!--                         Images -->
+				<!--                             <td style="text-align:center;"> -->
+				
+				
+				
+				
+				<!-- 							 	&nbsp -->
+				
+				<!--                             </td> -->
+				<!--                         </tr> -->
+				
+				
+				<!--                 </table> -->
+				<!--                 </div> -->
+			</div>
+
+			<!-- Noxious Weeds and US Weeds section -->
+			<div id="tabLegal" style="clear: left;">
+				<div id="LegalStatusHeader" class="subHeading">
+					<p>Legal Status</p>
+				</div>
+				<!-- Threatened and endangered -->
+				
+				<!-- Noxious Weeds -->
+				<div
+					style="float: left; width: 30%; padding-right: 2%; min-width: 300px;">
+					
+				</div>
+				<!-- Invasive publications -->
+				
+			</div>
+
+
+			<!-- Wetland Information Section -->
+			<div id="tabWetland" style="clear: left;">
+				<div id="WetlandHeader" class="subHeading">
+					<p>Wetland Status</p>
+				</div>
+				<a target="_blank" title="Interpreting Wetland Status Link"
+					href="/wetinfo.html">Interpreting Wetland Status</a><br> <br>
+
+				<!-- Accepted -->
+				
+				<!--<p style="padding:1%;">No Wetland data for this accepted plant</p>-->
+
+				<!-- Synonyms -->
+				
+			</div>
+
+			<!-- Related Web Sites Section -->
+			<div id="tabRelatedLinks" style="clear: left;">
+				<div id="RelatedLinksHeader" class="subHeading">
+					<p>Related Links</p>
+				</div>
+				<div
+					style="float: left; padding-right: 2%; max-width: 48%; min-width: 300px;">
+					
+						<table class="bordered">
+							<tr>
+								<th style="text-align: center" colspan="2">More Accounts
+									and Images</th>
+							</tr>
+							
+								<tr>
+									<td><a href="http://calphotos.berkeley.edu/cgi/img_query?query_src=photos_index&where-taxon=Avena+sp." target="_blank"
+										title="PLANTS is not responsible for the content or availability of other Web sites.">CalPhotos (AVENA)</a></td>
+								</tr>
+							
+								<tr>
+									<td><a href="http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=41455" target="_blank"
+										title="PLANTS is not responsible for the content or availability of other Web sites.">Integrated Taxonomic Information System (AVENA)</a></td>
+								</tr>
+							
+								<tr>
+									<td><a href="http://ucjeps.berkeley.edu/cgi-bin/get_cpn.pl?AVENA" target="_blank"
+										title="PLANTS is not responsible for the content or availability of other Web sites.">Jepson Interchange (University of California - Berkeley) (AVENA)</a></td>
+								</tr>
+							
+								<tr>
+									<td><a href="http://herbarium.usu.edu/webmanual/info2.asp?name=Avena+&type=treatment" target="_blank"
+										title="PLANTS is not responsible for the content or availability of other Web sites.">The Grass Manual on the Web  - Treatment (AVENA)</a></td>
+								</tr>
+							
+						</table>
+					
+				</div>
+				<div style="float: left; max-width: 48%; min-width: 300px;">
+					
+				</div>
+			</div>
+			<div id="tabWildlife" style="clear: left;">
+				<div id="WildlifeHeader" class="subHeading">
+					<p>Wildlife</p>
+				</div>
+				<div style="max-width: 100%">
+					<div
+						style="float: left; clear: left; padding-right: 2%; max-width: 45%; min-width: 400px;">
+						<p class="hdrblkbold" style="text-align: center;">Food</p>
+						<table class="bordered" style="float: left;">
+							<thead>
+								<tr>
+									<th style="text-align: center;">Source</th>
+									<th style="text-align: center;">Large Mammals</th>
+									<th style="text-align: center;">Small Mammals</th>
+									<th style="text-align: center;">Water Birds</th>
+									<th style="text-align: center;">Terrestrial Birds</th>
+								</tr>
+							</thead>
+							
+								<tr>
+									<td>Martin</td>
+									<td>Minor</td>
+									<td>Minor</td>
+									<td>Low</td>
+									<td>Moderate</td>
+								</tr>
+							
+								<tr>
+									<td>Yarrow</td>
+									<td>Minor</td>
+									<td></td>
+									<td>Minor</td>
+									<td>Minor</td>
+								</tr>
+							
+						</table>
+					</div>
+					<div style="float: left; max-width: 45%; min-width: 400px;">
+						<p class="hdrblkbold" style="text-align: center;">Cover</p>
+						<table class="bordered" style="float: left;">
+							<thead>
+								<tr>
+									<th style="text-align: center;">Source</th>
+									<th style="text-align: center;">Large Mammals</th>
+									<th style="text-align: center;">Small Mammals</th>
+									<th style="text-align: center;">Water Birds</th>
+									<th style="text-align: center;">Terrestrial Birds</th>
+								</tr>
+							</thead>
+							
+								<tr>
+									<td>Martin</td>
+									<td></td>
+									<td></td>
+									<td></td>
+									<td></td>
+								</tr>
+							
+								<tr>
+									<td>Yarrow</td>
+									<td></td>
+									<td></td>
+									<td></td>
+									<td></td>
+								</tr>
+							
+						</table>
+					</div>
+					<div style="float: left; padding-top: 2%; clear: left;">
+						
+							<p class="hdrblkbold" style="text-align: left; clear: left;">Sources</p>
+							<table>
+								
+									<tr>
+										<td scope="row">Martin, A.C., H.S. Zim, and A.L. Nelson. 1951. <em>American wildlife and plants: A guide to wildlife food habits</em>. Dover Publications. New York.</td>
+									</tr>
+								
+									<tr>
+										<td scope="row">Yarrow, G.K., and D.T. Yarrow. 1999. <em>Managing wildlife</em>. Sweet Water Press. Birmingham.</td>
+									</tr>
+								
+							</table>
+						
+					</div>
+					<div
+						style="padding-top: 2%; float: left; text-align: left; clear: both;">
+						<p class="hdrblkbold" style="text-align: center;">Description
+							of Values</p>
+						<table class="bordered"
+							summary="A description of how Wildlife Habitat Values are defined.">
+							<tr align="left">
+								<th scope="col">Value Class</th>
+								<th scope="col">Food</th>
+								<th scope="col">Cover</th>
+							</tr>
+							
+								<tr>
+									<td align="left" class="colnorm" scope="row">High</td>
+									<td>Average 25-50% of diet</td>
+									<td>Regular source of cover</td>
+								</tr>
+							
+								<tr>
+									<td align="left" class="colnorm" scope="row">Low</td>
+									<td>5-10% of diet</td>
+									<td>Infrequently used as cover</td>
+								</tr>
+							
+								<tr>
+									<td align="left" class="colnorm" scope="row">Minor</td>
+									<td>2-5% of diet</td>
+									<td>Sparsely used as cover</td>
+								</tr>
+							
+								<tr>
+									<td align="left" class="colnorm" scope="row">Moderate</td>
+									<td>Average 10-25% of diet</td>
+									<td>Occasional source of cover</td>
+								</tr>
+							
+
+						</table>
+					</div>
+				</div>
+				<!-- end Div inside tab -->
+			</div>
+			<!-- end Wildlife Tab -->
+
+
+			<br>
+
+		</div>
+
+	
+	
+
+
+
+<!--  Minimal Tabs solutions from http://www.red-team-design.com/google-play-minimal-tabs-with-css3-jquery   -->
+<script type="text/javascript">
+
+	function resetTabs() {
+		$("#content > div").hide();
+		$("#tabs a").attr("id", "");
+		HideHeaders();
+	}
+	var myUrl = window.location.href;
+	var showAll = false;
+	var picTitle;
+	var myUrlTab = myUrl.substring(myUrl.indexOf("#"));
+	var myUrlTabName = myUrlTab.substring(0, 4);
+	(function() {
+		$("#content > div").hide();
+		$("#tabs li:first a").attr("id", "current");
+		$("#content > div:first").fadeIn();
+		$("#tabs a").on("click", function(e) {
+			e.preventDefault();
+			if ($(this).attr("id") == "current") {
+				return
+			} else {
+				resetTabs();
+				$(this).attr("id", "current");
+				$($(this).attr("name")).fadeIn()
+			}
+		});
+		$("#mainPic a").on("click", function(e) {
+			if(!showAll){
+				myUrlTab = "#tabImages";
+				resetTabs();
+				$("a[name='" + myUrlTab + "']").attr("id", "current");
+				$(myUrlTab).fadeIn();
+			}
+		});
+		for (i = 1; i <= $("#tabs li").length; i++) {
+			if (myUrlTab == myUrlTabName + i) {
+				resetTabs();
+				$("a[name='" + myUrlTab + "']").attr("id", "current");
+				$(myUrlTab).fadeIn()
+			}
+		}
+	})();
+	
+	function HideHeaders(){		
+		$(".subHeading").hide();
+	}
+	
+	function ShowAll(){		
+		showAll = true;
+		$("#tabs").find("li").each(function(){
+			var name = $(this).children("a").attr("name");
+			var tab = $("#content").find(name);
+			tab.find(".subHeading").show();
+			tab.fadeIn();
+		});
+		
+		$("#mainPic a").bind('click', false);
+		picTitle = $("#mainPic a").attr("title");
+		$("#mainPic a").attr("title", "");
+		$("#mainPic a").removeAttr("href");
+		
+		$("#tabs").hide();
+		$("#ShowAllButton").hide();
+		$("#ShowTabsButton").fadeIn();
+ 	}
+	
+	function ShowTabs(){
+		showAll = false;
+		$("#tabs").find("li").each(function(){
+			var name = $(this).children("a").attr("name");
+			var tab = $("#content").find(name);
+			tab.find(".subHeading").hide();
+			tab.hide();
+		});
+		
+		$("#mainPic a").bind('click', true);		
+		$("#mainPic a").attr("title", picTitle);
+		$("#mainPic a").attr("href", "#");
+		
+		$("#tabs").fadeIn();
+		$("#ShowAllButton").fadeIn();
+		$("#ShowTabsButton").hide();
+		resetTabs();
+		$("#content > div:first").fadeIn();
+	}
+</script>
+
+<!-- Mapping JS -------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<script type="text/javascript">
+    var djConfig = {parseOnLoad: true};
+</script>
+<script type="text/javascript"
+	    src="https://js.arcgis.com/3.13/"></script>
+
+<script type="text/javascript">
+    
+    // init dojo requirements
+    dojo.require("dijit.layout.BorderContainer");
+    dojo.require("dijit.layout.ContentPane");
+    dojo.require('dijit.layout.TabContainer');
+    dojo.require("esri.map");
+    dojo.require("dijit.Dialog");
+    dojo.require("esri.dijit.Legend");
+	dojo.require("dojo.ready");
+
+    // create map var
+    var map;
+
+    function init() {
+    	
+         
+        // init esri config defaults for io (proxyUrl = 'mapping', always use proxy = 'true')
+    	esri.config.defaults.io.proxyUrl = "mapping";
+        // By making the following "false" you jump around MappingProxyController.class, which
+        // proxies thru the loadbalancer (plants.usda.gov or plants-dev.dev.sc....) in order to get
+        // around firewall problems et al wrt the geoserver being in a different domain/subnet.
+        // Making this false will only work if the geoserver is accessible from the actual host.
+        // esri.config.defaults.io.alwaysUseProxy = true;
+    	esri.config.defaults.io.alwaysUseProxy = true;
+        
+
+		queryString = dojo.queryToObject(window.location.search);
+
+        plantSymbol = document.getElementById('vSymbol').value;
+		if (! plantSymbol ||  plantSymbol.length < 1) {
+			plantSymbol = queryString["?symbol"];
+			if (! plantSymbol ||  plantSymbol.length < 1) {
+				plantSymbol = queryString["?keywordquery"];
+				if (! plantSymbol ||  plantSymbol.length < 1) {
+					plantSymbol = "Plant not selected";
+				}
+			}
+		}
+
+        // init lods
+		var lods = [
+		  {
+          "level": 3,
+          "resolution": 19567.8792409999,
+          "scale": 73957190.948944},
+          {
+          "level": 4,
+          "resolution": 9783.93962049996,
+          "scale": 36978595.474472},
+          {
+          "level": 5,
+          "resolution": 4891.96981024998,
+          "scale": 18489297.737236 },
+          {
+          "level": 6,
+          "resolution": 2445.98490512499,
+          "scale": 9244648.868618 },
+          {
+          "level": 7,
+          "resolution": 1222.99245256249,
+          "scale": 4622324.434309},
+		  {
+          "level": 8,
+          "resolution": 611.49622628138,
+          "scale": 2311162.217155 },
+  		  {
+          "level": 9,
+          "resolution": 305.748113140558,
+          "scale": 1155581.108577 },
+		  {
+          "level": 10,
+          "resolution": 152.874056570411,
+          "scale": 577790.554289 },
+		  {
+          "level": 11,
+          "resolution": 76.4370282850732,
+          "scale": 288895.277144}
+        ];
+
+        // init page title
+		var pageTitleValue = '<span style="font-size:125%;color:#000000;">Symbol: ' + plantSymbol + '</span>';
+		dojo.html.set(dojo.byId("pageTitle"), pageTitleValue);
+
+        // create new map
+        var initExtent = new esri.geometry.Extent({"xmin":-177,"ymin":3,"xmax":-20,"ymax":72,"spatialReference":{"wkid":4326}});
+//      esri.config.defaults.map.slider = { left:"40px", top:"100px", width:null, height:"300px" };
+
+        // Note: map works only with Internet Explorer, not Firefox or Chrome
+        map = new esri.Map("map",{ 
+            sliderStyle: "large",
+            wrapAround180:true,
+            extent:esri.geometry.geographicToWebMercator(initExtent),            
+            lods: lods});
+
+
+        
+        // To get a nice map, colored with terrain, no state boundaries or legend-ish shadings
+        // uncomment next four lines to show terrain in base map
+//        var GisServer = "http://geodatacache-test.dev.sc.egov.usda.gov"
+//                + "/arcgis/rest/services/topographic_images/usa_topo_maps/MapServer";
+//        var basemap = new esri.layers.ArcGISTiledMapServiceLayer(GisServer);
+        // map.addLayer(basemap);
+
+
+        // NOTE: layer definitions are modified by the proxy
+		var layerDefinitions = [];
+        layerDefinitions[2] = "SYMBOL=." + plantSymbol + ".";
+        layerDefinitions[3] = "SYMBOL=." + plantSymbol + ".";
+        layerDefinitions[4] = "SYMBOL=." + plantSymbol + ".";
+        layerDefinitions[5] = "SYMBOL=." + plantSymbol + ".";
+        layerDefinitions[6] = "SYMBOL=." + plantSymbol + ".";
+
+        GisServer = "GisServer";
+        // make the map (proxy?) call to the loadbalancer and get back a dynamic map
+        var dynamicmap = new esri.layers.ArcGISDynamicMapServiceLayer(GisServer);
+	
+		dynamicmap.setLayerDefinitions(layerDefinitions);
+		
+        // add dynamicmap returned by proxy to the map object - will hit the proxy a 2nd time
+		map.addLayer(dynamicmap);
+
+		dojo.connect(map,'onLayersAddResult',function(results) {
+
+		    var layerInfo = dojo.map(results, function(layer,index) {
+		    	                return {layer:layer.layer,title:layer.layer.name};
+		    	            });
+		    
+	        if (layerInfo.length > 0) {
+		        var legendDijit = new esri.dijit.Legend({
+		        	                  map:map,
+		        	                  layerInfos:layerInfo
+		        	              }, "legendDiv");
+		        legendDijit.startup();
+		    }
+		});
+
+        dojo.connect(map, 'onLoad', function(theMap) {
+        	//resize the map when the browser resizes
+            dojo.connect(dijit.byId('map'), 'resize', map,map.resize);
+        });
+        
+    }
+
+    dojo.addOnLoad(init);
+ 
+</script>
+
+<script>
+	jQuery(document).ready(function ($) {
+			
+    	var options = {
+        	$AutoPlay: false,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
+            $AutoPlayInterval: 4000,                            //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000
+            $SlideDuration: 500,                                //[Optional] Specifies default duration (swipe) for slide in milliseconds, default value is 500
+            $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
+    	
+            $ThumbnailNavigatorOptions: {
+            	$Class: $JssorThumbnailNavigator$,              //[Required] Class to create thumbnail navigator instance
+                $ChanceToShow: 2,                               //[Required] 0 Never, 1 Mouse Over, 2 Always
+
+                $AutoCenter: 3,
+                $Loop: 0,                                       //[Optional] Enable loop(circular) of carousel or not, 0: stop, 1: loop, 2 rewind, default value is 1
+                $SpacingX: 3,                                   //[Optional] Horizontal space between each thumbnail in pixel, default value is 0
+                $SpacingY: 6,                                   //[Optional] Vertical space between each thumbnail in pixel, default value is 0
+                $DisplayPieces: 6,                              //[Optional] Number of pieces to display, default value is 1
+                $ParkingPosition: 204,                          //[Optional] The offset position to park thumbnail,
+
+                $ArrowNavigatorOptions: {
+                	$Class: $JssorArrowNavigator$,              //[Requried] Class to create arrow navigator instance
+                    $ChanceToShow: 2,                               //[Required] 0 Never, 1 Mouse Over, 2 Always
+                    $AutoCenter: 2,                                 //[Optional] Auto center arrows in parent container, 0 No, 1 Horizontal, 2 Vertical, 3 Both, default value is 0
+                    $Steps: 6                                       //[Optional] Steps to go for each navigation request, default value is 1
+                }
+         	}
+     	};
+
+     	var jssor_slider1 = new $JssorSlider$("slider1_container", options);
+
+            //responsive code begin
+            //you can remove responsive code if you don't want the slider scales while window resizes
+        function ScaleSlider() {
+        	var parentWidth = jssor_slider1.$Elmt.parentNode.clientWidth;
+            if (parentWidth)
+            	jssor_slider1.$SetScaleWidth(Math.min(parentWidth, 500));
+            else
+           		window.setTimeout(ScaleSlider, 30);
+        }
+
+    	ScaleSlider();
+
+	});
+</script>
+</td>
+					</tr>
+				</table></td>
+		</tr>
+		<tr>
+			<td>
+				<table width="100%" height="1" border="0" cellpadding="0"
+					cellspacing="0">
+					<tr>
+						<td><hr align="left" width="100%" size="1" noshade="noshade" />
+						</td>
+					</tr>
+				</table> <!-- Footer Begins Here -->
+
+				<table class="WhiteBackgroundColor" border="0" cellspacing="0"
+					cellpadding="0" width="767" height="30">
+					<tr>
+						<td width="24" valign="bottom"><img
+							src="/images/footer_corner_left.gif" alt=" " /></td>
+						<td width="719" align="left" class="footer"><a
+							href="/index.html" class="footer">PLANTS Home</a> | <acronym
+							title="United States Department of Agriculture"><a
+								href="http://www.usda.gov/" target="_blank" class="footer">USDA.gov</a></acronym>
+							| <acronym title="Natural Resources Conservation Service"><a
+								href="http://www.nrcs.usda.gov/" target="_blank" class="footer">NRCS</a></acronym>
+							| <a href="/sitemap.html" class="footer">Site Map</a> | <a
+							href="http://www.usda.gov/wps/portal/!ut/p/_s.7_0_A/7_0_1OB?navtype=FT&amp;navid=POLICY_LINK"
+							title="Policies and Links from USDA.gov" target="_blank"
+							class="footer">Policies and Links</a> <br /> <a
+							href="/accessibility.html" class="footer">Accessibility
+								Statement </a> | <a href="/privacy.html" class="footer">Privacy
+								Policy</a> | <a href="/eeo.html" class="footer">Non-Discrimination
+								Statement</a></td>
+						<td width="24" valign="bottom"><img
+							src="/images/footer_corner_right.gif" width="24" height="22"
+							alt=" " /></td>
+					</tr>
+				</table> <!-- Footer Ends Here -->
+
+			</td>
+		</tr>
+	</table>
+	<img src="/images/spacer.gif" alt=" " width="1" height="2" />
+	<script language="JavaScript" type="text/javascript">
+		addhandlers();
+	</script>
+</body>
+
+</html>

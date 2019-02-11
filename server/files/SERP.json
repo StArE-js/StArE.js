@@ -1,0 +1,957 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "previousPage": [
+   {
+    "title": "Google Custom Search - Avena",
+    "totalResults": "4760000",
+    "searchTerms": "Avena",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010212477578150644501:wtqrloafnss",
+    "hl": "lang_es|lang_en"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Avena",
+    "totalResults": "4760000",
+    "searchTerms": "Avena",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010212477578150644501:wtqrloafnss",
+    "hl": "lang_es|lang_en"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Avena",
+    "totalResults": "4760000",
+    "searchTerms": "Avena",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010212477578150644501:wtqrloafnss",
+    "hl": "lang_es|lang_en"
+   }
+  ]
+ },
+ "context": {
+  "title": "Devy Search"
+ },
+ "searchInformation": {
+  "searchTime": 0.266776,
+  "formattedSearchTime": "0.27",
+  "totalResults": "4760000",
+  "formattedTotalResults": "4,760,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Avena Leisure",
+   "htmlTitle": "\u003cb\u003eAvena\u003c/b\u003e Leisure",
+   "link": "http://www.avenaleisure.com/",
+   "displayLink": "www.avenaleisure.com",
+   "snippet": "Avena Leisure is North West Ireland's ultimate health experience and the perfect \nlifestyle choice. Come and explore our 20m pool with hydrotherapy suite, ...",
+   "htmlSnippet": "\u003cb\u003eAvena\u003c/b\u003e Leisure is North West Ireland&#39;s ultimate health experience and the perfect \u003cbr\u003e\nlifestyle choice. Come and explore our 20m pool with hydrotherapy suite,&nbsp;...",
+   "cacheId": "jrc14Bb_2UcJ",
+   "formattedUrl": "www.avenaleisure.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eavena\u003c/b\u003eleisure.com/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "150",
+      "height": "150",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgElcO7kP14b39-la_RCZwxVqmYxTAHRgsg0wT6N5xQdbm0qPVeucNGotY"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.avenaleisure.com/uploadedfiles/av3.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Avena | New Homes in French Valley | Home Builders in Winchester",
+   "htmlTitle": "\u003cb\u003eAvena\u003c/b\u003e | New Homes in French Valley | Home Builders in Winchester",
+   "link": "https://www.pardeehomes.com/inland-empire/avena/",
+   "displayLink": "www.pardeehomes.com",
+   "snippet": "Models are open in the new Avena neighborhood, new homes in Winchester, \nFrench Valley, by home builders Pardee Homes. This neighborhood features four\n ...",
+   "htmlSnippet": "Models are open in the new \u003cb\u003eAvena\u003c/b\u003e neighborhood, new homes in Winchester, \u003cbr\u003e\nFrench Valley, by home builders Pardee Homes. This neighborhood features four\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "kUuTLuKQ_vkJ",
+   "formattedUrl": "https://www.pardeehomes.com/inland-empire/avena/",
+   "htmlFormattedUrl": "https://www.pardeehomes.com/inland-empire/\u003cb\u003eavena\u003c/b\u003e/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "296",
+      "height": "170",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQi49vvFd-h9hn1BojP1kVU19AQkmKaI9ZypbzeLrqCOmJTy5nXxs6Du-on"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Avena | New Homes in French Valley | Home Builders in Winchester",
+      "og:description": "Models are open in the new Avena neighborhood, new homes in Winchester, French Valley, by home builders Pardee Homes. This neighborhood features four new floor plans, spacious interiors, inviting great rooms and indoor/outdoor living spaces. (Learn More)",
+      "og:url": "https://www.pardeehomes.com/inland-empire/avena/",
+      "og:site_name": "Pardee Homes",
+      "og:image": "https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/02/avena-p4-hero.jpg",
+      "og:image:secure_url": "https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/02/avena-p4-hero.jpg",
+      "og:image:width": "1632",
+      "og:image:height": "940",
+      "twitter:card": "summary",
+      "twitter:description": "Models are open in the new Avena neighborhood, new homes in Winchester, French Valley, by home builders Pardee Homes. This neighborhood features four new floor plans, spacious interiors, inviting great rooms and indoor/outdoor living spaces. (Learn More)",
+      "twitter:title": "Avena | New Homes in French Valley | Home Builders in Winchester",
+      "twitter:image": "https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/02/avena-p4-hero.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/02/avena-p4-hero.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "avena - Wiktionary",
+   "htmlTitle": "\u003cb\u003eavena\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wiktionary.org/wiki/avena",
+   "displayLink": "en.wiktionary.org",
+   "snippet": "avena f (plural avene). oats ... avēna f (genitive avēnae); first declension ... avena \nin Charlton T. Lewis and Charles Short (1879) A Latin Dictionary , Oxford: ...",
+   "htmlSnippet": "\u003cb\u003eavena\u003c/b\u003e f (plural avene). oats ... \u003cb\u003eavēna\u003c/b\u003e f (genitive avēnae); first declension ... \u003cb\u003eavena\u003c/b\u003e \u003cbr\u003e\nin Charlton T. Lewis and Charles Short (1879) A Latin Dictionary , Oxford:&nbsp;...",
+   "cacheId": "psKREwG1n4IJ",
+   "formattedUrl": "https://en.wiktionary.org/wiki/avena",
+   "htmlFormattedUrl": "https://en.wiktionary.org/wiki/\u003cb\u003eavena\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "- Avena Travel - Incoming Tour Operator",
+   "htmlTitle": "- \u003cb\u003eAvena\u003c/b\u003e Travel - Incoming Tour Operator",
+   "link": "http://www.avenatravel.pl/",
+   "displayLink": "www.avenatravel.pl",
+   "snippet": "We simply propose you an amazing travel to the most beautiful places in our \ncountry, provide you opportunity to experience the unique and diverse cultural ...",
+   "htmlSnippet": "We simply propose you an amazing travel to the most beautiful places in our \u003cbr\u003e\ncountry, provide you opportunity to experience the unique and diverse cultural&nbsp;...",
+   "cacheId": "fbO9E6oqSBoJ",
+   "formattedUrl": "www.avenatravel.pl/",
+   "htmlFormattedUrl": "www.\u003cb\u003eavena\u003c/b\u003etravel.pl/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "160",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr77rk0eikEGp43uEuWzsWB9TlX4Ip7WNrudV1WABFJ9doW5Ay-7pfCcTq"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://avenatravel.pl/images/0/book_now.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Luca Avena - Leiden University",
+   "htmlTitle": "Luca \u003cb\u003eAvena\u003c/b\u003e - Leiden University",
+   "link": "https://www.universiteitleiden.nl/en/staffmembers/luca-avena",
+   "displayLink": "www.universiteitleiden.nl",
+   "snippet": "Luca Avena. Assistant professor. Name: Dr. L. Avena; Telephone: +31 71 527 \n8029; E-mail: l.avena@math.leidenuniv.nl. Overview; Contact; Publications ...",
+   "htmlSnippet": "Luca \u003cb\u003eAvena\u003c/b\u003e. Assistant professor. Name: Dr. L. \u003cb\u003eAvena\u003c/b\u003e; Telephone: +31 71 527 \u003cbr\u003e\n8029; E-mail: l.\u003cb\u003eavena\u003c/b\u003e@math.leidenuniv.nl. Overview; Contact; Publications&nbsp;...",
+   "cacheId": "hS5u8SyBwOoJ",
+   "formattedUrl": "https://www.universiteitleiden.nl/en/staffmembers/luca-avena",
+   "htmlFormattedUrl": "https://www.universiteitleiden.nl/en/staffmembers/luca-\u003cb\u003eavena\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "311",
+      "height": "162",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnxQ5whycjpHK3TvmXBYNSRiWFeDWZNGtpG25-NtDvn4zEI4T6gXrWSis"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:card": "summary",
+      "twitter:site": "@UniLeiden",
+      "twitter:title": "Luca Avena",
+      "twitter:description": "　",
+      "og:title": "Luca Avena",
+      "og:type": "website",
+      "og:description": "　",
+      "og:site_name": "Leiden University",
+      "og:locale": "en_US",
+      "og:image": "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/portraits/science/a/luca_avena.jpg/luca_avena.jpg/d600x315",
+      "og:url": "https://www.universiteitleiden.nl/en/staffmembers/luca-avena",
+      "application-name": "search"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/portraits/science/a/luca_avena.jpg/luca_avena.jpg/d600x315"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Avena - Arrex Le Cucine",
+   "htmlTitle": "\u003cb\u003eAvena\u003c/b\u003e - Arrex Le Cucine",
+   "link": "http://www.arrex.it/en/prodotto/avena/",
+   "displayLink": "www.arrex.it",
+   "snippet": "Avena is the modern kitchen that is all about technology, experimenting and \ncombining different materials in a context in which the design creates harmony \nand ...",
+   "htmlSnippet": "\u003cb\u003eAvena\u003c/b\u003e is the modern kitchen that is all about technology, experimenting and \u003cbr\u003e\ncombining different materials in a context in which the design creates harmony \u003cbr\u003e\nand&nbsp;...",
+   "cacheId": "zxK9TPPQ92EJ",
+   "formattedUrl": "www.arrex.it/en/prodotto/avena/",
+   "htmlFormattedUrl": "www.arrex.it/en/prodotto/\u003cb\u003eavena\u003c/b\u003e/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "285",
+      "height": "177",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPOYEZSUw0Eoo0W1YHjN0VAxJ0K1CdhoG-maHT87yWV7sZ91RnDzt8cHU"
+     }
+    ],
+    "product": [
+     {
+      "image": "http://www.arrex.it/wp-content/uploads/2016/02/AVENA_WHITE_RED1.jpg",
+      "name": "Avena",
+      "description": "The design kitchen goes high tech Avena is the modern kitchen that is all about technology, experimenting and combining different materials in a context in which the design creates harmony..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "copyright": "Copyright © 2018 Arrex Le Cucine",
+      "author": "Arrex Le Cucine",
+      "designer": "neiko.it",
+      "rating": "General",
+      "msapplication-tilecolor": "#EB6B0C",
+      "msapplication-tileimage": "http://www.arrex.it/mstile.png",
+      "theme-color": "#EB6B0C",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Avena - Arrex Le Cucine",
+      "og:description": "The design kitchen goes high tech Avena is the modern kitchen that is all about technology, experimenting and combining different materials in a context in which the design creates harmony and balance.",
+      "og:url": "http://www.arrex.it/en/prodotto/avena/",
+      "og:site_name": "Arrex Le Cucine",
+      "article:publisher": "https://www.facebook.com/Arrex.Le.Cucine",
+      "og:image": "http://www.arrex.it/wp-content/uploads/2016/01/logo_arrex_official.png",
+      "twitter:card": "summary",
+      "twitter:description": "The design kitchen goes high tech Avena is the modern kitchen that is all about technology, experimenting and combining different materials in a context in which the design creates harmony and balance.",
+      "twitter:title": "Avena - Arrex Le Cucine",
+      "twitter:site": "@ArrexLeCucine",
+      "twitter:image": "http://www.arrex.it/wp-content/uploads/2016/01/logo_arrex_official.png",
+      "twitter:creator": "@ArrexLeCucine",
+      "shareaholic:site_name": "Arrex Le Cucine",
+      "shareaholic:language": "en-US",
+      "shareaholic:url": "http://www.arrex.it/en/prodotto/avena/",
+      "shareaholic:article_published_time": "2016-02-24T11:25:05+00:00",
+      "shareaholic:article_modified_time": "2018-06-04T08:05:02+00:00",
+      "shareaholic:shareable_page": "true",
+      "shareaholic:article_author_name": "Neiko",
+      "shareaholic:site_id": "4de19479bdc0833c2115d3260260fba9",
+      "shareaholic:wp_version": "7.8.0.2"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "Arrex",
+      "url": "Arrex"
+     }
+    ],
+    "hproduct": [
+     {
+      "description": "The design kitchen goes high tech Avena is the modern kitchen that is all about technology, experimenting and combining different materials in a context in which the design creates harmony...",
+      "fn": "Avena",
+      "photo": "http://www.arrex.it/wp-content/uploads/2016/02/AVENA_WHITE_RED1.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.arrex.it/wp-content/uploads/2016/01/logo_arrex_official.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Avena Resort & Spa Hotel - UPDATED 2018 Prices & Reviews ...",
+   "htmlTitle": "\u003cb\u003eAvena\u003c/b\u003e Resort &amp; Spa Hotel - UPDATED 2018 Prices &amp; Reviews ...",
+   "link": "https://www.tripadvisor.com/Hotel_Review-g297961-d6434598-Reviews-Avena_Resort_Spa_Hotel-Alanya_Turkish_Mediterranean_Coast.html",
+   "displayLink": "www.tripadvisor.com",
+   "snippet": "Book Avena Resort & Spa Hotel, Alanya on TripAdvisor: See 118 traveler reviews\n, 437 candid photos, and great deals for Avena Resort & Spa Hotel, ranked #19 ...",
+   "htmlSnippet": "Book \u003cb\u003eAvena\u003c/b\u003e Resort &amp; Spa Hotel, Alanya on TripAdvisor: See 118 traveler reviews\u003cbr\u003e\n, 437 candid photos, and great deals for \u003cb\u003eAvena\u003c/b\u003e Resort &amp; Spa Hotel, ranked #19&nbsp;...",
+   "formattedUrl": "https://www.tripadvisor.com/Hotel_Review-g297961-d6434598-Reviews- Avena_Resort_Spa_Hotel-Alanya_Turkish_Mediterranean_Coast.html",
+   "htmlFormattedUrl": "https://www.tripadvisor.com/Hotel_Review-g297961-d6434598-Reviews- \u003cb\u003eAvena\u003c/b\u003e_Resort_Spa_Hotel-Alanya_Turkish_Mediterranean_Coast.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAJiDCjJJNiMDCHpAzlqBDB6BzScqmDbTD6xRp7ukK7oL_bFC6FEsqESs"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#00a680",
+      "format-detection": "telephone=no",
+      "al:ios:app_name": "TripAdvisor",
+      "al:ios:app_store_id": "284876795",
+      "twitter:app:id:ipad": "284876795",
+      "twitter:app:id:iphone": "284876795",
+      "al:ios:url": "tripadvisor://www.tripadvisor.com/Hotel_Review-g297961-d6434598-Reviews-m33762-Avena_Resort_Spa_Hotel-Alanya_Turkish_Mediterranean_Coast.html",
+      "twitter:app:url:ipad": "tripadvisor://www.tripadvisor.com/Hotel_Review-g297961-d6434598-Reviews-m33762-Avena_Resort_Spa_Hotel-Alanya_Turkish_Mediterranean_Coast.html",
+      "twitter:app:url:iphone": "tripadvisor://www.tripadvisor.com/Hotel_Review-g297961-d6434598-Reviews-m33762-Avena_Resort_Spa_Hotel-Alanya_Turkish_Mediterranean_Coast.html",
+      "og:title": "Avena Resort & Spa Hotel - UPDATED 2018 Prices &  Reviews (Alanya, Turkey) - TripAdvisor",
+      "og:description": "Book Avena Resort & Spa Hotel, Alanya on TripAdvisor: See 118 traveler reviews, 437 candid photos, and great deals for Avena Resort & Spa Hotel, ranked #19 of 379 hotels in Alanya and rated 4.5 of 5 at TripAdvisor.",
+      "og:image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/71/79/48/avena-resort-spa-hotel.jpg",
+      "og:image:width": "550",
+      "og:image:height": "367",
+      "og:type": "hotel",
+      "og:url": "http://www.tripadvisor.com/Hotel_Review-g297961-d6434598-Reviews-Avena_Resort_Spa_Hotel-Alanya_Turkish_Mediterranean_Coast.html",
+      "og:site_name": "TripAdvisor",
+      "fb:admins": "100000982334629",
+      "fb:app_id": "162729813767876",
+      "fb:pages": "5863091683",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "apple-itunes-app": "app-id=284876795"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Europe",
+      "title": "Europe"
+     },
+     {
+      "url": "Turkey",
+      "title": "Turkey"
+     },
+     {
+      "url": "Turkish Mediterranean Coast",
+      "title": "Turkish Mediterranean Coast"
+     },
+     {
+      "url": "Antalya Province",
+      "title": "Antalya Province"
+     },
+     {
+      "url": "Alanya",
+      "title": "Alanya"
+     },
+     {
+      "url": "Alanya Hotels",
+      "title": "Alanya Hotels"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media-cdn.tripadvisor.com/media/photo-s/0c/71/79/48/avena-resort-spa-hotel.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Plants Profile for Avena (oat)",
+   "htmlTitle": "Plants Profile for \u003cb\u003eAvena\u003c/b\u003e (oat)",
+   "link": "https://plants.usda.gov/core/profile?symbol=AVENA",
+   "displayLink": "plants.usda.gov",
+   "snippet": "General Information. Symbol: AVENA. Group: Monocot. Family: Poaceae. \nDuration: Growth Habit: Native Status: AK I CAN I,W GL W HI I L48 I,W PR I SPM \nW.",
+   "htmlSnippet": "General Information. Symbol: \u003cb\u003eAVENA\u003c/b\u003e. Group: Monocot. Family: Poaceae. \u003cbr\u003e\nDuration: Growth Habit: Native Status: AK I CAN I,W GL W HI I L48 I,W PR I SPM \u003cbr\u003e\nW.",
+   "cacheId": "49g4dVw_qTkJ",
+   "formattedUrl": "https://plants.usda.gov/core/profile?symbol=AVENA",
+   "htmlFormattedUrl": "https://plants.usda.gov/core/profile?symbol=\u003cb\u003eAVENA\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "183",
+      "height": "275",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEkEYZv11qN0IHq4aH5ZlUZKeDu7vjrEUttBI00vcfK-m3Hhh4xfFb294"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "en-US",
+      "creator": "PLANTS Web Development Team",
+      "affiliated-agency": "USDA National Plant Data Center",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://plants.usda.gov/gallery/standard/avena_001_svp.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Avena Restaurant - New York, NY | OpenTable",
+   "htmlTitle": "\u003cb\u003eAvena\u003c/b\u003e Restaurant - New York, NY | OpenTable",
+   "link": "https://www.opentable.com/r/avena-new-york",
+   "displayLink": "www.opentable.com",
+   "snippet": "May 11, 2018 ... AVENA is a chef-driven Northern Italian restaurant helmed by Chef Roberto \nDeiaco. Open for lunch and dinner everyday, the menu ...",
+   "htmlSnippet": "May 11, 2018 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAVENA\u003c/b\u003e is a chef-driven Northern Italian restaurant helmed by Chef Roberto \u003cbr\u003e\nDeiaco. Open for lunch and dinner everyday, the menu&nbsp;...",
+   "cacheId": "235vO9_f7vYJ",
+   "formattedUrl": "https://www.opentable.com/r/avena-new-york",
+   "htmlFormattedUrl": "https://www.opentable.com/r/\u003cb\u003eavena\u003c/b\u003e-new-york",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-xv2_i5Ht1PmdmtBRbkznfsSrkRRWF-yw8TbCEXxAlCywuI6SJ2lfUnK"
+     }
+    ],
+    "restaurant": [
+     {
+      "name": "Avena",
+      "pricerange": "$50 and over",
+      "servescuisine": "Italian",
+      "description": "AVENA is a chef-driven Northern Italian restaurant helmed by Chef Roberto Deiaco. Open for lunch and dinner everyday, the menu emphasizes freshness and modern techniques in Chef Deiaco's interpreta...",
+      "openinghours": "Lunch Daily 11:30 am–4:00 pm Dinner Sat 5:00 pm–11:00 pm",
+      "paymentaccepted": "AMEX, Discover, MasterCard, Visa",
+      "employees": "Roberto Deiaco",
+      "ratingvalue": "4.7"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "4.7",
+      "reviewcount": "244"
+     }
+    ],
+    "postaladdress": [
+     {
+      "streetaddress": "141 E 57th St New York, NY 10022-2139"
+     }
+    ],
+    "rating": [
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "2.0"
+     },
+     {
+      "ratingvalue": "3.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "2.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     },
+     {
+      "ratingvalue": "5.0"
+     },
+     {
+      "ratingvalue": "4.0"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "og:site_name": "www.opentable.com",
+      "og:title": "Avena - New York, NY on OpenTable",
+      "og:url": "//www.opentable.com/r/avena-new-york",
+      "og:type": "restaurant",
+      "al:ios:app_store_id": "296581815",
+      "al:ios:app_name": "OpenTable",
+      "al:ios:url": "reservetable-com.contextoptional.OpenTable-1://?rid=485806&dt=2018-06-15T04%3A33%3A59-04%3A00&ps=2",
+      "business:contact_data:street_address": "141 E 57th St",
+      "business:contact_data:locality": "en-US",
+      "business:contact_data:country": "United States",
+      "business:contact_data:postal_code": "10022-2139",
+      "business:contact_data:region": "Midtown East",
+      "business:contact_data:phone_number": "(212) 752-5323",
+      "business:contact_data:website": "http://www.avenarestaurant.com/",
+      "place:location:latitude": "40.7609970",
+      "place:location:longitude": "-73.9686170",
+      "og:image": "//www.opentable.com/img/common/ot_logo_rest.gif",
+      "og:image:width": "200",
+      "og:image:height": "200",
+      "og:description": "Avena, Casual Elegant Italian cuisine. Read reviews and book now.",
+      "keyword": "avena, new york new york area, manhattan reservations,  online reservations, restaurant reservations"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "item": "United States",
+      "name": "United States",
+      "position": "2"
+     },
+     {
+      "item": "New York / Tri-State Area",
+      "name": "New York / Tri-State Area",
+      "position": "3"
+     },
+     {
+      "item": "Manhattan",
+      "name": "Manhattan",
+      "position": "4"
+     },
+     {
+      "item": "Midtown East",
+      "name": "Midtown East",
+      "position": "5"
+     }
+    ],
+    "review": [
+     {
+      "ratingstars": "4.5",
+      "ratingcount": "244",
+      "pricerange": "$50 and over"
+     },
+     {
+      "reviewbody": "Great service. Wonderful food and service",
+      "datepublished": "2018-06-09"
+     },
+     {
+      "reviewbody": "Lovely setting and delicious food. Lots of treats from the kitchen !",
+      "datepublished": "2018-06-07"
+     },
+     {
+      "reviewbody": "My new favorite Italian restaurant ❣️ Food was delicious and beautiful. Great menu. Service was very professional but not stuffy. Lovely atmosphere. Could carry on a conversation without yelling!",
+      "datepublished": "2018-06-05"
+     },
+     {
+      "reviewbody": "The specials sounded so great that it was difficult to choose one. Everything was delicious. They are particularly skillful in their seafood preparations. I’ve had their delicious stew twice....",
+      "datepublished": "2018-06-03"
+     },
+     {
+      "reviewbody": "This was our first visit to Avena, which is located in an area without a plethora of good restaurants. Our experience was delightful. We were seated upstairs in a largely white room with attractive...",
+      "datepublished": "2018-06-02"
+     },
+     {
+      "reviewbody": "I would give Avena outstanding but that seems like it should be saved for a one-of-a-kind super fantastic experience. However, we always have a good and special meal here; the waitstaff is...",
+      "datepublished": "2018-05-21"
+     },
+     {
+      "reviewbody": "Great food. Staff with excellent manners though slow at times. Looks to have some new staff and hopefully excel with its service in the near future. I would try it again.",
+      "datepublished": "2018-05-15"
+     },
+     {
+      "reviewbody": "The restaurant was lovely and peaceful. The service excellent. The food was terrific and I appreciated the little extras, like fresh bread and an amuse bouche. The tables were well spaced,...",
+      "datepublished": "2018-05-15"
+     },
+     {
+      "reviewbody": "One of the best Italian restaurants i have ever been to. Amazing",
+      "datepublished": "2018-05-13"
+     },
+     {
+      "reviewbody": "I have been to Avena on many occasions and never did I see a charge on the bill for a martini of $16 , for preparation of the drink, which added an extra $3 to the bill, making the martini...",
+      "datepublished": "2018-05-12"
+     },
+     {
+      "reviewbody": "Superb! Totally delightful surprise. Opentable thanks so many ch for the highlight. A definite repeat. Giuseppe you are the best!",
+      "datepublished": "2018-05-11"
+     },
+     {
+      "reviewbody": "wonderful food and ambiance! I will certainly recommend to friends",
+      "datepublished": "2018-05-09"
+     },
+     {
+      "reviewbody": "As always, a treat! More unique menu that typical Italian. Love the crudo. Good wines by the glass. Wonderful service. They care.",
+      "datepublished": "2018-05-05"
+     },
+     {
+      "reviewbody": "I love Avena! The food is incredible, and the pastas and bread is made in the kitchen. Their service is friendly. It's a wonderful place - a real find.",
+      "datepublished": "2018-04-29"
+     },
+     {
+      "reviewbody": "Loved our dinner. Milan-style restaurant from food to decor. The place is chic looking with Northern Italian menu so expect lots of truffles, which they seem to shave over every dish, at least...",
+      "datepublished": "2018-04-19"
+     },
+     {
+      "reviewbody": "This is a restaurant that is likely not going to be in business for much longer. Several of the courses were over salted and the plating was very '80s. It was virtually empty with only six...",
+      "datepublished": "2018-04-15"
+     },
+     {
+      "reviewbody": "Bad lighting/ambiance Slow service Tasty pasta Really pushed harder than I would’ve like on selling the truffle upcharge Overpriced for what you’re getting, went for anniversary, wouldn’t...",
+      "datepublished": "2018-04-15"
+     },
+     {
+      "reviewbody": "Exceptional food and service. It's around the corner from my office and I have not found a lunch restaurant in the area that makes me happier. The food is prepared and served with care and...",
+      "datepublished": "2018-04-03"
+     },
+     {
+      "reviewbody": "Excellent! I would highly recommend this restaurant",
+      "datepublished": "2018-03-27"
+     },
+     {
+      "reviewbody": "Great food amazing service! What else can you ask for? Absolutely perfect!",
+      "datepublished": "2018-03-24"
+     },
+     {
+      "reviewbody": "Lovely restaurant We will go back",
+      "datepublished": "2018-03-23"
+     },
+     {
+      "reviewbody": "A neighborhood gem. My first visit, but will be back for inventive, well prepared Italian fare and professional service.",
+      "datepublished": "2018-03-09"
+     },
+     {
+      "reviewbody": "Avena has become our go-to Italian place in the neighborhood. The food is outstanding and the details in the service are top-notch. The only downside is the wine list, which is exclusively...",
+      "datepublished": "2018-03-04"
+     },
+     {
+      "reviewbody": "Avena has got to be one of the best Italian restaurants in NYC. After only a few months, it is already right up there with the great, more well-known ones. Their Vitello Tonnato is the best...",
+      "datepublished": "2018-03-03"
+     },
+     {
+      "reviewbody": "Excellent service, no rushing, food beautifully presented and delicious",
+      "datepublished": "2018-03-03"
+     },
+     {
+      "reviewbody": "Wonderful inventive food, excellent attentive service and great wine suggestion. Expensive but worth it!",
+      "datepublished": "2018-02-28"
+     },
+     {
+      "reviewbody": "I have been here for lunch plenty of times and always enjoyed myself. This we went for dinner and we're also thrilled with the experience.",
+      "datepublished": "2018-02-27"
+     },
+     {
+      "reviewbody": "Place is very nice. Good place for conversation. Staff and service is very attentive. Would do come back for dinner to try. Lunch was very good.",
+      "datepublished": "2018-02-26"
+     },
+     {
+      "reviewbody": "All the dishes served were very good. Especially my pasta with lobster and my cocktail with gin were very good. The owner visited us to see all was okay, which was nice. People here were very...",
+      "datepublished": "2018-02-25"
+     },
+     {
+      "reviewbody": "Food always good. Service and staff poor and unattentive. Our 6th and last time here. Never wrote a bad review before.",
+      "datepublished": "2018-02-25"
+     },
+     {
+      "reviewbody": "Dined at Avena with my mother the other night, the food was delicious, I highly recommend the truffle ravioli and the duck",
+      "datepublished": "2018-02-18"
+     },
+     {
+      "reviewbody": "If you just want really excellent Italian food with a great variety of imaginative dishes prepared by a top class chef, this place is for you. The decor is bland -- it could be a high class...",
+      "datepublished": "2018-02-18"
+     },
+     {
+      "reviewbody": "Wonderful restaurant Elegant food",
+      "datepublished": "2018-02-17"
+     },
+     {
+      "reviewbody": "Great food - dining experience - a place for a no rush delicious Italian dinner",
+      "datepublished": "2018-02-15"
+     },
+     {
+      "reviewbody": "One of the best Valentine’s dinners ever, food was as always delicious and beautifully plated, paired with a delicious Brut Rose. Service could have been a little better, kitchen and wait...",
+      "datepublished": "2018-02-14"
+     },
+     {
+      "reviewbody": "Delicious meal (as always), beautiful food presentation, and attentive service make this place special. Don't miss the lightest tiramisu you ever tasted!",
+      "datepublished": "2018-02-10"
+     },
+     {
+      "reviewbody": "As always the staff of Avena was so welcoming. The food is always delicious you just can’t go wrong !!",
+      "datepublished": "2018-02-10"
+     },
+     {
+      "reviewbody": "Always a treat! Delicious and unique menu beyond the typical Italian fare. Yummy wines and a staff that cares. The best bread anywhere! Comfortable tables so you're not on top of your neighbor.",
+      "datepublished": "2018-02-09"
+     },
+     {
+      "reviewbody": "What can I say Avena is my favorite restaurant in New York. The food is wonderful. Present well, so incredibly good, Innovative and absolutely delicious. Cannot wait to go again.",
+      "datepublished": "2018-02-09"
+     },
+     {
+      "reviewbody": "Remarkably good \"nouvelle Italian\" food, with attentive and professional service. I personally did not think much of the modernistic monochromatic white décor, but others may like it. Naturally,...",
+      "datepublished": "2018-02-03"
+     }
+    ],
+    "person": [
+     {
+      "name": "OpenTable Diner"
+     },
+     {
+      "name": "OpenTable Diner"
+     },
+     {
+      "name": "OpenTable Diner"
+     },
+     {
+      "name": "Crink"
+     },
+     {
+      "name": "Cherp"
+     },
+     {
+      "name": "KarenA"
+     },
+     {
+      "name": "RichardR"
+     },
+     {
+      "name": "OpenTable Diner"
+     },
+     {
+      "name": "NYKevin"
+     },
+     {
+      "name": "SusanB"
+     },
+     {
+      "name": "edwardB"
+     },
+     {
+      "name": "KatelynD"
+     },
+     {
+      "name": "JayD"
+     },
+     {
+      "name": "leahnyc"
+     },
+     {
+      "name": "JenniferJones"
+     },
+     {
+      "name": "Suzanne007"
+     },
+     {
+      "name": "JonathanB"
+     },
+     {
+      "name": "Harrynkaren"
+     },
+     {
+      "name": "OpenTable Diner"
+     },
+     {
+      "name": "OpenTable Diner"
+     },
+     {
+      "name": "OpenTable Diner"
+     },
+     {
+      "name": "Brad"
+     },
+     {
+      "name": "AlexandraC"
+     },
+     {
+      "name": "jreilly"
+     },
+     {
+      "name": "OpenTable Diner"
+     },
+     {
+      "name": "neighbor"
+     },
+     {
+      "name": "OpenTable Diner"
+     },
+     {
+      "name": "Luxe"
+     },
+     {
+      "name": "OpenTable Diner"
+     },
+     {
+      "name": "MarkD"
+     },
+     {
+      "name": "OpenTable Diner"
+     },
+     {
+      "name": "fino"
+     },
+     {
+      "name": "OpenTable Diner"
+     },
+     {
+      "name": "OpenTable Diner"
+     },
+     {
+      "name": "OpenTable Diner"
+     },
+     {
+      "name": "CharlesA"
+     },
+     {
+      "name": "AndreaC"
+     },
+     {
+      "name": "JayD"
+     },
+     {
+      "name": "OpenTable Diner"
+     },
+     {
+      "name": "guest"
+     }
+    ],
+    "hreviewaggregate": [
+     {
+      "pricerange": "$50 and over",
+      "count": "244"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://resizer.otstatic.com/v2/photos/large/25549812.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Avena Gallagher",
+   "htmlTitle": "\u003cb\u003eAvena\u003c/b\u003e Gallagher",
+   "link": "http://www.avenagallagher.com/",
+   "displayLink": "www.avenagallagher.com",
+   "snippet": "Avena Gallagher; Stylist; Fashion; Projects; Portraits; Film; Commercial; Runway; \nContact: avena.gallagher@gmail.com. Represented by Cartel & Co.",
+   "htmlSnippet": "\u003cb\u003eAvena\u003c/b\u003e Gallagher; Stylist; Fashion; Projects; Portraits; Film; Commercial; Runway; \u003cbr\u003e\nContact: \u003cb\u003eavena\u003c/b\u003e.gallagher@gmail.com. Represented by Cartel &amp; Co.",
+   "cacheId": "Z9z6WsuOj58J",
+   "formattedUrl": "www.avenagallagher.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eavena\u003c/b\u003egallagher.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "og:description": "Avena Gallagher - Stylist",
+      "og:title": "Avena Gallagher - Stylist",
+      "og:type": "article",
+      "og:site_name": "Avena Gallagher - Stylist",
+      "twitter:title": "Avena Gallagher - Stylist",
+      "twitter:description": "Avena Gallagher - Stylist"
+     }
+    ]
+   }
+  }
+ ]
+}

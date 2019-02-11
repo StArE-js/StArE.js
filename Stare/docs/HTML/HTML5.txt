@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" prefix="og: http://ogp.me/ns#">
+	
+	<head>
+
+	<!-- meta tags -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="copyright" content="Copyright &copy; 2019 Arrex Le Cucine">
+	<meta name="author" content="Arrex Le Cucine">
+	<meta name="designer" content="neiko.it">
+	<meta name="robots" content="index, follow">
+	<meta name="googlebot" content="index, follow">
+	<meta name="Rating" content="General">
+	<title>Avena - Arrex Le Cucine</title>
+
+<link rel="stylesheet" href="http://www.arrex.it/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.3.8" type="text/css" media="all" />
+    
+	<!-- icons -->
+    
+	<link rel="apple-touch-icon" href="http://www.arrex.it/apple-touch-icon.png">
+	<link rel="shortcut icon" href="http://www.arrex.it/favicon.ico" type="image/x-icon">
+	<link rel="icon" type="image/png" href="http://www.arrex.it/favicon.png">
+	<meta name="msapplication-TileColor" content="#EB6B0C">
+	<meta name="msapplication-TileImage" content="http://www.arrex.it/mstile.png">
+	<meta name="theme-color" content="#EB6B0C">
+	
+	<!-- Font -->
+	
+	<link rel="stylesheet" href="http://www.arrex.it/wp-content/themes/arrex-cucine/css/font-awesome/css/font-awesome.min.css">
+	<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700,700italic,400italic,300italic' rel='stylesheet' type='text/css'>
+
+    <!-- Bootstrap 3 -->
+		
+	<link href="http://www.arrex.it/wp-content/themes/arrex-cucine/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link href="http://www.arrex.it/wp-content/themes/arrex-cucine/css/bootstrap_plus.css" rel="stylesheet" media="screen">
+	<link href="http://www.arrex.it/wp-content/themes/arrex-cucine/style.css" type="text/css" rel="stylesheet" media="screen, projection" />
+	<script src="http://www.arrex.it/wp-content/themes/arrex-cucine/js/jquery.js"></script>
+	<script src="http://www.arrex.it/wp-content/themes/arrex-cucine/js/bootstrap.min.js"></script>
+	
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	
+	<!--[if lt IE 9]>
+		<script src="http://www.arrex.it/wp-content/themes/arrex-cucine/js/html5shiv.min.js"></script>
+		<script src="http://www.arrex.it/wp-content/themes/arrex-cucine/js/respond.min.js"></script>
+	<![endif]-->
+	    
+	<link rel="alternate" hreflang="it-IT" href="http://www.arrex.it/prodotto/avena/" />
+<link rel="alternate" hreflang="en-US" href="http://www.arrex.it/en/prodotto/avena/" />
+<link rel="alternate" hreflang="fr-FR" href="http://www.arrex.it/fr/prodotto/avena/" />
+
+<!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.arrex.it/en/prodotto/avena/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Avena - Arrex Le Cucine" />
+<meta property="og:description" content="The design kitchen goes high tech Avena is the modern kitchen that is all about technology, experimenting and combining different materials in a context in which the design creates harmony and balance." />
+<meta property="og:url" content="http://www.arrex.it/en/prodotto/avena/" />
+<meta property="og:site_name" content="Arrex Le Cucine" />
+<meta property="article:publisher" content="https://www.facebook.com/Arrex.Le.Cucine" />
+<meta property="og:image" content="http://www.arrex.it/wp-content/uploads/2016/01/logo_arrex_official.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="The design kitchen goes high tech Avena is the modern kitchen that is all about technology, experimenting and combining different materials in a context in which the design creates harmony and balance." />
+<meta name="twitter:title" content="Avena - Arrex Le Cucine" />
+<meta name="twitter:site" content="@ArrexLeCucine" />
+<meta name="twitter:image" content="http://www.arrex.it/wp-content/uploads/2016/01/logo_arrex_official.png" />
+<meta name="twitter:creator" content="@ArrexLeCucine" />
+<!-- / Yoast SEO plugin. -->
+
+<!-- This site is powered by Shareaholic - https://shareaholic.com -->
+<script type='text/javascript' data-cfasync='false'>
+  //<![CDATA[
+    _SHR_SETTINGS = {"endpoints":{"local_recs_url":"http:\/\/www.arrex.it\/wp-admin\/admin-ajax.php?action=shareaholic_permalink_related"}};
+  //]]>
+</script>
+<script type='text/javascript' data-cfasync='false'
+        src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js'
+        data-shr-siteid='4de19479bdc0833c2115d3260260fba9' async='async' >
+</script>
+
+<!-- Shareaholic Content Tags -->
+<meta name='shareaholic:site_name' content='Arrex Le Cucine' />
+<meta name='shareaholic:language' content='en-US' />
+<meta name='shareaholic:url' content='http://www.arrex.it/en/prodotto/avena/' />
+<meta name='shareaholic:article_published_time' content='2016-02-24T11:25:05+00:00' />
+<meta name='shareaholic:article_modified_time' content='2019-02-08T16:59:18+00:00' />
+<meta name='shareaholic:shareable_page' content='true' />
+<meta name='shareaholic:article_author_name' content='Neiko' />
+<meta name='shareaholic:site_id' content='4de19479bdc0833c2115d3260260fba9' />
+<meta name='shareaholic:wp_version' content='7.8.0.3' />
+
+<!-- Shareaholic Content Tags End -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.arrex.it\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.4"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<script type='text/javascript' src='http://www.arrex.it/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.arrex.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.arrex.it/wp-content/plugins/sitepress-multilingual-cms/res/js/jquery.cookie.js?ver=3.3.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"it_IT":"http:\/\/www.arrex.it\/prodotto\/avena\/","it":"http:\/\/www.arrex.it\/prodotto\/avena\/","IT":"http:\/\/www.arrex.it\/prodotto\/avena\/","en_US":"http:\/\/www.arrex.it\/en\/prodotto\/avena\/","en":"http:\/\/www.arrex.it\/en\/prodotto\/avena\/","US":"http:\/\/www.arrex.it\/en\/prodotto\/avena\/","fr_FR":"http:\/\/www.arrex.it\/fr\/prodotto\/avena\/","fr":"http:\/\/www.arrex.it\/fr\/prodotto\/avena\/","FR":"http:\/\/www.arrex.it\/fr\/prodotto\/avena\/"},"cookie":{"name":"_icl_visitor_lang_js","domain":"www.arrex.it","path":"\/","expiration":24}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.arrex.it/wp-content/plugins/sitepress-multilingual-cms/res/js/browser-redirect.js?ver=3.3.8'></script>
+<link rel='https://api.w.org/' href='http://www.arrex.it/en/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.arrex.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.arrex.it/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.4" />
+<link rel='shortlink' href='http://www.arrex.it/en/?p=1627' />
+<link rel="alternate" type="application/json+oembed" href="http://www.arrex.it/en/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.arrex.it%2Fen%2Fprodotto%2Favena%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.arrex.it/en/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.arrex.it%2Fen%2Fprodotto%2Favena%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:3.3.8 stt:1,4,27;" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.arrex.it/en/?wordfence_logHuman=1&hid=64F3E0B081F5B5B52828D3491B17EC32');
+</script>		
+</head>
+<body>
+	
+	<div id="header">
+	
+		<div id="top_header">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-6 text-left">
+						<a href="http://www.gruppoatma.com" target="_blank" title="Go to the Atma Group website">Atma group</a>
+					</div>
+					<div class="col-xs-6 text-right">
+						<a href="http://facebook.com/Arrex.Le.Cucine" class="link_facebook" title="Follow Arrex on Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a href="http://twitter.com/ArrexLeCucine" class="link_twitter" title="Follow Arrex on Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+						<a href="https://it.pinterest.com/arrexlecucineit/" class="link_pinterest" title="Follow Arrex on Pinterest" target="_blank"><i class="fa fa-pinterest-p"></i></a>
+						<a href="https://plus.google.com/117844939950892918973" class="link_googleplus" title="Follow Arrex on GooglePlus" target="_blank"><i class="fa fa-google-plus"></i></a>
+						<a href="http://youtube.com/user/arrexlecucine" class="link_youtube" title="Follow Arrex on YouTube"><i class="fa fa-youtube-play" target="_blank"></i></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	    
+		<nav class="navbar navbar-default" role="navigation">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed navbar-right" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="http://www.arrex.it/en" title="Arrex Le Cucine trasforma in realtà le migliori idee d’arredo per la cucina componibile e il living."><img src="http://www.arrex.it/wp-content/themes/arrex-cucine/images/logo_arrex_cucine.png" alt="Arrex Le Cucine" class="img-responsive" id="main_logo"></a>
+				</div>
+				
+				<div id="menu_container" class="clearfix">
+				<div class="collapse navbar-collapse navbar-right"><ul id="menu-menu-inglese" class="nav navbar-nav"><li id="menu-item-1797" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1797 dropdown"><a title="Profile" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Profile <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-1509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1509"><a title="Company Profile" href="http://www.arrex.it/en/production-furniture-kitchen-living-room/">Company Profile</a></li>
+	<li id="menu-item-1516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1516"><a title="History" href="http://www.arrex.it/en/furniture-italian-factory-story/">History</a></li>
+	<li id="menu-item-1520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1520"><a title="Worldwide" href="http://www.arrex.it/en/made-in-italy-kitchens/">Worldwide</a></li>
+	<li id="menu-item-1524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1524"><a title="Green mind" href="http://www.arrex.it/en/sustainably-manufacture-ecological-kitchens/">Green mind</a></li>
+	<li id="menu-item-1529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1529"><a title="The Atma Consortium" href="http://www.arrex.it/en/atma-consortium/">The Atma Consortium</a></li>
+</ul>
+</li>
+<li id="menu-item-1559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1559 dropdown"><a title="Kitchens &#038; living rooms" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Kitchens &#038; living rooms <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-1798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1798"><a title="Kitchens &#038; living rooms" href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/">Kitchens &#038; living rooms</a></li>
+	<li id="menu-item-1799" class="menu-item menu-item-type-taxonomy menu-item-object-collezione current-prodotto-ancestor current-menu-parent current-prodotto-parent menu-item-1799"><a title="Modern Collection" href="http://www.arrex.it/en/collezione/modern-style-kitchen/">Modern Collection</a></li>
+	<li id="menu-item-1800" class="menu-item menu-item-type-taxonomy menu-item-object-collezione menu-item-1800"><a title="Classic Collection" href="http://www.arrex.it/en/collezione/classic-style-kitchen/">Classic Collection</a></li>
+	<li id="menu-item-1537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1537"><a title="Masonry kitchens" href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/italian-masonry-kitchens/">Masonry kitchens</a></li>
+	<li id="menu-item-1801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1801"><a title="Living" href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/living-furniture/">Living</a></li>
+	<li id="menu-item-1802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1802"><a title="Tables e Chairs" href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/kitchen-tables-chairs/">Tables e Chairs</a></li>
+	<li id="menu-item-1545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1545"><a title="Accessories" href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/kitchen-accessories/">Accessories</a></li>
+</ul>
+</li>
+<li id="menu-item-1803" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1803 dropdown"><a title="Details" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Details <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-1533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1533"><a title="Materials and finishes" href="http://www.arrex.it/en/kitchen-materials-and-finishes/">Materials and finishes</a></li>
+	<li id="menu-item-1804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1804"><a title="Masonry kitchens" href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/italian-masonry-kitchens/">Masonry kitchens</a></li>
+	<li id="menu-item-1548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1548"><a title="Worktops" href="http://www.arrex.it/en/kitchen-worktops/">Worktops</a></li>
+	<li id="menu-item-1541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1541"><a title="Made-to-measure kitchen" href="http://www.arrex.it/en/custom-made-to-measure-kitchen/">Made-to-measure kitchen</a></li>
+	<li id="menu-item-1805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1805"><a title="Accessories" href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/kitchen-accessories/">Accessories</a></li>
+	<li id="menu-item-1565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1565"><a title="Handles" href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/kitchen-handles/">Handles</a></li>
+</ul>
+</li>
+<li id="menu-item-1806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1806 dropdown"><a title="Arrex for You" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Arrex for You <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-1835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1835"><a title="Styles and Inspirations" href="http://www.arrex.it/en/kitchen-styles-and-inspirations/">Styles and Inspirations</a></li>
+	<li id="menu-item-1568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1568"><a title="Arrex Channel" href="http://www.arrex.it/en/arrex-channel/">Arrex Channel</a></li>
+	<li id="menu-item-3833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3833"><a title="Vote the kitchen" href="http://www.arrex.it/en/vote-the-kitchen/">Vote the kitchen</a></li>
+	<li id="menu-item-1634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1634"><a title="Poma Multi-functional Centre" href="http://www.arrex.it/en/poma-multifunctional-centre/">Poma Multi-functional Centre</a></li>
+</ul>
+</li>
+<li id="menu-item-1807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1807 dropdown"><a title="Service" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Service <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-1552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1552"><a title="Service" href="http://www.arrex.it/en/assistance-services-arrex/">Service</a></li>
+	<li id="menu-item-1556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1556"><a title="Cleaning and maintenance" href="http://www.arrex.it/en/kitchen-cleaning-and-maintenance/">Cleaning and maintenance</a></li>
+	<li id="menu-item-1562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1562"><a title="Sales network" href="http://www.arrex.it/en/arrex-sales-network/">Sales network</a></li>
+</ul>
+</li>
+<li id="menu-item-1637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1637 dropdown"><a title="Contacts" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Contacts <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-3834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3834"><a title="Contacts" href="http://www.arrex.it/en/contact-us/">Contacts</a></li>
+	<li id="menu-item-3835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3835"><a title="Sales network" href="http://www.arrex.it/en/arrex-sales-network/">Sales network</a></li>
+</ul>
+</li>
+<li id="menu-item-3836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3836"><a title="Blog" target="_blank" href="http://blog.arrex.it">Blog</a></li>
+<li class="menu-item menu-item-language menu-item-language-current menu-item-has-children"><a href="#" onclick="return false">EN</a></li><li class="menu-item menu-item-language"><a href="http://www.arrex.it/prodotto/avena/">IT</a></li><li class="menu-item menu-item-language"><a href="http://www.arrex.it/fr/prodotto/avena/">FR</a></li></ul></div>				</div>
+			</div>
+		</nav>
+	
+	</div>
+	
+	<div id="main_container">
+	<link href="http://www.arrex.it/wp-content/themes/arrex-cucine/js/fancybox/jquery.fancybox.css" rel="stylesheet" media="screen">
+	<script src="http://www.arrex.it/wp-content/themes/arrex-cucine/js/fancybox/jquery.fancybox.pack.js"></script>
+
+	<div class="background_image" style="background-image:url(http://www.arrex.it/wp-content/uploads/2016/02/AVENA_WHITE_RED1.jpg);"></div>
+	
+	<script type="text/javascript">
+		// slide fade on scroll
+		jQuery(document).ready(function(){
+
+			jQuery('.single_product_placeholder').css({
+				'padding-top':0,
+				'height':jQuery(window).height()*0.6
+			});
+					
+			jQuery(window).scroll(function(){
+				var home_slideshow_height = jQuery('.single_product_placeholder').outerHeight();
+				var winsSrollTop = $(window).scrollTop();
+				var ratio = (winsSrollTop * 100 / home_slideshow_height);
+				if(ratio>100) ratio = 100;
+				jQuery('.background_image').css({
+					'-webkit-filter': 'blur('+ratio/10+'px)',
+				    '-moz-filter': 'blur('+ratio/10+'px)',
+				    '-o-filter': 'blur('+ratio/10+'px)',
+				    '-ms-filter': 'blur('+ratio/10+'px)',
+				    'filter': 'blur('+ratio/10+'px)',
+				});
+			});
+		});
+	</script>
+
+	<div itemscope itemtype="http://schema.org/Product" class="container">
+		
+		<meta itemprop="image" content="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_WHITE_RED1.jpg">
+		
+		<div class="single_product_placeholder"></div>
+		
+		<div class="row product_breadcrumb">
+			<div class="col-xs-12 col-sm-6">
+				<a href="javascript:history.back();" class="back" title="go back to previous page"><i class="fa fa-arrow-circle-left"></i></a>
+				<p class="breadcrumbs"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://www.arrex.it/en" rel="v:url" property="v:title">Arrex</a> / <span rel="v:child" typeof="v:Breadcrumb"><a href="http://www.arrex.it/en/collezione/modern-style-kitchen/" rel="v:url" property="v:title">Modern Collection</a> / <span class="breadcrumb_last">Avena</span></span></span></span></p>			</div>
+			<div class="hidden-xs col-sm-6 text-right">
+				<p class="internav">
+					<a href="http://www.arrex.it/en/prodotto/arcobaleno/" title="view previous product">&lsaquo; Arcobaleno</a>					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="http://www.arrex.it/en/prodotto/bianca/" title="view next product">Bianca &rsaquo;</a>				</p>
+			</div>
+		</div>
+		
+		<div class="row product_content">
+			
+			<div class="col-md-12">
+				<h1 itemprop="name">Avena</h1>
+			</div>
+			<div class="col-xs-12 col-md-8 col-lg-8 product_description">
+				<h2>The model concept:</h2>
+				<div itemprop="description"><p>The design kitchen goes high tech</p>
+<p>Avena is the modern kitchen that is all about technology, experimenting and combining different materials in a context in which the design creates harmony and balance.</p>
+</div>
+							</div>
+			<div class="col-xs-12 col-md-4 col-lg-4">
+				<h2>Technical Features:</h2>
+				<ul class="list-unstyled product_feats">
+				<li caratteristica_id="94" data-html="true" data-toggle="popover" data-placement="bottom" title="Lacquer" data-content="&lt;img src=&quot;http://www.arrex.it/wp-content/uploads/2016/03/icon_black_laccato.png&quot; style=&quot;width:100px; height:100px;&quot; class=&quot;img-responsive img_center&quot;&gt;&lt;br&gt;"><span><img src="http://www.arrex.it/wp-content/uploads/2016/03/icon_black_laccato.png" class="img-responsive" alt="Lacquer"></span>Lacquer</li><li caratteristica_id="98" data-html="true" data-toggle="popover" data-placement="bottom" title="Lacquered veneer" data-content="&lt;img src=&quot;http://www.arrex.it/wp-content/uploads/2016/03/icon_black_impiallacciato_laccato.png&quot; style=&quot;width:100px; height:100px;&quot; class=&quot;img-responsive img_center&quot;&gt;&lt;br&gt;"><span><img src="http://www.arrex.it/wp-content/uploads/2016/03/icon_black_impiallacciato_laccato.png" class="img-responsive" alt="Lacquered veneer"></span>Lacquered veneer</li><li caratteristica_id="106" data-html="true" data-toggle="popover" data-placement="bottom" title="Veneer" data-content="&lt;img src=&quot;http://www.arrex.it/wp-content/uploads/2016/03/icon_black_impiallacciato.png&quot; style=&quot;width:100px; height:100px;&quot; class=&quot;img-responsive img_center&quot;&gt;&lt;br&gt;"><span><img src="http://www.arrex.it/wp-content/uploads/2016/03/icon_black_impiallacciato.png" class="img-responsive" alt="Veneer"></span>Veneer</li><li caratteristica_id="100" data-html="true" data-toggle="popover" data-placement="bottom" title="Gola-system handle" data-content="&lt;img src=&quot;http://www.arrex.it/wp-content/uploads/2016/03/icon_black_maniglia_gola.png&quot; style=&quot;width:100px; height:100px;&quot; class=&quot;img-responsive img_center&quot;&gt;&lt;br&gt;"><span><img src="http://www.arrex.it/wp-content/uploads/2016/03/icon_black_maniglia_gola.png" class="img-responsive" alt="Gola-system handle"></span>Gola-system handle</li><li caratteristica_id="88" data-html="true" data-toggle="popover" data-placement="bottom" title="Living room features" data-content="&lt;img src=&quot;http://www.arrex.it/wp-content/uploads/2016/03/icon_black_elementi_living.png&quot; style=&quot;width:100px; height:100px;&quot; class=&quot;img-responsive img_center&quot;&gt;&lt;br&gt;"><span><img src="http://www.arrex.it/wp-content/uploads/2016/03/icon_black_elementi_living.png" class="img-responsive" alt="Living room features"></span>Living room features</li><li caratteristica_id="86" data-html="true" data-toggle="popover" data-placement="bottom" title="Mixable with other models" data-content="&lt;img src=&quot;http://www.arrex.it/wp-content/uploads/2016/03/icon_black_componibilita.png&quot; style=&quot;width:100px; height:100px;&quot; class=&quot;img-responsive img_center&quot;&gt;&lt;br&gt;"><span><img src="http://www.arrex.it/wp-content/uploads/2016/03/icon_black_componibilita.png" class="img-responsive" alt="Mixable with other models"></span>Mixable with other models</li><li caratteristica_id="149" data-html="true" data-toggle="popover" data-placement="bottom" title="Ecologic" data-content="&lt;img src=&quot;http://www.arrex.it/wp-content/uploads/2016/03/icon_black_ecosostenibile.png&quot; style=&quot;width:100px; height:100px;&quot; class=&quot;img-responsive img_center&quot;&gt;&lt;br&gt;"><span><img src="http://www.arrex.it/wp-content/uploads/2016/03/icon_black_ecosostenibile.png" class="img-responsive" alt="Ecologic"></span>Ecologic</li>				</ul>
+			</div>
+		
+		</div>
+		
+				
+			<div class="product_main_images row">
+				
+				<div class="col-xs-12 section_title text-center">
+					<h2>Compositions gallery</h2>
+				</div>
+				
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_WHITE_RED1-1200x722.jpg" title="Avena laccato lucido colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_WHITE_RED1-750x450.jpg" alt="Avena laccato lucido colore Ral" class="img_fullwidth">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/AVENA2-1200x722.jpg" title="Avena laccato lucido colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/AVENA2-750x450.jpg" alt="Avena laccato lucido colore Ral" class="img_fullwidth">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_-3-1200x690.jpg" title="Avena laccato lucido colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_-3-750x450.jpg" alt="Avena laccato lucido colore Ral" class="img_fullwidth">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_-2-1200x690.jpg" title="Avena laccato lucido colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_-2-750x450.jpg" alt="Avena laccato lucido colore Ral" class="img_fullwidth">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_-4-1125x750.jpg" title="Avena laccato lucido colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_-4-750x450.jpg" alt="Avena laccato lucido colore Ral" class="img_fullwidth">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-ebano-lucido-e-laccato-colore-ral-opaco-1200x670.jpg" title="Avena Impiallacciato Ebano Lucido E Laccato Colore Ral Opaco" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-ebano-lucido-e-laccato-colore-ral-opaco-750x450.jpg" alt="Avena Impiallacciato Ebano Lucido E Laccato Colore Ral Opaco" class="img_fullwidth">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-rovere-grigio-1200x697.jpg" title="Avena Impiallacciato Rovere Grigio" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-rovere-grigio-750x450.jpg" alt="Avena Impiallacciato Rovere Grigio" class="img_fullwidth">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-rovere-laccato-colore-ral-1184x750.jpg" title="Avena Impiallacciato Rovere Laccato Colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-rovere-laccato-colore-ral-750x450.jpg" alt="Avena Impiallacciato Rovere Laccato Colore Ral" class="img_fullwidth">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-rovere-moro-e-laccato-colore-ral-1119x750.jpg" title="Avena Impiallacciato Rovere Moro E Laccato Colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-rovere-moro-e-laccato-colore-ral-750x450.jpg" alt="Avena Impiallacciato Rovere Moro E Laccato Colore Ral" class="img_fullwidth">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-rovere-naturale-1200x691.jpg" title="Avena Impiallacciato Rovere Naturale" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-rovere-naturale-750x450.jpg" alt="Avena Impiallacciato Rovere Naturale" class="img_fullwidth">
+					</a>
+								
+			</div>
+		
+		
+				
+			<div class="product_detail_images row">
+				
+				<div class="col-xs-12 section_title text-center">
+					<h2>Details gallery</h2>
+				</div>
+				
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/AVENA1-copia.jpg" title="Avena Particolare laccato lucido colore  Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-6 col-sm-4 col-md-3 images_crop fancybox" rel="details">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/AVENA1-copia-400x400.jpg" alt="Avena Particolare laccato lucido colore  Ral" class="img_fullwidth">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_-1-639x750.jpg" title="Avena Particolare laccato lucido colore  Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-6 col-sm-4 col-md-3 images_crop fancybox" rel="details">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_-1-400x400.jpg" alt="Avena Particolare laccato lucido colore  Ral" class="img_fullwidth">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-impiallacciato-ebano-lucido-e-laccato-opaco-colore-ral-518x750.jpg" title="Avena Particolare Impiallacciato Ebano Lucido E Laccato Opaco Colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-6 col-sm-4 col-md-3 images_crop fancybox" rel="details">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-impiallacciato-ebano-lucido-e-laccato-opaco-colore-ral-400x400.jpg" alt="Avena Particolare Impiallacciato Ebano Lucido E Laccato Opaco Colore Ral" class="img_fullwidth">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-impiallacciato-laccato-colore-ral-1154x750.jpg" title="Avena Particolare Impiallacciato Laccato Colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-6 col-sm-4 col-md-3 images_crop fancybox" rel="details">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-impiallacciato-laccato-colore-ral-400x400.jpg" alt="Avena Particolare Impiallacciato Laccato Colore Ral" class="img_fullwidth">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-impiallacciato-rovere-grigio-1055x750.jpg" title="Avena Particolare Impiallacciato Rovere Grigio" data-toggle="tooltip" data-placement="bottom" class="col-xs-6 col-sm-4 col-md-3 images_crop fancybox" rel="details">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-impiallacciato-rovere-grigio-400x400.jpg" alt="Avena Particolare Impiallacciato Rovere Grigio" class="img_fullwidth">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-impiallacciato-rovere-naturale-518x750.jpg" title="Avena Particolare Impiallacciato Rovere Naturale" data-toggle="tooltip" data-placement="bottom" class="col-xs-6 col-sm-4 col-md-3 images_crop fancybox" rel="details">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-impiallacciato-rovere-naturale-400x400.jpg" alt="Avena Particolare Impiallacciato Rovere Naturale" class="img_fullwidth">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-1125x750.jpg" title="Avena Particolare" data-toggle="tooltip" data-placement="bottom" class="col-xs-6 col-sm-4 col-md-3 images_crop fancybox" rel="details">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-400x400.jpg" alt="Avena Particolare" class="img_fullwidth">
+					</a>
+								
+			</div>
+		
+				
+		<script type="text/javascript">
+			jQuery(document).ready(function(){
+				jQuery('.fancybox').fancybox({'padding':0});
+				jQuery('.fancybox_finiture').fancybox({'padding':20});
+			});
+		</script>
+		
+		<div class="row product_action text-center">
+			
+            <a href="http://www.arrex.it/en/contact-us/?modello=Avena" class="col-xs-12 col-sm-3 inline valign_middle">
+                <img src="http://www.arrex.it/wp-content/themes/arrex-cucine/icons/icon_white_contacts.png" class="sm_iconic">
+				Request more information            </a>
+			
+			
+			
+            <div class="col-xs-12 col-sm-3 inline valign_middle" id="bookmarkme">
+                <img src="http://www.arrex.it/wp-content/themes/arrex-cucine/icons/icon_white_ergonomics.png" class="sm_iconic">
+                Add to Favorites            </div>
+
+		</div>
+
+		<script type="text/javascript">
+			
+		    $(document).ready(function(){
+			    
+		        $('#bookmarkme').click(function() {
+		            if (window.sidebar && window.sidebar.addPanel) { // Mozilla Firefox Bookmark
+		                window.sidebar.addPanel(document.title,window.location.href,'');
+		            } else if(window.external && ('AddFavorite' in window.external)) { // IE Favorite
+		                window.external.AddFavorite(location.href,document.title); 
+		            } else if(window.opera && window.print) { // Opera Hotlist
+		                this.title=document.title;
+		                return true;
+		            } else { // webkit - safari/chrome
+		                alert( "You can add this page to your favorites by clicking " + (navigator.userAgent.toLowerCase().indexOf('mac') != - 1 ? 'Command/Cmd' : 'CTRL') + ' + D');
+		            }
+		        });
+			    $('[data-toggle="popover"]').popover({trigger:"hover"});
+			    $('[data-toggle="tooltip"]').tooltip();
+				
+				$('.images_crop').hover(function(){
+					// IN
+					$(this).parent('div').find('.images_crop').not(this).stop().animate({'opacity':0.33},500);
+				},function(){
+					// OUT
+					$(this).parent('div').find('.images_crop').stop().animate({'opacity':1},300);
+				});
+		    
+		    });
+		</script>
+
+		
+			<div class="product_materials row">
+				
+				<div class="col-xs-12 section_title text-center">
+					<h2>Available finishes:</h2>
+				</div>
+				
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-ebano-e1460108872953-498x750.jpg" title="Impiallacciato Ebano" data-toggle="tooltip" data-placement="bottom" class="col-xs-3 col-sm-2 col-lg-18 fancybox_finiture inline images_finishes" rel="finishes">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-ebano-e1460108872953-266x400.jpg" alt="Impiallacciato Ebano" class="img-responsive">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-laccato-colore-ral-e1460108890541-500x750.jpg" title="Impiallacciato Laccato Colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-3 col-sm-2 col-lg-18 fancybox_finiture inline images_finishes" rel="finishes">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-laccato-colore-ral-e1460108890541-267x400.jpg" alt="Impiallacciato Laccato Colore Ral" class="img-responsive">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-rovere-grigio-e1460124558386-516x750.jpg" title="Impiallacciato Rovere Grigio" data-toggle="tooltip" data-placement="bottom" class="col-xs-3 col-sm-2 col-lg-18 fancybox_finiture inline images_finishes" rel="finishes">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-rovere-grigio-e1460124558386-275x400.jpg" alt="Impiallacciato Rovere Grigio" class="img-responsive">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-rovere-moro-e1460109080139.jpg" title="Impiallacciato Rovere Moro" data-toggle="tooltip" data-placement="bottom" class="col-xs-3 col-sm-2 col-lg-18 fancybox_finiture inline images_finishes" rel="finishes">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-rovere-moro-e1460109080139-268x400.jpg" alt="Impiallacciato Rovere Moro" class="img-responsive">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-rovere-naturale-e1460108979785-498x750.jpg" title="Impiallacciato Rovere Naturale" data-toggle="tooltip" data-placement="bottom" class="col-xs-3 col-sm-2 col-lg-18 fancybox_finiture inline images_finishes" rel="finishes">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-rovere-naturale-e1460108979785-266x400.jpg" alt="Impiallacciato Rovere Naturale" class="img-responsive">
+					</a>
+									<a href="http://www.arrex.it/wp-content/uploads/2016/02/laccato-colore-ral-e1460108996541-498x750.jpg" title="Laccato Colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-3 col-sm-2 col-lg-18 fancybox_finiture inline images_finishes" rel="finishes">
+						<img src="http://www.arrex.it/wp-content/uploads/2016/02/laccato-colore-ral-e1460108996541-266x400.jpg" alt="Laccato Colore Ral" class="img-responsive">
+					</a>
+								
+			</div>
+		
+		
+		<div class="product_share row">
+			
+			<div class="col-xs-12 section_title text-center">
+				<h2>Share</h2>
+				<br>
+				<div class='shareaholic-canvas' data-app-id='24288928' data-app='share_buttons' data-title='Avena' data-link='http://www.arrex.it/en/prodotto/avena/' data-summary=''></div>			</div>
+			
+		</div>
+				
+	</div>
+
+
+</div> <!-- fine main-container-->
+
+<div id="footer" class="text-center col-sm-text-left">
+	<div class="container" id="footer_block">
+		<div class="row">
+			
+			<div class="col-xs-12 col-sm-3">
+				<h5>Informations</h5><br>
+				<strong>Arrex - 1 S.P.A.</strong>
+				<p>C.F. e P. IVA: 00291360261</p>
+				<strong>Ar-Due S.P.A.</strong>
+				<p>P. IVA: 00611290933</p>
+				<br>
+			</div>
+	
+			<div class="col-xs-12 col-sm-3">
+				<h5>Useful links</h5>
+				<ul id="menu-link-utili-inglese" class="list-unstyled"><li id="menu-item-1820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1820"><a target="_blank" href="http://webapplication.arrex.it/webapp/">Area Riservata</a></li>
+<li id="menu-item-1822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1822"><a target="_blank" href="http://arrexsales.active121.com/">Area Agenti</a></li>
+<li id="menu-item-6266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6266"><a href="http://www.arrex.it/en/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-6265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6265"><a href="http://www.arrex.it/en/information-about-cookies/">Information about cookies</a></li>
+</ul>	            <div>
+		            <!-- Servizio Assistenza Programma Grafico -->
+		            <script language="JavaScript" src="http://eu.ntrsupport.com/inquiero/web/an/ann4.asp?login=I23ECF503C6B21A90700343&lang=it&button=bottone&sur=grado di soddisfazione"></script>
+					<a href="http://eu.ntrsupport.com"><img src="http://eu.ntrsupport.com/inquiero/images/monitor.gif" border="0" width="1" height="1"></a>
+	            </div>
+				<br>
+			</div>
+
+			<div class="col-xs-12 col-sm-3">
+				<h5>Arrex Cloud</h5>
+				<p>L’area download Arrex Cloud, riservata ad agenti, rivenditori, giornalisti e redattori.</p>
+				<ul id="menu-link-utili" class="list-unstyled">
+					<li id="menu-item-6615" class="arrex_cloud menu-item menu-item-type-post_type menu-item-object-page menu-item-6615"><a href="http://www.arrex.it/area-download/"><i class="fa fa-cloud-download" aria-hidden="true"></i> Arrex Cloud</a></li>
+				</ul>
+				<br>
+			</div>
+			
+				
+			<div class="col-xs-12 col-sm-3" id="footer_social">
+				<h5>Arrex social</h5>
+				<p>Arrex is also on social networks:</p>
+				<a href="http://facebook.com/Arrex.Le.Cucine" class="link_facebook" title="Follow Arrex on Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+				<a href="http://twitter.com/ArrexLeCucine" class="link_twitter" title="Follow Arrex on Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+				<a href="https://it.pinterest.com/arrexlecucineit/" class="link_pinterest" title="Follow Arrex on Pinterest" target="_blank"><i class="fa fa-pinterest-p"></i></a>
+				<a href="https://plus.google.com/117844939950892918973" class="link_googleplus" title="Follow Arrex on GooglePlus" target="_blank"><i class="fa fa-google-plus"></i></a>
+				<a href="http://youtube.com/user/arrexlecucine" class="link_youtube" title="Follow Arrex on YouTube"><i class="fa fa-youtube-play" target="_blank"></i></a>				
+				<br><br>
+<!--
+				<h5>Languages</h5>
+				<div class="list-unstyled"><ul><li class="page_item page-item-1573"><a href="http://www.arrex.it/en/arrex-channel/arrex-moments/">Arrex Moments</a></li><li class="page_item page-item-1575"><a href="http://www.arrex.it/en/arrex-channel/beker-programma-cucina/">Bekèr</a></li><li class="page_item page-item-6257"><a href="http://www.arrex.it/en/information-about-cookies/">Information about cookies</a></li><li class="page_item page-item-6252"><a href="http://www.arrex.it/en/privacy-policy/">Privacy Policy</a></li><li class="page_item page-item-1551"><a href="http://www.arrex.it/en/assistance-services-arrex/">Service</a></li><li class="page_item page-item-1832"><a href="http://www.arrex.it/en/kitchen-styles-and-inspirations/">Styles and Inspirations</a></li><li class="page_item page-item-1528"><a href="http://www.arrex.it/en/atma-consortium/">The Atma Consortium</a></li><li class="page_item page-item-1570"><a href="http://www.arrex.it/en/apply-vote-your-kitchen/">Vote for your kitchen!</a></li><li class="page_item page-item-3829"><a href="http://www.arrex.it/en/vote-the-kitchen/">Vote the kitchen</a></li><li class="page_item page-item-1547"><a href="http://www.arrex.it/en/kitchen-worktops/">Worktops</a></li><li class="page_item page-item-1519"><a href="http://www.arrex.it/en/made-in-italy-kitchens/">Worldwide</a></li><li class="page_item page-item-1567 page_item_has_children"><a href="http://www.arrex.it/en/arrex-channel/">Arrex Channel</a></li><li class="page_item page-item-1508"><a href="http://www.arrex.it/en/production-furniture-kitchen-living-room/">Company Profile</a></li><li class="page_item page-item-1555"><a href="http://www.arrex.it/en/kitchen-cleaning-and-maintenance/">Cleaning and maintenance</a></li><li class="page_item page-item-1636"><a href="http://www.arrex.it/en/contact-us/">Contacts</a></li><li class="page_item page-item-1515"><a href="http://www.arrex.it/en/furniture-italian-factory-story/">History</a></li><li class="page_item page-item-1544"><a href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/kitchen-accessories/">Accessories</a></li><li class="page_item page-item-1789"><a href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/living-furniture/">Living</a></li><li class="page_item page-item-1523"><a href="http://www.arrex.it/en/sustainably-manufacture-ecological-kitchens/">Green mind</a></li><li class="page_item page-item-1564"><a href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/kitchen-handles/">Handles</a></li><li class="page_item page-item-1558 page_item_has_children"><a href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/">Kitchens &#038; living rooms</a></li><li class="page_item page-item-1536"><a href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/italian-masonry-kitchens/">Masonry kitchens</a></li><li class="page_item page-item-1779"><a href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/kitchen-tables-chairs/">Tables e Chairs</a></li><li class="page_item page-item-1540"><a href="http://www.arrex.it/en/custom-made-to-measure-kitchen/">Made-to-measure kitchen</a></li><li class="page_item page-item-1639"><a href="http://www.arrex.it/en/">Homepage</a></li><li class="page_item page-item-1532"><a href="http://www.arrex.it/en/kitchen-materials-and-finishes/">Materials and finishes</a></li><li class="page_item page-item-1633"><a href="http://www.arrex.it/en/poma-multifunctional-centre/">Poma Multi-functional Centre</a></li><li class="page_item page-item-1561"><a href="http://www.arrex.it/en/arrex-sales-network/">Sales network</a></li>
+</ul></div>				<br>
+-->
+			</div>
+			
+		</div>
+	</div>
+	
+	<div class="container text-center">
+		<div id="copyright">
+			Powered by: <a href="http://www.neiko.it" target="_blank" title="Neiko: Agenzia di Comunicazione, Sviluppo Web, Grafica, 3D">Neiko srl</a> 
+		</div>
+	</div>
+	
+</div>
+
+<script type="text/javascript">
+	// mani-container min height to window size
+	function resize_heights(){
+		var wih_height = jQuery(window).height() - 100;
+		jQuery('#main-container').css('min-height',wih_height);
+	};
+	jQuery(document).ready(function(){ resize_heights(); });
+	jQuery(window).load(function(){ resize_heights(); });
+	jQuery(window).resize(function(){ resize_heights(); });
+</script>
+
+<!-- Cookie  -->
+
+<div id="informativaCookie" style="position:fixed; bottom:0; left:0; right:0; padding:5px; text-align: center; background-color: #5F5D5E; color:#FFF; font-size: 12px; font-family: Arial, Helvetica, serif; z-index:100">
+	
+	<span style="padding:5px;">Per offrirti il miglior servizio possibile, in questo sito utilizziamo i cookies. Continuando la navigazione ne autorizzi l'uso.</span>
+	<span id="cookies_ok" onclick="setCookie('informatoCookie','true',30);" style="background-color: #777; border:solid 1px #777; cursor: pointer; margin:2px; padding:3px 10px; display:inline-block; color:#FFF; text-decoration: none;">OK</span>
+	<a href="http://www.arrex.it/informativa-sui-cookies/" target="_blank" style="background-color: #777; border:solid 1px #777; cursor: pointer; margin:2px; padding:3px 10px; display:inline-block; color:#FFF; text-decoration: none;">Maggiori informazioni</a>
+	
+</div>
+
+<script type="text/javascript">
+	
+	function setCookie(cname, cvalue, exdays) {
+	    var d = new Date();
+	    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+	    var expires = "expires="+d.toUTCString();
+	    document.cookie = cname + "=" + cvalue + "; " + expires;
+	    if(cname == 'informatoCookie' && cvalue == 'true'){
+		    document.getElementById('informativaCookie').style.display = 'none';
+	    }
+	}
+	
+	function getCookie(cname) {
+	    var name = cname + "=";
+	    var ca = document.cookie.split(';');
+	    for(var i=0; i<ca.length; i++) {
+	        var c = ca[i];
+	        while (c.charAt(0)==' ') c = c.substring(1);
+	        if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+	    }
+	    return "";
+	}
+	
+	if( getCookie('informatoCookie') ){
+		document.getElementById('informativaCookie').style.display = 'none';
+	}
+	
+</script>
+
+<!-- Piwik -->
+
+<!-- Analytics -->
+
+<script>
+	
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39793139-15', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script type='text/javascript' src='http://www.arrex.it/wp-includes/js/wp-embed.min.js?ver=4.5.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.arrex.it\/en\/","ajax_url":"http:\/\/www.arrex.it\/en\/wp-admin\/admin-ajax.php","url_type":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.arrex.it/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.5.4'></script>
+
+</body>
+</html>

@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+
+<html lang="en" data-version="1.84.00">
+
+  <head>
+
+    <!-- standard page html head -->
+<title>Luca Avena - Leiden University</title>
+<meta name="google-site-verification" content="o8KYuFAiSZi6QWW1wxqKFvT1WQwN-BxruU42si9YjXw"/>
+<meta name="google-site-verification" content="hRUxrqIARMinLW2dRXrPpmtLtymnOTsg0Pl3WjHWQ4w"/>
+<link rel="canonical" href="https://www.universiteitleiden.nl/en/staffmembers/luca-avena"/>
+  <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta name="keywords" content="mathematics,probability theory"/>
+<meta name="description" content="　"/>
+  <!-- icons -->
+<link rel="shortcut icon" href="/en/ul2common/icons/favicon.ico" />
+<link rel="icon" type="image/png" sizes="32x32" href="/en/ul2common/icons/icon-32px.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/en/ul2common/icons/icon-96px.png" />
+<link rel="icon" type="image/png" sizes="195x195" href="/en/ul2common/icons/icon-195px.png" />
+
+<link rel="apple-touch-icon" href="/en/ul2common/icons/icon-120px.png" /> <!-- iPhone retina -->
+<link rel="apple-touch-icon" sizes="180x180" href="/en/ul2common/icons/icon-180px.png" /> <!-- iPhone 6 plus -->
+<link rel="apple-touch-icon" sizes="152x152" href="/en/ul2common/icons/icon-152px.png" /> <!-- iPad retina -->
+<link rel="apple-touch-icon" sizes="167x167" href="/en/ul2common/icons/icon-167px.png" /> <!-- iPad pro -->
+<!-- twitter -->
+<meta property="twitter:card" content="summary"/>
+<meta property="twitter:site" content="@UniLeiden"/>
+<meta property="twitter:title" content="Luca Avena"/>
+<meta property="twitter:description" content="　"/>
+<meta property="twitter:image" content="https://www.universiteitleiden.nl/binaries/content/gallery/ul2/portraits/science/a/luca_avena.jpg/luca_avena.jpg/d600x315"/>
+  <!-- Open Graph -->
+<meta property="og:title" content="Luca Avena"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="　"/>
+<meta property="og:site_name" content="Leiden University"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:image" content="https://www.universiteitleiden.nl/binaries/content/gallery/ul2/portraits/science/a/luca_avena.jpg/luca_avena.jpg/d600x315"/>
+  <meta property="og:url" content="https://www.universiteitleiden.nl/en/staffmembers/luca-avena"/>
+  <meta name="application-name" content="search"
+      data-content-type="staffmember" data-content-category="staffmember" data-protected="false" data-language="en" data-last-modified-date="2018-08-21" data-publication-date="2018-08-21" data-gender="M" data-organization="analysis-and-stochastics,mathematical-institute,probability-theory,science" data-faculties="science" data-uuid="b99cf351-11aa-40cb-9883-e9b70a209eeb" data-website="external-site,student-site,staffmember-site,library-site,org-site" data-keywords="mathematics,probability theory" data-lastname="Avena" data-firstname="Luca"/>
+
+<!-- Favicon and CSS -->
+<link rel='shortcut icon' href="/en/ul2common/icons/favicon.ico"/>
+<link rel="stylesheet" href="/en/ul2external/styles/screen.css?v=1.84.00"/>
+
+<script>
+    window.dataLayer = window.Datalayer || [];
+    dataLayer.push ( {
+        event: 'Custom dimensions', customDimensionData: {
+            faculty : 'Science',
+            type :  '',
+            language : 'en',
+            study : '',
+            specialisation : '',
+            pageType: 'staffmember',
+            eventType: '',
+            cookiesAccepted: 'false'
+        }});
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+  w[l] = w[l] || [];
+  w[l].push({
+    'gtm.start':
+      new Date().getTime(), event: 'gtm.js'
+  });
+  var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+  j.async = true;
+  j.src =
+    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+  f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-MR67S7X');
+</script>
+<!-- End Google Tag Manager -->
+<!-- this line enables the loading of asynchronous components (together with the headContributions at the bottom) -->
+    <!-- Header Scripts -->
+    <!-- Please configure Google Analytics Account ID in the Channel Manager / Channel configuration to enable Google Analytics page tracking -->
+
+  </head>
+
+  <body class=" left">
+    <!-- Google Tag Manager -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MR67S7X"
+          height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) --><!-- To enable JS-based styles: -->
+    <script> document.body.className += ' js'; </script>
+
+    <!-- googleoff: all-->
+<div class="header-container">
+  <nav class="top-nav">
+  <ul class="wrapper">
+    <li>
+        <a class="active" href="/en">Leiden University</a>
+      </li>
+    <li>
+        <a class="" href="https://www.student.universiteitleiden.nl/en">Students</a>
+      </li>
+    <li>
+        <a class="" href="https://www.staff.universiteitleiden.nl/">Staff members</a>
+      </li>
+    <li>
+        <a class="" href="https://www.organisatiegids.universiteitleiden.nl/en">Organisational structure</a>
+      </li>
+    <li>
+        <a class="" href="https://www.library.universiteitleiden.nl/">Library</a>
+      </li>
+    </ul>
+</nav><header class="wrapper clearfix">
+
+    <h1 class="logo">
+      <a href="/en">
+        <img width="151" height="64" src="/en/ul2common/images/zegel.png" alt="Universiteit Leiden"/>
+      </a>
+    </h1>
+
+    <!-- Standard page searchbox -->
+<form id="search" method="get" action="searchresults-main">
+  <input type="hidden" name="website" value="external-site"/>
+  <input type="hidden" name="language" value="en"/>
+  <fieldset>
+    <input type="search" name="q" data-suggest="https://www.universiteitleiden.nl/en/async/searchsuggestions"
+           data-wait="100" data-threshold="3"
+           value="" placeholder="Search for subject or person"/>
+    <button class="submit" type="submit">
+      <span>Search</span>
+    </button>
+  </fieldset>
+
+  <ul class="options">
+    <li>
+      <a href="/en/search" data-hidden='' data-hint="Search for subject or person">
+        All categories</a>
+    </li>
+    <li>
+        <a href="/en/search"  data-hidden='{"content-category":"staffmember"}' data-hint="Search for&nbsp;persons">
+          Persons</a>
+      </li>
+    <li>
+        <a href="/en/search"  data-hidden='{"content-category":"education"}' data-hint="Search for&nbsp;education">
+          Education</a>
+      </li>
+    <li>
+        <a href="/en/search"  data-hidden='{"content-category":"research"}' data-hint="Search for&nbsp;research">
+          Research</a>
+      </li>
+    <li>
+        <a href="/en/search"  data-hidden='{"content-category":"news"}' data-hint="Search for&nbsp;news">
+          News</a>
+      </li>
+    <li>
+        <a href="/en/search"  data-hidden='{"content-category":"event"}' data-hint="Search for&nbsp;events">
+          Events</a>
+      </li>
+    <li>
+        <a href="/en/search"  data-hidden='{"content-category":"dossier"}' data-hint="Search for&nbsp;dossiers">
+          Dossiers</a>
+      </li>
+    <li>
+        <a href="/en/search"  data-hidden='{"content-category":"location"}' data-hint="Search for&nbsp;locations">
+          Locations</a>
+      </li>
+    <li>
+        <a href="/en/search"  data-hidden='{"content-category":"course"}' data-hint="Search for&nbsp;courses">
+          Courses</a>
+      </li>
+    <li>
+        <a href="/en/search"  data-hidden='{"content-category":"vacancy"}' data-hint="Search for&nbsp;vacancies">
+          Vacancies</a>
+      </li>
+    <li>
+        <a href="/en/search"  data-hidden='{"content-category":"general"}' data-hint="Search for&nbsp;other">
+          Other</a>
+      </li>
+    <li>
+      <a href="/en/search"  data-hidden='{"keywords":"true"}' data-hint="Search for&nbsp;keywords">
+        Keywords</a>
+    </li>
+  </ul>
+
+</form>
+
+<div class="language-btn-group">
+  <a href="https://www.universiteitleiden.nl/medewerkers/luca-avena" class="btn">
+              <abbr title="Nederlands">nl</abbr>
+            </a>
+          <span class="btn active">
+          <abbr title="English">en</abbr>
+        </span>
+      </div></header>
+  <nav class="main-nav" data-menu-label="Menu">
+  <ul class="wrapper">
+
+    <li><a class="home" href="/en"><span>Home</span></a></li>
+    <li><a href="/en/research" >Research</a></li>
+
+  <li><a href="/en/education" >Education</a></li>
+
+  <li><a href="/en/academic-staff" >Academic staff</a></li>
+
+  <li><a href="/en/about-us" >About us</a></li>
+
+  <li><a href="/en/about-us/management-and-organisation/faculties" >Faculties</a></li>
+
+  <li><a href="/en/the-hague" >Campus The Hague</a></li>
+
+  <li><a href="http://www.library.universiteitleiden.nl/" >Library</a></li>
+
+  </ul>
+</nav></div>
+<!-- googleon: all-->
+<div class="main-container">
+      <div class="main wrapper clearfix">
+
+        <!-- main Student and Staff pages -->
+<!-- googleoff: all-->
+<nav class="breadcrumb">
+    <ul>
+      <li><a href="/en">Home</a></li>
+
+      <li>Luca Avena</li>
+            </ul>
+  </nav>
+<!-- googleon: all-->
+<div id="content" class="profile">
+  <article>
+
+    <figure class="photo search-off">
+          <img src="/binaries/content/gallery/ul2/portraits/science/a/luca_avena.jpg/luca_avena.jpg/d200x250"  alt="" width="200" height="250" />
+        </figure>
+      <!-- facts -->
+
+    <section class="basics">
+      <h1>Luca Avena</h1>
+      <p class="context search-off">Assistant professor</p>
+
+      <ul class="tags">
+  <li>
+      <a href="/en/search?keywords=true&website=external-site&language=en&q=mathematics">mathematics</a>
+    </li>
+  <li>
+      <a href="/en/search?keywords=true&website=external-site&language=en&q=probability+theory">probability theory</a>
+    </li>
+  </ul><dl class="facts search-off">
+        <dt>Name</dt>
+        <dd>Dr. L.  Avena </dd>
+
+        <dt>Telephone</dt>
+            <dd>
+              <a href="tel:+31715278029">+31 71 527 8029</a>
+            </dd>
+          <dt>E-mail</dt>
+            <dd><a href="mailto:l.avena@math.leidenuniv.nl">l.avena@math.leidenuniv.nl</a></dd>
+          </dl>
+    </section>
+
+    <!-- Overview tab -->
+
+    <section class="tab search-off" data-tab-label="Overview">
+        <p>　</p>
+        <div class="box-row threes">
+            <div class="box">
+    <div class="box-header ">
+      <h2>News</h2>
+    </div>
+    <div class="box-content">
+      <ul>
+        <li >
+              <a href="/en/news/2016/12/our-talents-and-discoveries-2016">
+    <img src="/binaries/content/gallery/ul2/main-images/science/header-discoverer.jpg/header-discoverer.jpg/d50x50" alt="" width="50" height="50" />
+      <div>
+      <span class="meta">13 December 2016</span>
+      <strong>Our Talents and Discoveries 2016</strong>
+    </div>
+</a>
+</li>
+          </ul>
+      </div>
+  </div>
+</div>
+        </section>
+
+    <!-- Biography tab -->
+
+    <!-- Contact tab -->
+
+    <section class="tab search-off" data-tab-label="Contact">
+      <div class="role">
+  <div class="col">
+    <h2>Assistant professor</h2>
+    <ul>
+      <li>Wiskunde en Natuurwetenschappen</li>
+      <li>Mathematisch Instituut</li>
+      </ul>
+  </div>
+  <div class="col">
+    <h3>Work address</h3>
+        <address>
+          <a href="/en/locations/snellius">Snellius</a><br/>
+          Niels Bohrweg&nbsp;1<br/>
+          2333 CA&nbsp;Leiden<br/>
+          Room number&nbsp;208</address>
+      <h3>Contact</h3>
+      <ul>
+        <li>
+            <a href="tel:+31715278029">+31 71 527 8029</a>
+          </li>
+        <li><a href="mailto:l.avena@math.leidenuniv.nl">l.avena@math.leidenuniv.nl</a></li>
+        </ul>
+    </div>
+
+</div></section>
+
+    <!-- Publications tab -->
+
+    <section class="tab search-off" data-tab-label="Publications">
+              <p>
+              <a href="/en/staffmembers/luca-avena/publications" class="tab-link">Publications</a>
+            </p>
+              </section>
+
+        <!-- Additional functions tab -->
+
+    <section class="tab search-off" data-tab-label="Ancillary activities">
+      <div class="box-row full">
+        <div class="box">
+          <div class="box-content">
+            <ul>
+                      <li>
+                          <span class="meta">Geen relevante nevenwerkzaamheden</span>
+                          <strong></strong>
+                        </li>
+                      </ul>
+                  </div>
+        </div>
+      </div>
+      </section>
+
+    <!-- Share links -->
+
+    <section class="share search-off">
+      <a class="facebook" href="http://www.facebook.com/sharer/sharer.php?u=https://www.universiteitleiden.nl/en/staffmembers/luca-avena" title="Share on Facebook"></a>
+<a class="twitter" href="https://twitter.com/intent/tweet?text=Luca+Avena&amp;url=https%3A%2F%2Fwww.universiteitleiden.nl%2Fen%2Fstaffmembers%2Fluca-avena" title="Share on Twitter"></a>
+<a class="linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;title=Luca+Avena&amp;url=https%3A%2F%2Fwww.universiteitleiden.nl%2Fen%2Fstaffmembers%2Fluca-avena" title="Share on LinkedIn"></a>
+<a class="google-plus" href="https://plus.google.com/share?url=https://www.universiteitleiden.nl/en/staffmembers/luca-avena" title="Share on Google+"></a>
+<a class="envelope" href="mailto:?subject=I%20wanted%20you%20to%20see%20this%20site&amp;body=Check%20out%20this:%20https://www.universiteitleiden.nl/en/staffmembers/luca-avena." title="Share by email"></a>
+
+</section>
+
+  </article>
+</div>
+<aside>
+
+  <div class="box paginated" data-per-page="10" data-prev="" data-next="">
+    <div class="box-header">
+      <h2>Research</h2>
+    </div>
+    <div class="box-content">
+      <ul>
+        <li>
+            <a href="/en/research/research-projects/science/networks">
+              <img src="/binaries/content/gallery/ul2/main-images/science/mi/complex-network.jpg/complex-network.jpg/d50x50" alt="" width="50" height="50" />
+      <div>
+                <strong>NETWORKS</strong>
+              </div>
+            </a>
+          </li>
+        </ul>
+    </div>
+  </div>
+<div class="box paginated" data-per-page="10" data-prev="" data-next="">
+    <div class="box-header">
+      <h2>Organisation</h2>
+    </div>
+    <div class="box-content">
+      <ul>
+        <li>
+            <a href="/en/science">Science</a>
+              </li>
+        <li>
+            <a href="/en/science/mathematics">Mathematical Institute (MI)</a>
+              </li>
+        <li>
+            <a href="/en/science/mathematics/probability-theory">Probability Theory</a>
+              </li>
+        </ul>
+    </div>
+  </div>
+</aside></div>
+    </div>
+
+    <!-- googleoff: all-->
+<div class="footer-container">
+    <footer class="wrapper clearfix">
+      <section>
+          <h2>Study programmes</h2>
+              <ul>
+                <li>
+                    <a href="/en/education/bachelors">Bachelor&#039;s programmes</a>
+                  </li>
+                <li>
+                    <a href="/en/education/masters">Master&#039;s programmes</a>
+                  </li>
+                <li>
+                    <a href="/en/research/studying-for-a-phd">PhD programmes</a>
+                  </li>
+                <li>
+                    <a href="http://summerschool.universiteitleiden.nl">Summer School</a>
+                  </li>
+                <li>
+                    <a href="/en/education/other-modes-of-study">Other modes of study</a>
+                  </li>
+                <li>
+                    <a href="/en/education/bachelors/information-activities/open-days">Bachelor&#039;s Open Days</a>
+                  </li>
+                <li>
+                    <a href="/en/education/masters">Master&#039;s Open  Days</a>
+                  </li>
+                <li>
+                    <a href="/en/education/admission-and-application">Admission &amp; Application</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>Organisation</h2>
+              <ul>
+                <li>
+                    <a href="/en/archaeology">Archaeology</a>
+                  </li>
+                <li>
+                    <a href="/en/governance-and-global-affairs">Governance and Global Affairs</a>
+                  </li>
+                <li>
+                    <a href="/en/humanities">Humanities</a>
+                  </li>
+                <li>
+                    <a href="/en/law">Law</a>
+                  </li>
+                <li>
+                    <a href="/en/medicine-lumc">Medicine/LUMC</a>
+                  </li>
+                <li>
+                    <a href="/en/science">Science</a>
+                  </li>
+                <li>
+                    <a href="/en/social-behavioural-sciences">Social and Behavioural Sciences</a>
+                  </li>
+                <li>
+                    <a href="/en/african-studies-centre-leiden">African Studies Centre Leiden</a>
+                  </li>
+                <li>
+                    <a href="/en/honours-academy">Honours Academy</a>
+                  </li>
+                <li>
+                    <a href="/en/iclon">ICLON (Graduate School of Teaching)</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>About us</h2>
+              <ul>
+                <li>
+                    <a href="/en/dossiers/444">444 years: let&#039;s celebrate together</a>
+                  </li>
+                <li>
+                    <a href="/en/working-at">Working at Leiden University</a>
+                  </li>
+                <li>
+                    <a href="/en/alumni">Alumni</a>
+                  </li>
+                <li>
+                    <a href="/en/about-us/impact">Impact</a>
+                  </li>
+                <li>
+                    <a href="http://www.leiden-delft-erasmus.nl/en/home">Leiden-Delft-Erasmus</a>
+                  </li>
+                <li>
+                    <a href="https://www.universiteitleiden.nl/en/locations">Locations</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/regulations/general/university-website-disclaimer">Disclaimer</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/cookies">Cookies</a>
+                  </li>
+                <li>
+                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/regulations/general/privacy-statements">Privacy</a>
+                  </li>
+                <li>
+                    <a href="/en/about-us/contact">Contact</a>
+                  </li>
+                </ul>
+            </section>
+      <section>
+          <h2>Connect with us</h2>
+              <ul>
+                  <li>
+                      <a href="http://www.leiden.edu/newsletter/address/">Sign up to receive our monthly newsletter</a>
+                    </li>
+                  </ul>
+              <div class="share">
+                <a href="https://www.facebook.com/UniversiteitLeiden" class="facebook"></a>
+                <a href="https://twitter.com/unileidennews" class="twitter"></a>
+                <a href="http://www.youtube.com/user/UniversiteitLeiden" class="youtube"></a>
+                <a href="http://www.linkedin.com/company/leiden-university" class="linkedin"></a>
+                <a href="https://instagram.com/universiteitleiden" class="instagram"></a>
+                <a href="https://plus.google.com/+UniversiteitLeiden" class="google-plus"></a>
+                </div>
+            </section>
+      </footer>
+  </div>
+<!-- googleon: all-->
+<div class="cookies">
+    <div class="wrapper">
+      <p>This website uses cookies. <a href="https://www.organisatiegids.universiteitleiden.nl/en/cookies">More information</a></p><form action="/en/staffmembers/luca-avena?_hn:type=action&amp;_hn:ref=r51_r9" method="post">
+        <button type="submit" class="accept" name="cookie" value="accept">Accept cookies</button>
+        <button type="submit" class="reject" name="cookie" value="reject">Reject cookies</button>
+      </form>
+    </div>
+  </div>
+<!-- bottom scripts -->
+<script async defer src="/scripts/ul2.js?v=1.84.00" data-main="/scripts/ul2external/main.js"></script>
+<!-- this line enables the loading of asynchronous components (together with the headContributions at the top) -->
+    </body>
+</html>

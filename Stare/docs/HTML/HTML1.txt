@@ -1,0 +1,2220 @@
+<!doctype html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#">
+  <head>
+<style>.async-hide { opacity: 0 !important} </style>
+	<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+	h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+	(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+	})(window,document.documentElement,'async-hide','dataLayer',4000,
+	{'GTM-TBWSZ6N':true});</script>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-9337109-1', 'auto');
+	  ga('require', 'GTM-TBWSZ6N');
+	</script>
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-M82LFV');</script>
+	<!-- End Google Tag Manager -->
+
+<!-- BEGIN ContactAtOnce Integration. -->
+<script type="text/javascript">
+window.lpTag=window.lpTag||{},void 0===window.lpTag._tagCount?(window.lpTag={site:"p-20086",env:"us",providerId:"20086",section:lpTag.section||"",autoStart:!1!==lpTag.autoStart,ovr:lpTag.ovr||{domain:"tag.contactatonce.com",tagjs:""},_v:"1.0",_tagCount:1,protocol:"https:",events:{bind:function(t,e,i){lpTag.defer(function(){lpTag.events.bind(t,e,i)},0)},trigger:function(t,e,i){lpTag.defer(function(){lpTag.events.trigger(t,e,i)},1)}},defer:function(t,e){0==e?(this._defB=this._defB||[],this._defB.push(t)):1==e?(this._defT=this._defT||[],this._defT.push(t)):(this._defL=this._defL||[],this._defL.push(t))},sdk:{exec:function(t,e){lpTag._defExec=lpTag._defExec||{},lpTag._defExec[t]=lpTag._defExec[t]||[],lpTag._defExec[t].push(e)}},load:function(t,e,i){var n=this;setTimeout(function(){n._load(t,e,i)},0)},_load:function(t,e,i){var n=t;t||(n=this.protocol+"//"+(this.ovr && this.ovr.domain?this.ovr.domain:"tag.contactatonce.com")+"/tag/tag.js");var a=document.createElement("script");a.setAttribute("charset",e||"UTF-8"),i&&a.setAttribute("id",i),a.setAttribute("src",n),document.getElementsByTagName("head").item(0).appendChild(a)},init:function(){this._timing=this._timing||{},this._timing.start=(new Date).getTime();var t=this;window.attachEvent?window.attachEvent("onload",function(){t._domReady("domReady")}):(window.addEventListener("DOMContentLoaded",function(){t._domReady("contReady")},!1),window.addEventListener("load",function(){t._domReady("domReady")},!1)),void 0 === window._caotStop&&this.load()},start:function(){this.autoStart=!0},_domReady:function(t){this.isDom||(this.isDom=!0,this.events.trigger("CAOT","DOM_READY",{t:t})),this._timing[t]=(new Date).getTime()},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[],tagletCommands:lpTag.tagletCommands||[]},lpTag.init()):window.lpTag._tagCount+=1;
+
+</script>
+
+
+
+  <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+    <link href="https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/favicon.ico" rel="shortcut icon">
+
+        <title>Avena | New Homes in French Valley | Home Builders in Winchester</title>
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v9.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Welcome to Avena, new homes in Winchester, French Valley by home builders Pardee Homes w/ spacious interiors, inviting great rooms &amp; indoor/outdoor living."/>
+<meta name="robots" content="index,follow"/>
+<link rel="canonical" href="https://www.pardeehomes.com/inland-empire/avena/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Avena | New Homes in French Valley | Home Builders in Winchester" />
+<meta property="og:description" content="Welcome to Avena, new homes in Winchester, French Valley by home builders Pardee Homes w/ spacious interiors, inviting great rooms &amp; indoor/outdoor living." />
+<meta property="og:url" content="https://www.pardeehomes.com/inland-empire/avena/" />
+<meta property="og:site_name" content="Pardee Homes" />
+<meta property="og:image" content="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/4-Avena-P4A_Family-Room.jpg" />
+<meta property="og:image:secure_url" content="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/4-Avena-P4A_Family-Room.jpg" />
+<meta property="og:image:width" content="1500" />
+<meta property="og:image:height" content="1000" />
+<meta property="og:image:alt" content="Avena | Plan 4 Great Room to Covered Patio" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Welcome to Avena, new homes in Winchester, French Valley by home builders Pardee Homes w/ spacious interiors, inviting great rooms &amp; indoor/outdoor living." />
+<meta name="twitter:title" content="Avena | New Homes in French Valley | Home Builders in Winchester" />
+<meta name="twitter:image" content="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/4-Avena-P4A_Family-Room.jpg" />
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='tweetscroll-css'  href='https://www.pardeehomes.com/wp-content/plugins/tweetscroll-widget/css/tweetscroll.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='avs-min-css-css'  href='https://www.pardeehomes.com/wp-content/plugins/avartan-slider-lite/views/assets/css/avartanslider.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='avs-basic-tools-css-css'  href='https://www.pardeehomes.com/wp-content/plugins/avartan-slider-lite/views/assets/css/basic-tools-min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts_css-css'  href='https://www.pardeehomes.com/wp-content/themes/pardeehomes/dist/styles/MyFontsWebfontsKit.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-css-css'  href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sage_css-css'  href='https://www.pardeehomes.com/wp-content/themes/pardeehomes/dist/styles/styles.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var PiTweetScroll = {"ajaxrequests":"https:\/\/www.pardeehomes.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script src="https://www.pardeehomes.com/wp-content/plugins/tweetscroll-widget/js/jquery.tweetscroll.js" defer="defer" type="text/javascript"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avs_loader_array = {"loader1":"<img data-loader-style=\"loader1\" src=\"https:\/\/www.pardeehomes.com\/wp-content\/plugins\/avartan-slider-lite\/views\/assets\/images\/loaders\/loader1.gif\">","loader2":"<img data-loader-style=\"loader2\" src=\"https:\/\/www.pardeehomes.com\/wp-content\/plugins\/avartan-slider-lite\/views\/assets\/images\/loaders\/loader2.gif\">","loader3":"<img data-loader-style=\"loader3\" src=\"https:\/\/www.pardeehomes.com\/wp-content\/plugins\/avartan-slider-lite\/views\/assets\/images\/loaders\/loader3.gif\">","loader4":"<img data-loader-style=\"loader4\" src=\"https:\/\/www.pardeehomes.com\/wp-content\/plugins\/avartan-slider-lite\/views\/assets\/images\/loaders\/loader4.gif\">","loader5":"<img data-loader-style=\"loader5\" src=\"https:\/\/www.pardeehomes.com\/wp-content\/plugins\/avartan-slider-lite\/views\/assets\/images\/loaders\/loader5.gif\">","loader6":"<img data-loader-style=\"loader6\" src=\"https:\/\/www.pardeehomes.com\/wp-content\/plugins\/avartan-slider-lite\/views\/assets\/images\/loaders\/loader6.gif\">"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/plugins/avartan-slider-lite/views/assets/js/avartanslider.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SnazzyDataForSnazzyMaps = [];
+SnazzyDataForSnazzyMaps={"id":83,"name":"Muted Blue","description":"An unobtrusive blue design for minimal user-experiences. Design for the Rock RMS project.","url":"https:\/\/snazzymaps.com\/style\/83\/muted-blue","imageUrl":"https:\/\/az769952.vo.msecnd.net\/assets\/83-muted-blue.png?v=20160629025909","json":"[\r\n\t{\"featureType\": \"all\",\r\n\t\t\"stylers\":[\r\n\t\t\t{\"saturation\": 0},\r\n\t\t\t{\"hue\": \"#e7ecf0\"}\r\n\t\t]\r\n\t},\r\n\t{\"featureType\": \"road\",\r\n\t\t\"stylers\":[\r\n\t\t\t{\"saturation\": -70}\r\n\t\t]\r\n\t},\r\n\t{\"featureType\": \"transit\",\r\n\t\t\"stylers\":[\r\n\t\t\t{\"visibility\": \"off\"}\r\n\t\t]\r\n\t},\r\n\t{\"featureType\": \"poi\",\r\n\t\t\"stylers\":[\r\n\t\t\t{\"visibility\": \"off\"}\r\n\t\t]\r\n\t},\r\n\t{\"featureType\": \"water\",\r\n\t\t\"stylers\":[\r\n\t\t\t{\"visibility\": \"simplified\"},\r\n\t\t\t{\"saturation\": -60}\r\n\t\t]\r\n\t}\r\n]","views":23162,"favorites":88,"createdBy":{"name":"Jon Edmiston","url":"http:\/\/www.rockrms.com"},"createdOn":"2014-04-16T02:58:37.86","tags":["greyscale"],"colors":["blue","gray"]};
+/* ]]> */
+</script>
+<script src="https://www.pardeehomes.com/wp-content/plugins/snazzy-maps/snazzymaps.js" defer="defer" type="text/javascript"></script>
+<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/themes/pardeehomes/dist/scripts/vendor/modernizr.min.js'></script>
+<link rel='https://api.w.org/' href='https://www.pardeehomes.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.pardeehomes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.pardeehomes.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://www.pardeehomes.com/?p=22493' />
+<link rel="alternate" type="application/json+oembed" href="https://www.pardeehomes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.pardeehomes.com%2Finland-empire%2Favena%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.pardeehomes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.pardeehomes.com%2Finland-empire%2Favena%2F&#038;format=xml" />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.pardeehomes.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>    <script>var ajaxurl = 'https://www.pardeehomes.com/wp-admin/admin-ajax.php';</script>
+	<!-- Munchkin code -->
+    <script type="text/javascript">
+    (function() {
+        var didInit = false;
+        function initMunchkin() {
+            if(didInit === false) {
+                didInit = true;
+                Munchkin.init('167-BTV-942');
+            }
+        }
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = '//munchkin.marketo.net/munchkin.js';
+        s.onreadystatechange = function() {
+            if (this.readyState == 'complete' || this.readyState == 'loaded') {
+                initMunchkin();
+            }
+        };
+        s.onload = initMunchkin;
+        document.getElementsByTagName('head')[0].appendChild(s);
+    })();
+    </script>
+	<!-- End Munchkin code -->
+    <!--[if lte IE 9]>
+    <script>
+    // Picture element HTML5 shiv
+    document.createElement( "picture" );
+</script>
+<![endif]-->
+<script src="//app-sj10.marketo.com/js/forms2/js/forms2.min.js"></script>
+
+<!-- ADDING in a client requested BUG TRACKING System, most likely remove when we push LIVE -->
+<script type='text/javascript'>
+(function (d, t) {
+    var bh = d.createElement(t), s = d.getElementsByTagName(t)[0];
+    bh.type = 'text/javascript';
+    bh.src = 'https://www.bugherd.com/sidebarv2.js?apikey=xkf07e2n0f8mj4emqdag0g';
+    s.parentNode.insertBefore(bh, s);
+})(document, 'script');
+</script>
+
+</head>
+  <body class="neighborhood-template-default single single-neighborhood postid-22493 avena wpb-js-composer js-comp-ver-5.4.7 vc_responsive elementor-default">
+ <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M82LFV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --> 
+
+ 
+  <!--[if lt IE 9]>
+      <div class="alert alert-warning">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+    
+      <nav class="navigation">
+        <a href="/" class="navigation__logo navigation__logo--mobile" title="Pardee Homes"><img src="https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/pardeehomes-logo.png" class="svg-img" title="Pardee Homes" alt="Pardee Homes"></a>
+		
+		<form class="searchbox searchbox-mobile mobile" method="get" id="searchform" action="/template-search">
+		  <label for="search" class="search_text">Search: </label>
+			<input type="search" id="search" placeholder="Search......" name="search" class="searchbox-input" autocomplete="off" required>
+			<span class="icon -search searchbox-icon"></span>
+		</form>
+		<div id="result-mob" class="result-mobile"></div>
+	    <button class="navigation__burger"><span class="icon -hamburger"><span class="hide-text">hamburger</span></span></button>
+        <button class="navigation__close"><span class="icon -close"><span class="hide-text">close</span></span></button>
+        <div class="navigation__inner">
+			<div class="row">
+			  <div class="medium-12 column">
+				  <div class="medium-3">
+					<a href="/" class="navigation__logo navigation__logo--color" title="Pardee Homes"><img src="https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/pardeehomes-logo.png" title="Pardee Homes" alt="Pardee Homes" class="svg-img"></a><a href="/" class="navigation__logo navigation__logo--white" title="Pardee Homes"><span class="icon -logo"><span class="hide-text">logo</span></span></a>
+				  </div>
+				  <div id="cssmenu" class="medium-6">
+					  <ul>
+					         <li><a href="" class="navigation__link  " rel="nofollow">Find My Home<span class="icon-head -down"></span></a><ul class="navigation__sub">      <li><a href="https://www.pardeehomes.com/region/inland-empire/" class="navigation__sub-link  ">Inland Empire</a></li>      <li><a href="https://www.pardeehomes.com/region/los-angeles/" class="navigation__sub-link  ">Los Angeles / Ventura</a></li>      <li><a href="https://www.pardeehomes.com/region/san-diego/" class="navigation__sub-link  ">San Diego</a></li>      <li><a href="https://www.pardeehomes.com/region/las-vegas/" class="navigation__sub-link  ">Las Vegas</a></li>      </ul></li><li><a href="https://www.pardeehomes.com/smart-solutions/" class="navigation__link  ">Smart Solutions<span class="icon-head -down"></span></a></li><ul class="navigation__sub">      <li><a href="https://www.pardeehomes.com/smart-solutions/" class="navigation__sub-link  ">Smart Solutions</a></li>      <li><a href="https://www.pardeehomes.com/living-smart/" class="navigation__sub-link  ">LivingSmart®</a></li>      </ul></li><li><a href="https://www.pardeehomes.com/about-us/" class="navigation__link  ">About Us<span class="icon-head -down"></span></a></li><ul class="navigation__sub">      <li><a href="https://www.pardeehomes.com/careers/" class="navigation__sub-link  ">Careers</a></li>      <li><a href="https://www.pardeehomes.com/financing/" class="navigation__sub-link  ">Financing My Home</a></li>      </ul></li><li><a href="https://www.pardeehomes.com/blog/" class="navigation__link  ">Blog</a>
+					  </ul>
+				  </div>
+				  <div class="medium-3 social-top">
+					<ul>
+						      <li><a href="https://www.pardeehomes.com/login/" class="navigation__link -login">My Pardee</a></li>      <li><a target="_blank" href="https://www.facebook.com/PardeeHomes" class="navigation__link icons"><span class="icon-head -facebook">&nbsp;<span class="hide-text">social icon</span></span></a></li>      <li><a target="_blank" href="https://twitter.com/PardeeHomes" class="navigation__link icons"><span class="icon-head -twitter">&nbsp;<span class="hide-text">social icon</span></span></a></li>
+					</ul>
+					
+				  </div>
+				  <div class="container search-box">
+					<form class="searchbox" action="/template-search/">
+					  <label for="secarch_box" class="search_text">Search: </label>
+						<input id="secarch_box" type="search" placeholder="Search..." name="search" class="searchbox-input" autocomplete="off" required>
+						<button  type="button" class="searchbox-icon -search icon-head"><span class="hide-text">search icon</span></button>
+						<div id="result" class="result-desktop"></div>
+					</form>
+				  </div>				  
+			  </div>
+			</div> 
+        </div>
+        
+      </nav><script>
+jQuery(document).ready(function(){
+	jQuery('#cssmenu > ul > li > a').focus(function () {
+		jQuery('#cssmenu > ul > li').removeClass('force-show');
+		jQuery(this).parent().addClass('force-show');
+	});
+	jQuery(".social-top .-facebook").parent().addClass('Facebook');
+	jQuery(document).click(function () {
+		jQuery('#cssmenu > ul > li').removeClass('force-show');
+	});
+});
+
+</script>
+
+
+<script>
+jQuery(document).ready(function(){
+	jQuery('#user-top > ul > li > a').focus(function () {
+		jQuery('#user-top > ul > li').removeClass('force-show');
+		jQuery(this).parent().addClass('force-show');
+	});
+	
+
+	jQuery(document).click(function () {
+		jQuery('#user-top > ul > li').removeClass('force-show');
+	});
+});
+
+</script>
+
+
+
+
+
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<div class="banner-slider">
+	<div class="owl-carousel owl-theme">
+						<div class="item">
+					<img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/10/Smart-Savings-Web-Photos-avena.jpg" alt="Los Angeles" style="width:100%;">
+					<div class="item-bg-overlay"></div>
+					<div class="item-content innerStr">
+						<div class="item-caption animated animatedFadeInUp fadeInUp">
+														<h1>Smart Savings Event</h1>
+														<p>Save Thousands on Select Move-in Ready Homes in the Inland Empire. Now Through March 3rd!</p>
+														<a href="https://www.pardeehomes.com/smartsavings2019" class="item-btn">Learn More</a>
+													</div>
+					</div>
+				</div>
+						<div class="item">
+					<img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/4-Avena-P4A_Family-Room.jpg" alt="Los Angeles" style="width:100%;">
+					<div class="item-bg-overlay"></div>
+					<div class="item-content innerStr">
+						<div class="item-caption animated animatedFadeInUp fadeInUp">
+														<h1>Avena</h1>
+														<p>French Valley<br />Priced From The Mid $400,000s</p>
+													</div>
+					</div>
+				</div>
+			   
+	</div>
+</div>
+<script>
+	$(document).ready(function() {
+		var owl = $('.owl-carousel');
+		owl.owlCarousel({
+			margin:0,
+			nav:true,
+			items:1,
+			rewind:true,
+			autoplay:true,
+			autoplayTimeout:4500,
+			slideSpeed : 300,
+			paginationSpeed : 400,
+			singleItem:true,
+			autoplayHoverPause:true      
+		});
+		owl.on('changed.owl.carousel', function(event) {
+			$('.item-caption').removeClass('animated animatedFadeInUp fadeInUp'); 
+			$('.item-caption').hide();                     
+			setTimeout(function(){ 
+				$('.item-caption').show(); 
+				$($('.owl-item')[event.property.value]).find('.item-caption').addClass('animated animatedFadeInUp fadeInUp'); 
+			}, 500);                       
+		});
+	});
+	
+	var video = document.getElementById("slidervideo");             
+	function playVideo() { 
+	  video.play(); 
+	} 
+</script> 
+
+<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/themes/pardeehomes/dist/scripts/jcycle.js'></script>
+
+<script>
+jQuery(document).ready(function($) {
+	
+	$('#slideshow').cycle({
+	fx:      'fade',
+	pause:   true,
+	pager:  '#thumbs',
+	// callback fn that creates a thumbnail to use as pager anchor
+	pagerAnchorBuilder: function(idx, slide) {
+
+	var img = slide.firstChild;
+	//return '<li><a href="#"><img src="' + img.src + '" /></a> <span class="glass"></span></li>';
+	
+	},
+	before: function(currSlideElement, nextSlideElement, options, forwardFlag) {
+		if($(this).find('iframe').attr('src')!='undefined')
+		{
+			$(this).find('iframe').attr('src',$(this).find('iframe').attr('src'));
+		}
+	}
+	
+	});
+	
+	
+	var $allVideos = $("iframe[src^='//www.youtube.com']"),
+
+    // The element that is fluid width
+    $fluidEl = $("body");
+
+	// Figure out and save aspect ratio for each video
+	$allVideos.each(function() {
+
+	  $(this)
+		.data('aspectRatio', this.height / this.width)
+
+		// and remove the hard coded width/height
+		.removeAttr('height')
+		.removeAttr('width');
+
+	});
+
+	// When the window is resized
+	$(window).resize(function() {
+
+	  var newWidth = $fluidEl.width();
+
+	  // Resize all videos according to their own aspect ratio
+	  $allVideos.each(function() {
+
+		var $el = $(this);
+		$el
+		  .width(newWidth)
+		  .height(newWidth * $el.data('aspectRatio'));
+
+	  });
+
+	// Kick off one resize to fix all videos on page load
+	}).resize();
+	
+});
+</script>
+
+<div class="inner_submenu">
+    <div class="innerStr new_neighborhood">
+        
+		<div class="innerMenu">
+			<a href="https://www.pardeehomes.com/inland-empire/avena"><span class="home_icon"><i class="fa fa-home"></i></span></a><button class="nbr_mobile">Overview</button>
+				<div class="mobileMenuInner">
+					<ul><li><a href="https://www.pardeehomes.com/inland-empire/avena/floorplans">Floor Plans & Pricing</a></li><li><a href="https://www.pardeehomes.com/inland-empire/avena/move-in-ready">Move-In Ready Homes</a></li><li><a href="https://www.pardeehomes.com/inland-empire/avena/neighborhood-sitemap">Neighborhood Sitemap</a></li><li><a href="https://www.pardeehomes.com/inland-empire/avena/lifestyle" > Neighborhood Lifestyle</a></li><li><a href="https://www.pardeehomes.com/inland-empire/avena/directions">Maps & Directions</a></li></ul>
+				</div>
+				<div class="btn-group fixed_button right_button"><a href="tel:+1-951-312-0036" class="number_btn call"><i class="fa fa-phone"></i>951-312-0036</a><a href="#stayinformed" class="stayinform stay_informed_btn">Stay Informed</a></div>
+				<div class="clear"></div>
+		</div>	<!--<div  id="stayinformed" style="display:none;">
+		<a href="#" class="fancy_close"></a>
+		<div class="community_form sidebarForm" ></div>
+	</div>-->
+    </div>
+</div>
+<div id="plans-pricing">
+    <div class="innerStr new_neighborhood">
+        <div class="leftSection">
+            <div class="wrapper">
+                    <div class="breadcrumbs">
+      <div class="breadcrumbs__links">
+        <div class="">		
+		  <a href="https://www.pardeehomes.com">Home</a>
+           > <a href="https://www.pardeehomes.com/region/inland-empire">Inland Empire</a> > <a href="https://www.pardeehomes.com/community/french-valley/">French Valley</a>
+		   > Avena
+        </div>
+      </div>
+    </div>    <script type="application/ld+json">
+      {
+                "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://www.pardeehomes.com/region/inland-empire",
+            "name": "Inland Empire"
+          }
+        }      ,{
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@id": "https://www.pardeehomes.com/inland-empire/avena",
+          "name": ""
+        }
+      }
+      ]
+    }
+</script>                <div class="spacing_below_menu">
+                    <div class="community_left">
+                        <div class="row">
+                                                            <span class="label label-red">
+									Now Selling								</span>
+                                                        <div class="sniptext">
+                                Explore The Wide Open Spaces Of Home!                            </div>
+                        </div>
+						                        <address class="address">
+                            <ul>
+                                <li class="time">Monday - Tuesday: 10am - 5pm | Wednesday: 1pm - 5pm | Thursday - Sunday: 10am - 5pm                                            </li>
+                                            
+                            </ul>
+                                                        <div class="neigh_address">
+                                <ul>
+                                                                            <li class="city">
+                                                                                        36379 Calle Lisbon Winchester, CA 92596                                            <br>
+                                            <a
+                                                href="https://www.google.com/maps/place/Avena+by+Pardee+Homes/@33.595847,-117.1203667,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xced7e823fbe7a624!8m2!3d33.595847!4d-117.118178" target="_blank" class="driving-directions">Get
+                                                    Directions</a>                                         </li>
+                                                                    </ul>
+                                <div class="clear"></div>
+                            </div>
+                        </address>
+						                    </div>
+                                            <div class="community_logo">
+                            <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/02/Avena_logo_150x150-1.png">
+                        </div>
+                                        <div class="row">
+                        <div class="medium-12 mar-top">
+                                                        <div class="row">
+                                 <div class="medium-12 mar-top">
+                            <p><a href="https://www.pardeehomes.com/smartsavings2019"><img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2016/05/Banner2.jpg" width="701" height="90" /></a></p>
+<p>Find your new happy place at Avena. The picturesque French Valley is perfect for families who love the outdoors, wide open spaces, nearby parks, and hiking and biking trails. With beautiful views of the neighboring mountains, the homes at Avena complement the surrounding natural beauty with timeless architecture that offers a modern take on traditional styles. Avena was thoughtfully designed for easy family living, featuring four new floor plans, spacious interiors, inviting great rooms and indoor/outdoor living spaces that make every day feel like a celebration.</p>
+<p>Families will appreciate Avena’s convenient location, close to everyday essentials and great shopping. You’re also just minutes away from charming Old Town Temecula, with its historic buildings, antique shops, wine-tasting specialty stores and great restaurants. Parents will love that Avena is within the highly-acclaimed Temecula Valley Unified School District, which recently earned the distinction of receiving the highest overall assessment scores in Riverside County on the new California Smarter Balanced Tests. And with easy access to the 215 and 15 Freeways and Highway 79, you’re never too far away from major employment centers, and even more shopping and entertainment.</p>
+<p>Sign up on the Interest List to get all the latest news and updates on Avena.</p>
+							<div class="medium-6 content_desc">
+								<h3>Priced from the mid <span class="price-case"><strong>$400,000's</strong></span></h3>
+								<ul>
+																			<li>
+											3 to 5  Bedrooms										</li>
+																			<li>
+											2.5 to 4 Baths										</li>
+																					<li>
+												2,585 to 3,070 Square Feet (approx) <br>
+											</li>
+																										</ul>
+							</div>
+                                                        </div>                                
+                    </div>
+                </div>
+            </div>
+        </div>
+
+                <!-- <div class="highlight_section">
+                                            <div class="neighborhood_features_heading"></div>
+                                        </div> -->
+
+                <div class="floorPlan_new row">
+                    
+                            <div id="new_videoGallery">
+                                <h4>Photo Gallery <span>47 Photos </span>
+                                </h4>
+                                <figure class="image_gallery" onclick='mktoTrackEvent("ViewGallery")'>
+                                    <a class="new-video-gallery-images_lazy fancybox"
+                                       href="#myModal_image"><img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/6-Avena-P1B_Kitchen-640x427.jpg"></a>
+                                </figure>
+                                <div class="galleryModal fade" id="myModal_image" role="dialog" style="display:none;">
+                                    <div class="modal-dialog">
+                                        <div class="modal-content">
+                                            <section class="slider">
+                                                <div id="slider_images" class="flexslider">
+                                                    <ul class="slides" id="lazyslides">
+                                                                                                            </ul>
+                                                </div>
+                                                <div id="carousel_images" class="flexslider">
+                                                    <ul class="slides">
+                                                        <li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/6-Avena-P1B_Kitchen-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/5-Avena-P1B_Great-Room-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/7-Avena-P1B_Dining-Nook-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/15-Avena-P1B_Pantry-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/3-Avena-P1B_Outdoor-Room-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/2-Avena-P1B_Rear-Elevation-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/10-Avena-P1B_Loft-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/11-Avena-P1B_Loft-Wet-Bar-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/8-Avena-P1B_Master-Bedroom-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/9-Avena-P1B_Master-Bath-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/16-Avena-P1B_Master-Closet-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/12-Avena-P1B_Girls-Bedroom-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/13-Avena-P1B_Guest-Bedroom-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/14-Avena-P1B_Flex-Room-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/4-Avena-P1B_Entry-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/1-Avena-P1B_Front-Elevation-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/4-Avena-P2Cr_Great-Room-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/5-Avena-P2Cr_Family-Room-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/6-Avena-P2Cr_Kitchen-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/3-Avena-P2Cr_Outdoor-Room-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/9-Avena-P2Cr_Loft-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/7-Avena-P2Cr_Master-Bedroom-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/8-Avena-P2Cr_Master-Bath-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/11-Avena-P2Cr_Boys-Bedroom-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/10-Avena-P2Cr_Guest-Bedroom-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/12-Avena-P2Cr_Flex-Room-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/2-Avena-P2Cr_Rear-Elevation-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/1-Avena-P2Cr_Front-Elevation-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/4-Avena-P4A_Family-Room-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/3-Avena-P4A_Outdoor-Room-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/5-Avena-P4A_Great-Room-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/6-Avena-P4A_Kitchen-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/7-Avena-P4A_Kitchen-Detail-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/8-Avena-P4A_Mud-Room-and-Pantry-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/19-Avena-P4A_Pantry-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/9-Avena-P4A_Kitchen-Nook-to-Outdoor-Room-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/15-Avena-P4A_Gen-Suite-Kitchenette-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/14-Avena-P4A_Gen-Suite-Den-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/13-Avena-P4A_Gen-Suite-Bedroom-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/10-Avena-P4A_Loft-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/11-Avena-P4A_Master-Bedroom-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/12-Avena-P4A_Master-Bath-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/17-Avena-P4A_Girls-Bedroom-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/16-Avena-P4A_Boys-Bedroom-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/18-Avena-P4A_Flex-Room-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/2-Avena-P4A_Rear-Elevation-150x150.jpg"></li><li> <img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/1-Avena-P4A_Front-Elevation-150x150.jpg"></li>                                                    </ul>
+                                                </div>
+                                            </section>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                <div id="new_videoGallery">
+                            <h4>Video Gallery <span>2 Videos </span>
+                            </h4>
+                            <figure class="video_gallery" onclick='mktoTrackEvent("Viewvideo")'>
+                                <a class="new-video-gallery fancybox fvideo"
+                                   href="#myModal-video"><img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/02/avena_video_gs_1024x683-640x427.jpg" class="fvideo"><span class="playArrow fvideo"><img src="https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/playIcon.png" /></span></li></a>
+                            </figure>
+                            <div class="galleryModal fade" id="myModal-video" role="dialog" style="display:none;">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <section class="slider">
+                                            <div id="slider" class="flexslider">
+                                                <ul class="slides">
+                                                      
+										<li><iframe id="player_1" class="lazy_iframe iframe_video" data-id="vEAGWxdup2QhqNP78HnADg?autoplay=0"  width="100%" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></li>  
+										<li><iframe id="player_1" class="lazy_iframe iframe_video" data-id="feQMXEcvyb8kLVbqwLpGTf?autoplay=0"  width="100%" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></li>                                                </ul>
+                                            </div>
+                                            <div id="carousel" class="flexslider">
+                                                <ul class="slides">
+                                                      
+										<li><img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/02/avena_video_gs_1024x683-150x150.jpg"></li>  
+										<li><img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/2-Avena-P1B_Rear-Elevation-150x150.jpg"></li>                                                </ul>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                        <div class="clear"></div>
+                </div>
+                <div class="viewbrocdiv">
+                    <li><a href="#add-favorites" title="Avena" data-nebh="Avena" data-permalink="https://www.pardeehomes.com/inland-empire/avena/" data-crmid="a00j000000d6tHG" data-id="22493" class="fav_button modal-link" rel="nofollow"><img src="https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/icons/Star.png" alt="favourites" title="favourites" style="margin-top:-4px;"/>Favorite</a></li>                        <li><a href="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/02/Avena-Brochure-Oct-2018.pdf" target="_blank" class="viewbroc download-brochure"><img
+                                        src="/wp-content/themes/pardeehomes/images/icons/brochure.png"
+                                        alt="broucher_image" title="broucher_image"/>View Brochure
+                                <small>>></small>
+                            </a></li>
+                                    </div>
+
+            </div>
+        </div>
+        <div class="rightSection" id="rightsidebar">
+            <div class="contact_card">
+	<h3>Let us assist you in your home search!</h3>
+	<div class="contact_person">
+					<div class="person_image">
+				<img width="150" height="150" src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2016/04/NHS-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://www.pardeehomes.com/wp-content/uploads/sites/3/2016/04/NHS-150x150.jpg 150w, https://www.pardeehomes.com/wp-content/uploads/sites/3/2016/04/NHS-300x300.jpg 300w, https://www.pardeehomes.com/wp-content/uploads/sites/3/2016/04/NHS.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" />			</div>
+				<div class="contact_detail">
+						<span>cara garcia & jennie rickert</span>
+						<p>DRE#: Tecara (Cara): 01390625, Jennine (Jennie): 01862974</p>
+					</div>
+	</div>
+	<div class="btn-group fixed_button">
+					<a href="tel:951-312-0036" class="number_btn phone_number call"><i class="fa fa-phone"></i><span class="invocaNumber">951-312-0036</span></a>
+				<div class="live_chat_div">
+			<div id="presenceDiv"></div>
+			<div id="chatDiv"></div>
+		</div>
+			</div>
+</div>
+
+<div class="agentFormShowSection"></div>
+<div class="form-box">
+	<h3>Stay Informed</h3>
+	<p>Join the interest list to be kept informed of the latest information.</p>
+	<script src="//app-sj10.marketo.com/js/forms2/js/forms2.min.js"></script>
+	<form id="mktoForm_3655"></form>
+	<div id="text-5" class="widget-container button-desc widget_text">			<div class="textwidget">By providing your contact information, you consent to receive periodic emails, phone calls, text messages and other communications from us.  For mobile phones, standard text message and data charges apply. Consult our <a href="/your-privacy-rights" target="_blank">Privacy Policy</a> for additional information, including unsubscribe options.</div>
+		</div>	<div class="broker_agent"><a href="/agent-registration">Broker or Agent? Register Here</a></div>
+</div>
+<div  id="stayinformed" style="display:none;">
+		<button class="fancy_close"></button>
+		<div class="community_form sidebarForm" ></div>
+</div>
+<script>
+	jQuery(document).ready(function($){
+		/* form date change code */
+		
+		var t = new Date();
+		t.setDate(t.getDate() + 2); 
+		var month = "0"+(t.getUTCMonth()+1);
+		var date = "0"+t.getUTCDate();
+		month = month.slice(-2);
+		date = date.slice(-2);
+		var date = t.getUTCFullYear() + "-" + month + "-" + date;
+		var todayToDate = Date.parse(date);
+		$(document).ready(function($){
+			$("body").on('change', '#requestedDate', function() {
+				$('.datevalidation').remove();
+				var selecteddate = $(this).val();	
+				var datevalue = Date.parse(selecteddate);			 
+				if (datevalue <= todayToDate) {
+					$( "#requestedDate" ).after( "<div class='datevalidation'><p>Please select a date at least three days from today. Call to schedule earlier.</p></div>" );
+				}
+			}); 
+		});
+		MktoForms2.whenReady(function (form) {
+			$("body").on('click', '#mktoForm_3655 .mktoButton', function() {
+				var textlength = $('.datevalidation').length;
+				if(textlength!=0){
+					form.submitable(false);
+				}else{
+					form.submitable(true);
+				}
+			});
+		});
+		
+		/* End */
+		
+		jQuery('a.stay_informed_btn').click(function(){
+			jQuery('body').addClass('fancybox-active');
+			jQuery('.sidebarForm').append( jQuery('.form-box') );		
+			
+		});
+		jQuery(".fancy_close").click(function() {
+			jQuery('.fancybox-container').css("display","none");
+			jQuery('body').removeClass('fancybox-active');
+			jQuery('.agentFormShowSection').after(jQuery('.form-box'));
+		
+		}); 
+	});
+
+
+ (function() {
+	function setChatButton(referenceId, engagementId, chatButtonDivId, presenceStatusDivId) {
+		var chatButton = document.getElementById(chatButtonDivId);
+		var presenceSection = document.getElementById(presenceStatusDivId);
+		var chatEngConfiguration = {
+		"referenceId":referenceId,
+		"engagementId":engagementId,
+		"channel":"chat"
+		};
+		chatButton.onclick = function() {
+			lpTag.sdk.exec("caoEngager.startChat", chatEngConfiguration);
+		};
+		function presenceCallback(presenceData) {
+			if(presenceData.presenceStatus === 'online') {
+				chatButton.innerHTML = "Live Chat";
+				console.log(lpTag);
+				//console.log(lpTag.events);
+			} else {
+				//chatButton.innerHTML = "Chat Offline";
+				presenceSection.innerHTML = "Chat Offline";
+			}
+		}
+		function presenceErrorCallback() {
+			console.log("Error checking presence");
+		}
+		var presenceReq = {
+			"referenceId":referenceId,
+			"engagementId":engagementId,
+			"onSuccess": presenceCallback,
+			"onError":presenceErrorCallback
+		};
+		lpTag.sdk.exec("caoPresence.getPresence", presenceReq);
+	}
+	setChatButton("73140000", 1, "chatDiv", "presenceDiv");
+	
+})(); 
+
+	// Create a clone of the menu, right next to original.
+	jQuery('.innerMenu').addClass('original').clone().insertAfter('.innerMenu').addClass('cloned1').css('position','fixed').css('top','0').css('z-index','500').removeClass('original').hide();
+
+	scrollIntervalID = setInterval(stickIt, 50);
+
+
+	function stickIt() {
+
+	  var orgElementPos = jQuery('.original').offset();
+	  orgElementTop = orgElementPos.top;               
+
+	  if (jQuery(window).scrollTop() >= (orgElementTop)) {
+		// scrolled past the original position; now only show the cloned1, sticky element.
+
+		// Cloned1 element should always have same left position and width as original element.     
+		orgElement = jQuery('.original');
+		coordsOrgElement = orgElement.offset();
+		leftOrgElement = coordsOrgElement.left;  
+		widthOrgElement = orgElement.css('width');
+		jQuery('.cloned1').css('left',leftOrgElement+'px').css('top',0).css('width',widthOrgElement).show();
+		jQuery('.original').css('visibility','hidden');
+	  } else {
+		// not scrolled past the menu; only show the original menu.
+		jQuery('.cloned1').hide();
+		jQuery('.original').css('visibility','visible');
+	  }
+	}
+
+	if (screen.width < 767) {
+		jQuery( ".innerMenu.cloned1 span.home_icon" ).wrapAll( "<div class='scroll_new_div'>" );
+		jQuery( ".innerMenu.cloned1 span.home_icon" ).wrapAll( "<div class='border_div'>" );
+	}
+	else {
+		jQuery( ".innerMenu.cloned1 span.home_icon, .innerMenu.cloned1 button.nbr_mobile, .innerMenu.cloned1 .mobileMenuInner, .innerMenu.cloned1 .right_button" ).wrapAll( "<div class='scroll_new_div'>" );
+	jQuery( ".innerMenu.cloned1 span.home_icon, .innerMenu.cloned1 button.nbr_mobile" ).wrapAll( "<div class='border_div'>" );
+	}
+	
+</script>        </div>
+    </div>
+</div>
+
+<div class="plans-section">
+    <div class="innerStr">
+        <h2>Plans &amp; Pricing</h2>
+        <div class="plan-blocks">		<div class="card card--neighborhood">
+											 <div class="card__frame">
+				<div class="card__image">
+										<a href="https://www.pardeehomes.com/inland-empire/avena/plan-1-26195/" data-planid='26195'><img class="new-band-image" src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/1-Avena-P1B_Front-Elevation.jpg" alt="Allissa, Jennie &amp; Cara Plan 1" title="Allissa, Jennie &amp; Cara Plan 1" /></a>
+									</div>
+				<div class="card__content">
+					<div class="card__stats">
+						<div class="neighborhood-name textupper">
+							<a href="https://www.pardeehomes.com/inland-empire/avena/plan-1-26195/" data-planid='26195'>Plan 1</a>
+													</div>
+																<a href="#add-favorites" title="Plan 1" data-id="26195" data-nebh="Avena" data-plan="Plan 1" data-permalink="https://www.pardeehomes.com/inland-empire/avena/plan-1-26195/" data-crmid="a00j000000d6tHG" class="fav_button modal-link" rel="nofollow"><img src="https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/icons/star-white.png" alt="star-white" title="star-white"/></a>
+															<div class="neighborhood-details">
+													<div class="stat-bedrooms">
+								3 - 4 Beds<br/> 2.5 Baths<br/> 2,585 sq ft (approx)<br/>							</div>
+														<div class="stat-price">
+								Priced from <span class="price-case"> $481,000</span>							</div>
+													</div>
+						<div class="gallery-link text-center"><a class="textupper neighborhood-link" data-planid='26195' href="https://www.pardeehomes.com/inland-empire/avena/plan-1-26195/">View floor plans and gallery</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			<div class="card card--neighborhood">
+											 <div class="card__frame">
+				<div class="card__image">
+										<a href="https://www.pardeehomes.com/inland-empire/avena/plan-2-26199/" data-planid='26199'><img class="new-band-image" src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/1-Avena-P2Cr_Front-Elevation.jpg" alt="Allissa, Jennie &amp; Cara Plan 2" title="Allissa, Jennie &amp; Cara Plan 2" /></a>
+									</div>
+				<div class="card__content">
+					<div class="card__stats">
+						<div class="neighborhood-name textupper">
+							<a href="https://www.pardeehomes.com/inland-empire/avena/plan-2-26199/" data-planid='26199'>Plan 2</a>
+													</div>
+																<a href="#add-favorites" title="Plan 2" data-id="26199" data-nebh="Avena" data-plan="Plan 2" data-permalink="https://www.pardeehomes.com/inland-empire/avena/plan-2-26199/" data-crmid="a00j000000d6tHG" class="fav_button modal-link" rel="nofollow"><img src="https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/icons/star-white.png" alt="star-white" title="star-white"/></a>
+															<div class="neighborhood-details">
+													<div class="stat-bedrooms">
+								3 - 4 Beds<br/> 2.5 - 3 Baths<br/> 2,616 sq ft (approx)<br/>							</div>
+														<div class="stat-price">
+								Priced from <span class="price-case"> $451,000</span>							</div>
+													</div>
+						<div class="gallery-link text-center"><a class="textupper neighborhood-link" data-planid='26199' href="https://www.pardeehomes.com/inland-empire/avena/plan-2-26199/">View floor plans and gallery</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			<div class="card card--neighborhood">
+											 <div class="card__frame">
+				<div class="card__image">
+										<a href="https://www.pardeehomes.com/inland-empire/avena/plan-3-26203/" data-planid='26203'><img class="new-band-image" src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/Avena-3A-1.jpg" alt="Allissa, Jennie &amp; Cara Plan 3" title="Allissa, Jennie &amp; Cara Plan 3" /></a>
+									</div>
+				<div class="card__content">
+					<div class="card__stats">
+						<div class="neighborhood-name textupper">
+							<a href="https://www.pardeehomes.com/inland-empire/avena/plan-3-26203/" data-planid='26203'>Plan 3</a>
+													</div>
+																<a href="#add-favorites" title="Plan 3" data-id="26203" data-nebh="Avena" data-plan="Plan 3" data-permalink="https://www.pardeehomes.com/inland-empire/avena/plan-3-26203/" data-crmid="a00j000000d6tHG" class="fav_button modal-link" rel="nofollow"><img src="https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/icons/star-white.png" alt="star-white" title="star-white"/></a>
+															<div class="neighborhood-details">
+													<div class="stat-bedrooms">
+								4 - 5 Beds<br/> 3 - 4 Baths<br/> 2,871 sq ft (approx)<br/>							</div>
+														<div class="stat-price">
+								Priced from <span class="price-case"> $465,000</span>							</div>
+													</div>
+						<div class="gallery-link text-center"><a class="textupper neighborhood-link" data-planid='26203' href="https://www.pardeehomes.com/inland-empire/avena/plan-3-26203/">View floor plans and gallery</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			<div class="card card--neighborhood">
+											 <div class="card__frame">
+				<div class="card__image">
+										<a href="https://www.pardeehomes.com/inland-empire/avena/plan-4-26207/" data-planid='26207'><img class="new-band-image" src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/1-Avena-P4A_Front-Elevation.jpg" alt="Allissa, Jennie &amp; Cara Plan 4" title="Allissa, Jennie &amp; Cara Plan 4" /></a>
+									</div>
+				<div class="card__content">
+					<div class="card__stats">
+						<div class="neighborhood-name textupper">
+							<a href="https://www.pardeehomes.com/inland-empire/avena/plan-4-26207/" data-planid='26207'>Plan 4</a>
+													</div>
+																<a href="#add-favorites" title="Plan 4" data-id="26207" data-nebh="Avena" data-plan="Plan 4" data-permalink="https://www.pardeehomes.com/inland-empire/avena/plan-4-26207/" data-crmid="a00j000000d6tHG" class="fav_button modal-link" rel="nofollow"><img src="https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/icons/star-white.png" alt="star-white" title="star-white"/></a>
+															<div class="neighborhood-details">
+													<div class="stat-bedrooms">
+								4 - 5 Beds<br/> 3.5 - 4 Baths<br/> 3,070 sq ft (approx)<br/>							</div>
+														<div class="stat-price">
+								Priced from <span class="price-case"> $480,000</span>							</div>
+													</div>
+						<div class="gallery-link text-center"><a class="textupper neighborhood-link" data-planid='26207' href="https://www.pardeehomes.com/inland-empire/avena/plan-4-26207/">View floor plans and gallery</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	<div id="bPopup" class="row " style="display:none;">
+			<button type="button" class="modal__close bpopupclose" aria-label="button"><span class="icon -close"></span></button>
+			<div class="add-favourites pcontent nopad">
+
+			</div>
+		</div></div>    </div>
+</div>
+	
+
+<!-- End estimonials section -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.0/jquery.flexslider-min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.0/flexslider.min.css" media="Screen" type="text/css" />
+<script>
+	/*Testimonial Slider*/
+	
+	jQuery('.cd-testimonials-wrapper').flexslider({
+		selector: ".cd-testimonials > li",
+		animation: "slide",
+		controlNav: true,
+		slideshow: true,
+		smoothHeight: true,
+		start: function(){
+			jQuery('.cd-testimonials').children('li').css({
+				'opacity': 1,
+				'position': 'relative'
+			});
+		}
+	});	
+</script>		
+
+<div style="display:none;" data-cao-referenceid="73140000" data-cao-engref="cao-overlay"></div>
+
+<script type="text/javascript">
+/****Passing E1 cnumber and CRM salesfocre ID to GA on page load for community, neighborhood, plans and qmis****/
+ 	var crmSalesforceid = 'a00j000000d6tHG';
+	var e1Communityid = '73140000';
+		dataLayer.push({
+		 'event': 'communityId',
+		 'e1CommunityId': e1Communityid,
+		 'salesforceId': crmSalesforceid
+		});
+</script>		<nav class="utility-nav">
+	<div class="utility-nav__chunk utility-nav__primary">
+				<nav class="utility-nav">
+		<div class="utility-nav__chunk utility-nav__primary">
+		<a id="invocaPhone" href="tel:+1-951-312-0036" class="-phone call"><span class="fa fa-phone"></span>Call</a> 		<a href="https://maps.google.com/maps?saddr=&daddr=33.595828,-117.118031" class="directions driving-directions"><span class="fa fa-map-marker"></span>Directions</a>				<a href="#stayinform_mobile" class="email stayinform">Stay Informed</a>
+			</div>
+</nav>
+	
+				</div>
+</nav>
+
+<link rel="stylesheet" href="https://www.pardeehomes.com/wp-content/themes/pardeehomes/css/flexslider.css" media="Screen" type="text/css" />
+<script src="https://www.pardeehomes.com/wp-content/themes/pardeehomes/js/jquery.flexslider.js" type="text/javascript"></script>
+	
+<script type="text/javascript">
+	jQuery(document).ready(function($){
+		
+	$(".new-video-gallery").fancybox({
+			type: 'inline',
+			closeClick: false,
+			openEffect: 'none',
+			closeEffect: 'none',
+			autosize: false,
+			'padding': 0,
+			'width': 600,
+			wrapCSS: 'signUpPopup',
+			helpers: {
+				overlay: {
+					locked: false
+				}
+			},
+			afterLoad: function () {
+				$('#carousel').flexslider({
+					animation: "slide",
+					controlNav: false,
+					animationLoop: false,
+					slideshow: false,
+					itemWidth: 140,
+					itemMargin: 5,
+					asNavFor: '#slider'
+				});
+
+				$('#slider').flexslider({
+					animation: "slide",
+					controlNav: false,
+					animationLoop: false,
+					slideshow: false,
+					sync: "#carousel",
+					after: function(slider) {
+						var image_icount='';
+						var image_icount = "video"+slider.currentSlide;
+						mktoTrackEvent(image_icount);
+					},
+					before:function(slider){
+						var currentSlide = slider.currentSlide;
+                         if(parseInt(currentSlide) >= 0){
+							 var iframe = jQuery('.iframe_video')[parseInt(currentSlide)];
+							  if(iframe != 'undefined'){
+								   var src = jQuery(iframe).attr("src");
+									jQuery(iframe).attr("src",src);
+							 }
+						 }
+					}
+				});
+				
+			}
+	});
+
+		$(".new-video-gallery-images").fancybox({
+		type: 'inline',
+		closeClick: false,
+		openEffect: 'none',
+		closeEffect: 'none',
+		autosize: false,
+		'padding': 0,
+		'width': 600,
+		wrapCSS: 'signUpPopup',
+		helpers: {
+			overlay: {
+				locked: false
+			}
+		},
+		afterLoad: function() {
+			$('#carousel_images').flexslider({
+				animation: "slide",
+				controlNav: false,
+				animationLoop: false,
+				slideshow: false,
+				itemWidth: 140,
+				itemMargin: 5,
+				asNavFor: '#slider_images'
+			});
+
+			$('#slider_images').flexslider({
+				animation: "slide",
+				controlNav: false,
+				animationLoop: false,
+				slideshow: false,
+				sync: "#carousel_images",
+				after: function(slider) {
+						var video_count='';
+						var video_count = "image"+slider.currentSlide;
+						mktoTrackEvent(video_count);
+				},
+			});
+		}
+	});
+});
+	/*image gallery*/
+
+	/* jQuery(document).on('click','.image_gallery, .flex-next, .flex-prev', function() {
+			mktoTrackEvent("ViewGallery");
+		}); 
+		jQuery(document).on('click','.video_gallery, .flex-next, .flex-prev', function() {
+			mktoTrackEvent("Viewvideo");
+		}); */	 
+
+		function mktoTrackEvent(value) {
+			_value = value ? value : 'not set';
+			var mktoEventLocation = window.location.href;
+			var mktoEventString = _value + '/';
+			var mktoEventUrl = mktoEventLocation + encodeURI(mktoEventString);
+			Munchkin.munchkinFunction('clickLink', { href: mktoEventUrl });
+		}
+	if (screen.width < 767) {
+		jQuery('.form-box').html('');
+	}
+	if (screen.width > 767 && screen.width <= 1024) {
+		jQuery('#stayinform_mobile').html('');
+	}
+	
+	MktoForms2.loadForm("//app-sj10.marketo.com", "167-BTV-942", 3655, function(form) {
+		
+		/* Form Status */
+		var status = "30";
+		setTimeout( function(){
+			if(status == 35 || status == "coming_soon" ||  status == 40 ||  status == 45 ||  status == 50 || status == "Coming Soon" || status == "Sold Out" || status == "Temporary Sold Out" || status == "sold"){
+				jQuery(".mktoFormRow.row-block-6.field_openQuestion1").css("display","none");
+				jQuery(".mktoFormRow.row-block-8").css("display","none");
+				jQuery(".mktoFormRow.row-block-9").css("display","none");
+				
+			}
+		},5000);
+		form.onSuccess(function(values, followUpUrl) {
+						  var useremail = values.Email;
+			  var cookieexpiry = new Date();
+			  cookieexpiry.setFullYear(cookieexpiry.getFullYear() + 2);
+				dataLayer.push({'event': 'interestList'});
+				form.getFormElem().html("<span class='thanku_mar'>Thanks for signing up! We will get in touch with you shortly.</span>");
+				form.getFormElem().css("text-align","center");
+				jQuery(".form_disclaimer").css("display","none");
+			  //set cookie
+			  document.cookie="_mkto_email="+useremail+"; expires="+cookieexpiry+"; path=/";
+			  return false;
+		});
+	});
+	
+	MktoForms2.whenReady(function (form) {
+			/* Form Normalization Code Start */
+			var fields_arr = ['FirstName','LastName','Email','Phone'];
+			function capitalizeFirstLetter(string) {
+				if(string.indexOf(' ')>=0){
+					var str = string.split(' ');
+					for(var i = 0;i<str.length; i++){
+						str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1).toLowerCase();
+					}
+					return str.join(' ');
+				}else{
+					return string.charAt(0).toUpperCase() + string.slice(1).toLowerCase();
+				}
+			}
+			jQuery(fields_arr).each(function(index, element) {
+				form.getFormElem().find('#' + element).blur(function(){
+					this.value = capitalizeFirstLetter(this.value);
+				});
+			});
+
+			var check = function(event) {
+				var phone = jQuery(this).val();
+				phone = phone.replace(/\D/g,"");
+				if(phone.length>=9) {
+					phone = "("+ phone.slice(0,3)+") "+phone.slice(3,6)+"-"+phone.slice(6);
+				}
+				jQuery(this).val(phone);
+			};
+			form.getFormElem().find('#Phone').on("blur", check);
+			/* Form Normalization Code End */
+		
+		var communityCRMId = 'a00j000000d6tHG';
+		//var communityChosenId = 'Avena';
+		var divisionName = 'Pardee Homes – Inland Empire';
+		
+		//form.getFormElem().find('input[name="Chosen_Community__c"]').val(communityChosenId);
+		form.getFormElem().find('input[name="Communities_of_Interest__c"]').val(communityCRMId);
+		form.getFormElem().find('input[name="formURL"]').val(document.location.href);
+		form.getFormElem().find('input[name="Division__c"]').val(divisionName);
+		form.getFormElem().find('.mktoButton').text('SUBMIT');
+		
+		// fetch current datetime
+		var today = new Date();
+		var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+		var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+		var dateTime = date+' '+time;
+		//append the current date into the conversiontimestamp field when form is submitted
+		form.onSubmit(function(){
+		 form.vals({ "dSConversionTimestamp":dateTime});
+		});
+
+		var Q=1;
+		jQuery('#mktoForm_3655 .mktoFormRow').each(function(i,e) {
+			jQuery(this).addClass('row-block-'+Q);
+			var child_field_id = jQuery(this).find('.mktoField').prop('id');
+			if(child_field_id !== undefined || child_field_id != ""){
+			jQuery(this).addClass('field_'+child_field_id);
+			}
+			Q++;
+		});
+
+	  });
+	jQuery("#Phone").attr('maxlength','10');
+</script><!--script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
+        type="text/javascript"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" type="text/css"-->
+<script>
+    var isLoadedSliderImages = false;
+    function loadSliderImages($) {
+        if (isLoadedSliderImages == false) {
+            jQuery("#lazyslides").html('<li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/6-Avena-P1B_Kitchen-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 1 Kitchen</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/5-Avena-P1B_Great-Room-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 1 Great Room</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/7-Avena-P1B_Dining-Nook-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 1 Dining Room</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/15-Avena-P1B_Pantry-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 1 Pantry</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/3-Avena-P1B_Outdoor-Room-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 1 Covered Patio</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/2-Avena-P1B_Rear-Elevation-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 1 Rear Yard</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/10-Avena-P1B_Loft-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 1 Bonus Room</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/11-Avena-P1B_Loft-Wet-Bar-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 1 Wet Bar at Bonus Room</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/8-Avena-P1B_Master-Bedroom-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 1 Master Bedroom</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/9-Avena-P1B_Master-Bath-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 1 Master Bathroom</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/16-Avena-P1B_Master-Closet-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 1 Master Walk-in Closet</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/12-Avena-P1B_Girls-Bedroom-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 1 Bedroom 2</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/13-Avena-P1B_Guest-Bedroom-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 1 Bedroom 3</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/14-Avena-P1B_Flex-Room-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 1 Laundry Room</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/4-Avena-P1B_Entry-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 1 Entry</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/1-Avena-P1B_Front-Elevation-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 1 Exterior</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/4-Avena-P2Cr_Great-Room-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 2 Great Room to Covered Patio</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/5-Avena-P2Cr_Family-Room-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 2 Great Room</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/6-Avena-P2Cr_Kitchen-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 2 Kitchen</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/3-Avena-P2Cr_Outdoor-Room-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 2 Covered Patio</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/9-Avena-P2Cr_Loft-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 2 Loft</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/7-Avena-P2Cr_Master-Bedroom-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 2 Master Bedroom</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/8-Avena-P2Cr_Master-Bath-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 2 Master Bathroom</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/11-Avena-P2Cr_Boys-Bedroom-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 2 Bedroom 3</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/10-Avena-P2Cr_Guest-Bedroom-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 2 Bedroom 2</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/12-Avena-P2Cr_Flex-Room-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 2 Laundry Room</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/2-Avena-P2Cr_Rear-Elevation-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 2 Rear Yard</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/1-Avena-P2Cr_Front-Elevation-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 2 Exterior</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/4-Avena-P4A_Family-Room-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Great Room to Covered Patio</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/3-Avena-P4A_Outdoor-Room-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Covered Patio</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/5-Avena-P4A_Great-Room-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Great Room</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/6-Avena-P4A_Kitchen-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Kitchen</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/7-Avena-P4A_Kitchen-Detail-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Kitchen with Stainless Steel Appliances</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/8-Avena-P4A_Mud-Room-and-Pantry-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Mud Room and Pantry</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/19-Avena-P4A_Pantry-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Pantry</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/9-Avena-P4A_Kitchen-Nook-to-Outdoor-Room-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Dining Room</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/15-Avena-P4A_Gen-Suite-Kitchenette-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Gensmart® Lounge</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/14-Avena-P4A_Gen-Suite-Den-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Gensmart® Lounge</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/13-Avena-P4A_Gen-Suite-Bedroom-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Gensmart® Bedroom</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/10-Avena-P4A_Loft-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Bonus Room</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/11-Avena-P4A_Master-Bedroom-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Master Bedroom</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/12-Avena-P4A_Master-Bath-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Master Bathroom</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/17-Avena-P4A_Girls-Bedroom-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Bedroom 2</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/16-Avena-P4A_Boys-Bedroom-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Bedroom 3</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/18-Avena-P4A_Flex-Room-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Laundry</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/2-Avena-P4A_Rear-Elevation-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Rear Yard</span></li><li><img src=\"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/1-Avena-P4A_Front-Elevation-1024x683.jpg\"><span class=\"image_caption\">Avena | Plan 4 Exterior</span></li>');
+            isLoadedSliderImages = true;
+
+            $(".new-video-gallery-images_lazy").fancybox({
+                type: 'inline',
+                closeClick: false,
+                openEffect: 'none',
+                closeEffect: 'none',
+                autosize: false,
+                'padding': 0,
+                'width': 600,
+                wrapCSS: 'signUpPopup',
+                helpers: {
+                    overlay: {
+                        locked: false
+                    }
+                },
+                afterLoad: function () {
+                    $(document).find('#carousel_images').flexslider({
+                        animation: "slide",
+                        controlNav: false,
+                        animationLoop: false,
+                        slideshow: false,
+                        itemWidth: 140,
+                        itemMargin: 5,
+                        asNavFor: '#slider_images'
+                    });
+
+                    $(document).find('#slider_images').flexslider({
+                        animation: "slide",
+                        controlNav: false,
+                        animationLoop: false,
+                        slideshow: false,
+                        sync: "#carousel_images",
+                        after: function (slider) {
+                            var video_count = '';
+                            var video_count = "image" + slider.currentSlide;
+                            mktoTrackEvent(video_count);
+                        },
+                    });
+                }
+            });
+        }
+    }
+    jQuery(document).ready(function ($) {
+        var scrollTop = $(window).scrollTop();
+        if(scrollTop > 0){
+            loadSliderImages($);
+        }
+        window.onscroll = function () {
+            loadSliderImages($);
+        };
+        $(".fvideo").click(function () {
+            $("iframe").each(function (index, iframe) {
+                var iframe = $(iframe);
+                var id = iframe.data('id');
+                if (iframe.hasClass('lazy_iframe')) {
+                    iframe.attr('src', 'https://play.vidyard.com/' + id);
+                }
+            });
+        });
+
+       /*  var owl = $('.fadeOut');
+        owl.owlCarousel({
+            margin: 10,
+            nav: true,
+            loop: true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 1
+                },
+                1000: {
+                    items: 1
+                }
+            }
+        })
+        if (!$('#gallery .owl-stage').children('div').hasClass('owl-item')) {
+            $('.single-neighborhood div#gallery').css("min-height", "0");
+            $('.fadeOut.owl-carousel.owl-theme.owl-loaded.owl-drag').height(0);
+        }
+        $(".owl-carousel .item").wrapInner("<div class='imgwrap'></div>"); */
+    });
+</script>    <div class="mortgage-calculator">
+      <div class="row">
+		<h3>Mortgage Payment Calculator*</h3>
+		 <p class="text-center mortage-desc">Your actual rate, payment, and costs could be higher. Get an official Loan Estimate before choosing a loan.</p>
+        <div class="columns medium-6 large-4 mortgage-calculator__tool">
+          <div class="search-filters">
+            <form action="/">
+              <div class="field">
+                <label for="mortgageAmount" class="dollars">Enter Your Mortgage Amount <span class="dollars__symbol">$</span>
+                <input type="number" id="mortgageAmount" step="1000" placeholder="0"></label>
+              </div>
+              <div class="field">
+                <label for="interest">Interest Rate (%)**</label>
+                <input type="number" id="interest" step="1" value="">
+              </div>
+              <div class="field">
+                <label for="period">Amortization Period</label>
+                <div class="custom-select custom-select--button">
+                  <select name="period" id="period">
+                    <option value="1">1 Year</option>
+                    <option value="3">3 Years</option>
+                    <option value="5">5 Years</option>
+                    <option value="10">10 Years</option>
+                    <option value="15">15 Years</option>
+                    <option value="25">25 Years</option>
+                    <option value="30" selected="selected">30 Years</option>
+                  </select>
+                </div>
+              </div>
+              <div class="field">
+                <label for="frequency">Payment Frequency</label>
+                <div class="custom-select custom-select--button">
+                  <select name="frequency" id="frequency">
+                    <option value="12">Monthly</option>
+                    <option value="24">Semi-monthly</option>
+                    <option value="52">Weekly</option>
+                    <option value="26">Bi-weekly</option>
+                  </select>
+                </div>
+              </div>
+            </form>
+          </div>
+		  <p></p>
+		 <p>**Assumptions. You are purchasing a single family home and primary residence. Rate is fixed. Debt-to-income ratio is less than 41% and excellent credit. These assumptions are subject to change without notice.</p>
+        </div>
+        <div class="columns medium-6 large-offset-2 end">
+          <div class="mortgage-calculator__results">
+            <div>
+              <h5>Your <span id="pay-period">monthly</span> payment would be*</h5>
+              <span class="mortgage-calculator__number">$1750</span><br/>
+			  <a href="/about-us/aba-ie/" class="btn btn-medium-olive" target="_blank">Learn More About TRI Pointe Connect</a>              <!--a href="https://www.tripointeconnect.com/get-started/" class="btn btn-medium-olive" target="_blank">Learn More About TRI Pointe Connect</a-->
+              <p class="mortgage-calculator-disclaimer">*This mortgage calculator is for illustrative purposes only and is not a guarantee. The monthly payment illustration on this tool does not include amounts for property taxes, insurance premiums, homeowner’s association dues, or other factors that potentially could affect your monthly payment. Therefore, your actual monthly payment will be higher. Interest rates change frequently and without notice. Financing availability and terms will depend on your situation.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+	   
+           <a href="javascript:void(0);" class="mortgage-calculator__close"><span class="icon -close"></span></a>    </div>
+	
+</div>
+ 
+<div class="myFavourite_popup add-favourites add-favourites--login field-group modal-content js-modal-content" id="add-favorites">
+<h2>MY FAVORITES</h2>
+<p>Discover, save and get inspired.</p>
+<p>Find the communities and floorplans that meet your “must-haves” and a couple “nice-to-haves”, while avoiding your “absolutely nevers”. Save these to your Favorites for easy access at any time and you’ll be well on your way to becoming our next Home Enthusiast. It’s that easy.</p>
+<p>Login or create your own personal Pardee Homes profile by signing up below.</p>
+	<div id="loginFav" class="userLogin">
+						<input type="hidden" id="signonsecurity" name="signonsecurity" value="ff6e758ad4" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />  <form action="https://www.pardeehomes.com/wp-login.php?wpe-login=true" class="parsley-validate login_form" method="post">
+    <label for="user_login">Email*</label>
+    <input name="user_login" id="user_login" value="" placeholder="Enter your email" required data-parsley-error-message="Please enter a valid email" type="email"/>
+    <label for="user_pass">Password*</label>
+    <input type="password" name="pwd" id="user_pass" value="" placeholder="Enter your password" required data-parsley-error-message="Please enter a valid password"/>
+    <div class="checkbox">
+      <input name="rememberme" type="checkbox" id="rememberme" value="forever" />
+      <label for="rememberme">Keep me logged in</label>
+    </div>
+    <button type="submit" class="btn btn--medium-blue">Log In &raquo;</button>
+  </form>			<div class="facebook-wrap"> <!-- WP-FB AutoConnect Premium Button v4.4 -->
+<span class="fbLoginButton">
+            <a class="wpfbac-button" href="javascript:void(0);" onClick="FB.login(function(resp){ if (resp.authResponse)jfb_js_login_callback(); }, {scope:'email', auth_type:'rerequest'});"><img src="/wp-content/uploads/sites/3/2018/09/Login-Facebook.png" alt="jfb_p_buttontext" /></a>
+        </span><!--Premium Add-On #6793, version 38-->
+</div>
+						<div class="accCreated"> 
+								<a href="javascript:void(0);" class="modal-link_1 forgot-password forgot-password2">forgot your password?
+			</div>
+			<div class="accNew">
+				<span><a href="/create-account/" class="dont_account">DON'T HAVE AN ACCOUNT?</a></span>
+
+				<a href="/create-account/" style="text-decoration:none;"><button type="button" class="signupBtn btn btn--medium-olive" aria-label="button">Sign Up</button></a>
+			</div>	
+		<div class="right homesOwner">
+					</div>
+		<div class="clear"></div>
+	</div>
+</div>
+
+<div id="forgotModal2" class="modal-content js-modal-content field-wrap field-forgot favouriteForget">
+<input type="hidden" id="forgotsecurity" name="forgotsecurity" value="ad8d8ef7b4" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />    <form action="https://www.pardeehomes.com/wp-login.php?wpe-login=true?action=lostpassword" class="parsley-validate forgot_form" method="post">
+      <label for="user_forgot_login">Username or E-mail</label>
+      <input name="user_login" id="user_forgot_login" value="" placeholder="Enter your username or email" required data-parsley-error-message="Please enter a valid username or email" />
+      <button type="submit" class="btn btn--medium-olive">Get New Password</button>
+    </form>
+ </div>
+ <a style="display:none;" id="hidden_forgot_link" href="https://www.pardeehomes.com/wp-login.php?wpe-login=true?action=lostpassword" class="modal-link forgot-password forgot-password2_1" data-modal-target="#forgotModal2">forgot your password?</a>
+ 
+ 
+<script>
+ jQuery(document).ready(function(){
+	jQuery('label+input').each(function(){
+		jQuery(this).prev().andSelf().wrapAll('<div class="blockNew" />');
+	});
+	jQuery('.myFavourite_popup .checkbox, .myFavourite_popup button[type=submit]').wrapAll('<div class="blockNew" />');	
+}); 
+</script> 
+	
+	
+
+    <footer class="footer">
+      <div class="footer__think-renew-inspire">
+		 <div class="row">
+			 <div class="medium-12 column">
+				 <div class="medium-7">
+					      <dl style="display:inline-block;vertical-align:top;">
+        <dt>Las Vegas Region</dt>
+        <dd>4675 W Teco Ave </dd>		
+		<dd>Suite 115</dd>
+        <dd>Las Vegas, NV 89118</dd>
+        <dd><a href="tel:702-614-1400">702-614-1400</a></dd>
+      </dl>      <dl style="display:inline-block;vertical-align:top;">
+        <dt>Los Angeles / Ventura Region</dt>
+        <dd>177 E Colorado Blvd </dd>		
+		<dd>Suite 500</dd>
+        <dd>Pasadena, CA 91105</dd>
+        <dd><a href="tel:626-598-9400">626-598-9400</a></dd>
+      </dl>      <dl style="display:inline-block;vertical-align:top;">
+        <dt>Inland Empire Region</dt>
+        <dd>1250 Corona Pointe Court </dd>		
+		<dd>Suite 600</dd>
+        <dd>Corona, CA 92879</dd>
+        <dd><a href="tel:951-428-4400">951-428-4400</a></dd>
+      </dl>      <dl style="display:inline-block;vertical-align:top;">
+        <dt>San Diego Region</dt>
+        <dd>13400 Sabre Springs Parkway </dd>		
+		<dd>Suite 200</dd>
+        <dd>San Diego, CA 92128</dd>
+        <dd><a href="tel:858-794-2500">858-794-2500</a></dd>
+      </dl>					<div class="veribage">
+						<div class="dl">
+							<!--dd>CA Contractor’s License No. 251810. NV Contractor’s License No. 3633A. CA BRE License No. 02027320.</dd-->
+							<div id="text-7" class="widget-container widget_text">			<div class="textwidget"><!--dd&gt;CA Contractor’s License No. 251810. NV Contractor’s License No. 3633A. CA BRE License No. 00242372.&lt;/dd-->
+<div class="dd">
+<div>CA Contractor’s License No. 251810. CA DRE License No. 02027320.</div>
+</div></div>
+		</div>							</div>
+					</div>
+				 </div>
+				 <div class="medium-5">
+					 <ul>        <li><a href="https://www.pardeehomes.com/financing/">Financing</a></li>        <li><a href="https://www.pardeehomes.com/realtors/">Realtors</a></li>        <li><a href="https://www.pardeehomes.com/careers/">Careers</a></li>        <li><a href="https://www.pardeehomes.com/contact/">Contact</a></li>        <li><a href="https://www.pardeehomes.com/about-us/">About</a></li>        <li><a href="https://www.pardeehomes.com/homeowners/">Homeowner</a></li>        <li><a href="https://www.pardeehomes.com/espanol/">Español</a></li></ul><div class="clearfix"><ol>      <li><a href="https://www.facebook.com/PardeeHomes" target = _blank class="foot-social social-facebook"><span class="icon-foot -facebook"><span class="hide-text">social icon</span></span></a></li>      <li><a href="https://twitter.com/PardeeHomes" target = _blank class="foot-social social-twitter"><span class="icon-foot -twitter"><span class="hide-text">social icon</span></span></a></li>      <li><a href="https://www.pinterest.com/pardeehomes" target = _blank class="foot-social social-pinterest"><span class="icon-foot -pinterest"><span class="hide-text">social icon</span></span></a></li>      <li><a href="https://www.youtube.com/user/pardeehomes" target = _blank class="foot-social social-youtube"><span class="icon-foot -youtube"><span class="hide-text">social icon</span></span></a></li>      <li><a href="https://www.instagram.com/pardeehomes/" target = _blank class="foot-social social-instagram"><span class="icon-foot -instagram"><span class="hide-text">social icon</span></span></a></li>      <li><a href="https://plus.google.com/+Pardeehomes/posts" target = _blank class="foot-social social-googleplus"><span class="icon-foot -googleplus"><span class="hide-text">social icon</span></span></a></li>      <li><a href="http://blog.pardeehomes.com/" target = _blank class="foot-social social-feed"><span class="icon-foot -feed"><span class="hide-text">social icon</span></span></a></li></ol></div>				 </div>	 
+			 </div>
+		 </div>
+      </div>
+      <div class="footer__tripointe">
+        <div>
+          <dl>
+            <dt>Pardee Homes, a member of the TRI Pointe Group.</dt>
+            <dd><img src="https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/footer/life-inspiring-homes_small.png" title="life inspiring" alt="life inspiring" class="inspiring-img" /></dd>
+          </dl>
+          <p><a href="http://tripointegroup.com" target="_blank"><img src="https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/footer/tri-pointe-group_small.png" alt="Tri Pointe Group" title="Tri Pointe Group" class="logo" /></a></p>
+        </div>
+      </div>
+      <div class="footer__award">
+	   			<div class="fdevlop">
+					<span class="icon -trophy"></span> 2015 BUILDER OF THE YEAR<sup id="sup1">1</sup>
+					<div id="sup_hover1">BUILDER Magazine named TRI Pointe Group the Builder of the Year in 2015. The Builder of the Year Award is BUILDER’S highest yearly honor.</div> 
+					AND 2014 DEVELOPER OF THE YEAR<sup id="sup2">2</sup>.<div id="sup_hover2">Builder and Developer Magazine, a national homebuilding publication, named TRI Pointe Group the Developer of the Year in 2014.</div>
+				</div>
+			</div>
+      <div class="footer__legal">
+        <div><a href="/your-privacy-rights" target="_blank">PRIVACY POLICY - Your Privacy Rights</a> | <a href="/terms-and-conditions" target="_blank">Terms and Conditions</a> | <a href="/equal_housing" target="_blank"> EHO Legal Disclaimer</a><br />© 1998 - 2019 <a href="/" target="_blank">Pardee Homes <em>New Homes and Real Estate from an Award Winning Home Builder</em></a></div><a href="/equal_housing" target="_blank"><div class="icon -home"><span class="hide-text">housing icon</span></div></a>
+      </div>
+	  
+	  <div id="footer_disclaimer">
+		<div id="text-6" class="widget-container widget_text">			<div class="textwidget">The prices of our homes, included features, plans, specifications, promotions/incentives, neighborhood build-out and available locations are subject to change without notice. Stated dimensions, square footage and acreage are approximate and should not be used as a representation of any home’s or homesite’s precise or actual size, location or orientation. There is no guarantee that any particular homesite or home will be available. No information or material herein is to be construed to be an offer or solicitation for sale. Not all features and options are available in all homes. Unless otherwise expressly stated, homes do not come with hardscape, landscape, or other decorator items. Community maps, illustrations, plans and/or amenities reflect our current vision and are subject to change without notice. Maps not to scale. Some amenities may not yet be constructed. Builder reserves the right to change the size, design, configuration and location of amenities not yet constructed and does not warrant the suitability thereof for any use or for any person. There is no guarantee that any particular homesite, home or common area will offer a view or that any particular view will be preserved. Views may also be altered by subsequent development, construction, and landscaping growth. Any photographs or renderings used herein reflect artists’ conceptions and are for illustrative purposes only. Photographs or renderings of people do not depict or indicate any preference regarding race, religion, sex, sexual orientation, handicap/physical disability, familial status, or national origin. A link to a third party website does not imply endorsement of that site nor any ability to control that site&#8217;s privacy practices. Marketing promotions/incentives, if any, are subject to conditions or restrictions and are subject to change without notice. No warranty or guarantee is made regarding any particular area public school/school district or that any particular public school/school district will service any given community. Schools/school districts may change over time. Builder does not warrant the suitability of any trail for any use or for any person. You must visit a Company New Home Gallery to purchase a home. Please consult a New Home Advisor for specific price and other information for each community. Please see the actual purchase agreement for additional information, disclosures, and disclaimers relating to any home, homesite and/or the features thereof. A Broker/Agent must register their client in person on client’s first visit at each community for a Broker/Agent to receive a commission or referral fee, if available. Our name and the logos contained herein are registered trademarks of TRI Pointe Group, Inc. and/or its subsidiaries. CA Contractor’s License No. 251810. CA DRE License No. 02027320. NV Contractor’s License No. 3633A. © 2019 Pardee Homes, a member of the TRI Pointe Group. All rights reserved.
+<sup>1</sup> BUILDER Magazine named TRI Pointe Group the Builder of the Year in 2015. The Builder of the Year Award is BUILDER&#8217;s highest yearly honor.
+<sup>2</sup> Builder and Developer Magazine, a national homebuilding publication, named TRI Pointe Group the Developer of the Year in 2014</div>
+		</div>	  </div>
+	  
+    </footer>
+<script type="application/ld+json">
+
+[
+{
+"@context" : "http://schema.org",
+			"@type" : "LocalBusiness",
+			 "name" : "Pardee Homes - Avena",
+			 "url" : "https://www.pardeehomes.com/inland-empire/avena/",
+			 "logo": "https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/footer/tri-pointe-group_small.png",
+			 "image" : "https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/4-Avena-P4A_Family-Room.jpg",
+			 "priceRange":"$$",
+			 "openingHours": "Thursday - Sunday: 10am - 5pm",
+			  "address":
+			  {
+				"@type" : "PostalAddress",
+				"streetAddress": "36379 Calle Lisbon, Suite 600",
+				"addressLocality": "Winchester",
+				"addressRegion": "Inland Empire",
+				"postalCode": "92596",
+				"telephone" : "(951) 312-0036"
+			  }
+}
+]
+
+</script>
+	<script type="application/ld+json">
+[
+{
+			  "@context": "http://schema.org",
+			  "@type": "VideoObject",
+			  "name": "Avena Gensmart Suite",
+			  "description": "",
+			  "thumbnailUrl": [
+				"https://i.ytimg.com/vi/2vrli1nlIVk/sddefault.jpg"
+			   ],
+			  "uploadDate": "2018-07-03T21:25:45.000Z",
+			  "duration": "PT1M10S",
+			  "contentUrl": "https://www.youtube.com/embed/2vrli1nlIVk",
+			  "embedUrl": "https://www.youtube.com/embed/2vrli1nlIVk",
+			  "interactionCount": "20"
+},
+{
+			  "@context": "http://schema.org/",
+			  "@type": "Product",
+			  "name": "Avena",
+			  "image": [
+				"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/4-Avena-P4A_Family-Room.jpg"
+			   ],
+			  "description": "<p><a href="https://www.pardeehomes.com/smartsavings2019"><img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2016/05/Banner2.jpg" width="701" height="90" /></a></p>
+<p>Find your new",
+			 "brand": {
+				"@type": "Thing",
+				"name": "Pardee Homes"
+			  },
+			  "offers": {
+				"@type": "Offer",
+				"priceCurrency": "USD",
+				"price": "446500",
+				"priceValidUntil": "2020-11-05",
+				"itemCondition": "http://schema.org/UsedCondition",
+				"availability": "http://schema.org/InStock",
+				"seller": {
+				  "@type": "Organization",
+				  "name": "Pardee"
+				}
+			  }
+}
+]
+</script>
+<!--?php
+/********** Division Custom Address Schema @Author  Dated 06-02-2018 ***********************/
+$url = get_bloginfo('url').$_SERVER['REQUEST_URI'];
+if(strpos($url, 'inland-empire') == true){
+	echo '<script type="application/ld+json">{
+    "@context" : "http://schema.org",
+    "@type" : "LocalBusiness",
+    "name" : "Pardee Homes Inland Empire Region",
+    "url" : "https://www.pardeehomes.com/region/inland-empire/",
+    "logo": "https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/pardeehomes-logo.png",
+	"image" : "https://www.pardeehomes.com/wp-content/uploads/sites/3/2016/01/IE_Region3.jpg",
+     "address": {
+        "@type" : "PostalAddress",
+        "streetAddress": "1250 Corona Pointe Court, Suite 600",
+        "addressLocality": "Corona, CA",
+        "addressRegion": "Inland Empire",
+        "postalCode": "92879",
+        "telephone" : "+19514284400"
+        }
+
+    }</script>';
+} elseif(strpos($url, 'los-angeles') == true){
+	echo '<script type="application/ld+json">{
+    "@context" : "http://schema.org",
+    "@type" : "LocalBusiness",
+    "name" : "Pardee Homes Los Angeles Region",
+    "url" : "https://www.pardeehomes.com/region/los-angeles/",
+    "logo":    "https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/pardeehomes-logo.png",
+    "image" : "https://www.pardeehomes.com/wp-content/uploads/sites/3/2016/01/LA_Region2.jpg",    
+    "address": {
+        "@type" : "PostalAddress",
+        "streetAddress": "177 E Colorado Blvd, Suite 500",
+        "addressLocality": "Pasadena, CA",
+        "addressRegion": "Los Angeles",
+        "postalCode": "91105",
+        "telephone" : "+16265989400"
+        }
+    }</script>';
+} elseif(strpos($url, 'san-diego') == true){
+	echo '<script type="application/ld+json">{
+    "@context" : "http://schema.org",
+    "@type" : "LocalBusiness",
+    "name" : "Pardee Homes San Diego Region",
+    "url" : "https://www.pardeehomes.com/region/san-diego/",
+    "logo": "https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/pardeehomes-logo.png",
+    "image" : "https://www.pardeehomes.com/wp-content/uploads/sites/3/2016/01/SD_Region4.jpg",    
+    "address": {
+        "@type" : "PostalAddress",
+        "streetAddress": "13400 Sabre Springs Parkway, Suite 200",
+        "addressRegion": "San Diego, CA",
+        "postalCode": "92128",
+        "telephone" : "+18587942500"
+        }
+    }</script>';
+} elseif(strpos($url, 'las-vegas') == true){
+	echo '<script type="application/ld+json">{
+    "@context" : "http://schema.org",
+    "@type" : "LocalBusiness",
+    "name" : "Pardee Homes Las Vegas Region",
+    "url" : "https://www.pardeehomes.com/region/las-vegas/",
+    "logo": "https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/pardeehomes-logo.png",
+    "image" : "https://www.pardeehomes.com/wp-content/uploads/sites/3/2016/01/LV_Region.jpg",    
+    "address": {
+        "@type" : "PostalAddress",
+        "streetAddress": "4675 W Teco Ave, Suite 115",
+        "addressRegion": "Las Vegas, NV",
+        "postalCode": "89118",
+        "telephone" : "+17026141400"
+        }
+    }</script>';
+} 	
+?-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"></script>	
+<link rel="stylesheet" type="text/css" href="https://www.pardeehomes.com/wp-content/themes/pardeehomes/dist/slick/slick.css"/>
+<script type="text/javascript">
+	//Paid Media Script
+	var currenturl = document.location.href;	
+	var form_params = getCookieinGTM('form_params');
+	
+	if(!form_params){
+		  var param = {};
+		  //Src code end
+		  var document_referrer = document.referrer;
+		  if(!document_referrer) {
+		   param['Most_Recent_Referrer_URL__c'] = currenturl;
+		  }
+		  else{
+		   param['Most_Recent_Referrer_URL__c'] = document_referrer;
+		  }
+		   var cookie_val = JSON.stringify(param);
+		setCookieSourceTracking('form_params', cookie_val,90);
+	 }
+	var cookie_24 =  getCookieinGTM('cookie_24');
+	param = {};
+		var fields = {
+		"rs":"Campaign_Source__c",
+		"medium":"Campaign_Medium__c",
+		"cname":"Campaign_Name__c",
+		"keyword":"Campaign_Keyword__c",
+		"gclsrc":"Campaign_GCL_SRC__c",
+		"gclid" : "Campaign_GCLID__c"
+	};
+	for(var key in fields){
+		var name = fields[key];
+		var param_value = getURLParamsForSourceTracking(currenturl, key);
+		param[name] =  param_value;
+		
+	}
+	// Code is Src not passed in URL
+	if(param["Campaign_Source__c"].length == 0){
+		var Campaign_Source__c = getURLParamsForSourceTracking(currenturl, "utm_source");
+		if(Campaign_Source__c.length > 0){
+			param["Campaign_Source__c"] = Campaign_Source__c ;
+		}else{
+			delete param["Campaign_Source__c"];
+		}
+	}
+	if(param["Campaign_Medium__c"].length == 0){
+		var Campaign_Medium__c = getURLParamsForSourceTracking(currenturl, "utm_medium");
+		if(Campaign_Medium__c.length > 0){
+			param["Campaign_Medium__c"] = Campaign_Medium__c;
+		}else{
+			delete param["Campaign_Medium__c"];
+		}
+		
+	}
+	if(param["Campaign_Name__c"].length == 0){
+		var Campaign_Name__c = getURLParamsForSourceTracking(currenturl, "utm_campaign");
+		if(Campaign_Name__c.length > 0){
+			param["Campaign_Name__c"] = Campaign_Name__c;
+		}else{
+			delete param["Campaign_Name__c"];
+		}
+	}
+	var non_empty_params = {}; //Remove Empty Parameters from array
+	for (var param_key in param) {
+			if(param[param_key]){
+				non_empty_params[param_key] = param[param_key];
+			}
+	}
+	var newParamlength = Object.keys(non_empty_params).length; // Object Length
+	if(newParamlength > 0) {
+		var cookie_val = JSON.stringify(non_empty_params);
+		setCookieSourceTracking('cookie_24', cookie_val,90);
+	}
+	
+	/**
+	* Get source tracking cookies
+	*/
+	function getCookieinGTM(cname) {
+		var name = cname + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0; i<ca.length; i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1);
+				if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+		}
+		return "";
+	}
+	
+	/**
+	* Set source tracking cookies
+	*/
+	function setCookieSourceTracking(name, value,days){
+		var today = new Date();
+		today.setTime(today.getTime() + (days*24*60*60*1000)); //90 days expiry time 
+		var expires = "expires="+today.toGMTString();
+		document.cookie = name + "=" + decodeURIComponent(value)+";"+expires+";domain=.pardeehomes.com;path=/;";
+		
+	}
+	
+	/*
+	* Get url parameters from URL
+	*/
+	function getURLParamsForSourceTracking(sPageURL, name){
+		var vars = [], hash;
+		var hashes = sPageURL.slice(sPageURL.indexOf('?') + 1).split('&');
+		for(var i = 0; i < hashes.length; i++){
+			hash = hashes[i].split('=');
+			if(hash[0].toLowerCase() == name || hash[0] == name){
+				return hash[1];
+			}
+		}
+		return "";
+	}
+  
+  
+	MktoForms2.whenReady(function (form) {
+		var params = JSON.parse(getCookieinGTM('form_params'));
+		if(params){
+			form.addHiddenFields(params);
+		}
+		if(getCookieinGTM('cookie_24'))
+		 params = JSON.parse(getCookieinGTM('cookie_24'));
+		if(params){
+			form.addHiddenFields(params);
+		}
+		form.onSuccess(function(values, followUpUrl) {
+			setCookieSourceTracking('form_params', '',90);
+			setCookieSourceTracking('cookie_24', '',90);
+		});
+		
+	});
+	
+	MktoForms2.loadForm("//app-sj10.marketo.com", "167-BTV-942", 1438, function(form) {
+		var communityId = 'a00j000000d6tHG';
+		var divisionName = 'Pardee Homes – Inland Empire';
+		
+		form.getFormElem().find('input[name="Communities_of_Interest__c"]').val(communityId);
+		form.getFormElem().find('input[name="formURL"]').val(document.location.href);
+		form.getFormElem().find('input[name="Division__c"]').val(divisionName);
+		
+		form.onSuccess(function(values, followUpUrl) {
+			var refer = document.referrer;
+				console.log(refer);
+			var checkrefer = refer.indexOf("facebook");
+			if(checkrefer > 1){
+				 //console.log("Post by facebook");
+			}
+	  
+			jQuery('.formjoin').css("display","none");
+			var useremail = values.Email;
+			var cookieexpiry = new Date();
+			dataLayer.push({'event': 'interestList'});
+			cookieexpiry.setFullYear(cookieexpiry.getFullYear() + 2);
+			//set cookie
+			document.cookie="_mkto_email="+useremail+"; expires="+cookieexpiry+"; path=/";
+			setCookieSourceTracking('form_params', '',0);
+			form.getFormElem().html("Thanks for Registering!<br />You'll be hearing from a New Home Specialist soon, with the latest information about this community and to invite you on a personalized tour.");
+			form.getFormElem().css("text-align","center");
+			form.getFormElem().css("font-size","16px");
+			form.getFormElem().css("line-height","20px");
+			form.getFormElem().css("margin-bottom","45px");
+			form.getFormElem().css("color","#546b79");
+			form.getFormElem().css("font-family","'GalanoGrotesque-Regular'");
+			return false;
+		});
+	});
+
+/* Search icon functionality */	 
+    jQuery(document).ready(function($){	
+
+		if(jQuery( "#tabular-box").length > 0){
+
+				jQuery( "#tabular-box").tabs();
+			}
+		jQuery(".forgot-password2").on("click",function(){
+			var forgot_link = jQuery('#hidden_forgot_link')[0];
+             jQuery('.modal .modal__close').trigger('click');
+             setTimeout(function(){ forgot_link.click(); }, 1000);
+		});
+				var facebook = 'https://www.facebook.com/PardeeHomesInlandEmpire/';
+		var oldFacebookUrl = jQuery('a.Facebook').attr('href');
+		var newFacebookUrl = oldFacebookUrl.replace(oldFacebookUrl, facebook);
+		jQuery('a.Facebook').attr("href", newFacebookUrl);
+				
+		/* End */
+		jQuery(document).ready(function($){
+		$(".stayinform").fancybox({
+			type: 'inline',
+			closeClick  : false,
+			autosize    : true,
+			'width'		: 1000,
+			'padding' : 10,
+			 wrapCSS : 'signUpPopup stayinform',
+			 helpers : { 
+				overlay : {
+					locked : false
+				}
+			}
+		});
+	});
+		$(".monthly_popup").fancybox({
+			type: 'inline',
+			closeClick  : false,
+			autosize    : true,
+			'width'		: 1000,
+			'padding' : 10,
+			 wrapCSS : 'signUpPopup stayinform',
+			 helpers : { 
+				overlay : {
+					locked : false
+				}
+			}
+		});
+		jQuery(".showcase_modal").fancybox({
+			type: 'inline',
+			closeClick  : false,
+			openEffect  : 'none',
+			closeEffect: 'none',
+			autosize    : true,
+			'width'		: 500,
+			'padding' : 0,
+			wrapCSS : 'signUpPopup',
+		});
+		jQuery('#sup1').hover(
+		  function () {
+			jQuery("#sup_hover1").show();
+		  }, 
+		  function () {
+			jQuery("#sup_hover1").hide();
+		  }
+		);
+		
+		jQuery('#sup2').hover(
+		  function () {
+			jQuery("#sup_hover2").show();
+		  }, 
+		  function () {
+			jQuery("#sup_hover2").hide();
+		  }
+		);
+	
+		var width = $(window).width();
+		if (width < 1024) {
+			var isMobile = true;
+		} else {
+			var isMobile= false;
+		}
+		
+		jQuery(".page-template-template-blog-page").removeClass('blog');
+		
+		var tab='';
+		var arrTabs = {floorplans:"0",tabgallery:"1", tabvideo:"2",neighborhoods:"0",neighbourhoods:"0",QMI:"1",gensmart:"2",tabgallerycomm:"3",schools:"2",faq:"1"};
+		 
+		if(tab)
+		{
+			var index = arrTabs[tab];
+			jQuery( "#tabular-box-floor" ).tabs({ active: index});
+			
+			jQuery( "#tabular-box" ).tabs({ active: index});
+			jQuery("html, body").animate({ scrollTop: $("#"+tab).offset().top-200 }, 500);
+			
+		} 
+		 
+		var submitIcon = jQuery('.searchbox-icon');
+		var inputBox = jQuery('.searchbox-input');
+		var searchBox = jQuery('.searchbox');
+		var isOpen = false;
+		submitIcon.click(function(){
+			if(isOpen == false){
+				$('.navigation__inner').removeClass('navigation__inner--active');
+				$('.navigation__burger').show();
+				$('.navigation__close').hide();
+				searchBox.addClass('searchbox-open');
+				submitIcon.removeClass('-search icon-head').addClass('-close icon search-closer');
+				jQuery(this).addClass('active');
+				//inputBox.focus();
+				isOpen = true;
+			} else {
+				searchBox.removeClass('searchbox-open');
+				jQuery(this).removeClass('active');
+				inputBox.focusout();
+				inputBox.val('');
+				if(screen.width < 1030){
+				     jQuery(".result-mobile").html('').hide();	
+					 submitIcon.removeClass('-close icon search-closer').addClass('-search icon');					 
+				} else {
+				    jQuery(".result-desktop").html('').hide();
+					submitIcon.removeClass('-close icon search-closer').addClass('-search icon-head');
+                }					
+				isOpen = false;
+			}
+		}); 
+		
+		submitIcon.mouseup(function(){
+			return false;
+		});
+		searchBox.mouseup(function(){
+			return false;
+		});
+		jQuery(document).mouseup(function(){
+			if(isOpen == true){
+				//jQuery('.searchbox-icon').css('display','block');
+				submitIcon.click();
+			}
+		});
+		
+		$( ".navigation__burger" ).bind( "click touchstart", function() {
+		
+			   searchBox.removeClass('searchbox-open');
+				jQuery(this).removeClass('active');
+				inputBox.focusout();
+				inputBox.val('');
+				if(isMobile){
+				     jQuery(".result-mobile").html('').hide();	
+					 submitIcon.removeClass('-close icon search-closer').addClass('-search icon');					 
+				} else {
+				    jQuery(".result-desktop").html('').hide();
+					submitIcon.removeClass('-close icon search-closer').addClass('-search icon-head');
+                }					
+				isOpen = false;
+	   });
+	   
+		$('.hideFloatingBox').click(function(){
+			$('.floatingBox').hide();
+			$('.hideFloatingBox').hide();
+			$('.showFloatingBox').show();
+	   });
+
+		$('.showFloatingBox').click(function(){
+			$('.floatingBox').show();
+			$('.showFloatingBox').hide();
+			$('.hideFloatingBox').show();
+		});
+
+		var currentRequest = null;  
+		/* Search Result functionality */			
+		jQuery(".searchbox-input").keyup(function(e) {
+			var code = e.keyCode || e.which;
+			//console.log(code);
+			// if(code == 13) { //Enter keycode
+			//	return false;
+			 //}
+			 
+			var searchid = $(this).val();
+			if(searchid){
+				//jQuery("#result").html('<p class="search_title">loading...</p>').show();
+				if(isMobile){
+					 jQuery(".result-mobile").html('<p class="search_title">loading...</p>').show();	
+				} else
+					jQuery(".result-desktop").html('<p class="search_title">loading...</p>').show();
+							
+				var dataString = 'search='+ searchid;
+				var data = {
+					action: 'searchCustom',
+					searchdata: searchid
+				};
+				if(searchid!='') {
+					
+				currentRequest=jQuery.ajax({
+					type: 'POST',
+					data: data,
+					url: 'https://www.pardeehomes.com/wp-admin/admin-ajax.php',
+					beforeSend : function()    {           
+						if(currentRequest != null) {
+							currentRequest.abort();
+						}
+					},
+					success: function(response) {
+						if(response) {
+							if(isMobile){
+								 jQuery(".result-mobile").html(response);	
+							} else
+								jQuery(".result-desktop").html(response);
+
+
+							$(".result-mobile a").bind( "click touchstart", function() {
+									
+									 window.location.href=$(this).attr('href');
+								});
+								
+
+			
+							}
+					},
+					error:function(e){
+					  // Error
+					}
+				});
+
+				}
+			}else{
+				if(isMobile){
+				     jQuery(".result-mobile").html('').hide();	
+				} else
+				    jQuery(".result-desktop").html('').hide();
+			}
+			
+						return false;    
+		});	
+		
+		$(window).resize(function() {
+			if ($(this).width() < 768) {
+				if($('.utility-nav').length){
+				 $('#livechat-compact-container').css('margin-bottom', '65px');
+				}
+				$('#ArrowImg').show();
+			} else {
+				$('#ArrowImg').hide();
+			}
+		});
+		var width = $(window).width();
+		if (width < 768) {
+			
+			$('#ArrowImg').show();
+		} else {
+			$('#ArrowImg').hide();
+		}
+
+		jQuery('#menu-blog-sub-nav li:first-child').append('<img id="ArrowImg" src="/wp-content/uploads/sites/3/2016/05/arrow-up.png" />');
+		(function(jQuery) {
+			jQuery.fn.clickToggle = function(func1, func2) {
+				var funcs = [func1, func2];
+				this.data('toggleclicked', 0);
+				this.click(function() {
+					var data = jQuery(this).data();
+					var tc = data.toggleclicked;
+					jQuery.proxy(funcs[tc], this)();
+					data.toggleclicked = (tc + 1) % 2;
+				});
+				return this;
+			};
+		}(jQuery));
+		jQuery('#ArrowImg').clickToggle(function() {
+			jQuery( "#menu-blog-sub-nav li" ).slideDown(function(){
+				jQuery("#menu-blog-sub-nav li:first-child").css("display", "block");	
+				jQuery("#ArrowImg").css("transform", "rotate(0deg)");
+			});
+			
+		}, function() {
+			jQuery( "#menu-blog-sub-nav li" ).not("#menu-blog-sub-nav li:first-child").slideUp(function(){
+				jQuery("#menu-blog-sub-nav li:first-child").css("display", "block");	
+				jQuery("#ArrowImg").css("transform", "rotate(180deg)");
+			});
+		});
+		
+		jQuery(".blog-menu__search-input").prop('required',true);
+		jQuery('.blog-menu__icon').on('click touchstart',function(){
+			jQuery('.widget_search form').submit();
+		});
+		jQuery('.blog-menu__search-input').val('');
+		jQuery('.fav_button').on('click touchstart', function(){
+			
+			//var favtype=jQuery(this).attr('fav_type');
+			/* jQuery('#add-favorites input[name="post_id"]').val(jQuery(this).data('id'));
+			jQuery('#add-favorites input[name="post_title"]').val(jQuery(this).attr('title')); */
+			
+			//jQuery('#add-favorites input[name="post_type"]').val(favtype);
+			jQuery('#add-favorites input[name="post_id"]').val(jQuery(this).data('id'));
+			jQuery('#add-favorites input[name="post_title"]').val(jQuery(this).attr('title'));
+			jQuery('#add-favorites input[name="crm_id"]').val(jQuery(this).data('crmid'));
+			jQuery('#add-favorites input[name="permalink"]').val(jQuery(this).data('permalink'));
+			jQuery('#add-favorites input[name="community"]').val(jQuery(this).data('nebh'));
+			jQuery('#add-favorites input[name="residence"]').val(jQuery(this).data('plan'));			
+			
+			jQuery('.add-favourites__item').html(jQuery(this).attr('title'));
+			localStorage.setItem('fav_add', jQuery(this).data('id'));
+		});
+		
+		jQuery('.social-top .-login').on('click', function () {
+			localStorage.removeItem('fav_add');
+		});
+		
+		/** Floor Plans View Detials bPopup*/
+		$( ".floorlink" ).bind( "click touchstart", function() {
+			var d = new Date();
+			planid=jQuery(this).data('planid');
+			$('.pcontent').html('');
+			 
+			 var data = {
+				action: 'get_floorplan_details',
+				planid: planid
+				};
+				jQuery('.pcontent').html('<center><img src="https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/loading_icon.gif"/></center>');
+				jQuery('#bPopup').show();
+				jQuery('.pcontent').css('min-height',jQuery('.main-grids-section').css('height'));
+				$("html, body").animate({ scrollTop: $(".pcontent").offset().top-212 }, 500);
+				jQuery.post(ajaxurl, data, function(response) {
+					jQuery('.pcontent').html(response);
+				});	
+			return false;
+		});
+
+		$(".bpopupclose").bind( "click touchstart", function() {
+			 jQuery('#bPopup').hide();
+		});
+		$(".linkfloorplans").bind( "click touchstart", function(e) {
+			 e.preventDefault();
+			 $("html, body").animate({ scrollTop: $(".plans-section").offset().top-230 }, 500);
+			 return false;
+		});
+		var linkclick=true;
+
+		$(".avartanslider ul li a").bind( "click touchstart", function(e) {
+			linkclick=false;
+			var hlink=$(this).attr('href');
+			//console.log(hlink);
+			//window.location.href=hlink;
+			//e.preventDefault() 
+			setTimeout(function(){ linkclick=true; }, 3000);
+		});
+		
+		$(".avartanslider ul li").bind( "click touchstart", function(e) {
+			if(linkclick)
+			{
+			var hlink=$(this).find('a').attr('href');
+			window.location.href=hlink;
+			}
+			
+		});
+		
+		$("#region-loc").bind("change", function(e) {
+          var url = $(this).val(); // get selected value
+		  
+		    if (url) { // require a URL
+			  window.location.href = '/region/'+url; // redirect
+		    }
+        });
+		
+		// Blog commentform validation
+		jQuery('#commentform').on('submit',  function(e) {
+			$check=false;
+			jQuery('#commentform').find('.error').remove();
+			   if(!jQuery('#author').val()){
+				   jQuery("#author").after("<span class='error'>This is required field</span>");
+				   $check=true;
+			   }
+			   if(!jQuery('#email').val()){
+				   jQuery("#email").after("<span class='error'>This is required field</span>");
+				   $check=true;
+			   }else{
+				  
+				   if( !isValidEmailAddress( jQuery('#email').val() ) ) { 
+					jQuery("#email").after("<span class='error'>Please enter valid email address</span>");
+				   $check=true;
+					}
+			   }
+			   
+			   if(!jQuery('#comment').val()){
+				   jQuery("#comment").after("<span class='error'>This is required field</span>");
+				   $check=true;
+			   } else {
+				   $check=false;
+			   }
+			   if($check == true)
+				 e.preventDefault(); //prevent the default action
+				
+	    });
+		function isValidEmailAddress(emailAddress) {
+			var pattern = /^([a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+(\.[a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+)*|"((([ \t]*\r\n)?[ \t]+)?([\x01-\x08\x0b\x0c\x0e-\x1f\x7f\x21\x23-\x5b\x5d-\x7e\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|\\[\x01-\x09\x0b\x0c\x0d-\x7f\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))*(([ \t]*\r\n)?[ \t]+)?")@(([a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.)+([a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.?$/i;
+			return pattern.test(emailAddress);
+		};
+		
+		//About us Awards height on Mobile
+		var maxHeight = -1;
+		   $('.awards_pillars').each(function() {
+			 maxHeight = maxHeight > $(this).height() ? maxHeight : $(this).height();
+		   }); 
+
+		   $('.awards_pillars').each(function() {
+			 $(this).height(maxHeight);
+		   });
+		   
+		   //home page explore region images equal height
+		   var maxHeight = 0;
+			$('.tile__info')
+			  .each(function() { maxHeight = Math.max(maxHeight, $(this).height()); })
+			  .height(maxHeight);
+			  
+			    jQuery('#submit-fav').on('click', function () { 
+				if(cookie_24 != ""){
+				cookie_24 = JSON.parse(cookie_24);
+				 }
+				var email = jQuery("input[name=user_email]").val();
+				var fname = jQuery("input[name=user_fname]").val();
+				var lname = jQuery("input[name=user_lname]").val();
+				var lastName = lname.replace(/< br>$/, '');
+				var phone = jQuery("input[name=user_phone]").val();
+				var site_name = jQuery("input[name=site_name]").val();
+				var community = jQuery("input[name=community]").val();
+				var plan_name = jQuery("input[name=post_title]").val();
+				var permalink = jQuery("input[name=permalink]").val();
+				var crm_id = jQuery("input[name=crm_id]").val(); 
+				var quickmovein = jQuery("input[name=quickmovein]").val(); 
+				var residence = jQuery("input[name=residence]").val();
+				var post_id = jQuery("input[name=post_id]").val();
+				if(cookie_24 != ""){
+				var rs = cookie_24.Campaign_Source__c;
+				var medium = cookie_24.Campaign_Medium__c;
+				var cname = cookie_24.Campaign_Name__c;
+				var keyword = cookie_24.Campaign_Keyword__c;
+				var gclsrc = cookie_24.Campaign_GCL_SRC__c;
+				var gclid = cookie_24.Campaign_GCLID__c;
+				} else{
+				var rs = '';var medium = '';var cname = '';var keyword = '';var gclsrc = '';var gclid = '';
+				}
+				var page_url = window.location.href;
+				var data_store = 'email=' + email + '&first_name=' + fname + '&last_name=' + lastName + '&phone_number=' + phone + '&site_name=' + site_name + '&plan_name=' + plan_name + '&crm_id=' + crm_id + '&permalink=' + permalink + '&quickmovein=' + quickmovein + '&residence=' + residence + '&community=' + community+ '&page_url=' +page_url+ '&post_id=' +post_id+ '&rs=' +rs+ '&medium=' +medium+ '&cname=' +cname+ '&keyword=' +keyword+ '&gclsrc=' +gclsrc+ '&gclid=' +gclid;
+				var url = 'https://www.pardeehomes.com/addfav/addtofav.php/?'+ data_store;
+				//alert(url);
+				jQuery.get( url, function(response) {
+					setCookieSourceTracking('cookie_24', '',90);
+					console.log(response);			
+				});
+			}); 
+			  
+		   	  
+	});	
+
+jQuery(".nbr_mobile").click(function() {
+    jQuery(".mobileMenuInner").slideToggle("slow");
+    jQuery(".nbr_mobile").toggleClass("active");
+});
+jQuery(".nbr_mobile").click(function(){
+    jQuery(".nbr_mobile .mb_icon").toggleClass("main-active");
+});
+
+jQuery(document).on('click', '.fancy_close', function(){
+	jQuery('body.fancybox-iosfix').css({'overflow':'auto', 'position':'inherit'});				
+});	
+
+</script>
+<script src="https://www.pardeehomes.com/wp-content/themes/pardeehomes/dist/slick/slick.min.js"></script>
+<!-- This site is optimized with Phil Singleton's WP SEO Structured Data Plugin v2.5 - https://kcseopro.com/wordpress-seo-structured-data-schema-plugin/ -->
+
+<!-- / WP SEO Structured Data Plugin. -->
+
+
+<!-- WP-FB AutoConnect Premium Init v4.4 (NEW API) -->
+    <div id="fb-root"></div>
+    <script type="text/javascript">//<!--
+      window.fbAsyncInit = function()
+      {
+        FB.init({
+            appId: '1097577110321241',
+            status: true,
+            cookie: true,
+            xfbml: true,
+            version: 'v3.0'
+        });
+                    
+      };
+
+      (function() {
+        var e = document.createElement('script');
+        e.src = document.location.protocol + '//connect.facebook.net/en_US/sdk.js';
+        e.async = true;
+        document.getElementById('fb-root').appendChild(e);
+      }());
+    //--></script>
+    
+<!-- WP-FB AutoConnect Premium Callback v4.4 -->
+<form id="wp-fb-ac-fm" name="jfb_js_login_callback_form" method="post" action="https://www.pardeehomes.com/wp-login.php?wpe-login=true" >
+          <input type="hidden" name="redirectTo" value="/inland-empire/avena/" />
+          <input type="hidden" name="access_token" id="jfb_access_token" value="0" />
+          <input type="hidden" name="fbuid" id="jfb_fbuid" value="0" />
+          <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="1d95a9bac2" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />          <input type="hidden" name="rememberme" id="fb_rememberme" value="0" /><input type="hidden" name="blog_id" id="blog_id" value="3" /><input type="hidden" name="premnum" id="premnum" value="6793_6793" />   
+     </form>
+
+        <script type="text/javascript">//<!--
+    function jfb_js_login_callback()
+    {
+        //wpfb_add_to_js: An action to allow the user to inject additional JS to be executed before the login takes place
+        var rememberme = document.getElementById('rememberme');
+if( rememberme && rememberme.checked ) document.getElementById('fb_rememberme').value = 1;
+        //wpfb_add_to_js: Finished
+
+        //Make sure the user logged into Facebook (didn't click "cancel" in the login prompt)
+        FB.getLoginStatus(function(response)
+        {
+            if (!response.authResponse)
+            {
+                //Note to self: if this is happening unexpectedly, it could be because third-party browser cookies are disabled.
+                                return;
+            }
+            
+            //Set the uid & access token to be sent in to our login script
+            jQuery('#jfb_access_token').val(response.authResponse.accessToken);
+            jQuery("#jfb_fbuid").val(response.authResponse.userID);
+        
+            //Submit the login and close the FB.getLoginStatus call
+            	//PREMIUM CHECK: Force the user to allow access to their e-mail.
+	//First, ask for the list of permissions (both approved + denied)
+	FB.api('/me/permissions', function(response)
+	{
+		//Make sure we got an array
+		if(response.data instanceof Array)
+		{
+			//API v1
+			var permsArray = response.data;
+			if(permsArray.length == 1 && (permsArray[0].public_profile || permsArray[0].basic_info) )
+			{
+				if(permsArray[0].email == 1)
+				{
+					document.jfb_js_login_callback_form.submit();
+					return;
+				}
+				else
+				{
+										alert('Sorry, this site requires an e-mail address to log you in.');
+					return;
+				}
+			}
+			
+			//API v2
+			for(var i = 0; i < permsArray.length; i++)
+			{
+				if(permsArray[i].permission == "email")
+				{
+					if(permsArray[i].status == "granted")
+					{
+						document.jfb_js_login_callback_form.submit();
+						return;
+					}
+					else
+					{
+												alert('Sorry, this site requires an e-mail address to log you in.');
+						return;
+					}
+				}
+			}
+		}
+	});
+            })
+    }
+    //--></script>
+    <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js'></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js" defer="defer" type="text/javascript"></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCpyVo4w-caak6haAaZEKK_BHg02Fs9Qeo&#038;libraries=geometry&#038;v=3&#038;sensor=true'></script>
+<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/themes/pardeehomes/dist/scripts/vendor/gmaps_combined.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_auth_object = {"redirectOnRegister":"https:\/\/www.pardeehomes.com\/success-welcome\/","redirectOnWelcome":"https:\/\/www.pardeehomes.com\/signup-confirmation\/","redirectOnLogin":"https:\/\/www.pardeehomes.com\/my-favorites\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/themes/pardeehomes/dist/scripts/main.min.js'></script>
+<script type='text/javascript' src='https://www.pardeehomes.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tracking_cofing_object = {"tracking_api_url":"https:\/\/www.pardeehomes.com\/wp-content\/plugins\/grazitti-crossdomaintracking\/\/trackingapi\/","domain_name":"pardeehomes.com","is_microwebsite":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/plugins/grazitti-crossdomaintracking/assets/js/tracking_script.js?r=21'></script>
+  </body>
+</html>

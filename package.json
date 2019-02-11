@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "client": "parcel ./client/index.html",
+    "client": "parcel ./client/index.html ./client/hola.html",
+    "//": "al darle mas de una entrada a parcel,se sirven multiples archivos en localhost:1234",
     "server": "nodemon ./server/app.js",
     "start": "concurrently \"npm run server\" \"npm run client\""
   },
@@ -18,6 +19,15 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "express": "^4.16.4"
+    "cors": "^2.8.5",
+    "d3": "^5.9.1",
+    "express": "^4.16.4",
+    "languagedetect": "^1.2.0",
+    "npm": "^6.7.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "comentarios": {
+    "//": "(servidor localhost:1234 de frontend es considerado un servidor ajeno al servidor localhost:3000 del backend)"
   }
 }

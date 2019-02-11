@@ -1,0 +1,934 @@
+<!DOCTYPE HTML>
+<html class="" lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<title>Home - Avena</title>
+<!-- This site is optimized with the Yoast SEO plugin v9.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Luxurious swimming pool and fully-equipped gym with complimentary free parking located just outside Sligo town in Ballisodare, Co. Sligo."/>
+<link rel="canonical" href="https://avenaleisure.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - Avena" />
+<meta property="og:description" content="Luxurious swimming pool and fully-equipped gym with complimentary free parking located just outside Sligo town in Ballisodare, Co. Sligo." />
+<meta property="og:url" content="https://avenaleisure.com/" />
+<meta property="og:site_name" content="Avena" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Luxurious swimming pool and fully-equipped gym with complimentary free parking located just outside Sligo town in Ballisodare, Co. Sligo." />
+<meta name="twitter:title" content="Home - Avena" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"WebSite","@id":"https://avenaleisure.com/#website","url":"https://avenaleisure.com/","name":"Avena","potentialAction":{"@type":"SearchAction","target":"https://avenaleisure.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Avena &raquo; Feed" href="https://avenaleisure.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Avena &raquo; Comments Feed" href="https://avenaleisure.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Avena &raquo; Home Comments Feed" href="https://avenaleisure.com/sample-page/feed/" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+<meta name="theme-color" content="#ffffff">
+<meta property="og:title" content="Home">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://avenaleisure.com/">
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.3.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+var mi_version         = '7.3.2';
+var mi_track_user      = true;
+var mi_no_track_reason = '';
+var disableStr = 'ga-disable-UA-131414971-1';
+/* Function to detect opted out users */
+function __gaTrackerIsOptedOut() {
+return document.cookie.indexOf(disableStr + '=true') > -1;
+}
+/* Disable tracking if the opt-out cookie exists. */
+if ( __gaTrackerIsOptedOut() ) {
+window[disableStr] = true;
+}
+/* Opt-out function */
+function __gaTrackerOptout() {
+document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+window[disableStr] = true;
+}
+if ( mi_track_user ) {
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+__gaTracker('create', 'UA-131414971-1', 'auto');
+__gaTracker('set', 'forceSSL', true);
+__gaTracker('require', 'displayfeatures');
+__gaTracker('require', 'linkid', 'linkid.js');
+__gaTracker('send','pageview');
+} else {
+console.log( "" );
+(function() {
+/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+var noopfn = function() {
+return null;
+};
+var noopnullfn = function() {
+return null;
+};
+var Tracker = function() {
+return null;
+};
+var p = Tracker.prototype;
+p.get = noopfn;
+p.set = noopfn;
+p.send = noopfn;
+var __gaTracker = function() {
+var len = arguments.length;
+if ( len === 0 ) {
+return;
+}
+var f = arguments[len-1];
+if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+return;
+}
+try {
+f.hitCallback();
+} catch (ex) {
+}
+};
+__gaTracker.create = function() {
+return new Tracker();
+};
+__gaTracker.getByName = noopnullfn;
+__gaTracker.getAll = function() {
+return [];
+};
+__gaTracker.remove = noopfn;
+window['__gaTracker'] = __gaTracker;
+})();
+}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<!-- <link rel='stylesheet' id='contact-form-7-css'  href='https://avenaleisure.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='cff-css'  href='https://avenaleisure.com/wp-content/plugins/custom-facebook-feed/css/cff-style.css?ver=2.8' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//avenaleisure.com/wp-content/cache/wpfc-minified/g3x3q8h5/41fid.css" media="all"/>
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=5.0.3' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='rs-plugin-settings-css'  href='https://avenaleisure.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//avenaleisure.com/wp-content/cache/wpfc-minified/m9jpk2uy/41fid.css" media="all"/>
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<!-- <link rel='stylesheet' id='us-theme-css'  href='//avenaleisure.com/wp-content/uploads/us-assets/avenaleisure.com.css?ver=5.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='theme-style-css'  href='https://avenaleisure.com/wp-content/themes/Zephyr-child/style.css?ver=5.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='bsf-Defaults-css'  href='https://avenaleisure.com/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=5.0.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='ultimate-style-min-css'  href='https://avenaleisure.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ultimate.min.css?ver=3.16.25' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='ult-icons-css'  href='https://avenaleisure.com/wp-content/plugins/Ultimate_VC_Addons/assets/css/icons.css?ver=3.16.25' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='ultimate-vidcons-css'  href='https://avenaleisure.com/wp-content/plugins/Ultimate_VC_Addons/assets/fonts/vidcons.css?ver=5.0.3' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//avenaleisure.com/wp-content/cache/wpfc-minified/q5hgxu21/41fid.css" media="all"/>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"https:\/\/avenaleisure.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script src='//avenaleisure.com/wp-content/cache/wpfc-minified/e6j2ypv6/fx9ze.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://avenaleisure.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.3.2'></script> -->
+<!-- <script type='text/javascript' src='https://avenaleisure.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script> -->
+<!-- <script type='text/javascript' src='https://avenaleisure.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8'></script> -->
+<!-- <script type='text/javascript' src='https://avenaleisure.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8'></script> -->
+<!-- <script type='text/javascript' src='https://avenaleisure.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/modernizr-custom.min.js?ver=3.16.25'></script> -->
+<!-- <script type='text/javascript' src='https://avenaleisure.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/jquery-ui.min.js?ver=3.16.25'></script> -->
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js'></script>
+<script src='//avenaleisure.com/wp-content/cache/wpfc-minified/jolv8sme/41fie.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://avenaleisure.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script> -->
+<!-- <script type='text/javascript' src='https://avenaleisure.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script> -->
+<!-- <script type='text/javascript' src='https://avenaleisure.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script> -->
+<!-- <script type='text/javascript' src='https://avenaleisure.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script> -->
+<!-- <script type='text/javascript' src='https://avenaleisure.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/jquery-ui-labeledslider.min.js?ver=3.16.25'></script> -->
+<!-- <script type='text/javascript' src='https://avenaleisure.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate.min.js?ver=3.16.25'></script> -->
+<!-- <script type='text/javascript' src='https://avenaleisure.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/modal-all.min.js?ver=3.16.25'></script> -->
+<!-- <script type='text/javascript' src='https://avenaleisure.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/jparallax.min.js?ver=5.0.3'></script> -->
+<!-- <script type='text/javascript' src='https://avenaleisure.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/vhparallax.min.js?ver=5.0.3'></script> -->
+<!-- <script type='text/javascript' src='https://avenaleisure.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/mb-YTPlayer.min.js?ver=5.0.3'></script> -->
+<link rel='https://api.w.org/' href='https://avenaleisure.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://avenaleisure.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://avenaleisure.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.3" />
+<link rel='shortlink' href='https://avenaleisure.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://avenaleisure.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Favenaleisure.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://avenaleisure.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Favenaleisure.com%2F&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+var addEvent = function(evt, handler) {
+if (window.addEventListener) {
+document.addEventListener(evt, handler, false);
+} else if (window.attachEvent) {
+document.attachEvent('on' + evt, handler);
+}
+};
+var removeEvent = function(evt, handler) {
+if (window.removeEventListener) {
+document.removeEventListener(evt, handler, false);
+} else if (window.detachEvent) {
+document.detachEvent('on' + evt, handler);
+}
+};
+var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+var logHuman = function() {
+if (window.wfLogHumanRan) { return; }
+window.wfLogHumanRan = true;
+var wfscr = document.createElement('script');
+wfscr.type = 'text/javascript';
+wfscr.async = true;
+wfscr.src = url + '&r=' + Math.random();
+(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+for (var i = 0; i < evts.length; i++) {
+removeEvent(evts[i], logHuman);
+}
+};
+for (var i = 0; i < evts.length; i++) {
+addEvent(evts[i], logHuman);
+}
+})('//avenaleisure.com/?wordfence_lh=1&hid=781CE8B61E50994CE9BF0E2A8B9F8289');
+</script><script>
+if ( ! /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+var root = document.getElementsByTagName( 'html' )[0]
+root.className += " no-touch";
+}
+</script>
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://avenaleisure.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://avenaleisure.com/wp-content/uploads/2018/12/500-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://avenaleisure.com/wp-content/uploads/2018/12/500-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://avenaleisure.com/wp-content/uploads/2018/12/500-300x300.png" />
+<meta name="msapplication-TileImage" content="https://avenaleisure.com/wp-content/uploads/2018/12/500-300x300.png" />
+<script type="text/javascript">function setREVStartSize(e){									
+try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+};</script>
+<style type="text/css" data-type="vc_custom-css">.bott1 {
+position: absolute!important;
+right: 0%!important;
+bottom: 0px!important;
+}
+.bott2 {
+position: absolute!important;
+right: 0%!important;
+bottom: 70px!important;
+}
+.ult-content-box {
+position:relative;
+}
+.buttbox {
+position: absolute!important;
+right: 3%!important;
+bottom: 12%!important;
+}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<style id="us-header-css">@media (min-width:901px){.hidden_for_default{display:none !important}.l-subheader.at_top{display:none}.l-subheader.at_bottom{display:none}.header_hor .l-subheader.at_top{line-height:40px;height:40px}.header_hor .l-header.sticky .l-subheader.at_top{line-height:0px;height:0px;overflow:hidden}.header_hor .l-subheader.at_middle{line-height:110px;height:110px}.header_hor .l-header.sticky .l-subheader.at_middle{line-height:110px;height:110px}.header_hor .l-subheader.at_bottom{line-height:50px;height:50px}.header_hor .l-header.sticky .l-subheader.at_bottom{line-height:50px;height:50px}.header_hor .l-header.pos_fixed~.l-section,.header_hor .sidebar_left .l-header.pos_fixed + .l-main,.header_hor .sidebar_right .l-header.pos_fixed + .l-main,.header_hor .sidebar_none .l-header.pos_fixed + .l-main .l-section:first-child,.header_hor .sidebar_none .l-header.pos_fixed + .l-main .l-section-gap:nth-child(2),.header_hor.header_inpos_below .l-header.pos_fixed~.l-main .l-section:nth-child(2),.header_hor .l-header.pos_static.bg_transparent~.l-section,.header_hor .sidebar_left .l-header.pos_static.bg_transparent + .l-main,.header_hor .sidebar_right .l-header.pos_static.bg_transparent + .l-main,.header_hor .sidebar_none .l-header.pos_static.bg_transparent + .l-main .l-section:first-child{padding-top:110px}.header_hor .l-header.pos_static.bg_solid + .l-main .l-section.preview_trendy .w-blogpost-preview{top:-110px}.header_hor.header_inpos_bottom .l-header.pos_fixed~.l-main .l-section:first-child{padding-bottom:110px}.header_hor .l-header.bg_transparent~.l-main .l-section.valign_center:first-child>.l-section-h{top:-55px}.header_hor.header_inpos_bottom .l-header.pos_fixed.bg_transparent~.l-main .l-section.valign_center:first-child>.l-section-h{top:55px}.header_hor .l-header.pos_fixed~.l-main .l-section.height_full:not(:first-child){min-height:calc(100vh - 110px)}.admin-bar.header_hor .l-header.pos_fixed~.l-main .l-section.height_full:not(:first-child){min-height:calc(100vh - 142px)}.header_hor .l-header.pos_fixed~.l-main .l-section.sticky{top:110px}.admin-bar.header_hor .l-header.pos_fixed~.l-main .l-section.sticky{top:142px}.header_hor .sidebar_none .l-header.pos_fixed.sticky + .l-main .l-section.type_sticky:first-child{padding-top:110px}.header_hor.header_inpos_below .l-header.pos_fixed:not(.sticky){position:absolute;top:100%}.header_hor.header_inpos_bottom .l-header.pos_fixed:not(.sticky){position:absolute;bottom:0}.header_inpos_below .l-header.pos_fixed~.l-main .l-section:first-child,.header_inpos_bottom .l-header.pos_fixed~.l-main .l-section:first-child{padding-top:0 !important}.header_hor.header_inpos_below .l-header.pos_fixed~.l-main .l-section.height_full:nth-child(2){min-height:100vh}.admin-bar.header_hor.header_inpos_below .l-header.pos_fixed~.l-main .l-section.height_full:nth-child(2){min-height:calc(100vh - 32px)}.header_inpos_bottom .l-header.pos_fixed:not(.sticky) .w-cart-dropdown,.header_inpos_bottom .l-header.pos_fixed:not(.sticky) .w-nav.type_desktop .w-nav-list.level_2{bottom:100%;transform-origin:0 100%}.header_inpos_bottom .l-header.pos_fixed:not(.sticky) .w-nav.type_mobile.m_layout_dropdown .w-nav-list.level_1{top:auto;bottom:100%;box-shadow:0 -3px 3px rgba(0,0,0,0.1)}.header_inpos_bottom .l-header.pos_fixed:not(.sticky) .w-nav.type_desktop .w-nav-list.level_3,.header_inpos_bottom .l-header.pos_fixed:not(.sticky) .w-nav.type_desktop .w-nav-list.level_4{top:auto;bottom:0;transform-origin:0 100%}}@media (min-width:601px) and (max-width:900px){.hidden_for_tablets{display:none !important}.l-subheader.at_top{display:none}.l-subheader.at_bottom{display:none}.header_hor .l-subheader.at_top{line-height:40px;height:40px}.header_hor .l-header.sticky .l-subheader.at_top{line-height:40px;height:40px}.header_hor .l-subheader.at_middle{line-height:110px;height:110px}.header_hor .l-header.sticky .l-subheader.at_middle{line-height:110px;height:110px}.header_hor .l-subheader.at_bottom{line-height:50px;height:50px}.header_hor .l-header.sticky .l-subheader.at_bottom{line-height:50px;height:50px}.header_hor .l-header.pos_fixed~.l-section,.header_hor .sidebar_left .l-header.pos_fixed + .l-main,.header_hor .sidebar_right .l-header.pos_fixed + .l-main,.header_hor .sidebar_none .l-header.pos_fixed + .l-main .l-section:first-child,.header_hor .sidebar_none .l-header.pos_fixed + .l-main .l-section-gap:nth-child(2),.header_hor .l-header.pos_static.bg_transparent~.l-section,.header_hor .sidebar_left .l-header.pos_static.bg_transparent + .l-main,.header_hor .sidebar_right .l-header.pos_static.bg_transparent + .l-main,.header_hor .sidebar_none .l-header.pos_static.bg_transparent + .l-main .l-section:first-child{padding-top:110px}.header_hor .l-header.pos_static.bg_solid + .l-main .l-section.preview_trendy .w-blogpost-preview{top:-110px}.header_hor .l-header.pos_fixed~.l-main .l-section.sticky{top:110px}.header_hor .sidebar_none .l-header.pos_fixed.sticky + .l-main .l-section.type_sticky:first-child{padding-top:110px}}@media (max-width:600px){.hidden_for_mobiles{display:none !important}.l-subheader.at_top{display:none}.l-subheader.at_bottom{display:none}.header_hor .l-subheader.at_top{line-height:40px;height:40px}.header_hor .l-header.sticky .l-subheader.at_top{line-height:40px;height:40px}.header_hor .l-subheader.at_middle{line-height:97px;height:97px}.header_hor .l-header.sticky .l-subheader.at_middle{line-height:97px;height:97px}.header_hor .l-subheader.at_bottom{line-height:50px;height:50px}.header_hor .l-header.sticky .l-subheader.at_bottom{line-height:50px;height:50px}.header_hor .l-header.pos_fixed~.l-section,.header_hor .sidebar_left .l-header.pos_fixed + .l-main,.header_hor .sidebar_right .l-header.pos_fixed + .l-main,.header_hor .sidebar_none .l-header.pos_fixed + .l-main .l-section:first-child,.header_hor .sidebar_none .l-header.pos_fixed + .l-main .l-section-gap:nth-child(2),.header_hor .l-header.pos_static.bg_transparent~.l-section,.header_hor .sidebar_left .l-header.pos_static.bg_transparent + .l-main,.header_hor .sidebar_right .l-header.pos_static.bg_transparent + .l-main,.header_hor .sidebar_none .l-header.pos_static.bg_transparent + .l-main .l-section:first-child{padding-top:97px}.header_hor .l-header.pos_static.bg_solid + .l-main .l-section.preview_trendy .w-blogpost-preview{top:-97px}.header_hor .l-header.pos_fixed~.l-main .l-section.sticky{top:97px}.header_hor .sidebar_none .l-header.pos_fixed.sticky + .l-main .l-section.type_sticky:first-child{padding-top:97px}}@media (min-width:901px){.ush_image_1{height:90px}.l-header.sticky .ush_image_1{height:90px}}@media (min-width:601px) and (max-width:900px){.ush_image_1{height:90px}.l-header.sticky .ush_image_1{height:90px}}@media (max-width:600px){.ush_image_1{height:65px}.l-header.sticky .ush_image_1{height:65px}}.ush_text_2{white-space:nowrap}@media (min-width:901px){.ush_text_2{font-size:13px}}@media (min-width:601px) and (max-width:900px){.ush_text_2{font-size:13px}}@media (max-width:600px){.ush_text_2{font-size:13px}}.ush_text_3{white-space:nowrap}@media (min-width:901px){.ush_text_3{font-size:13px}}@media (min-width:601px) and (max-width:900px){.ush_text_3{font-size:13px}}@media (max-width:600px){.ush_text_3{font-size:13px}}.header_hor .ush_menu_2.type_desktop .w-nav-list.level_1>.menu-item>a{padding:0 20px}.header_ver .ush_menu_2.type_desktop{line-height:40px}.ush_menu_2.type_desktop .btn.menu-item.level_1>.w-nav-anchor{margin:10px}.ush_menu_2.type_desktop .w-nav-list>.menu-item.level_1{font-size:16px}.ush_menu_2.type_desktop .w-nav-list>.menu-item:not(.level_1){font-size:15px}.ush_menu_2.type_mobile .w-nav-anchor.level_1{font-size:15px}.ush_menu_2.type_mobile .w-nav-anchor:not(.level_1){font-size:14px}@media (min-width:901px){.ush_menu_2 .w-nav-icon{font-size:20px}}@media (min-width:601px) and (max-width:900px){.ush_menu_2 .w-nav-icon{font-size:20px}}@media (max-width:600px){.ush_menu_2 .w-nav-icon{font-size:20px}}@media screen and (max-width:9999998px){.ush_menu_2 .w-nav-list{display:none}.ush_menu_2 .w-nav-control{display:block}}@media (min-width:901px){.ush_socials_1{font-size:18px}}@media (min-width:601px) and (max-width:900px){.ush_socials_1{font-size:18px}}@media (max-width:600px){.ush_socials_1{font-size:18px}}.ush_socials_1 .custom .w-socials-item-link-hover{background-color:}.ush_socials_1.color_brand .custom .w-socials-item-link{color:}</style>
+</head>
+<body class="home page-template-default page page-id-2 l-body Zephyr_5.0 HB_2.2 header_hor header_inpos_top btn_hov_ state_default wpb-js-composer js-comp-ver-5.5.2 vc_responsive" itemscope itemtype="https://schema.org/WebPage">
+<div class="l-canvas sidebar_none type_wide">
+<header class="l-header pos_fixed bg_solid shadow_thin" itemscope itemtype="https://schema.org/WPHeader"><div class="l-subheader at_middle"><div class="l-subheader-h"><div class="l-subheader-cell at_left"><div class="w-socials hidden_for_mobiles ush_socials_1  style_default hover_fade color_brand shape_circle"><div class="w-socials-list"><div class="w-socials-item facebook"><a class="w-socials-item-link" target="_blank" href="https://www.facebook.com/avena.leisure.1/" title="Facebook" rel="nofollow"><span class="w-socials-item-link-hover"></span></a><div class="w-socials-item-popup"><span>Facebook</span></div></div><div class="w-socials-item twitter"><a class="w-socials-item-link" target="_blank" href="#" title="Twitter" rel="nofollow"><span class="w-socials-item-link-hover"></span></a><div class="w-socials-item-popup"><span>Twitter</span></div></div><div class="w-socials-item instagram"><a class="w-socials-item-link" target="_blank" href="#" title="Instagram" rel="nofollow"><span class="w-socials-item-link-hover"></span></a><div class="w-socials-item-popup"><span>Instagram</span></div></div></div></div></div><div class="l-subheader-cell at_center"><div class="w-img ush_image_1 "><a class="w-img-h" href="https://avenaleisure.com/"><img class="for_default" src="https://avenaleisure.com/wp-content/uploads/2018/08/logo.png" width="532" height="187" alt="" /></a></div></div><div class="l-subheader-cell at_right"><nav class="w-nav ush_menu_2  height_full type_desktop dropdown_height m_align_left m_layout_fullscreen m_effect_aft" itemscope itemtype="https://schema.org/SiteNavigationElement"><a class="w-nav-control" href="javascript:void(0);" aria-label="Menu"><div class="w-nav-icon"><i></i></div><span>Menu</span></a><ul class="w-nav-list level_1 hide_for_mobiles"><li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item w-nav-item level_1 menu-item-19"><a class="w-nav-anchor level_1"  href="https://avenaleisure.com/"><span class="w-nav-title">Home</span><span class="w-nav-arrow"></span></a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-51"><a class="w-nav-anchor level_1"  href="https://avenaleisure.com/special-offers/"><span class="w-nav-title">Membership</span><span class="w-nav-arrow"></span></a></li>
+<li id="menu-item-469" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-469"><a class="w-nav-anchor level_1"  href="https://avenaleisure.com/about-us/"><span class="w-nav-title">About Us</span><span class="w-nav-arrow"></span></a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-54"><a class="w-nav-anchor level_1"  href="https://avenaleisure.com/our-classes/"><span class="w-nav-title">Our Classes</span><span class="w-nav-arrow"></span></a></li>
+<li id="menu-item-357" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-357"><a class="w-nav-anchor level_1"  href="https://avenaleisure.com/physiotherapy/"><span class="w-nav-title">Physiotherapy</span><span class="w-nav-arrow"></span></a></li>
+<li id="menu-item-575" class="menu-item menu-item-type-post_type menu-item-object-us_portfolio w-nav-item level_1 menu-item-575"><a class="w-nav-anchor level_1"  href="https://avenaleisure.com/classes/personal-training/"><span class="w-nav-title">Personal Training</span><span class="w-nav-arrow"></span></a></li>
+<li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-us_portfolio w-nav-item level_1 menu-item-279"><a class="w-nav-anchor level_1"  href="https://avenaleisure.com/classes/swim-classes/"><span class="w-nav-title">Avena Swim School</span><span class="w-nav-arrow"></span></a></li>
+<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-us_portfolio w-nav-item level_1 menu-item-585"><a class="w-nav-anchor level_1"  href="https://avenaleisure.com/classes/adult-swimming/"><span class="w-nav-title">Adult Swimming</span><span class="w-nav-arrow"></span></a></li>
+<li id="menu-item-669" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-669"><a class="w-nav-anchor level_1"  href="https://avenaleisure.com/contact-us/"><span class="w-nav-title">Contact Us</span><span class="w-nav-arrow"></span></a></li>
+<div class="w-nav-close"></div></ul><div class="w-nav-options hidden" onclick='return {&quot;mobileWidth&quot;:9999999,&quot;mobileBehavior&quot;:0}'></div></nav></div></div></div><div class="l-subheader for_hidden hidden"></div></header>
+<div class="l-main">
+<div class="l-main-h i-cf">
+<main class="l-content" itemprop="mainContentOfPage">
+<section class="l-section wpb_row height_medium banner"><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element">
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.4.8 fullwidth mode -->
+<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.8">
+<ul>	<!-- SLIDE  -->
+<li data-index="rs-14" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="https://avenaleisure.com/wp-content/uploads/2018/08/banner-min-5-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+<!-- MAIN IMAGE -->
+<img src="https://avenaleisure.com/wp-content/uploads/2018/08/banner-min-5.jpg"  alt="" title="banner-min (5)"  width="2000" height="960" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+<!-- LAYERS -->
+<!-- LAYER NR. 1 -->
+<a class="tp-caption rev-btn " 
+href="https://avenaleisure.com/special-offers/" target="_self"			 id="slide-14-layer-4" 
+data-x="26" 
+data-y="435" 
+data-width="['auto']"
+data-height="['auto']"
+data-type="button" 
+data-actions=''
+data-responsive_offset="on" 
+data-responsive="off"
+data-frames='[{"delay":430,"speed":500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:top;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bs:solid;bw:0 0 0 0;"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[12,12,12,12]"
+data-paddingright="[35,35,35,35]"
+data-paddingbottom="[12,12,12,12]"
+data-paddingleft="[35,35,35,35]"
+style="z-index: 5; white-space: nowrap; font-size: 17px; line-height: 17px; font-weight: 500; color: rgba(255,255,255,1); letter-spacing: px;background-color:rgba(0,0,0,0.75);border-color:rgba(0,0,0,1);border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;">JOIN </a>
+<!-- LAYER NR. 2 -->
+<div class="tp-caption   tp-resizeme" 
+id="slide-14-layer-13" 
+data-x="23" 
+data-y="268" 
+data-width="['auto']"
+data-height="['auto']"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":760,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 6; white-space: nowrap; font-size: 27px; line-height: 40px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:'Avenir Con', sans-serif;">FROM JUST </div>
+<!-- LAYER NR. 3 -->
+<div class="tp-caption   tp-resizeme tp-svg-layer" 
+id="slide-14-layer-15" 
+data-x="center" data-hoffset="" 
+data-y="bottom" data-voffset="" 
+data-width="['138']"
+data-height="['auto']"
+data-type="svg" 
+data-actions='[{"event":"click","action":"scrollbelow","offset":"-120px","delay":"","speed":"","ease":"Linear.easeNone"}]'
+data-svg_src="http://darraghkerrigancreative.ie/avena/wp-content/plugins/revslider/public/assets/assets/svg/navigation/ic_arrow_drop_down_36px.svg" 
+data-svg_idle="sc:transparent;sw:0;sda:0;sdo:0;" 
+data-responsive_offset="on" 
+data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 7; min-width: 138px; max-width: 138px; color: #ffffff;"> </div>
+<!-- LAYER NR. 4 -->
+<div class="tp-caption   tp-resizeme" 
+id="slide-14-layer-16" 
+data-x="19" 
+data-y="23" 
+data-width="['188']"
+data-height="['auto']"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 8; min-width: 188px; max-width: 188px; white-space: nowrap; font-size: 80px; line-height: 140px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:'Avenir Con', sans-serif;">FULL  </div>
+<!-- LAYER NR. 5 -->
+<div class="tp-caption   tp-resizeme" 
+id="slide-14-layer-18" 
+data-x="18" 
+data-y="127" 
+data-width="['auto']"
+data-height="['auto']"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 9; white-space: nowrap; font-size: 120px; line-height: 140px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:'Avenir Con', sans-serif;">MEMBERSHIP </div>
+<!-- LAYER NR. 6 -->
+<div class="tp-caption   tp-resizeme" 
+id="slide-14-layer-20" 
+data-x="24" 
+data-y="348" 
+data-width="['auto']"
+data-height="['auto']"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 10; white-space: nowrap; font-size: 50px; line-height: 22px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:'Avenir Con', sans-serif;">€1.44 PER DAY </div>
+</li>
+<!-- SLIDE  -->
+<li data-index="rs-16" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="https://avenaleisure.com/wp-content/uploads/2018/08/Swim-Camp-Home-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+<!-- MAIN IMAGE -->
+<img src="https://avenaleisure.com/wp-content/uploads/2018/08/Swim-Camp-Home.jpg"  alt="" title="Swim Camp Home"  width="2500" height="1425" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+<!-- LAYERS -->
+<!-- LAYER NR. 7 -->
+<a class="tp-caption rev-btn " 
+href="https://avenaleisure.com/classes/swim-classes/" target="_self"			 id="slide-16-layer-4" 
+data-x="50" 
+data-y="446" 
+data-width="['auto']"
+data-height="['auto']"
+data-type="button" 
+data-actions=''
+data-responsive_offset="on" 
+data-responsive="off"
+data-frames='[{"delay":430,"speed":500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:top;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bs:solid;bw:0 0 0 0;"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[12,12,12,12]"
+data-paddingright="[35,35,35,35]"
+data-paddingbottom="[12,12,12,12]"
+data-paddingleft="[35,35,35,35]"
+style="z-index: 5; white-space: nowrap; font-size: 17px; line-height: 17px; font-weight: 500; color: rgba(255,255,255,1); letter-spacing: px;background-color:rgba(0,0,0,0.75);border-color:rgba(0,0,0,1);border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;">REGISTER  </a>
+<!-- LAYER NR. 8 -->
+<div class="tp-caption   tp-resizeme" 
+id="slide-16-layer-6" 
+data-x="50" 
+data-y="124" 
+data-width="['auto']"
+data-height="['auto']"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":0,"speed":300,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 6; white-space: nowrap; font-size: 120px; line-height: 140px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:'Avenir Con', sans-serif;">SWIMMING </div>
+<!-- LAYER NR. 9 -->
+<div class="tp-caption   tp-resizeme tp-svg-layer" 
+id="slide-16-layer-15" 
+data-x="center" data-hoffset="" 
+data-y="bottom" data-voffset="" 
+data-width="['138']"
+data-height="['auto']"
+data-type="svg" 
+data-actions='[{"event":"click","action":"scrollbelow","offset":"-120px","delay":"","speed":"","ease":"Linear.easeNone"}]'
+data-svg_src="http://darraghkerrigancreative.ie/avena/wp-content/plugins/revslider/public/assets/assets/svg/navigation/ic_arrow_drop_down_36px.svg" 
+data-svg_idle="sc:transparent;sw:0;sda:0;sdo:0;" 
+data-responsive_offset="on" 
+data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 7; min-width: 138px; max-width: 138px; color: #ffffff;"> </div>
+<!-- LAYER NR. 10 -->
+<div class="tp-caption   tp-resizeme" 
+id="slide-16-layer-16" 
+data-x="50" 
+data-y="230" 
+data-width="['auto']"
+data-height="['auto']"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":0,"speed":300,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 8; white-space: nowrap; font-size: 120px; line-height: 140px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:'Avenir Con', sans-serif;">LESSONS </div>
+</li>
+<!-- SLIDE  -->
+<li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="https://avenaleisure.com/wp-content/uploads/2018/10/banner-PC-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+<!-- MAIN IMAGE -->
+<img src="https://avenaleisure.com/wp-content/uploads/2018/10/banner-PC.jpg"  alt="" title="banner-PC"  width="2000" height="960" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+<!-- LAYERS -->
+<!-- LAYER NR. 11 -->
+<a class="tp-caption rev-btn " 
+href="https://avenaleisure.com/classes/personal-training/" target="_self"			 id="slide-1-layer-4" 
+data-x="50" 
+data-y="415" 
+data-width="['auto']"
+data-height="['auto']"
+data-type="button" 
+data-actions=''
+data-responsive_offset="on" 
+data-responsive="off"
+data-frames='[{"delay":430,"speed":500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:top;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bs:solid;bw:0 0 0 0;"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[12,12,12,12]"
+data-paddingright="[35,35,35,35]"
+data-paddingbottom="[12,12,12,12]"
+data-paddingleft="[35,35,35,35]"
+style="z-index: 5; white-space: nowrap; font-size: 17px; line-height: 17px; font-weight: 500; color: rgba(255,255,255,1); letter-spacing: px;background-color:rgba(0,0,0,0.75);border-color:rgba(0,0,0,1);border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;">READ MORE </a>
+<!-- LAYER NR. 12 -->
+<div class="tp-caption   tp-resizeme" 
+id="slide-1-layer-6" 
+data-x="50" 
+data-y="95" 
+data-width="['auto']"
+data-height="['auto']"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":10,"speed":300,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 6; white-space: nowrap; font-size: 120px; line-height: 140px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:'Avenir Con', sans-serif;">PERSONAL </div>
+<!-- LAYER NR. 13 -->
+<div class="tp-caption   tp-resizeme" 
+id="slide-1-layer-8" 
+data-x="50" 
+data-y="335" 
+data-width="['auto']"
+data-height="['auto']"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":300,"speed":300,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 7; white-space: nowrap; font-size: 40px; line-height: 50px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:'Avenir Con', sans-serif;">GET THE RESULTS YOU WANT </div>
+<!-- LAYER NR. 14 -->
+<div class="tp-caption   tp-resizeme tp-svg-layer" 
+id="slide-1-layer-15" 
+data-x="center" data-hoffset="" 
+data-y="bottom" data-voffset="" 
+data-width="['138']"
+data-height="['auto']"
+data-type="svg" 
+data-actions='[{"event":"click","action":"scrollbelow","offset":"-120px","delay":"","speed":"","ease":"Linear.easeNone"}]'
+data-svg_src="http://darraghkerrigancreative.ie/avena/wp-content/plugins/revslider/public/assets/assets/svg/navigation/ic_arrow_drop_down_36px.svg" 
+data-svg_idle="sc:transparent;sw:0;sda:0;sdo:0;" 
+data-responsive_offset="on" 
+data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 8; min-width: 138px; max-width: 138px; color: #ffffff;"> </div>
+<!-- LAYER NR. 15 -->
+<div class="tp-caption   tp-resizeme" 
+id="slide-1-layer-16" 
+data-x="50" 
+data-y="206" 
+data-width="['auto']"
+data-height="['auto']"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":10,"speed":300,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 9; white-space: nowrap; font-size: 120px; line-height: 140px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:'Avenir Con', sans-serif;">TRAINING </div>
+</li>
+<!-- SLIDE  -->
+<li data-index="rs-29" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="https://avenaleisure.com/wp-content/uploads/2018/10/Swim-Banner-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+<!-- MAIN IMAGE -->
+<img src="https://avenaleisure.com/wp-content/uploads/2018/10/Swim-Banner.jpg"  alt="" title="Swim Banner"  width="2000" height="960" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+<!-- LAYERS -->
+<!-- LAYER NR. 16 -->
+<a class="tp-caption rev-btn " 
+href="https://avenaleisure.com/classes/adult-swimming/" target="_self"			 id="slide-29-layer-4" 
+data-x="49" 
+data-y="415" 
+data-width="['auto']"
+data-height="['auto']"
+data-type="button" 
+data-actions=''
+data-responsive_offset="on" 
+data-responsive="off"
+data-frames='[{"delay":430,"speed":500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:top;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bs:solid;bw:0 0 0 0;"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[12,12,12,12]"
+data-paddingright="[35,35,35,35]"
+data-paddingbottom="[12,12,12,12]"
+data-paddingleft="[35,35,35,35]"
+style="z-index: 5; white-space: nowrap; font-size: 17px; line-height: 17px; font-weight: 500; color: rgba(255,255,255,1); letter-spacing: px;background-color:rgba(0,0,0,0.75);border-color:rgba(0,0,0,1);border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;">READ MORE </a>
+<!-- LAYER NR. 17 -->
+<div class="tp-caption   tp-resizeme" 
+id="slide-29-layer-6" 
+data-x="50" 
+data-y="95" 
+data-width="['auto']"
+data-height="['auto']"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":10,"speed":300,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 6; white-space: nowrap; font-size: 120px; line-height: 140px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:'Avenir Con', sans-serif;">ADULT </div>
+<!-- LAYER NR. 18 -->
+<div class="tp-caption   tp-resizeme" 
+id="slide-29-layer-8" 
+data-x="50" 
+data-y="335" 
+data-width="['auto']"
+data-height="['auto']"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":300,"speed":300,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 7; white-space: nowrap; font-size: 40px; line-height: 50px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:'Avenir Con', sans-serif;">GET THE RESULTS YOU WANT </div>
+<!-- LAYER NR. 19 -->
+<div class="tp-caption   tp-resizeme tp-svg-layer" 
+id="slide-29-layer-15" 
+data-x="center" data-hoffset="" 
+data-y="bottom" data-voffset="" 
+data-width="['138']"
+data-height="['auto']"
+data-type="svg" 
+data-actions='[{"event":"click","action":"scrollbelow","offset":"-120px","delay":"","speed":"","ease":"Linear.easeNone"}]'
+data-svg_src="http://darraghkerrigancreative.ie/avena/wp-content/plugins/revslider/public/assets/assets/svg/navigation/ic_arrow_drop_down_36px.svg" 
+data-svg_idle="sc:transparent;sw:0;sda:0;sdo:0;" 
+data-responsive_offset="on" 
+data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 8; min-width: 138px; max-width: 138px; color: #ffffff;"> </div>
+<!-- LAYER NR. 20 -->
+<div class="tp-caption   tp-resizeme" 
+id="slide-29-layer-16" 
+data-x="49" 
+data-y="206" 
+data-width="['auto']"
+data-height="['auto']"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":10,"speed":300,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 9; white-space: nowrap; font-size: 120px; line-height: 140px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:'Avenir Con', sans-serif;">SWIMMING </div>
+</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+if(htmlDiv) {
+htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+}else{
+var htmlDiv = document.createElement("div");
+htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+}
+</script>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+if(htmlDiv) {
+htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+}else{
+var htmlDiv = document.createElement("div");
+htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+}
+</script>
+<script type="text/javascript">
+if (setREVStartSize!==undefined) setREVStartSize(
+{c: '#rev_slider_1_1', gridwidth: [1100], gridheight: [720], sliderLayout: 'fullwidth'});
+var revapi1,
+tpj;	
+(function() {			
+if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded",onLoad); else onLoad();	
+function onLoad() {				
+if (tpj===undefined) { tpj = jQuery; if("off" == "on") tpj.noConflict();}
+if(tpj("#rev_slider_1_1").revolution == undefined){
+revslider_showDoubleJqueryError("#rev_slider_1_1");
+}else{
+revapi1 = tpj("#rev_slider_1_1").show().revolution({
+sliderType:"standard",
+jsFileLocation:"//avenaleisure.com/wp-content/plugins/revslider/public/assets/js/",
+sliderLayout:"fullwidth",
+dottedOverlay:"none",
+delay:6000,
+navigation: {
+keyboardNavigation:"off",
+keyboard_direction: "horizontal",
+mouseScrollNavigation:"off",
+mouseScrollReverse:"default",
+onHoverStop:"off",
+touch:{
+touchenabled:"on",
+touchOnDesktop:"off",
+swipe_threshold: 75,
+swipe_min_touches: 1,
+swipe_direction: "horizontal",
+drag_block_vertical: false
+}
+,
+arrows: {
+style:"uranus",
+enable:true,
+hide_onmobile:true,
+hide_under:1000,
+hide_onleave:false,
+tmp:'',
+left: {
+h_align:"left",
+v_align:"center",
+h_offset:10,
+v_offset:0
+},
+right: {
+h_align:"right",
+v_align:"center",
+h_offset:10,
+v_offset:0
+}
+}
+},
+visibilityLevels:[1240,1024,778,480],
+gridwidth:1100,
+gridheight:720,
+lazyType:"none",
+parallax: {
+type:"mouse",
+origo:"enterpoint",
+speed:400,
+speedbg:0,
+speedls:0,
+levels:[5,10,15,20,25,30,35,40,45,46,47,48,49,50,51,55],
+},
+shadow:0,
+spinner:"off",
+stopLoop:"off",
+stopAfterLoops:-1,
+stopAtSlide:-1,
+shuffle:"off",
+autoHeight:"off",
+disableProgressBar:"on",
+hideThumbsOnMobile:"off",
+hideSliderAtLimit:0,
+hideCaptionAtLimit:0,
+hideAllCaptionAtLilmit:0,
+debugMode:false,
+fallbacks: {
+simplifyAll:"off",
+nextSlideOnWindowFocus:"off",
+disableFocusListener:false,
+}
+});
+}; /* END OF revapi call */
+}; /* END OF ON LOAD FUNCTION */
+}()); /* END OF WRAPPING FUNCTION */
+</script>
+<script>
+var htmlDivCss = unescape("%23rev_slider_1_1%20.uranus.tparrows%20%7B%0A%20%20width%3A50px%3B%0A%20%20height%3A50px%3B%0A%20%20background%3Argba%28255%2C255%2C255%2C0%29%3B%0A%20%7D%0A%20%23rev_slider_1_1%20.uranus.tparrows%3Abefore%20%7B%0A%20width%3A50px%3B%0A%20height%3A50px%3B%0A%20line-height%3A50px%3B%0A%20font-size%3A40px%3B%0A%20transition%3Aall%200.3s%3B%0A-webkit-transition%3Aall%200.3s%3B%0A%20%7D%0A%20%0A%20%20%23rev_slider_1_1%20.uranus.tparrows%3Ahover%3Abefore%20%7B%0A%20%20%20%20opacity%3A0.75%3B%0A%20%20%7D%0A");
+var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+if(htmlDiv) {
+htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+}
+else{
+var htmlDiv = document.createElement('div');
+htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+}
+</script>
+</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div></div></section><section class="l-section wpb_row height_medium with_overlay promo"><div class="l-section-overlay" style="background-color: #3ba9c8"></div><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner color_custom" style="color:#eeeeee;"><div class="wpb_wrapper"><div class="g-cols wpb_row type_default valign_top vc_inner "><div class="vc_col-sm-12 wpb_column vc_column_container animate_fade"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_text_column ">
+<div class="wpb_wrapper">
+<h4 style="text-align: center;">Here at Avena we offer great value in membership. Enjoy a new fitness experience, set new goals, face new challenges. We offer 3,6 &amp; 12 month memberships including off-peak, morning, student and over 55`s.</h4>
+<h4 style="text-align: center;"></h4>
+<h4 style="text-align: center;">Qualified staff will help you get the very best from your membership. We will instruct, design &amp; implement a fitness or swim program to get you started. No matter what your fitness level, we can cater for you. From a complete beginner to the regular athlete, advice on training techniques is available.</h4>
+<h4 style="text-align: center;">Get in touch and become part of the Avena Leisure Gym community.</h4>
+</div>
+</div>
+</div></div></div></div><div class="g-cols wpb_row type_default valign_top vc_inner "><div class="vc_col-sm-12 wpb_column vc_column_container animate_afb"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-btn-wrapper align_center"><a class="w-btn style_raised color_primary big white icon_none" href="https://avenaleisure.com/special-offers/"><span class="w-btn-label">JOIN</span></a></div></div></div></div></div></div></div></div></div></div></section><section class="l-section wpb_row height_medium width_full boxes"><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_bottom"><div class="vc_col-sm-4 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="ult-content-box-container bx1" >	<a class="ult-content-box-anchor" >		<div class="ult-content-box" style="background-image:url(&#039;https://avenaleisure.com/wp-content/uploads/2018/08/image1-min.jpg&#039;);background-size: cover;background-repeat: repeat;background-position: center center;background-color: rgba(0, 0, 0, 0);box-shadow: px px px px none;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;"  data-hover_box_shadow="none"    >
+<div class="wpb_text_column  icon3">
+<div class="wpb_wrapper">
+<h1>BOOK<br />
+A CLASS</h1>
+</div>
+</div>
+<div class="g-cols wpb_row type_default valign_top vc_inner buttbox "><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-btn-wrapper align_left"><a class="w-btn style_raised color_primary bott1 white big icon_none" href="https://avenaleisure.com/our-classes/"><span class="w-btn-label">VIEW CLASSES</span></a></div></div></div></div></div>		</div>	</a></div></div></div></div><div class="vc_col-sm-4 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="ult-content-box-container bx2" >	<a class="ult-content-box-anchor" >		<div class="ult-content-box" style="background-image:url(&#039;https://avenaleisure.com/wp-content/uploads/2018/08/image2-min.jpg&#039;);background-size: cover;background-repeat: repeat;background-position: center center;background-color: rgba(0, 0, 0, 0);box-shadow: px px px px none;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;"  data-hover_box_shadow="none"    >
+<div class="wpb_text_column  icon1">
+<div class="wpb_wrapper">
+<h1 class="p1">BECOME<br />
+A MEMBER</h1>
+</div>
+</div>
+<div class="g-cols wpb_row type_default valign_top vc_inner buttbox "><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-btn-wrapper align_left"><a class="w-btn style_raised color_primary bott1 big white icon_none" href="https://avenaleisure.com/special-offers/"><span class="w-btn-label">JOIN</span></a></div><div class="w-btn-wrapper align_left"><a class="w-btn style_raised color_primary bott2 big white icon_none" href="https://avenaleisure.com/get-free-pass/"><span class="w-btn-label">FREE PASS</span></a></div></div></div></div></div>		</div>	</a></div></div></div></div><div class="vc_col-sm-4 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="ult-content-box-container bx3" >	<a class="ult-content-box-anchor" >		<div class="ult-content-box" style="background-image:url(&#039;https://avenaleisure.com/wp-content/uploads/2018/08/image3-min-min.jpg&#039;);background-size: cover;background-repeat: repeat;background-position: center center;background-color: rgba(0, 0, 0, 0);box-shadow: px px px px none;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;"  data-hover_box_shadow="none"    >
+<div class="wpb_text_column  icon2">
+<div class="wpb_wrapper">
+<h1>AVENA<br />
+SWIM SCHOOL</h1>
+</div>
+</div>
+<div class="g-cols wpb_row type_default valign_top vc_inner buttbox "><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-btn-wrapper align_left"><a class="w-btn style_raised color_primary bott1 big white icon_none" href="https://avenaleisure.com/classes/swim-classes/"><span class="w-btn-label">ENTER</span></a></div></div></div></div></div>		</div>	</a></div></div></div></div></div></div></section><section class="l-section wpb_row height_medium with_img fotpromo"><div class="l-section-img" style="background-image: url(https://avenaleisure.com/wp-content/uploads/2018/08/AvenaLeasure-Bottob-Picdsadsa-min-1.jpg);" data-img-width="2000" data-img-height="749"></div><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner color_custom" style="color:#ffffff;"><div class="wpb_wrapper"><div class="ult-content-box-container boxright" >		<div class="ult-content-box" style="box-shadow: px px px px none;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;"  data-hover_box_shadow="none"    >
+<div class="wpb_text_column ">
+<div class="wpb_wrapper">
+<h1>OUR NEWS</h1>
+<p>Avena Leisure was established in July 2008 Our centre is a 12,000 Square feet state of the art facility containing a 20m Pool, Hydrotherapy suit, Jacuzzi, Steam-room, Sauna, Gym, treatment rooms and 3 fitness Studios. A large easy accessible underground parking facility is also contained within the complex to provide that extra comfort to our members.</p>
+</div>
+</div>
+<div class="w-btn-wrapper align_left"><a class="w-btn style_raised color_primary big icon_none" href="https://avenaleisure.com/our-news/"><span class="w-btn-label">READ MORE</span></a></div>		</div></div></div></div></div></div></div></section>
+</main>
+</div>
+</div>
+</div>
+<footer class="l-footer" itemscope itemtype="https://schema.org/WPFooter">
+<style type="text/css" data-type="vc_custom-css">.padd1 .l-section-h {
+padding: 15px 0px 1px 0!important;
+}
+.page-id-42 .padd1{
+display:none!important;
+}</style><section class="l-section wpb_row height_medium width_full padd1"><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_text_column ">
+<div class="wpb_wrapper">
+<h1 style="text-align: center;">FITNESS CLASSES</h1>
+</div>
+</div>
+<div class="w-grid type_carousel layout_portfolio_1 height_fixed" id="us_grid_1"><style id="us_grid_1_css">#us_grid_1 .w-grid-item{padding:1px}#us_grid_1 .w-grid-list{margin:-1px}.w-grid + #us_grid_1 .w-grid-list{margin-top:1px}.l-section.width_full .vc_row>.vc_col-sm-12>div>div>#us_grid_1 .w-grid-list{margin-left:1px; margin-right:1px}.l-section.height_auto .vc_row>.vc_col-sm-12>div>div>#us_grid_1:first-child .w-grid-list{margin-top:1px}.l-section.height_auto .vc_row>.vc_col-sm-12>div>div>#us_grid_1:last-child .w-grid-list{margin-bottom:1px}</style><style>#us_grid_1 .w-grid-item-h:before{padding-bottom:100.0000%}#us_grid_1 .w-grid-item-h{background-color:#000000;color:#ebebeb}#us_grid_1 .usg_post_image_1{}#us_grid_1 .usg_post_image_1{transition-duration:0.35s;transform:scale(1) translate(0%,0%)}#us_grid_1 .w-grid-item-h:hover .usg_post_image_1{transform:scale(1) translate(0%,-10%);opacity:1}#us_grid_1 .usg_vwrapper_1{background-color:inherit}#us_grid_1 .usg_vwrapper_1{transition-duration:0.35s;transform:scale(1) translate(0%,101%)}#us_grid_1 .w-grid-item-h:hover .usg_vwrapper_1{transform:scale(1) translate(0%,0%);opacity:1}#us_grid_1 .usg_post_title_1{font-family:"Avenir Con", sans-serif;font-weight:400;font-size:1.2rem;color:inherit}#us_grid_1 .usg_post_custom_field_1{}#us_grid_1 .usg_post_custom_field_1{transition-duration:0.35s;transform:scale(1) translate(0%,100%)}#us_grid_1 .w-grid-item-h:hover .usg_post_custom_field_1{transform:scale(1) translate(0%,0%);opacity:1}#us_grid_1 .usg_post_date_1{font-size:0.9rem}#us_grid_1 .usg_post_image_1{position:absolute;top:0;right:0;bottom:0;left:0}#us_grid_1 .usg_vwrapper_1{position:absolute;right:0;bottom:-1px;left:0;padding-top:1.2rem;padding-right:1.5rem;padding-bottom:1.2rem;padding-left:1.5rem}#us_grid_1 .usg_post_custom_field_1{position:absolute;top:0;right:0;bottom:0;left:0}</style><div class="w-grid-list owl-carousel" data-breakpoint_1_width="1200" data-breakpoint_1_cols="3" data-breakpoint_1_autoplay="1" data-breakpoint_2_width="900" data-breakpoint_2_cols="2" data-breakpoint_2_autoplay="1" data-breakpoint_3_width="600" data-breakpoint_3_cols="1" data-breakpoint_3_autoplay="1" data-items="6" data-nav="1" data-dots="0" data-center="0" data-autoplay="0" data-timeout="3000" data-autoheight="0" data-slideby="page"><article class="w-grid-item ratio_1x1 post-567 us_portfolio type-us_portfolio status-publish has-post-thumbnail hentry" data-id="567">
+<div class="w-grid-item-h">
+<a class="w-grid-item-anchor" href="https://avenaleisure.com/classes/adult-swimming/" rel="bookmark" aria-label="Adult Swimming"></a>
+<div class="w-grid-item-elm usg_post_image_1  post_image"><img width="1024" height="614" src="https://avenaleisure.com/wp-content/uploads/2018/10/Adult-Swim-1024x614.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://avenaleisure.com/wp-content/uploads/2018/10/Adult-Swim-1024x614.jpg 1024w, https://avenaleisure.com/wp-content/uploads/2018/10/Adult-Swim-300x180.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="w-vwrapper usg_vwrapper_1 align_center valign_top grid_arrow_top"><h2 class="w-grid-item-elm usg_post_title_1 color_link_inherit with_text_color  post_title entry-title">Adult Swimming</h2><time class="w-grid-item-elm usg_post_date_1  post_date entry-date published" datetime="2018-12-13 16:13:58">December 13, 2018</time></div>	</div>
+</article>
+<article class="w-grid-item ratio_1x1 post-500 us_portfolio type-us_portfolio status-publish has-post-thumbnail hentry" data-id="500">
+<div class="w-grid-item-h">
+<a class="w-grid-item-anchor" href="https://avenaleisure.com/classes/avena-cycle-2/" rel="bookmark" aria-label="Avena Cycle"></a>
+<div class="w-grid-item-elm usg_post_image_1  post_image"><img width="1024" height="683" src="https://avenaleisure.com/wp-content/uploads/2018/08/shutterstock_328177361-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://avenaleisure.com/wp-content/uploads/2018/08/shutterstock_328177361-1024x683.jpg 1024w, https://avenaleisure.com/wp-content/uploads/2018/08/shutterstock_328177361-300x200.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="w-vwrapper usg_vwrapper_1 align_center valign_top grid_arrow_top"><h2 class="w-grid-item-elm usg_post_title_1 color_link_inherit with_text_color  post_title entry-title">Avena Cycle</h2><time class="w-grid-item-elm usg_post_date_1  post_date entry-date published" datetime="2018-12-06 15:08:07">December 6, 2018</time></div>	</div>
+</article>
+<article class="w-grid-item ratio_1x1 post-275 us_portfolio type-us_portfolio status-publish has-post-thumbnail hentry" data-id="275">
+<div class="w-grid-item-h">
+<a class="w-grid-item-anchor" href="https://avenaleisure.com/classes/personal-training/" rel="bookmark" aria-label="Personal Training"></a>
+<div class="w-grid-item-elm usg_post_image_1  post_image"><img width="1024" height="360" src="https://avenaleisure.com/wp-content/uploads/2018/08/Personal-Trainer-1024x360.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://avenaleisure.com/wp-content/uploads/2018/08/Personal-Trainer-1024x360.jpg 1024w, https://avenaleisure.com/wp-content/uploads/2018/08/Personal-Trainer-300x105.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="w-vwrapper usg_vwrapper_1 align_center valign_top grid_arrow_top"><h2 class="w-grid-item-elm usg_post_title_1 color_link_inherit with_text_color  post_title entry-title">Personal Training</h2><time class="w-grid-item-elm usg_post_date_1  post_date entry-date published" datetime="2018-08-24 15:08:07">August 24, 2018</time></div>	</div>
+</article>
+<article class="w-grid-item ratio_1x1 post-265 us_portfolio type-us_portfolio status-publish has-post-thumbnail hentry" data-id="265">
+<div class="w-grid-item-h">
+<a class="w-grid-item-anchor" href="https://avenaleisure.com/classes/swim-classes/" rel="bookmark" aria-label="Avena Swim School"></a>
+<div class="w-grid-item-elm usg_post_image_1  post_image"><img width="1024" height="683" src="https://avenaleisure.com/wp-content/uploads/2018/08/shutterstock_657728251-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://avenaleisure.com/wp-content/uploads/2018/08/shutterstock_657728251-1024x683.jpg 1024w, https://avenaleisure.com/wp-content/uploads/2018/08/shutterstock_657728251-300x200.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="w-vwrapper usg_vwrapper_1 align_center valign_top grid_arrow_top"><h2 class="w-grid-item-elm usg_post_title_1 color_link_inherit with_text_color  post_title entry-title">Avena Swim School</h2><time class="w-grid-item-elm usg_post_date_1  post_date entry-date published" datetime="2018-08-24 13:08:16">August 24, 2018</time></div>	</div>
+</article>
+<article class="w-grid-item ratio_1x1 post-240 us_portfolio type-us_portfolio status-publish has-post-thumbnail hentry" data-id="240">
+<div class="w-grid-item-h">
+<a class="w-grid-item-anchor" href="https://avenaleisure.com/classes/pregnancy-yoga-class/" rel="bookmark" aria-label="Pregnancy Yoga Class"></a>
+<div class="w-grid-item-elm usg_post_image_1  post_image"><img width="1024" height="360" src="https://avenaleisure.com/wp-content/uploads/2018/08/Pregnancy-Yoga-1024x360.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://avenaleisure.com/wp-content/uploads/2018/08/Pregnancy-Yoga-1024x360.jpg 1024w, https://avenaleisure.com/wp-content/uploads/2018/08/Pregnancy-Yoga-300x105.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="w-vwrapper usg_vwrapper_1 align_center valign_top grid_arrow_top"><h2 class="w-grid-item-elm usg_post_title_1 color_link_inherit with_text_color  post_title entry-title">Pregnancy Yoga Class</h2><time class="w-grid-item-elm usg_post_date_1  post_date entry-date published" datetime="2018-08-24 10:33:46">August 24, 2018</time></div>	</div>
+</article>
+<article class="w-grid-item ratio_1x1 post-171 us_portfolio type-us_portfolio status-publish has-post-thumbnail hentry" data-id="171">
+<div class="w-grid-item-h">
+<a class="w-grid-item-anchor" href="https://avenaleisure.com/classes/avena-cycle/" rel="bookmark" aria-label="Beginners Avena Cycle"></a>
+<div class="w-grid-item-elm usg_post_image_1  post_image"><img width="1000" height="664" src="https://avenaleisure.com/wp-content/uploads/2018/12/shutterstock_739764994.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://avenaleisure.com/wp-content/uploads/2018/12/shutterstock_739764994.jpg 1000w, https://avenaleisure.com/wp-content/uploads/2018/12/shutterstock_739764994-300x199.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></div><div class="w-vwrapper usg_vwrapper_1 align_center valign_top grid_arrow_top"><h2 class="w-grid-item-elm usg_post_title_1 color_link_inherit with_text_color  post_title entry-title">Beginners Avena Cycle</h2><time class="w-grid-item-elm usg_post_date_1  post_date entry-date published" datetime="2018-08-23 10:55:40">August 23, 2018</time></div>	</div>
+</article>
+<article class="w-grid-item ratio_1x1 post-147 us_portfolio type-us_portfolio status-publish has-post-thumbnail hentry" data-id="147">
+<div class="w-grid-item-h">
+<a class="w-grid-item-anchor" href="https://avenaleisure.com/classes/s-t-o-t-t-pilates/" rel="bookmark" aria-label="S.T.O.T.T. Pilates"></a>
+<div class="w-grid-item-elm usg_post_image_1  post_image"><img width="1024" height="683" src="https://avenaleisure.com/wp-content/uploads/2018/08/AdobeStock_60360766-1024x683.jpeg" class="attachment-large size-large wp-post-image" alt="" srcset="https://avenaleisure.com/wp-content/uploads/2018/08/AdobeStock_60360766-1024x683.jpeg 1024w, https://avenaleisure.com/wp-content/uploads/2018/08/AdobeStock_60360766-300x200.jpeg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="w-vwrapper usg_vwrapper_1 align_center valign_top grid_arrow_top"><h2 class="w-grid-item-elm usg_post_title_1 color_link_inherit with_text_color  post_title entry-title">S.T.O.T.T. Pilates</h2><time class="w-grid-item-elm usg_post_date_1  post_date entry-date published" datetime="2018-08-13 14:08:50">August 13, 2018</time></div>	</div>
+</article>
+<article class="w-grid-item ratio_1x1 post-145 us_portfolio type-us_portfolio status-publish has-post-thumbnail hentry" data-id="145">
+<div class="w-grid-item-h">
+<a class="w-grid-item-anchor" href="https://avenaleisure.com/classes/hiit-class/" rel="bookmark" aria-label="HIIT Class"></a>
+<div class="w-grid-item-elm usg_post_image_1  post_image"><img width="1024" height="434" src="https://avenaleisure.com/wp-content/uploads/2018/08/HIIT-Fitness-1024x434.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://avenaleisure.com/wp-content/uploads/2018/08/HIIT-Fitness-1024x434.jpg 1024w, https://avenaleisure.com/wp-content/uploads/2018/08/HIIT-Fitness-300x127.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="w-vwrapper usg_vwrapper_1 align_center valign_top grid_arrow_top"><h2 class="w-grid-item-elm usg_post_title_1 color_link_inherit with_text_color  post_title entry-title">HIIT Class</h2><time class="w-grid-item-elm usg_post_date_1  post_date entry-date published" datetime="2018-08-13 14:08:12">August 13, 2018</time></div>	</div>
+</article>
+<article class="w-grid-item ratio_1x1 post-143 us_portfolio type-us_portfolio status-publish has-post-thumbnail hentry" data-id="143">
+<div class="w-grid-item-h">
+<a class="w-grid-item-anchor" href="https://avenaleisure.com/classes/bodysculpt/" rel="bookmark" aria-label="Bodysculpt"></a>
+<div class="w-grid-item-elm usg_post_image_1  post_image"><img width="1024" height="360" src="https://avenaleisure.com/wp-content/uploads/2018/08/BodySculpt-1024x360.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://avenaleisure.com/wp-content/uploads/2018/08/BodySculpt-1024x360.jpg 1024w, https://avenaleisure.com/wp-content/uploads/2018/08/BodySculpt-300x105.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="w-vwrapper usg_vwrapper_1 align_center valign_top grid_arrow_top"><h2 class="w-grid-item-elm usg_post_title_1 color_link_inherit with_text_color  post_title entry-title">Bodysculpt</h2><time class="w-grid-item-elm usg_post_date_1  post_date entry-date published" datetime="2018-08-13 14:07:39">August 13, 2018</time></div>	</div>
+</article>
+<article class="w-grid-item ratio_1x1 post-141 us_portfolio type-us_portfolio status-publish has-post-thumbnail hentry" data-id="141">
+<div class="w-grid-item-h">
+<a class="w-grid-item-anchor" href="https://avenaleisure.com/classes/20-20/" rel="bookmark" aria-label="20/20"></a>
+<div class="w-grid-item-elm usg_post_image_1  post_image"><img width="1024" height="360" src="https://avenaleisure.com/wp-content/uploads/2018/08/20-20-1024x360.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://avenaleisure.com/wp-content/uploads/2018/08/20-20-1024x360.jpg 1024w, https://avenaleisure.com/wp-content/uploads/2018/08/20-20-300x105.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="w-vwrapper usg_vwrapper_1 align_center valign_top grid_arrow_top"><h2 class="w-grid-item-elm usg_post_title_1 color_link_inherit with_text_color  post_title entry-title">20/20</h2><time class="w-grid-item-elm usg_post_date_1  post_date entry-date published" datetime="2018-08-13 14:06:56">August 13, 2018</time></div>	</div>
+</article>
+<article class="w-grid-item ratio_1x1 post-126 us_portfolio type-us_portfolio status-publish has-post-thumbnail hentry" data-id="126">
+<div class="w-grid-item-h">
+<a class="w-grid-item-anchor" href="https://avenaleisure.com/classes/aqua-fit/" rel="bookmark" aria-label="Aqua Fit"></a>
+<div class="w-grid-item-elm usg_post_image_1  post_image"><img width="1024" height="439" src="https://avenaleisure.com/wp-content/uploads/2018/08/AquaFit-1024x439.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://avenaleisure.com/wp-content/uploads/2018/08/AquaFit-1024x439.jpg 1024w, https://avenaleisure.com/wp-content/uploads/2018/08/AquaFit-300x129.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="w-vwrapper usg_vwrapper_1 align_center valign_top grid_arrow_top"><h2 class="w-grid-item-elm usg_post_title_1 color_link_inherit with_text_color  post_title entry-title">Aqua Fit</h2><time class="w-grid-item-elm usg_post_date_1  post_date entry-date published" datetime="2018-08-13 13:16:18">August 13, 2018</time></div>	</div>
+</article>
+<article class="w-grid-item ratio_1x1 post-122 us_portfolio type-us_portfolio status-publish has-post-thumbnail hentry" data-id="122">
+<div class="w-grid-item-h">
+<a class="w-grid-item-anchor" href="https://avenaleisure.com/classes/hatha-yoga/" rel="bookmark" aria-label="Hatha Yoga"></a>
+<div class="w-grid-item-elm usg_post_image_1  post_image"><img width="1024" height="683" src="https://avenaleisure.com/wp-content/uploads/2018/08/IMG_0380-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://avenaleisure.com/wp-content/uploads/2018/08/IMG_0380-1024x683.jpg 1024w, https://avenaleisure.com/wp-content/uploads/2018/08/IMG_0380-300x200.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="w-vwrapper usg_vwrapper_1 align_center valign_top grid_arrow_top"><h2 class="w-grid-item-elm usg_post_title_1 color_link_inherit with_text_color  post_title entry-title">Hatha Yoga</h2><time class="w-grid-item-elm usg_post_date_1  post_date entry-date published" datetime="2018-08-13 13:15:31">August 13, 2018</time></div>	</div>
+</article>
+</div>	<div class="g-preloader type_1"><div></div></div>
+<div class="w-grid-json hidden" onclick='return {&quot;ajax_url&quot;:&quot;https:\/\/avenaleisure.com\/wp-admin\/admin-ajax.php&quot;,&quot;permalink_url&quot;:&quot;https:\/\/avenaleisure.com\/classes\/hatha-yoga\/&quot;,&quot;action&quot;:&quot;us_ajax_grid&quot;,&quot;max_num_pages&quot;:1,&quot;infinite_scroll&quot;:0,&quot;template_vars&quot;:{&quot;query_args&quot;:{&quot;post_type&quot;:[&quot;us_portfolio&quot;],&quot;orderby&quot;:{&quot;date&quot;:&quot;DESC&quot;},&quot;post__not_in&quot;:[2],&quot;posts_per_page&quot;:&quot;999&quot;,&quot;post_status&quot;:[&quot;publish&quot;]},&quot;post_id&quot;:5,&quot;us_grid_index&quot;:1,&quot;exclude_items&quot;:&quot;none&quot;,&quot;items_offset&quot;:&quot;1&quot;,&quot;items_layout&quot;:&quot;portfolio_1&quot;,&quot;type&quot;:&quot;carousel&quot;,&quot;columns&quot;:6,&quot;img_size&quot;:&quot;default&quot;}}'></div>
+</div></div></div></div></div></div></section><section class="l-section wpb_row height_medium color_footer-top"><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-4 wpb_column vc_column_container"><div class="vc_column-inner color_custom" style="color:#ffffff;"><div class="wpb_wrapper">
+<div class="wpb_text_column ">
+<div class="wpb_wrapper">
+<h4>AVENA LEISURE</h4>
+<p>Avena Leisure is Sligo Ireland’s ultimate health experience and the perfect lifestyle choice. Come and explore our 20m pool with hydrotherapy suite, jacuzzi, steam-room, sauna and treatment rooms, impressive gym and 3 fitness studios. A large, easy accessible underground parking facility is also contained within the complex to provide that extra comfort to our members.</p>
+</div>
+</div>
+</div></div></div><div class="vc_col-sm-4 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_text_column ">
+<div class="wpb_wrapper">
+<h4>OPENING HOURS</h4>
+<p>Monday &#8211; Friday:     6.30am &#8211; 10.00pm</p>
+<p>Saturday:                  7.00am &#8211; 7.00pm</p>
+<p>Sun &amp; B. Holidays:   9.00am &#8211; 6.00pm</p>
+</div>
+</div>
+</div></div></div><div class="vc_col-sm-4 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_text_column ">
+<div class="wpb_wrapper">
+<h4 style="text-align: left;">FACEBOOK</h4>
+</div>
+</div>
+<div class="wpb_text_column ">
+<div class="wpb_wrapper">
+<div class="cff-wrapper"><div id="cff" data-char="100" class="cff-default-styles" ><div class="cff-item cff-link-item author-avenaleisure" id="cff_204697683211866_807649246250037" style="border-bottom: 0px solid #fff; "><div class="cff-author"><div class="cff-author-text"><p class="cff-page-name cff-author-date" ><a href="https://facebook.com/204697683211866" target="_blank" rel="nofollow" >AvenaLeisure</a><span class="cff-story"> </span></p><p class="cff-date" > 18 hours ago </p></div><div class="cff-author-img"><a href="https://facebook.com/204697683211866" target="_blank" rel="nofollow" ><img src="https://graph.facebook.com/204697683211866/picture?type=square" title="AvenaLeisure" alt="AvenaLeisure" width=40 height=40 onerror="this.style.display='none'"></a></div></div><p class="cff-post-text" ><span class="cff-text" data-color="">Kick start your week with our 20/20 class. <br />Monday at 9.30am. Follow the link below to book your place. <br /><br /><a href="https://avenaleisure.com/classes/20-20/">avenaleisure.com/classes/20-20/</a> </span><span class="cff-expand">... <a href="#" style="color: #"><span class="cff-more">See More</span><span class="cff-less">See Less</span></a></span></p><div class="cff-shared-link" style="border: 1px solid #; "><div class="cff-text-link cff-no-image"><p class="cff-link-title" ><a href="https://avenaleisure.com/classes/20-20/" target="_blank" rel="nofollow" style="color:#;">20/20</a></p><p class="cff-link-caption" style="color:#;">avenaleisure.com</p><span class="cff-post-desc" style="color:#;">20 Minutes High Intensity Indoor Cycling. 20 Minutes High intensity interval training with longe... </span></div></div><div class="cff-post-links"><a class="cff-viewpost-facebook" href="https://www.facebook.com/204697683211866_807649246250037" title="View on Facebook" target="_blank" rel="nofollow" >View on Facebook</a><div class="cff-share-container"><span class="cff-dot" >&middot;</span><a class="cff-share-link" href="javascript:void(0);" title="Share" >Share</a><p class='cff-share-tooltip'><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2Favena.leisure.1%2Fposts%2F807649246250037' target='_blank' class='cff-facebook-icon'><i class='fa fab fa-facebook-square' aria-hidden='true'></i></a><a href='https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2Favena.leisure.1%2Fposts%2F807649246250037' target='_blank' class='cff-twitter-icon'><i class='fa fab fa-twitter' aria-hidden='true'></i></a><a href='https://plus.google.com/share?url=https%3A%2F%2Fwww.facebook.com%2Favena.leisure.1%2Fposts%2F807649246250037' target='_blank' class='cff-google-icon'><i class='fa fab fa-google-plus' aria-hidden='true'></i></a><a href='https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.facebook.com%2Favena.leisure.1%2Fposts%2F807649246250037&amp;title=Kick%20start%20your%20week%20with%20our%2020%2F20%20class.%20Monday%20at%209.30am.%20Follow%20the%20link%20below%20to%20book%20your%20place.%20avenaleisure.com%2Fclasses%2F20-20%2F%20...%20See%20MoreSee%20Less' target='_blank' class='cff-linkedin-icon'><i class='fa fab fa-linkedin' aria-hidden='true'></i></a><a href='mailto:?subject=Facebook&amp;body=https%3A%2F%2Fwww.facebook.com%2Favena.leisure.1%2Fposts%2F807649246250037%20-%20Kick%20start%20your%20week%20with%20our%2020%2F20%20class.%20Monday%20at%209.30am.%20Follow%20the%20link%20below%20to%20book%20your%20place.%20avenaleisure.com%2Fclasses%2F20-20%2F%20...%20See%20MoreSee%20Less' target='_blank' class='cff-email-icon'><i class='fa fa-envelope' aria-hidden='true'></i></a><i class='fa fa-play fa-rotate-90' aria-hidden='true'></i></p></div></div></div></div><div class="cff-clear"></div></div>
+</div>
+</div>
+</div></div></div></div></div></section><section class="l-section wpb_row height_medium color_footer-bottom"><div class="l-section-h i-cf"><div class="g-cols vc_row type_default valign_top"><div class="vc_col-sm-6 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_text_column ">
+<div class="wpb_wrapper">
+<p style="text-align: left;"><a href="#">©2018 Copyright AVENA</a></p>
+</div>
+</div>
+</div></div></div><div class="vc_col-sm-6 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_text_column ">
+<div class="wpb_wrapper">
+<p style="text-align: right;"><a href="https://darraghkerrigancreative.ie/" target="_blank" rel="noopener">Designed by DarraghKerriganCreative</a></p>
+</div>
+</div>
+</div></div></div></div></div></section>
+</footer>
+<a class="w-toplink pos_right" href="#" title="Back to top" aria-hidden="true"></a>
+<a class="w-header-show" href="javascript:void(0);"><span>Menu</span></a>
+<div class="w-header-overlay"></div>
+<script>
+// Store some global theme options used in JS
+if (window.$us === undefined) window.$us = {};
+$us.canvasOptions = ($us.canvasOptions || {});
+$us.canvasOptions.disableEffectsWidth = 900;
+$us.canvasOptions.responsive = true;
+$us.canvasOptions.backToTopDisplay = 100;
+$us.canvasOptions.scrollDuration = 1000;
+$us.langOptions = ($us.langOptions || {});
+$us.langOptions.magnificPopup = ($us.langOptions.magnificPopup || {});
+$us.langOptions.magnificPopup.tPrev = 'Previous (Left arrow key)';
+$us.langOptions.magnificPopup.tNext = 'Next (Right arrow key)';
+$us.langOptions.magnificPopup.tCounter = '%curr% of %total%';
+$us.navOptions = ($us.navOptions || {});
+$us.navOptions.mobileWidth = 900;
+$us.navOptions.togglable = true;
+$us.ajaxLoadJs = true;
+$us.templateDirectoryUri = 'https://avenaleisure.com/wp-content/themes/Zephyr';
+</script>
+<script>$us.headerSettings = {"default":{"options":{"breakpoint":900,"orientation":"hor","sticky":true,"scroll_breakpoint":"100","transparent":0,"width":300,"elm_align":"center","shadow":"thin","top_show":0,"top_height":40,"top_sticky_height":0,"top_fullwidth":0,"middle_height":"110","middle_sticky_height":"110","middle_fullwidth":0,"elm_valign":"top","bg_img":"","bg_img_wrapper_start":"","bg_img_size":"cover","bg_img_repeat":"repeat","bg_img_position":"top left","bg_img_attachment":1,"bg_img_wrapper_end":"","bottom_show":0,"bottom_height":50,"bottom_sticky_height":50,"bottom_fullwidth":0},"layout":{"top_left":[],"top_center":[],"top_right":[],"middle_left":["socials:1"],"middle_center":["image:1"],"middle_right":["menu:2"],"bottom_left":[],"bottom_center":[],"bottom_right":[],"hidden":["text:2","text:3"]}},"tablets":{"options":{"breakpoint":900,"orientation":"hor","sticky":true,"scroll_breakpoint":100,"transparent":0,"width":300,"elm_align":"center","shadow":"thin","top_show":0,"top_height":40,"top_sticky_height":40,"top_fullwidth":0,"middle_height":"110","middle_sticky_height":"110","middle_fullwidth":0,"elm_valign":"top","bg_img":"","bg_img_wrapper_start":"","bg_img_size":"cover","bg_img_repeat":"repeat","bg_img_position":"top left","bg_img_attachment":1,"bg_img_wrapper_end":"","bottom_show":0,"bottom_height":50,"bottom_sticky_height":50,"bottom_fullwidth":0},"layout":{"top_left":[],"top_center":[],"top_right":[],"middle_left":["socials:1"],"middle_center":["image:1"],"middle_right":["menu:2"],"bottom_left":[],"bottom_center":[],"bottom_right":[],"hidden":["text:2","text:3"]}},"mobiles":{"options":{"breakpoint":600,"orientation":"hor","sticky":true,"scroll_breakpoint":50,"transparent":0,"width":300,"elm_align":"center","shadow":"thin","top_show":0,"top_height":40,"top_sticky_height":40,"top_fullwidth":0,"middle_height":"97","middle_sticky_height":"97","middle_fullwidth":0,"elm_valign":"top","bg_img":"","bg_img_wrapper_start":"","bg_img_size":"cover","bg_img_repeat":"repeat","bg_img_position":"top left","bg_img_attachment":1,"bg_img_wrapper_end":"","bottom_show":0,"bottom_height":50,"bottom_sticky_height":50,"bottom_fullwidth":0},"layout":{"top_left":[],"top_center":[],"top_right":[],"middle_left":["image:1"],"middle_center":[],"middle_right":["menu:2"],"bottom_left":[],"bottom_center":[],"bottom_right":[],"hidden":["text:2","text:3","socials:1"]}}};</script>
+<!-- Custom Facebook Feed JS -->
+<script type="text/javascript">
+var cfflinkhashtags = "true";
+</script>
+<script type="text/javascript">
+function revslider_showDoubleJqueryError(sliderID) {
+var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+jQuery(sliderID).show().html(errorMessage);
+}
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/avenaleisure.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://avenaleisure.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1'></script>
+<script type='text/javascript' src='https://avenaleisure.com/wp-content/plugins/custom-facebook-feed/js/cff-scripts.js?ver=2.8'></script>
+<script type='text/javascript' src='https://avenaleisure.com/wp-content/themes/Zephyr/js/us.core.min.js?ver=5.0'></script>
+<script type='text/javascript' src='https://avenaleisure.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://avenaleisure.com/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://avenaleisure.com/wp-includes/js/wp-embed.min.js?ver=5.0.3'></script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.97442388534546 seconds, on 11-02-19 12:56:18 -->
