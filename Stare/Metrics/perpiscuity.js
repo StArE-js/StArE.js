@@ -7,14 +7,19 @@
 * */
 
 //DEPENDENCIES
+
+//file system
 var fs= require('fs');
+
 //language detect
 const LanguageDetect = require('languagedetect');
+
 //syllables count
 const hyphenopoly = require("hyphenopoly")
 
 //DECLARATIONS OF VARIABLES.
 const lngDetector = new LanguageDetect();
+const silabas = hyphenopoly.config({sync: true, require: ['es', 'en-us'], hyphen: '-'});
 
 
 //English formula of reading ease - Flesh 1984
@@ -35,33 +40,40 @@ var french= function(words, syllables){
     return p;
 };
 
-//Take 100 words of the snippet:
-var take_100_words= function(data){
-    var str2 = data.replace(/(([^\s]+\s\s*){10})(.*)/,"$1…");
-    return str2;
-};
+const limpiarString = (str = "") => str.replace(/[.,()\[\]{}\-\@\'\"]/gi,"");
+const separarPalabras = (str = "") => limpiarString(str).split(" ");
+const s = (str = "", lang = "es") => silabas.get(lang)(limpiarString(str)).split("-").length
+
+const p = (str = "") => {
+    const nPalabras = separarPalabras(str).length * 1.0
+    const nFrases = str.split(".").length * 1.0
+    return nPalabras / nFrases
+}
 
 //FUNCTION THAT CALCULATE THE METRIC:
 var get_value= function(input, index) {
     return new Promise(function(resolve, reject){
-        var sample;
+        var sample, P, Syllables, Words;
         fs.readFile(input, function (err, data) {
             if (err) return err;
-            sample= take_100_words(data.toString());
-            console.log("sample" + sample);
-
-            value=lngDetector.detect(snippet, 1)[0][0];
-            console.log(value + ' language '+ index);
-
-            //STEP 1: Words per Sentence
-            var words=0;
-            //STEP 2: COUNT SYLLABLES
-            var syllables=0;
-            //STEP 3: APPLY FORMULA
-            var perpiscuity;
-
-
-            resolve([1, 'perpiscuity', index]);
+            data= data.toString();
+            idiom=lngDetector.detect(snippet, 1)[0][0];
+            value;
+            switch(idiom){
+                case("english"):
+                    value= english(p(data), s(data, 'en-us'));
+                    break;
+                case("spanish"):
+                    value= spanish(p(data), s(data, 'es'));
+                    break;
+                default:
+                    value=207;
+            };
+            value= Math.round(value);
+            if(value<0) value=0;
+            if(value > 207) value=207;
+            console.log("Perpiscuidad es:"+ value);
+            resolve([value, 'perpiscuity', index]);
             reject(false);
         });
     });

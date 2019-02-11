@@ -1,6 +1,6 @@
 const hyphenopoly = require("hyphenopoly")
 
-const silabas = hyphenopoly.config({sync: true, require: ['es'], hyphen: '-'})
+const silabas = hyphenopoly.config({sync: true, require: ['es', 'en-us'], hyphen: '-'})
 
 const texto = "SANTIAGO.- La Corte de Apelaciones de La Serena otorgó esta mañana la libertad bajo fianza del ex comandante en jefe del Ejército, Juan Emilio Cheyre, quien fue procesado el jueves, junto a otros tres ex uniformados, como auto del delito de aplicación de tormentos a 24 detenidos en el Regimiento Arica en 1973. Tras el encausamiento, el ministro Vicente Hormazábal le concedió al general (r) Cheyre y a Jaime Manuel Ojeda Torrent y Mario Emilio Larenas Carmona) la posibilidad de pagar $1 millón para continuar el proceso en libertad provisional, previo consulta del tribunal de alza. Esto luego de que la semana pasada ingresaran bajo arresto al Batallón de Policía Militar de Peñalolén. Para el también procesado Ariosto Lapostol Orrego, en tanto, se decretó arresto domiciliario total, debido a \"su avanzada edad\"\."+
 "Durante su investigación, el magistrado estableció que, \"al interior del Regimiento Militar se dispuso que la Sección II (...) participara en las investigaciones, interrogatorios y torturas correspondientes a los distintos detenidos\", y el cual, durante unos días, estuvo al mando de Lapostol, \"en coordinación con su ayudante, el teniente Juan Emilio Cheyre Espinosa, quien (...) es sindicado por varios denunciantes como autor directo de los interrogatorios y torturas\". Por su parte, el abogado de Cheyre, Jorge Bofill, rechazó las imputaciones en la causa por violación a los DD.HH. asegurando que la ex autoridad \"es completamente inocente\", anunciando así una apelación “ejerciendo todos los derechos que correspondan en las instancias respectiva”. El caso es el segundo que en menos de un año que golpea la imagen del general del \"nunca más\". En noviembre de año pasado, el ministro en visita Mario Carroza, lo condenó a tres años y un día presidio en libertad vigilada por su participación como encubridor de más de una decena de homicidios llevados a cabo por la llamada Caravana de la Muerte en el mismo lugar y año. Y pese a que la sentencia aún no está ejecutoriada, Cheyre se convirtió en ese entonces en el primer líder de la institución castrense en ser sentenciado por un crimen de lesa humanidad."
@@ -8,26 +8,26 @@ const texto = "SANTIAGO.- La Corte de Apelaciones de La Serena otorgó esta mañ
 const limpiarString = (texto = "") => texto.replace(/[.,()\[\]{}\-\@\'\"]/gi,"")
 const separarPalabras = (texto = "") => limpiarString(texto).split(" ")
 
-const s = (texto) => silabas(limpiarString(texto)).split("-").length
+const s = (texto = "", lang = "es") => silabas.get(lang)(limpiarString(texto)).split("-").length
 
-const p = (texto) => {
+const p = (texto = "") => {
     const nPalabras = separarPalabras(texto).length * 1.0
     const nFrases = texto.split(".").length * 1.0
     return nPalabras / nFrases
 }
 
-const P = (texto) => 207 - 0.623*s(texto) - p(texto)
+const P = (texto = "", lang = "es") => 207 - 0.623*s(texto, lang) - p(texto)
 
-const muestra = (texto) => {
+const muestra = (texto = "", lang = "es") => {
     let sample = ""
     let palabras = 0
     for(let i = 0; i < texto.length; i++) {
         if (texto[i].match(/[., ]/g))
             palabras++
         sample = sample + texto[i]
-        if (palabras == 101) {
+        if (palabras == 100) {
             console.log(sample)
-            console.log(P(sample))
+            console.log(P(sample, lang))
             palabras = 0
             sample = ""
         }
@@ -36,4 +36,8 @@ const muestra = (texto) => {
     console.log(P(sample))
 }
 
+console.log("calculo segun algoritmo de silabas en español")
 muestra(texto)
+
+console.log("\n\n\ncalculo segun algoritmo de silabas en ingles")
+muestra(texto, 'en-us')

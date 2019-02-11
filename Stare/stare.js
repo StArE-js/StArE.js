@@ -1,5 +1,5 @@
 var output= __dirname;
-var web_scraper = require('./Serp_Process/web_Scraper');
+var web_scraper = require('./Core/web_Scraper');
 var serp_manager;
 var json_object; //this variable store the Object SERP.
 
@@ -191,15 +191,8 @@ var get_Metrics= function(){
                         }
                     }
                 );
-
             };
-
-
-    }
-
-
-        //STEP 1: ASK IF THE METRIC REQUIRE THE FULL DOCUMENT.
-        //STEP 2: PROVIDE THE DOCUMENT
+        }
     };
 
 

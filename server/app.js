@@ -21,7 +21,7 @@ app.get('/json', function(req, res){
         .then(function(result){
             if(result){
                 console.log("The Operation succeed");
-                stare.get_Metrics('length','ranking', 'language');
+                stare.get_Metrics('length','ranking', 'language', 'perpiscuity');
                 var Json= stare.get_Json();
 
             }else{
