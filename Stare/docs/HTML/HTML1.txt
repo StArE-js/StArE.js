@@ -2249,6 +2249,6 @@ var ajax_auth_object = {"redirectOnRegister":"https:\/\/www.pardeehomes.com\/suc
 var tracking_cofing_object = {"tracking_api_url":"https:\/\/www.pardeehomes.com\/wp-content\/plugins\/grazitti-crossdomaintracking\/\/trackingapi\/","domain_name":"pardeehomes.com","is_microwebsite":"0"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/plugins/grazitti-crossdomaintracking/assets/js/tracking_script.js?r=63'></script>
+<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/plugins/grazitti-crossdomaintracking/assets/js/tracking_script.js?r=28'></script>
   </body>
 </html>

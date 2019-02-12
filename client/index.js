@@ -1,11 +1,16 @@
 const axios = require('axios');
 const d3 = require('d3');
 const bubbleChart = require('./scripts/bubbleChart.js').bubbleChart;
-const barChart=require('./scripts/barChart.js').barChart;
+const barChart = require('./scripts/barChart.js').barChart;
 
 
 var chart;
-const renderData = () => {
+var t= 5000; //time to update data in ms.
+
+//Bubble Chart
+
+const renderDataBubbleChart = () => {
+    document.getElementById("btn_1").innerText = "Quitar gráfico"
     let json;
     axios.default.get('http://localhost:3000/json').then(
         response => {
@@ -26,25 +31,86 @@ const renderData = () => {
     )
 };
 
-const updateData=()=>{
+const updateDataBubbleChart=()=>{
     let json;
     axios.default.get('http://localhost:3000/update').then(
         response => {
             json = response.data;
             d3.select('#chart').datum(json).call(chart);
             console.log('updating...');
-            },
+        },
         error => console.error(error)
     )
 };
 
-const createChart_1= function (){
-    renderData();
-    setInterval(() => updateData(), 3000);
-    return false;
+const createBubbleChart = () => {
+    buttonState = ! buttonState;
+    if (buttonState) {
+        renderDataBubbleChart();
+        interval = setInterval(() => updateDataBubbleChart(), t)
+    } else {
+        clearInterval(interval);
+        document.getElementById("chart").innerHTML = "<svg></svg>"
+        document.getElementById("btn_1").innerText = "Bubble Chart"
+    }
+};
+
+//BAR CHART
+
+const renderDataBarChart = () => {
+    document.getElementById("btn_1").innerText = "Quitar gráfico"
+    let json;
+    axios.default.get('http://localhost:3000/update').then( //cambiar ruta later
+        response => {
+            json = response.data;
+            chart = barChart()
+                .height(600)
+                .width(700)
+                .title("Query: "+json.terminos)
+                .maxHeight(70)
+                .minHeight(10)
+                .attrHeight("length")
+                .customColors("perpiscuity", "A3", false);
+            d3.select('#chart').datum(json).call(chart);
+        },
+        error => console.error(error)
+    )
+};
+
+const updateDataBarChart=()=>{
+    let json;
+    axios.default.get('http://localhost:3000/update').then(
+        response => {
+            json = response.data;
+            d3.select('#chart').datum(json).call(chart);
+            console.log('updating...');
+        },
+        error => console.error(error)
+    )
+};
+
+
+const createBarChart = () => {
+    buttonState = ! buttonState;
+    if (buttonState) {
+        //renderDataBarChart();
+        interval = setInterval(() => updateDataBarChart(), t)
+    } else {
+        clearInterval(interval);
+        document.getElementById("chart").innerHTML = "<svg></svg>"
+        document.getElementById("btn_2").innerText = "Bar Chart"
+    }
 };
 
 
 //Maping Functions to Buttons
+var buttonState = false;
+var interval;
 
-document.getElementById("btn_1").onclick = createChart_1();
+//Bubble Chart
+document.getElementById("btn_1").onclick = createBubbleChart;
+document.getElementById("btn_1").innerText = "Bubble Chart";
+
+//Bar Chart
+document.getElementById("btn_2").onclick = createBarChart;
+document.getElementById("btn_2").innerText = "Bar Chart";
