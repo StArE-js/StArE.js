@@ -42,7 +42,7 @@ var french= function(words, syllables){
 
 const limpiarString = (str = "") => str.replace(/[.,()\[\]{}\-\@\'\"]/gi,"");
 const separarPalabras = (str = "") => limpiarString(str).split(" ");
-const s = (str = "", lang = "es") => silabas.get(lang)(limpiarString(str)).split("-").length
+const s = (str = "", lang = "es") => silabas.get(lang)(limpiarString(str)).replace(" ","-").split("-").length;
 
 const p = (str = "") => {
     const nPalabras = separarPalabras(str).length * 1.0

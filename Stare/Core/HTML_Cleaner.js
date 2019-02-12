@@ -120,6 +120,7 @@ let PromesaGetText= function(input){
 let promesaLimpiarArchivo= function(archivo){
     return new Promise(function(resolve, reject){
         PromesaGetText(archivo).then(function (file) {
+            file = file.replace(/(<([^>]+)>)/g, "");
             resolve(file);
         });
     });

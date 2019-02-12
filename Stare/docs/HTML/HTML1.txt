@@ -648,8 +648,10 @@ jQuery(document).ready(function($) {
 	// Create a clone of the menu, right next to original.
 	jQuery('.innerMenu').addClass('original').clone().insertAfter('.innerMenu').addClass('cloned1').css('position','fixed').css('top','0').css('z-index','500').removeClass('original').hide();
 
-	scrollIntervalID = setInterval(stickIt, 50);
+	
+		scrollIntervalID = setInterval(stickIt, 50);
 
+	
 
 	function stickIt() {
 
@@ -1201,7 +1203,7 @@ jQuery(document).ready(function($) {
 <p>Find the communities and floorplans that meet your “must-haves” and a couple “nice-to-haves”, while avoiding your “absolutely nevers”. Save these to your Favorites for easy access at any time and you’ll be well on your way to becoming our next Home Enthusiast. It’s that easy.</p>
 <p>Login or create your own personal Pardee Homes profile by signing up below.</p>
 	<div id="loginFav" class="userLogin">
-						<input type="hidden" id="signonsecurity" name="signonsecurity" value="ff6e758ad4" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />  <form action="https://www.pardeehomes.com/wp-login.php?wpe-login=true" class="parsley-validate login_form" method="post">
+						<input type="hidden" id="signonsecurity" name="signonsecurity" value="529afc3ea7" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />  <form action="https://www.pardeehomes.com/wp-login.php?wpe-login=true" class="parsley-validate login_form" method="post">
     <label for="user_login">Email*</label>
     <input name="user_login" id="user_login" value="" placeholder="Enter your email" required data-parsley-error-message="Please enter a valid email" type="email"/>
     <label for="user_pass">Password*</label>
@@ -1231,7 +1233,7 @@ jQuery(document).ready(function($) {
 </div>
 
 <div id="forgotModal2" class="modal-content js-modal-content field-wrap field-forgot favouriteForget">
-<input type="hidden" id="forgotsecurity" name="forgotsecurity" value="ad8d8ef7b4" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />    <form action="https://www.pardeehomes.com/wp-login.php?wpe-login=true?action=lostpassword" class="parsley-validate forgot_form" method="post">
+<input type="hidden" id="forgotsecurity" name="forgotsecurity" value="49feefb412" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />    <form action="https://www.pardeehomes.com/wp-login.php?wpe-login=true?action=lostpassword" class="parsley-validate forgot_form" method="post">
       <label for="user_forgot_login">Username or E-mail</label>
       <input name="user_login" id="user_forgot_login" value="" placeholder="Enter your username or email" required data-parsley-error-message="Please enter a valid username or email" />
       <button type="submit" class="btn btn--medium-olive">Get New Password</button>
@@ -1647,7 +1649,30 @@ if(strpos($url, 'inland-empire') == true){
 		var oldFacebookUrl = jQuery('a.Facebook').attr('href');
 		var newFacebookUrl = oldFacebookUrl.replace(oldFacebookUrl, facebook);
 		jQuery('a.Facebook').attr("href", newFacebookUrl);
-				
+		
+jQuery(window).load(function(){
+			var sqft_search = '';
+			var menu_search = '';
+			var c_search = '';
+					var city_search = '';
+					var result= c_search.split(',');
+					console.log(result);
+			if(menu_search==1&&sqft_search==""){
+						jQuery('.fuhmenu .nice-select,.price_slider_res .nice-select,.furhome .nice-select').show();
+						jQuery('.price_slider_res select[name="sqft"],.furhome select[name="sqft"]').next('div').find('button').html('MIN. SQ. FT.');
+						jQuery('.price_slider_res select[name="sqft"],.furhome select[name="sqft"]').next('div').find('.current').html('MIN. SQ. FT.');
+			}else if(menu_search==''){ 
+				jQuery('.price_slider_res .nice-select,.furhome .nice-select').show();
+						jQuery('.price_slider_res select[name="sqft"],.furhome select[name="sqft"]').next('div').find('button').html('MIN. SQ. FT.');
+						jQuery('.price_slider_res select[name="sqft"],.furhome select[name="sqft"]').next('div').find('.current').html('MIN. SQ. FT.');
+			}
+			if(menu_search==1&&city_search!=""){
+							if(result.length>2){
+								jQuery('.furhome select[name="city"]').next('div').find('button').html('Multiple Cities');
+								jQuery('.price_slider_res select[name="city"]').next('div').find('button').html('Multiple Cities');
+			}}
+	});
+		
 		/* End */
 		jQuery(document).ready(function($){
 		$(".stayinform").fancybox({
@@ -1661,6 +1686,15 @@ if(strpos($url, 'inland-empire') == true){
 				overlay : {
 					locked : false
 				}
+			},
+			afterClose:function(){
+
+			if(jQuery(".desktop-filter").length > 0){
+				
+				jQuery('.agentFormShowSection').after(jQuery('.form-box'));
+			}
+					
+
 			}
 		});
 	});
@@ -2129,7 +2163,7 @@ jQuery(document).on('click', '.fancy_close', function(){
           <input type="hidden" name="redirectTo" value="/inland-empire/avena/" />
           <input type="hidden" name="access_token" id="jfb_access_token" value="0" />
           <input type="hidden" name="fbuid" id="jfb_fbuid" value="0" />
-          <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="1d95a9bac2" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />          <input type="hidden" name="rememberme" id="fb_rememberme" value="0" /><input type="hidden" name="blog_id" id="blog_id" value="3" /><input type="hidden" name="premnum" id="premnum" value="6793_6793" />   
+          <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="bfff482218" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />          <input type="hidden" name="rememberme" id="fb_rememberme" value="0" /><input type="hidden" name="blog_id" id="blog_id" value="3" /><input type="hidden" name="premnum" id="premnum" value="6793_6793" />   
      </form>
 
         <script type="text/javascript">//<!--
@@ -2215,6 +2249,6 @@ var ajax_auth_object = {"redirectOnRegister":"https:\/\/www.pardeehomes.com\/suc
 var tracking_cofing_object = {"tracking_api_url":"https:\/\/www.pardeehomes.com\/wp-content\/plugins\/grazitti-crossdomaintracking\/\/trackingapi\/","domain_name":"pardeehomes.com","is_microwebsite":"0"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/plugins/grazitti-crossdomaintracking/assets/js/tracking_script.js?r=85'></script>
+<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/plugins/grazitti-crossdomaintracking/assets/js/tracking_script.js?r=87'></script>
   </body>
 </html>

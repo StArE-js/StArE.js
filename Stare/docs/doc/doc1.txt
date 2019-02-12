@@ -49,7 +49,7 @@ find your new",
 			  }
 }
 ]
-</script>
+
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5
 loading...

@@ -1,34 +1,34 @@
 avena - wiktionary
 avena
 contents
-italian<span class="mw-editsection-bracket">[edit]</span>
-etymology<span class="mw-editsection-bracket">[edit]</span>
+italian[edit]
+etymology[edit]
 from latin avēna.
 
-noun<span class="mw-editsection-bracket">[edit]</span>
+noun[edit]
 avena&#160;f (plural avene)
 
-latin<span class="mw-editsection-bracket">[edit]</span>
-etymology<span class="mw-editsection-bracket">[edit]</span>
-probably a non-indo-european substrate word. cognate with lithuanian aviža, latvian auzas, and proto-slavic pronunciation<span class="mw-editsection-bracket">[edit]</span>
-noun<span class="mw-editsection-bracket">[edit]</span>
+latin[edit]
+etymology[edit]
+probably a non-indo-european substrate word. cognate with lithuanian aviža, latvian auzas, and proto-slavic pronunciation[edit]
+noun[edit]
 avēna&#160;f (genitive avēnae); first declension
 
-declension<span class="mw-editsection-bracket">[edit]</span>
-first declension.<style data-mw-deduplicate="templatestyles:r50505018">.mw-parser-output .inflection-table-la .corner-header,.mw-parser-output .inflection-table-la .number-header,.mw-parser-output .inflection-table-la .case-header{font-style:italic}.mw-parser-output .inflection-table-la .corner-header,.mw-parser-output .inflection-table-la .number-header{background-color:#549ea0}.mw-parser-output .inflect
-derived terms<span class="mw-editsection-bracket">[edit]</span>
-descendants<span class="mw-editsection-bracket">[edit]</span>
-references<span class="mw-editsection-bracket">[edit]</span>
-spanish<span class="mw-editsection-bracket">[edit]</span>
-etymology<span class="mw-editsection-bracket">[edit]</span>
+declension[edit]
+first declension..mw-parser-output .inflection-table-la .corner-header,.mw-parser-output .inflection-table-la .number-header,.mw-parser-output .inflection-table-la .case-header{font-style:italic}.mw-parser-output .inflection-table-la .corner-header,.mw-parser-output .inflection-table-la .number-header{background-color:#549ea0}.mw-parser-output .inflect
+derived terms[edit]
+descendants[edit]
+references[edit]
+spanish[edit]
+etymology[edit]
 from latin avēna.
 
-pronunciation<span class="mw-editsection-bracket">[edit]</span>
-noun<span class="mw-editsection-bracket">[edit]</span>
+pronunciation[edit]
+noun[edit]
 avena&#160;f (plural avenas)
 
-derived terms<span class="mw-editsection-bracket">[edit]</span>
-further reading<span class="mw-editsection-bracket">[edit]</span>
+derived terms[edit]
+further reading[edit]
 navigation menu
 personal tools
 namespaces

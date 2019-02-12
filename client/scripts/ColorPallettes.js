@@ -11,19 +11,19 @@ var blindsafe=false;
 var get_Pallette=function(option, blidsafe){
     if (blidsafe){
         switch(option){
-            case A5:
+            case "A5":
                 return color5LvBS_A;
                 break;
-            case A3:
+            case "A3":
                 return color3LvBS_A;
         };
     }
     else{
         switch(option){
-            case A5:
+            case "A5":
                 return color5Lv_A;
                 break;
-            case A3:
+            case "A3":
                 return color3Lv_A;
         };
     }

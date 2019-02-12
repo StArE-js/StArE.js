@@ -1,5 +1,9 @@
+.update{
+    stroke-width: 3px;
+    stroke: hotpink;
+}
 
-
-.titulo {
-    color: red;
+.visited{
+    stroke-width: 3px;
+    stroke: yellow ;
 }

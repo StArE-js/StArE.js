@@ -29,26 +29,12 @@ app.get('/json', function(req, res){
             };
         res.send(Json)}
         );
-
-    /*
-     var input= __dirname +"/public/files/SERP.json";
-    //stare.prepare_serp('google_serp', input);
-
-    stare.P_prepare_serp('google_serp', input)
-        .then(function(json_object){
-            console.log("hola estoy en la promesa");
-            var i= 0;
-            while(i < stare.get_Items()){
-                stare.P_get_Doc(i).then(function(num){
-                    stare.get_Metric('length', num);
-                });
-                i++;
-            };
-
-        });
-
-    * */
 } );
+
+app.get('/update', function(req, res){
+    var Json= stare.get_Json();
+    res.send(Json);
+});
 
 app.listen(3000, function () {
   console.log('I\'m the backend!');

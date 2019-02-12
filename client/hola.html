@@ -1,45 +1,22 @@
 <html>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.6.0/d3.min.js"></script>
+<head>
+  <script src="./index.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/css/bootstrap.min.css" integrity="sha384-PDle/QlgIONtM1aqA2Qemk5gPOE7wFq8+Em+G/hmo5Iq0CCmYZLv3fVRDJ4MMwEA" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/js/bootstrap.min.js" integrity="sha384-7aThvCh9TypR7fIc2HV4O/nFMVCBwyIUKL8XCtKE+8xgCgl/PQGuFsvShjr74PBp" crossorigin="anonymous"></script>
+
+</head>
 <body>
-  <h1>Hola :3!</h1>
+<h1>Hello world!</h1>
+<div class="options">
+    <button type="button" onclick="build_Bubble_Chart()" class="btn btn-primary" id="btn_1">BubbleChart!</button>
+    <button type="button" class="btn btn-primary" id="btn_2">????</button>
+    <button type="button" class="btn btn-primary" id="btn_3">????</button>
+</div>
 
-  <script src="./scripts/bubbleChart.js">
+<div class="chart-example" id="chart"><svg></svg></div>
 
-      var chart;
-        /*
-      d3.json('files/Fixed_Serp.json', function(error, data){
-          if(error){
-              console.log("Error Getting or Parsing the Data");
-              throw error;
-          }
-          chart = bubbleChart()
-              .height(600)
-              .width(700)
-              .title("Query: "+data.terminos)
-              .forceApart(-600)
-              .maxRadius(70)
-              .minRadius(10)
-              .attrRadius("length")
-              .showTitleOnCircle(true)
-              .customColors("length", "A5");
-          d3.select('#chart').datum(data).call(chart);
-      });
-
-      d3.interval(function() {
-
-          d3.json('files/Fixed_Serp.json', function(error, data){
-              if(error){
-                  console.log("Error Getting or Parsing the Data");
-                  throw error;
-              }
-              d3.select('#chart').datum(data).call(chart);
-              console.log('updating...');
-
-          });
-      }, 1000);
-        */
-
-  </script>
 
 </body>
 </html>
+
