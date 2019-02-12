@@ -235,7 +235,7 @@ jQuery(document).ready(function(){
 <div class="banner-slider">
 	<div class="owl-carousel owl-theme">
 						<div class="item">
-					<img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/10/Smart-Savings-Web-Photos-avena.jpg" alt="Los Angeles" style="width:100%;">
+					<img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/02/Avena-2.jpg" alt="Los Angeles" style="width:100%;">
 					<div class="item-bg-overlay"></div>
 					<div class="item-content innerStr">
 						<div class="item-caption animated animatedFadeInUp fadeInUp">
@@ -1381,7 +1381,7 @@ jQuery(document).ready(function($) {
 			  "offers": {
 				"@type": "Offer",
 				"priceCurrency": "USD",
-				"price": "446500",
+				"price": "451000",
 				"priceValidUntil": "2020-11-05",
 				"itemCondition": "http://schema.org/UsedCondition",
 				"availability": "http://schema.org/InStock",
@@ -2249,6 +2249,6 @@ var ajax_auth_object = {"redirectOnRegister":"https:\/\/www.pardeehomes.com\/suc
 var tracking_cofing_object = {"tracking_api_url":"https:\/\/www.pardeehomes.com\/wp-content\/plugins\/grazitti-crossdomaintracking\/\/trackingapi\/","domain_name":"pardeehomes.com","is_microwebsite":"0"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/plugins/grazitti-crossdomaintracking/assets/js/tracking_script.js?r=87'></script>
+<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/plugins/grazitti-crossdomaintracking/assets/js/tracking_script.js?r=63'></script>
   </body>
 </html>

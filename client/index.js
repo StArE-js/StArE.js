@@ -1,7 +1,7 @@
 const axios = require('axios');
 const d3 = require('d3');
 const bubbleChart = require('./scripts/bubbleChart.js').bubbleChart;
-
+const barChart=require('./scripts/barChart.js').barChart;
 
 
 var chart;
@@ -38,13 +38,13 @@ const updateData=()=>{
     )
 };
 
-var btn_1 = document.getElementById('btn_1');
-
-btn_1.onclick = function(){
+const createChart_1= function (){
     renderData();
     setInterval(() => updateData(), 3000);
     return false;
 };
 
 
+//Maping Functions to Buttons
 
+document.getElementById("btn_1").onclick = createChart_1();

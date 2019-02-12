@@ -38,7 +38,7 @@ find your new",
 			  "offers": {
 				"@type": "offer",
 				"pricecurrency": "usd",
-				"price": "446500",
+				"price": "451000",
 				"pricevaliduntil": "2020-11-05",
 				"itemcondition": "http://schema.org/usedcondition",
 				"availability": "http://schema.org/instock",

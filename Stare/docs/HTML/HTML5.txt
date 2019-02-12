@@ -158,7 +158,7 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"it_IT":
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//www.arrex.it/en/?wordfence_logHuman=1&hid=0070A735EC1F6D0C6420212669EA567D');
+})('//www.arrex.it/en/?wordfence_logHuman=1&hid=BD66EFE38854FA628914A4BA248B2FAB');
 </script>		
 </head>
 <body>

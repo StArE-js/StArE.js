@@ -5,14 +5,74 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/js/bootstrap.min.js" integrity="sha384-7aThvCh9TypR7fIc2HV4O/nFMVCBwyIUKL8XCtKE+8xgCgl/PQGuFsvShjr74PBp" crossorigin="anonymous"></script>
 
+    <style>
+        .active-pink-3 input[type=text] {
+            border: 1px solid #f48fb1;
+            box-shadow: 0 0 0 1px #f48fb1;
+            margin-bottom: 0px;
+        }
+        .search-box{
+            padding: 10px;
+            padding-top:30px;
+        }
+
+        .title{
+            text-align: center;
+            color: blueviolet;
+        }
+
+        .options button{
+            display: inline-block;
+            margin-left: 10px;
+            margin-righ:10px;
+        }
+
+
+
+
+    </style>
 </head>
 <body>
-<h1>Hello world!</h1>
-<div class="options">
-    <button type="button" onclick="build_Bubble_Chart()" class="btn btn-primary" id="btn_1">BubbleChart!</button>
-    <button type="button" class="btn btn-primary" id="btn_2">????</button>
-    <button type="button" class="btn btn-primary" id="btn_3">????</button>
+
+
+<div class="search-box">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+
+            </div>
+            <div class="col-sm-6">
+                <!-- Search form -->
+                <div class="title">
+                    <h1>Stare.js</h1>
+                </div>
+                <div class="box active-pink-3 active-pink-4 mb-4">
+                    <input class="form-control" type="text" placeholder="Search" aria-label="Search">
+                </div>
+
+                <div class="options d-flex justify-content-center">
+                    <button type="button" class="btn btn-secondary">Google</button>
+                    <button type="button" class="btn btn-secondary">Bing!</button>
+                    <button type="button" class="btn btn-secondary">Yahoo!</button>
+                </div>
+            </div>
+            <div class="col-sm-3">
+
+            </div>
+        </div>
+    </div>
+
 </div>
+
+
+
+
+<div class="options">
+    <button type="button" class="btn btn-primary" id="btn_1">BubbleChart!</button>
+    <button type="button" class="btn btn-primary" id="btn_2">Chart 2</button>
+    <button type="button" class="btn btn-primary" id="btn_3">Chart 3</button>
+</div>
+
 
 <div class="chart-example" id="chart"><svg></svg></div>
 

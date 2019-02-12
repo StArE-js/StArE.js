@@ -50,12 +50,12 @@
     window.dataLayer = window.Datalayer || [];
     dataLayer.push ( {
         event: 'Custom dimensions', customDimensionData: {
-            faculty : 'Science',
+            faculty : '',
             type :  '',
             language : 'en',
             study : '',
             specialisation : '',
-            pageType: 'staffmember',
+            pageType: '',
             eventType: '',
             cookiesAccepted: 'false'
         }});
