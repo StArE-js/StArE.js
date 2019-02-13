@@ -553,7 +553,7 @@ jQuery(document).ready(function($) {
 	<script src="//app-sj10.marketo.com/js/forms2/js/forms2.min.js"></script>
 	<form id="mktoForm_3655"></form>
 	<div id="text-5" class="widget-container button-desc widget_text">			<div class="textwidget">By providing your contact information, you consent to receive periodic emails, phone calls, text messages and other communications from us.  For mobile phones, standard text message and data charges apply. Consult our <a href="/your-privacy-rights" target="_blank">Privacy Policy</a> for additional information, including unsubscribe options.</div>
-		</div>	<div class="broker_agent"><a href="/agent-registration">Broker or Agent? Register Here</a></div>
+		</div>	<div class="broker_agent"><a href="/agent-registration">Broker or Agent? Stay Informed Here</a></div>
 </div>
 <div  id="stayinformed" style="display:none;">
 		<button class="fancy_close"></button>
@@ -1203,7 +1203,7 @@ jQuery(document).ready(function($) {
 <p>Find the communities and floorplans that meet your “must-haves” and a couple “nice-to-haves”, while avoiding your “absolutely nevers”. Save these to your Favorites for easy access at any time and you’ll be well on your way to becoming our next Home Enthusiast. It’s that easy.</p>
 <p>Login or create your own personal Pardee Homes profile by signing up below.</p>
 	<div id="loginFav" class="userLogin">
-						<input type="hidden" id="signonsecurity" name="signonsecurity" value="529afc3ea7" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />  <form action="https://www.pardeehomes.com/wp-login.php?wpe-login=true" class="parsley-validate login_form" method="post">
+						<input type="hidden" id="signonsecurity" name="signonsecurity" value="5d1523910d" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />  <form action="https://www.pardeehomes.com/wp-login.php?wpe-login=true" class="parsley-validate login_form" method="post">
     <label for="user_login">Email*</label>
     <input name="user_login" id="user_login" value="" placeholder="Enter your email" required data-parsley-error-message="Please enter a valid email" type="email"/>
     <label for="user_pass">Password*</label>
@@ -1233,7 +1233,7 @@ jQuery(document).ready(function($) {
 </div>
 
 <div id="forgotModal2" class="modal-content js-modal-content field-wrap field-forgot favouriteForget">
-<input type="hidden" id="forgotsecurity" name="forgotsecurity" value="49feefb412" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />    <form action="https://www.pardeehomes.com/wp-login.php?wpe-login=true?action=lostpassword" class="parsley-validate forgot_form" method="post">
+<input type="hidden" id="forgotsecurity" name="forgotsecurity" value="65b79fd826" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />    <form action="https://www.pardeehomes.com/wp-login.php?wpe-login=true?action=lostpassword" class="parsley-validate forgot_form" method="post">
       <label for="user_forgot_login">Username or E-mail</label>
       <input name="user_login" id="user_forgot_login" value="" placeholder="Enter your username or email" required data-parsley-error-message="Please enter a valid username or email" />
       <button type="submit" class="btn btn--medium-olive">Get New Password</button>
@@ -2163,7 +2163,7 @@ jQuery(document).on('click', '.fancy_close', function(){
           <input type="hidden" name="redirectTo" value="/inland-empire/avena/" />
           <input type="hidden" name="access_token" id="jfb_access_token" value="0" />
           <input type="hidden" name="fbuid" id="jfb_fbuid" value="0" />
-          <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="bfff482218" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />          <input type="hidden" name="rememberme" id="fb_rememberme" value="0" /><input type="hidden" name="blog_id" id="blog_id" value="3" /><input type="hidden" name="premnum" id="premnum" value="6793_6793" />   
+          <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="eda2ab7f13" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />          <input type="hidden" name="rememberme" id="fb_rememberme" value="0" /><input type="hidden" name="blog_id" id="blog_id" value="3" /><input type="hidden" name="premnum" id="premnum" value="6793_6793" />   
      </form>
 
         <script type="text/javascript">//<!--
@@ -2249,6 +2249,6 @@ var ajax_auth_object = {"redirectOnRegister":"https:\/\/www.pardeehomes.com\/suc
 var tracking_cofing_object = {"tracking_api_url":"https:\/\/www.pardeehomes.com\/wp-content\/plugins\/grazitti-crossdomaintracking\/\/trackingapi\/","domain_name":"pardeehomes.com","is_microwebsite":"0"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/plugins/grazitti-crossdomaintracking/assets/js/tracking_script.js?r=28'></script>
+<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/plugins/grazitti-crossdomaintracking/assets/js/tracking_script.js?r=65'></script>
   </body>
 </html>

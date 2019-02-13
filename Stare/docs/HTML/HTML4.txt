@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html lang="en" data-version="1.84.00">
+<html lang="en" data-version="1.85.00">
 
   <head>
 
@@ -44,7 +44,7 @@
 
 <!-- Favicon and CSS -->
 <link rel='shortcut icon' href="/en/ul2common/icons/favicon.ico"/>
-<link rel="stylesheet" href="/en/ul2external/styles/screen.css?v=1.84.00"/>
+<link rel="stylesheet" href="/en/ul2external/styles/screen.css?v=1.85.00"/>
 
 <script>
     window.dataLayer = window.Datalayer || [];
@@ -238,7 +238,8 @@
 
     <section class="basics">
       <h1>Luca Avena</h1>
-      <p class="context search-off">Assistant professor</p>
+      <p class="context search-off">
+        Assistant professor</p>
 
       <ul class="tags">
   <li>
@@ -518,14 +519,14 @@
 <!-- googleon: all-->
 <div class="cookies">
     <div class="wrapper">
-      <p>This website uses cookies. <a href="https://www.organisatiegids.universiteitleiden.nl/en/cookies">More information</a></p><form action="/en/staffmembers/luca-avena?_hn:type=action&amp;_hn:ref=r51_r9" method="post">
+      <p>This website uses cookies. <a href="https://www.organisatiegids.universiteitleiden.nl/en/cookies">More information</a></p><form action="/en/staffmembers/luca-avena?_hn:type=action&amp;_hn:ref=r52_r9" method="post">
         <button type="submit" class="accept" name="cookie" value="accept">Accept cookies</button>
         <button type="submit" class="reject" name="cookie" value="reject">Reject cookies</button>
       </form>
     </div>
   </div>
 <!-- bottom scripts -->
-<script async defer src="/scripts/ul2.js?v=1.84.00" data-main="/scripts/ul2external/main.js"></script>
+<script async defer src="/scripts/ul2.js?v=1.85.00" data-main="/scripts/ul2external/main.js"></script>
 <!-- this line enables the loading of asynchronous components (together with the headContributions at the top) -->
     </body>
 </html>

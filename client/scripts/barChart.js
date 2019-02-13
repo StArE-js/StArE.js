@@ -8,16 +8,21 @@ const palettes= require('./ColorPallettes.js');
 
 
 function barChart(){
-
     //Configurable Settings
-    var width= 600,
+
+    var margin = {top: 10, right: 0, bottom: 200, left: 50};
+    var width= 700,
         transition= 500,
-        height=400,
-        attrHeight='length';
-        minHeight=10;
-        maxHeight=300;
-        marginTop=40,
-        attrColors= 'perpiscuity',
+        height=600,
+        attrHeight='length',
+        minHeight=10,
+        maxHeight=300,
+        maxHeigthDomain,
+        strokeColor="black",
+        strokeSize=2,
+        padding=2,
+        attrColors= 'length',
+        axes= true,
         colorDomain,
         customRange,
         colorAttr,
@@ -26,24 +31,22 @@ function barChart(){
         chartSVG,
         title;
 
+    width  = width - margin.left - margin.right,
+        height = height - margin.top - margin.bottom;
+
     //Settings Extracted From the serp:
 
     /** GENERATION OF THE ACTUAL CHART
      * @public
      * @param(string) selection - is the div ID in which the chart will be render.
      **/
-    function chart(selection) {
+    function chart(selection){
+
         var data = selection.datum(); //json is stored in data var.
-        data=data.documents;
+        data=data.documents; //cambiar despues
         if(data){
-            chartSelection = selection;
-            var div = selection,
-                svg = div.selectAll('svg'); //Select the SVG element.
 
-            //Set the dimensions of the svg
-            svg.attr('width', width).attr('height', height);
-            chartSVG = svg;
-
+            //TOOLTIP
             //initializate tooltips
             var tooltip = selection
                 .append("div")
@@ -56,10 +59,15 @@ function barChart(){
                 .style("font-family", "monospace")
                 .style("width", "400px")
                 .text("");
+            //MODIFY WIDTH AND HEIGHT
 
 
 
-            //ASIGN COLOR TO THE CIRCLES.
+            chartSelection = selection;
+            var div = selection,
+                svg = div.selectAll('svg'); //Select the SVG element.
+
+            //Color Maping
             var colorBars;
             if (!customColors) {
                 colorBars = d3.scaleOrdinal(d3.schemeCategory10); //por defecto.
@@ -74,83 +82,55 @@ function barChart(){
                 colorBars = d3.scaleLinear()
                     .domain(colorDomain)
                     .range(customRange);
-
             }
+            //
+            //SET THE SCALES:
+            //
+
+            // set the ranges
+            var x = d3.scaleBand()
+                .range([0, width])
+                .padding(0.1);
+            var y = d3.scaleLinear()
+                .range([height, 0]);
 
 
-            //map height
-            var minHeigthDomain = d3.min(data, function(d) {
-                if(d[attrHeight]){
-                    return +d[attrHeight];
-                }
-                else return 0;
-            });
-            var maxHeigthDomain = d3.max(data, function(d) {
-                if(d[attrHeight]){
-                    return +d[attrHeight];
-                }
-                else return 0;
-            });
-
-            var scaleRadius = d3.scaleLinear()
-                .domain([minHeigthDomain, maxHeigthDomain])
-                .range([minHeight, maxHeight]);
-
-
-            //Create the force Layout
-            var simulation = d3.forceSimulation(data)    //initialize the force layout
-                .force("charge", d3.forceManyBody().strength([forceApart])) //for "many bodies" and set the stength value
-                //stength < 0: bodies repel each other.
-                .force("x", d3.forceX())        //Makes a force that atract the objects to the center.
-                .force("y", d3.forceY())
-                .force("collision", d3.forceCollide().radius(function(d){//To avoid Collitions
-                    return scaleRadius(d[attrRadius]);
-                }))
-                .on("tick", ticked);            //Event when the elements acomodate.
-
-            function ticked(e) {
-                node.attr("transform", function (d) {
-                    return "translate(" + [d.x + (width / 2), d.y + ((height + marginTop) / 2)] + ")";
-                });
-            }
-
-            //Previous Definitions, Color, Radious, Attr, etc..
-            var node= svg.selectAll("circle")
-                .data(data)
-                .enter()
+            // append the svg object to the body of the page
+            // append a 'group' element to 'svg'
+            // moves the 'group' element to the top left margin
+            svg.attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
                 .append("g")
-                .attr('transform', 'translate(' + [width / 2, height / 2] + ')')
-                .style('opacity',1);
+                .attr("transform",
+                    "translate(" + margin.left + "," + margin.top + ")");
 
-            node.append("circle")
-                .attr("id",function(d,i) {
-                    return i;
-                })
-                .attr('r', function(d) {
-                    if(d[attrRadius]){
-                        return scaleRadius(d[attrRadius]);
-                    }
-                    return scaleRadius(0);
 
-                })
-                .style("fill", function(d) {
+            // Scale the range of the data in the domains
+            x.domain(data.map(function(d) { return d.title ; }));
+            y.domain([0, d3.max(data, function(d) { return d[attrHeight]; })]);
+
+            // append the rectangles for the bar chart
+            svg.selectAll(".bar")
+                .data(data)
+                .enter().append("rect")
+                .attr("class", "bar")
+                .attr("x", function(d) { return x(d.title) + margin.left; })
+                .attr("width", x.bandwidth())
+                .attr("y", function(d) { return y(d[attrHeight])+10; })
+                .attr("height", function(d) { return height - y(d[attrHeight]); })
+                .style("fill", function(d){
                     if(d[attrColors]){
-                        return colorCircles(d[attrColors]);
+                        return colorBars(d[attrColors]);
                     }
-                    return colorCircles(0);
+                    return colorBars(0);
                 })
-                .style("stroke", "black")
-                .style("stroke-width", "3px")
+                .style("stroke", strokeColor)
+                .style("stroke-width", strokeSize)
                 .on("mouseover", function(d) {
-                    if(d[attrRadius]){
-                        tooltip.html(d.title + "<br/>" + d.snippet + "<br/>" + attrRadius+" "+ d[attrRadius]);
-                        d3.select(this).style("stroke", "yellow");
-                        return tooltip.style("visibility", "visible");
-                    }
-                    else{
-                        tooltip.html(d.title + "<br/>" + d.snippet);
-                        return tooltip.style("visibility", "visible");
-                    }
+                    tooltip.html(d.title + "<br/>" + d.snippet);
+                    d3.select(this).style("stroke", "yellow");
+                    return tooltip.style("visibility", "visible");
+
                 })
                 .on("mousemove", function() {
                     return tooltip.style("top", (d3.event.pageY - 10) + "px").style("left", (d3.event.pageX + 10) + "px");
@@ -171,68 +151,57 @@ function barChart(){
                 });
 
 
-            if (showTitleOnCircle) {
-                node.append("text")
-                    .attr("clip-path",function(d,i) {
-                        return "url(#clip-" + i + ")"
-                    })
-                    .attr("text-anchor", "middle")
-                    .append("tspan")
-                    .attr("x",function(d) {
-                        return 0;//-1*scaleRadius(d[columnForRadius])/3;
-                    })
-                    .attr("y",function(d) {
-                        return ".3em";//scaleRadius(d[columnForRadius])/4;
-                    })
-                    .text(function(d, i) {
-                        return i;
-                    })
-                    .on("mouseover", function(d) {
-                        tooltip.html(d.title + "<br/>" + d.snippet + "<br/>" + attrRadius+" "+ d.length);
-                        return tooltip.style("visibility", "visible");
-                    })
-                    .on("mousemove", function() {
-                        return tooltip.style("top", (d3.event.pageY - 10) + "px").style("left", (d3.event.pageX + 10) + "px");
-                    })
-                    //Actions on Mouse out
-                    .on("mouseout", function() {
-                        return tooltip.style("visibility", "hidden");
-                    })
-                    .on("click", function(d){
-                        window.open(d.link, '_blank', 'top=50,left=50,width=900,height=600');
 
-                    });
-            };
+                // add the x Axis
+                svg.append("g")
+                    .attr("transform", "translate("+ margin.left+"," + (height+10) + ")")
+                    .call(d3.axisBottom(x))
+                    .selectAll("text")
+                    .attr("y", 10)
+                    .attr("x", 9 )
+                    .attr("dy", ".35em")
+                    .attr("transform", "rotate(60)")
+                    .style("text-anchor", "start");
 
-            svg.append('text')
-                .attr('x',width/2).attr('y',marginTop)
-                .attr("text-anchor", "middle")
-                .attr("font-size","1.8em")
-                .text(title);
+                // add the y Axis
 
-            var update= svg.selectAll("circle")
+                svg.append("g")
+                    .attr("transform", "translate("+ margin.left+",10)")
+                    .call(d3.axisLeft(y))
+                    .selectAll("text")
+                    .attr("y", 0)
+                    .attr("x", -margin.left)
+                    .attr("dy", ".35em")
+                    .attr("transform", "rotate(0)")
+                    .style("text-anchor", "start");
+
+
+
+
+            /*
+            * UPDATE OF THE CHART
+            *
+            * */
+
+
+            var update= svg.selectAll("rect")
                 .data(data);
 
             update.transition(transition)
-                .attr('r', function(d) {
-                    if(d[attrRadius]){
-                        return scaleRadius(d[attrRadius]);
-                    }
-                    return scaleRadius(0);
+                .attr("y", function(d) { return y(d[attrHeight])+10; })
+                .attr("height", function(d) {
+                    return height - y(d[attrHeight]);
                 })
-                .style("fill", function(d) {
+                .style("fill", function(d){
                     if(d[attrColors]){
-                        return colorCircles(d[attrColors]);
+                        return colorBars(d[attrColors]);
                     }
-                    return colorCircles(0);
+                    return colorBars(0);
                 });
 
 
-
             return chart;
-
         }
-
     };
 
     /** CONFIGURATION OF THE VALUES
@@ -307,9 +276,10 @@ function barChart(){
     function chartCustomColors(attr, pallette, blindsafe) {
         customColors=true;
         attrColors= attr;
-        customRange=  palettes.get_Pallette(pallette, blindsafe);
+        customRange= ["#59f442","#eef441","#f44141"];
         return chart;
     };
+
 
     function chartRemove(callback) {
         chartSVG.selectAll("text")
@@ -336,7 +306,6 @@ function barChart(){
         }
         return chart;
     }
-
     //Return the Chart.
     return chart;
 }
