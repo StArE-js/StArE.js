@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html lang="en" data-version="1.85.00">
+<html lang="en" data-version="1.85.01">
 
   <head>
 
@@ -44,18 +44,18 @@
 
 <!-- Favicon and CSS -->
 <link rel='shortcut icon' href="/en/ul2common/icons/favicon.ico"/>
-<link rel="stylesheet" href="/en/ul2external/styles/screen.css?v=1.85.00"/>
+<link rel="stylesheet" href="/en/ul2external/styles/screen.css?v=1.85.01"/>
 
 <script>
     window.dataLayer = window.Datalayer || [];
     dataLayer.push ( {
         event: 'Custom dimensions', customDimensionData: {
-            faculty : '',
+            faculty : 'Science',
             type :  '',
             language : 'en',
             study : '',
             specialisation : '',
-            pageType: '',
+            pageType: 'staffmember',
             eventType: '',
             cookiesAccepted: 'false'
         }});
@@ -526,7 +526,7 @@
     </div>
   </div>
 <!-- bottom scripts -->
-<script async defer src="/scripts/ul2.js?v=1.85.00" data-main="/scripts/ul2external/main.js"></script>
+<script async defer src="/scripts/ul2.js?v=1.85.01" data-main="/scripts/ul2external/main.js"></script>
 <!-- this line enables the loading of asynchronous components (together with the headContributions at the top) -->
     </body>
 </html>

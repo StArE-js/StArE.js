@@ -5,9 +5,9 @@ var fs = require('fs');
 
 //Objects definitions
 
-//Definición de Objetos
-//Objeto CleanSERP, es un serp que contiene solo
-//Los atributos que se necesitan
+/*
+* Standard JSON definition
+*/
 function cleanSerp(query) {
     this.resultados= query[0];
     this.terminos= query[1];
@@ -16,7 +16,9 @@ function cleanSerp(query) {
     this.documents= [];
 };
 
-//Objeto Documento. Define cada resultado.
+/*
+* Standard Document definition
+*/
 function document(info){
     this.title= info[0];
     this.link=info[1];
@@ -34,16 +36,19 @@ Object.defineProperty(cleanSerp.prototype, "docPos", {
 });
 
 
-//FUNCIONES
 
+/*
+To Read a JSON file
+ */
 var loadJson= function (ruta){
     var Json= require(ruta);
     return Json;
 };
 
-
+/*
+To Write a JSON file
+ */
 var writeJson= function (ruta, file){
-
     file= JSON.stringify(file);
     fs.writeFile (ruta, file, function(err) {
             if (err) throw err;
@@ -54,14 +59,17 @@ var writeJson= function (ruta, file){
 
 //READ AND FORMAT THE SERP
 let pre_procesar= function(input, output){
+
     return new Promise(function(resolve, reject){
         if(typeof(input)==="string"){
+            console.log(" Leyendo Path ");
             var file= loadJson(input);
             file= clearJson(file);
             resolve(file);
         }
         else{
-            file= clearJson(file);
+            console.log(" We've got a Json! ");
+            file= clearJson(input);
             resolve(file);
         }
     })};
@@ -70,21 +78,18 @@ let pre_procesar= function(input, output){
 //FUNCTION TO CLEAN JSON SERP FILE FROM GOOGLE
 var clearJson= function(json){
     //SELECT CHARACTERISTICS TO USE:
-    var query=[json.searchInformation.formattedTotalResults,
-        json.queries.request[0].searchTerms,
-        json.queries.request[0].count,
-        json.queries.request[0].startIndex];
+    var query=[json.totalResults,
+        json.q,
+        json.currentResults,
+        (json.currentPage* json.currentResults)];
     var objeto= new cleanSerp(query);
     //CREATE AND ADD THE DOCUMENTS OBJECTS.
     for(i=0; i< query[2]; i++){
         var image="";
-        if(json.items[i].pagemap.hasOwnProperty( "cse_thumbnail") ){
-            image=json.items[i].pagemap.cse_thumbnail;
-        }
-        var doc= new document([json.items[i].title ,
-            json.items[i].link ,
-            json.items[i].displaylink ,
-            json.items[i].snippet ,
+        var doc= new document([json.websites[i].title ,
+            json.websites[i].url,
+            json.websites[i].url ,
+            json.websites[i].description ,
             image]);
         objeto.docPos= doc;
     }

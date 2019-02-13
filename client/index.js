@@ -110,3 +110,33 @@ document.getElementById("btn_1").innerText = "Bubble Chart";
 //Bar Chart
 document.getElementById("btn_2").onclick = createBarChart;
 document.getElementById("btn_2").innerText = "Bar Chart";
+
+/**
+ * EJEMPLO DE MANDAR COSAS DESDE FRONT A BACKEND
+ *
+ */
+/*
+axios.default.get('http://localhost:3000/ejemplo?whoRules=Devy+fandub').then( // mando un valor en la variable whoRules
+    response => console.log(response.data),
+    error => console.error(error)
+);
+*/
+const sendQueryEcosia= () =>{
+  var q= document.getElementById("SearchBox").value;
+  var p=0;
+  if(q!=""){
+      axios.default.get('http://localhost:3000/ecosia?q=' + q + '&p='+p).then(
+          response => {
+              json = response.data;
+              console.log(json);
+              document.getElementsById("searchResults").innerHTML=JSON.stringify(json);
+          },
+          error => console.error(error)
+      )
+  };
+  console.log(q);
+};
+
+//SEND QUERYS TO THE RESPECTIVE SEARCH ENGINE:
+document.getElementById("btn_ecosia").onclick = sendQueryEcosia;
+

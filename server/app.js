@@ -2,6 +2,7 @@ var express = require('express');
 var app = express();
 var cors= require('cors');
 var stare=require('../Stare/stare.js');
+var ecosia= require('./ecosiaWebScraper.js');
 
 app.use(cors());
 app.options('*', cors()); //con esta linea y la anterior se permite la conexion desde cualquier servidor hacia el backend
@@ -9,8 +10,6 @@ app.options('*', cors()); //con esta linea y la anterior se permite la conexion 
 app.get('/', function (req, res) {
     res.send('Hello World!');
 });
-
-app.get('/ejemplo', (req, res) =>res.send('Devy rulz!')); // al acceder a localhost:3000/ejemplo se muestra
 
 app.get('/json', function(req, res){
     //res.send('JSON :D');
@@ -35,6 +34,33 @@ app.get('/update', function(req, res){
     var Json= stare.get_Json();
     res.send(Json);
 });
+
+app.get('/ecosia', function(req, res){
+    const q= req.param('q');
+    const p= req.param('p');
+    ecosia.scrap(q, p).then(
+        function(result){
+            if(result){
+                //Document is an Object of Type "Documents", Defined.
+                stare.prepareSerp('ecosia_serp', result)
+                    .then(function(result){
+                        console.log("Result is: " +result);
+                        var Json= stare.get_Json();
+                        res.send(Json)}
+                    );
+            }
+        }
+    );
+});
+
+/**
+ * EJEMPLO DE MANDAR COSAS DESDE FRONT A BACKEND
+ *
+ */
+app.get('/ejemplo', (req, res) => {
+    const whoRules = req.param('whoRules') // guardo lo que fue enviado en la variable http "whoRules"
+    res.send(`${whoRules} rulz!`);
+})
 
 app.listen(3000, function () {
   console.log('I\'m the backend!');

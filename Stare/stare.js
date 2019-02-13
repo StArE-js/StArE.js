@@ -40,10 +40,17 @@ var prepareSerp= function(serp_type, input){
         }else{
             //validar objeto aquí!!!!!!!
             json_object= input;
-            resolve(true);
+            serp_manager= require('./Serp_Process/' + serp_type + '.js');
+            serp_manager.pre_procesar(input).
+            then(function(json){
+                    json_object = json;
+                    resolve(true);
+                }
+            );
         };
     });
 };
+
 
 //STEP 2:
 // DOWNLOAD DOCUMENTS
