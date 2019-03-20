@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html lang="en" data-version="1.85.01">
+<html lang="en" data-version="1.86.00">
 
   <head>
 
@@ -40,11 +40,11 @@
 <meta property="og:image" content="https://www.universiteitleiden.nl/binaries/content/gallery/ul2/portraits/science/a/luca_avena.jpg/luca_avena.jpg/d600x315"/>
   <meta property="og:url" content="https://www.universiteitleiden.nl/en/staffmembers/luca-avena"/>
   <meta name="application-name" content="search"
-      data-content-type="staffmember" data-content-category="staffmember" data-protected="false" data-language="en" data-last-modified-date="2018-08-21" data-publication-date="2018-08-21" data-gender="M" data-organization="analysis-and-stochastics,mathematical-institute,probability-theory,science" data-faculties="science" data-uuid="b99cf351-11aa-40cb-9883-e9b70a209eeb" data-website="external-site,student-site,staffmember-site,library-site,org-site" data-keywords="mathematics,probability theory" data-lastname="Avena" data-firstname="Luca"/>
+      data-content-type="staffmember" data-content-category="staffmember" data-protected="false" data-language="en" data-last-modified-date="2019-03-14" data-publication-date="2019-03-14" data-gender="M" data-organization="analysis-and-stochastics,mathematical-institute,probability-theory,science" data-faculties="science" data-uuid="b99cf351-11aa-40cb-9883-e9b70a209eeb" data-website="external-site,student-site,staffmember-site,library-site,org-site" data-keywords="mathematics,probability theory" data-lastname="Avena" data-firstname="Luca"/>
 
 <!-- Favicon and CSS -->
 <link rel='shortcut icon' href="/en/ul2common/icons/favicon.ico"/>
-<link rel="stylesheet" href="/en/ul2external/styles/screen.css?v=1.85.01"/>
+<link rel="stylesheet" href="/en/ul2external/styles/screen.css?v=1.86.00"/>
 
 <script>
     window.dataLayer = window.Datalayer || [];
@@ -210,6 +210,8 @@
 
   <li><a href="/en/the-hague" >Campus The Hague</a></li>
 
+  <li><a href="/en/alumni" >Alumni</a></li>
+
   <li><a href="http://www.library.universiteitleiden.nl/" >Library</a></li>
 
   </ul>
@@ -297,6 +299,7 @@
     <h2>Assistant professor</h2>
     <ul>
       <li>Wiskunde en Natuurwetenschappen</li>
+      <li>Mathematisch Instituut</li>
       <li>Mathematisch Instituut</li>
       </ul>
   </div>
@@ -519,14 +522,14 @@
 <!-- googleon: all-->
 <div class="cookies">
     <div class="wrapper">
-      <p>This website uses cookies. <a href="https://www.organisatiegids.universiteitleiden.nl/en/cookies">More information</a></p><form action="/en/staffmembers/luca-avena?_hn:type=action&amp;_hn:ref=r52_r9" method="post">
+      <p>This website uses cookies. <a href="https://www.organisatiegids.universiteitleiden.nl/en/cookies">More information</a></p><form action="/en/staffmembers/luca-avena?_hn:type=action&amp;_hn:ref=r53_r9" method="post">
         <button type="submit" class="accept" name="cookie" value="accept">Accept cookies</button>
         <button type="submit" class="reject" name="cookie" value="reject">Reject cookies</button>
       </form>
     </div>
   </div>
 <!-- bottom scripts -->
-<script async defer src="/scripts/ul2.js?v=1.85.01" data-main="/scripts/ul2external/main.js"></script>
+<script async defer src="/scripts/ul2.js?v=1.86.00" data-main="/scripts/ul2external/main.js"></script>
 <!-- this line enables the loading of asynchronous components (together with the headContributions at the top) -->
     </body>
 </html>

@@ -30,7 +30,6 @@ async function runSample(options) {
         q: options.q,
         auth: options.apiKey,
     });
-    console.log(res.data);
     return res.data;
 }
 

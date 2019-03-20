@@ -3,14 +3,17 @@ const d3 = require('d3');
 const bubbleChart = require('./scripts/bubbleChart.js').bubbleChart;
 const barChart = require('./scripts/barChart.js').barChart;
 
-
 var chart;
-var t= 5000; //time to update data in ms.
+var t= 500; //time to update data in ms.
 
 //Bubble Chart
-
 const renderDataBubbleChart = () => {
-    document.getElementById("btn_1").innerText = "Quitar gráfico"
+    document.getElementById("btn_1").innerText = "Quitar gráfico";
+    document.getElementById("chart").style.display = "block";
+    document.getElementById("chart2").style.display = "none";
+    document.getElementById("chart3").style.display = "none";
+    document.getElementById("btn_2").innerText = "Bar Chart";
+    document.getElementById("btn_3").innerText = "Classic Text";
     let json;
     axios.default.get('http://localhost:3000/json').then(
         response => {
@@ -52,13 +55,23 @@ const createBubbleChart = () => {
         clearInterval(interval);
         document.getElementById("chart").innerHTML = "<svg></svg>"
         document.getElementById("btn_1").innerText = "Bubble Chart"
+        document.getElementById("btn_1").className= "clicked";
+        document.getElementById("btn_2").className= "";
+        document.getElementById("btn_3").className= "";
     }
 };
 
 //BAR CHART
 
 const renderDataBarChart = () => {
-    document.getElementById("btn_2").innerText = "Quitar gráfico"
+    document.getElementById("btn_2").innerText = "Quitar gráfico";
+    document.getElementById("chart").style.display = "none";
+    document.getElementById("chart2").style.display = "block";
+    document.getElementById("chart3").style.display = "none";
+
+    document.getElementById("btn_1").innerText = "Bubble Chart";
+    document.getElementById("btn_3").innerText = "Classic Text";
+
     let json;
     axios.default.get('http://localhost:3000/json').then( //cambiar ruta later
         response => {
@@ -95,6 +108,9 @@ const createBarChart = () => {
         clearInterval(interval);
         document.getElementById("chart2").innerHTML = "<svg></svg>"
         document.getElementById("btn_2").innerText = "Bar Chart"
+        document.getElementById("btn_1").className= "";
+        document.getElementById("btn_2").className= "clicked";
+        document.getElementById("btn_3").className= "";
     }
 };
 
@@ -127,9 +143,10 @@ const sendQueryEcosia= () =>{
   if(q!=""){
       axios.default.get('http://localhost:3000/ecosia?q=' + q + '&p='+p).then(
           response => {
-              json = response.data;
+              json =JSON.stringify( response.data);
               console.log(json);
-              document.getElementsById("searchResults").innerHTML=JSON.stringify(json);
+              document.getElementById("searchResults").innerHTML=json;
+              document.getElementById("searchResults").style.display = "block";
           },
           error => console.error(error)
       )
@@ -137,6 +154,23 @@ const sendQueryEcosia= () =>{
   console.log(q);
 };
 
+const sendQueryGoogle= () => {
+    var q= document.getElementById("SearchBox").value;
+    var p=0;
+    if(q!=""){
+        axios.default.get('http://localhost:3000/google?q=' + q).then(
+            response => {
+                json = JSON.stringify( response.data);
+                document.getElementById("searchResults").innerHTML=json;
+                document.getElementById("searchResults").style.display = "block";
+            },
+            error => console.error(error)
+        )
+    };
+    console.log(q);
+};
+
+
 //SEND QUERYS TO THE RESPECTIVE SEARCH ENGINE:
 document.getElementById("btn_ecosia").onclick = sendQueryEcosia;
-
+document.getElementById("btn_google").onclick = sendQueryGoogle;

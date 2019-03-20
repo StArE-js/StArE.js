@@ -20,7 +20,7 @@ privacy policy for the processing of personal data
                     
                     data collected automatically
                     during your visit to our website, data about your visit are automatically collected, e.g. your ip
-                    address, domain name,
+                    address, domain name, 
 
                     how do we use your data?
                     under no circumstances do we sell and we will not sell data collected about you to third parties.

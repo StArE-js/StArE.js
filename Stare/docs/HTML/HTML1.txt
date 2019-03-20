@@ -32,7 +32,7 @@ window.lpTag=window.lpTag||{},void 0===window.lpTag._tagCount?(window.lpTag={sit
 
 
   <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
     <link href="https://www.pardeehomes.com/wp-content/themes/pardeehomes/images/favicon.ico" rel="shortcut icon">
@@ -229,67 +229,22 @@ jQuery(document).ready(function(){
 
 
 
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-<div class="banner-slider">
-	<div class="owl-carousel owl-theme">
-						<div class="item">
-					<img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/02/Avena-2.jpg" alt="Los Angeles" style="width:100%;">
-					<div class="item-bg-overlay"></div>
-					<div class="item-content innerStr">
-						<div class="item-caption animated animatedFadeInUp fadeInUp">
-														<h1>Smart Savings Event</h1>
-														<p>Save Thousands on Select Move-in Ready Homes in the Inland Empire. Now Through March 3rd!</p>
-														<a href="https://www.pardeehomes.com/smartsavings2019" class="item-btn">Learn More</a>
-													</div>
-					</div>
-				</div>
-						<div class="item">
-					<img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/4-Avena-P4A_Family-Room.jpg" alt="Los Angeles" style="width:100%;">
-					<div class="item-bg-overlay"></div>
-					<div class="item-content innerStr">
-						<div class="item-caption animated animatedFadeInUp fadeInUp">
-														<h1>Avena</h1>
-														<p>French Valley<br />Priced From The Mid $400,000s</p>
-													</div>
-					</div>
-				</div>
-			   
-	</div>
-</div>
-<script>
-	$(document).ready(function() {
-		var owl = $('.owl-carousel');
-		owl.owlCarousel({
-			margin:0,
-			nav:true,
-			items:1,
-			rewind:true,
-			autoplay:true,
-			autoplayTimeout:4500,
-			slideSpeed : 300,
-			paginationSpeed : 400,
-			singleItem:true,
-			autoplayHoverPause:true      
-		});
-		owl.on('changed.owl.carousel', function(event) {
-			$('.item-caption').removeClass('animated animatedFadeInUp fadeInUp'); 
-			$('.item-caption').hide();                     
-			setTimeout(function(){ 
-				$('.item-caption').show(); 
-				$($('.owl-item')[event.property.value]).find('.item-caption').addClass('animated animatedFadeInUp fadeInUp'); 
-			}, 500);                       
-		});
-	});
-	
-	var video = document.getElementById("slidervideo");             
-	function playVideo() { 
-	  video.play(); 
-	} 
-</script> 
-
-<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/themes/pardeehomes/dist/scripts/jcycle.js'></script>
+ <div class="hero hero--neighborhood">
+  <div class="picture" style="background-image:url(https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/4-Avena-P4A_Family-Room.jpg);"></div>
+  <div class="row">
+    <div class="column medium-6 medium-offset-3">
+			<div class="inner-hero-banner avena">
+				
+				<h1 class="neighborhood--title">Avena</h1>
+				<div class="neighborhood--intro"></div>
+				<div class="neighborhood--community">French Valley</div>
+				<span class="neighborhood-top-line"></span>
+				<div class="neighborhood--price">Priced from the mid <span class="price-case"> $400,000s</span></div>
+			</div>
+    </div>
+  </div>
+   
+</div><script type='text/javascript' src='https://www.pardeehomes.com/wp-content/themes/pardeehomes/dist/scripts/jcycle.js'></script>
 
 <script>
 jQuery(document).ready(function($) {
@@ -434,8 +389,7 @@ jQuery(document).ready(function($) {
                         <div class="medium-12 mar-top">
                                                         <div class="row">
                                  <div class="medium-12 mar-top">
-                            <p><a href="https://www.pardeehomes.com/smartsavings2019"><img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2016/05/Banner2.jpg" width="701" height="90" /></a></p>
-<p>Find your new happy place at Avena. The picturesque French Valley is perfect for families who love the outdoors, wide open spaces, nearby parks, and hiking and biking trails. With beautiful views of the neighboring mountains, the homes at Avena complement the surrounding natural beauty with timeless architecture that offers a modern take on traditional styles. Avena was thoughtfully designed for easy family living, featuring four new floor plans, spacious interiors, inviting great rooms and indoor/outdoor living spaces that make every day feel like a celebration.</p>
+                            <p>Find your new happy place at Avena. The picturesque French Valley is perfect for families who love the outdoors, wide open spaces, nearby parks, and hiking and biking trails. With beautiful views of the neighboring mountains, the homes at Avena complement the surrounding natural beauty with timeless architecture that offers a modern take on traditional styles. Avena was thoughtfully designed for easy family living, featuring four new floor plans, spacious interiors, inviting great rooms and indoor/outdoor living spaces that make every day feel like a celebration.</p>
 <p>Families will appreciate Avena’s convenient location, close to everyday essentials and great shopping. You’re also just minutes away from charming Old Town Temecula, with its historic buildings, antique shops, wine-tasting specialty stores and great restaurants. Parents will love that Avena is within the highly-acclaimed Temecula Valley Unified School District, which recently earned the distinction of receiving the highest overall assessment scores in Riverside County on the new California Smarter Balanced Tests. And with easy access to the 215 and 15 Freeways and Highway 79, you’re never too far away from major employment centers, and even more shopping and entertainment.</p>
 <p>Sign up on the Interest List to get all the latest news and updates on Avena.</p>
 							<div class="medium-6 content_desc">
@@ -522,8 +476,76 @@ jQuery(document).ready(function($) {
                                         alt="broucher_image" title="broucher_image"/>View Brochure
                                 <small>>></small>
                             </a></li>
-                                    </div>
+                                        <li class="monthly_payment">
+						<a onclick='mktoTrackEvent("MonthlyPayment")' href="#monthly_popup" class="monthly_popup">
+							<span><img src="/wp-content/themes/pardeehomes/images/icons/calculator.png"
+                                        alt="community-cal" title="community-cal" id="mothly_cal" /></span>Estimate Monthly Payment</a>
+					</li>
+                </div>
 
+            </div>
+        </div>
+        <div id="monthly_popup" style="display: none;">
+            <a href="#" class="fancy_close"></a>
+            <div id="mortgage-calculator" class="mortgage-calculator open monthly_payment">
+                    <div class="mortgage-calculator">
+      <div class="row">
+		<h3>Estimate Monthly Payment</h3>
+		 <p class="text-center mortage-desc">Your actual rate, payment, and costs could be higher. Get an official Loan Estimate before choosing a loan.</p>
+        <div class="columns medium-6 large-4 mortgage-calculator__tool">
+          <div class="search-filters">
+            <form action="/">
+              <div class="field">
+                <label for="mortgageAmount" class="dollars">Enter Your Mortgage Amount <span class="dollars__symbol">$</span>
+                <input type="number" id="mortgageAmount" step="1000" placeholder="0"></label>
+              </div>
+              <div class="field">
+                <label for="interest">Interest Rate (%)**</label>
+                <input type="number" id="interest" step="1" value="">
+              </div>
+              <div class="field">
+                <label for="period">Amortization Period</label>
+                <div class="custom-select custom-select--button">
+                  <select name="period" id="period">
+                    <option value="1">1 Year</option>
+                    <option value="3">3 Years</option>
+                    <option value="5">5 Years</option>
+                    <option value="10">10 Years</option>
+                    <option value="15">15 Years</option>
+                    <option value="25">25 Years</option>
+                    <option value="30" selected="selected">30 Years</option>
+                  </select>
+                </div>
+              </div>
+              <div class="field">
+                <label for="frequency">Payment Frequency</label>
+                <div class="custom-select custom-select--button">
+                  <select name="frequency" id="frequency">
+                    <option value="12">Monthly</option>
+                    <option value="24">Semi-monthly</option>
+                    <option value="52">Weekly</option>
+                    <option value="26">Bi-weekly</option>
+                  </select>
+                </div>
+              </div>
+            </form>
+          </div>
+		  <p></p>
+		 <p>**Assumptions. You are purchasing a single family home and primary residence. Rate is fixed. Debt-to-income ratio is less than 41% and excellent credit. These assumptions are subject to change without notice.</p>
+        </div>
+        <div class="columns medium-6 large-offset-2 end">
+          <div class="mortgage-calculator__results">
+            <div>
+              <h5>Your <span id="pay-period">monthly</span> payment would be*</h5>
+              <span class="mortgage-calculator__number">$1750</span><br/>
+              <!--a href="https://www.tripointeconnect.com/get-started/" class="btn btn-medium-olive" target="_blank">Learn More About TRI Pointe Connect</a-->
+              <p class="mortgage-calculator-disclaimer">*This mortgage calculator is for illustrative purposes only and is not a guarantee. The monthly payment illustration on this tool does not include amounts for property taxes, insurance premiums, homeowner’s association dues, or other factors that potentially could affect your monthly payment. Therefore, your actual monthly payment will be higher. Interest rates change frequently and without notice. Financing availability and terms will depend on your situation.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+	   
+           <a href="javascript:void(0);" class="mortgage-calculator__close"><span class="icon -close"></span></a>    </div>
             </div>
         </div>
         <div class="rightSection" id="rightsidebar">
@@ -531,10 +553,10 @@ jQuery(document).ready(function($) {
 	<h3>Let us assist you in your home search!</h3>
 	<div class="contact_person">
 					<div class="person_image">
-				<img width="150" height="150" src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2016/04/NHS-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://www.pardeehomes.com/wp-content/uploads/sites/3/2016/04/NHS-150x150.jpg 150w, https://www.pardeehomes.com/wp-content/uploads/sites/3/2016/04/NHS-300x300.jpg 300w, https://www.pardeehomes.com/wp-content/uploads/sites/3/2016/04/NHS.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" />			</div>
+				<img width="150" height="150" src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2019/03/jennie_brooke_cara_combined_final-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://www.pardeehomes.com/wp-content/uploads/sites/3/2019/03/jennie_brooke_cara_combined_final-150x150.jpg 150w, https://www.pardeehomes.com/wp-content/uploads/sites/3/2019/03/jennie_brooke_cara_combined_final-300x300.jpg 300w, https://www.pardeehomes.com/wp-content/uploads/sites/3/2019/03/jennie_brooke_cara_combined_final.jpg 400w" sizes="(max-width: 150px) 100vw, 150px" />			</div>
 				<div class="contact_detail">
-						<span>cara garcia & jennie rickert</span>
-						<p>DRE#: Tecara (Cara): 01390625, Jennine (Jennie): 01862974</p>
+						<span>cara garcia, jennie rickert & brooke black</span>
+						<p>DRE#: Tecara (Cara): 01390625, Jennine (Jennie): 01862974, Brooke:  02061071</p>
 					</div>
 	</div>
 	<div class="btn-group fixed_button">
@@ -694,8 +716,9 @@ jQuery(document).ready(function($) {
         <div class="plan-blocks">		<div class="card card--neighborhood">
 											 <div class="card__frame">
 				<div class="card__image">
-										<a href="https://www.pardeehomes.com/inland-empire/avena/plan-1-26195/" data-planid='26195'><img class="new-band-image" src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/1-Avena-P1B_Front-Elevation.jpg" alt="Allissa, Jennie &amp; Cara Plan 1" title="Allissa, Jennie &amp; Cara Plan 1" /></a>
-									</div>
+										<a href="https://www.pardeehomes.com/inland-empire/avena/plan-1-26195/" data-planid='26195'><img class="new-band-image" src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/1-Avena-P1B_Front-Elevation.jpg" alt="Brooke, Jennie &amp; Cara Plan 1" title="Brooke, Jennie &amp; Cara Plan 1" /></a>
+									<div class="neighborhood-status neighborhood-status-plan">Temporary Sold Out</div>
+											</div>
 				<div class="card__content">
 					<div class="card__stats">
 						<div class="neighborhood-name textupper">
@@ -717,7 +740,7 @@ jQuery(document).ready(function($) {
 			<div class="card card--neighborhood">
 											 <div class="card__frame">
 				<div class="card__image">
-										<a href="https://www.pardeehomes.com/inland-empire/avena/plan-2-26199/" data-planid='26199'><img class="new-band-image" src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/1-Avena-P2Cr_Front-Elevation.jpg" alt="Allissa, Jennie &amp; Cara Plan 2" title="Allissa, Jennie &amp; Cara Plan 2" /></a>
+										<a href="https://www.pardeehomes.com/inland-empire/avena/plan-2-26199/" data-planid='26199'><img class="new-band-image" src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/1-Avena-P2Cr_Front-Elevation.jpg" alt="Brooke, Jennie &amp; Cara Plan 2" title="Brooke, Jennie &amp; Cara Plan 2" /></a>
 									</div>
 				<div class="card__content">
 					<div class="card__stats">
@@ -729,7 +752,7 @@ jQuery(document).ready(function($) {
 													<div class="stat-bedrooms">
 								3 - 4 Beds<br/> 2.5 - 3 Baths<br/> 2,616 sq ft (approx)<br/>							</div>
 														<div class="stat-price">
-								Priced from <span class="price-case"> $451,000</span>							</div>
+								From the <span class="price-case"> $445,000s</span>							</div>
 													</div>
 						<div class="gallery-link text-center"><a class="textupper neighborhood-link" data-planid='26199' href="https://www.pardeehomes.com/inland-empire/avena/plan-2-26199/">View floor plans and gallery</a>
 						</div>
@@ -740,7 +763,7 @@ jQuery(document).ready(function($) {
 			<div class="card card--neighborhood">
 											 <div class="card__frame">
 				<div class="card__image">
-										<a href="https://www.pardeehomes.com/inland-empire/avena/plan-3-26203/" data-planid='26203'><img class="new-band-image" src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/Avena-3A-1.jpg" alt="Allissa, Jennie &amp; Cara Plan 3" title="Allissa, Jennie &amp; Cara Plan 3" /></a>
+										<a href="https://www.pardeehomes.com/inland-empire/avena/plan-3-26203/" data-planid='26203'><img class="new-band-image" src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/Avena-3A-1.jpg" alt="Brooke, Jennie &amp; Cara Plan 3" title="Brooke, Jennie &amp; Cara Plan 3" /></a>
 									</div>
 				<div class="card__content">
 					<div class="card__stats">
@@ -752,7 +775,7 @@ jQuery(document).ready(function($) {
 													<div class="stat-bedrooms">
 								4 - 5 Beds<br/> 3 - 4 Baths<br/> 2,871 sq ft (approx)<br/>							</div>
 														<div class="stat-price">
-								Priced from <span class="price-case"> $465,000</span>							</div>
+								From the <span class="price-case"> $472,000s</span>							</div>
 													</div>
 						<div class="gallery-link text-center"><a class="textupper neighborhood-link" data-planid='26203' href="https://www.pardeehomes.com/inland-empire/avena/plan-3-26203/">View floor plans and gallery</a>
 						</div>
@@ -763,7 +786,7 @@ jQuery(document).ready(function($) {
 			<div class="card card--neighborhood">
 											 <div class="card__frame">
 				<div class="card__image">
-										<a href="https://www.pardeehomes.com/inland-empire/avena/plan-4-26207/" data-planid='26207'><img class="new-band-image" src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/1-Avena-P4A_Front-Elevation.jpg" alt="Allissa, Jennie &amp; Cara Plan 4" title="Allissa, Jennie &amp; Cara Plan 4" /></a>
+										<a href="https://www.pardeehomes.com/inland-empire/avena/plan-4-26207/" data-planid='26207'><img class="new-band-image" src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/1-Avena-P4A_Front-Elevation.jpg" alt="Brooke, Jennie &amp; Cara Plan 4" title="Brooke, Jennie &amp; Cara Plan 4" /></a>
 									</div>
 				<div class="card__content">
 					<div class="card__stats">
@@ -775,7 +798,7 @@ jQuery(document).ready(function($) {
 													<div class="stat-bedrooms">
 								4 - 5 Beds<br/> 3.5 - 4 Baths<br/> 3,070 sq ft (approx)<br/>							</div>
 														<div class="stat-price">
-								Priced from <span class="price-case"> $480,000</span>							</div>
+								From the <span class="price-case"> $500,000s</span>							</div>
 													</div>
 						<div class="gallery-link text-center"><a class="textupper neighborhood-link" data-planid='26207' href="https://www.pardeehomes.com/inland-empire/avena/plan-4-26207/">View floor plans and gallery</a>
 						</div>
@@ -959,14 +982,15 @@ jQuery(document).ready(function($) {
 		
 		/* Form Status */
 		var status = "30";
+		
 		setTimeout( function(){
-			if(status == 35 || status == "coming_soon" ||  status == 40 ||  status == 45 ||  status == 50 || status == "Coming Soon" || status == "Sold Out" || status == "Temporary Sold Out" || status == "sold"){
+			if(status == 35 || status == "coming_soon" ||  status == 40 ||  status == 45 ||  status == 50 || status == "Coming Soon" || status == "Sold Out" || status == "Temporary Sold Out" || status == "sold" || status == "None"){
 				jQuery(".mktoFormRow.row-block-6.field_openQuestion1").css("display","none");
 				jQuery(".mktoFormRow.row-block-8").css("display","none");
 				jQuery(".mktoFormRow.row-block-9").css("display","none");
 				
 			}
-		},5000);
+		},2000);
 		form.onSuccess(function(values, followUpUrl) {
 						  var useremail = values.Email;
 			  var cookieexpiry = new Date();
@@ -1138,7 +1162,7 @@ jQuery(document).ready(function($) {
     });
 </script>    <div class="mortgage-calculator">
       <div class="row">
-		<h3>Mortgage Payment Calculator*</h3>
+		<h3>Estimate Monthly Payment</h3>
 		 <p class="text-center mortage-desc">Your actual rate, payment, and costs could be higher. Get an official Loan Estimate before choosing a loan.</p>
         <div class="columns medium-6 large-4 mortgage-calculator__tool">
           <div class="search-filters">
@@ -1186,7 +1210,7 @@ jQuery(document).ready(function($) {
             <div>
               <h5>Your <span id="pay-period">monthly</span> payment would be*</h5>
               <span class="mortgage-calculator__number">$1750</span><br/>
-			  <a href="/about-us/aba-ie/" class="btn btn-medium-olive" target="_blank">Learn More About TRI Pointe Connect</a>              <!--a href="https://www.tripointeconnect.com/get-started/" class="btn btn-medium-olive" target="_blank">Learn More About TRI Pointe Connect</a-->
+              <!--a href="https://www.tripointeconnect.com/get-started/" class="btn btn-medium-olive" target="_blank">Learn More About TRI Pointe Connect</a-->
               <p class="mortgage-calculator-disclaimer">*This mortgage calculator is for illustrative purposes only and is not a guarantee. The monthly payment illustration on this tool does not include amounts for property taxes, insurance premiums, homeowner’s association dues, or other factors that potentially could affect your monthly payment. Therefore, your actual monthly payment will be higher. Interest rates change frequently and without notice. Financing availability and terms will depend on your situation.</p>
             </div>
           </div>
@@ -1203,7 +1227,7 @@ jQuery(document).ready(function($) {
 <p>Find the communities and floorplans that meet your “must-haves” and a couple “nice-to-haves”, while avoiding your “absolutely nevers”. Save these to your Favorites for easy access at any time and you’ll be well on your way to becoming our next Home Enthusiast. It’s that easy.</p>
 <p>Login or create your own personal Pardee Homes profile by signing up below.</p>
 	<div id="loginFav" class="userLogin">
-						<input type="hidden" id="signonsecurity" name="signonsecurity" value="5d1523910d" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />  <form action="https://www.pardeehomes.com/wp-login.php?wpe-login=true" class="parsley-validate login_form" method="post">
+						<input type="hidden" id="signonsecurity" name="signonsecurity" value="0b1f68f1c9" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />  <form action="https://www.pardeehomes.com/wp-login.php?wpe-login=true" class="parsley-validate login_form" method="post">
     <label for="user_login">Email*</label>
     <input name="user_login" id="user_login" value="" placeholder="Enter your email" required data-parsley-error-message="Please enter a valid email" type="email"/>
     <label for="user_pass">Password*</label>
@@ -1233,7 +1257,7 @@ jQuery(document).ready(function($) {
 </div>
 
 <div id="forgotModal2" class="modal-content js-modal-content field-wrap field-forgot favouriteForget">
-<input type="hidden" id="forgotsecurity" name="forgotsecurity" value="65b79fd826" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />    <form action="https://www.pardeehomes.com/wp-login.php?wpe-login=true?action=lostpassword" class="parsley-validate forgot_form" method="post">
+<input type="hidden" id="forgotsecurity" name="forgotsecurity" value="f9fb585064" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />    <form action="https://www.pardeehomes.com/wp-login.php?wpe-login=true?action=lostpassword" class="parsley-validate forgot_form" method="post">
       <label for="user_forgot_login">Username or E-mail</label>
       <input name="user_login" id="user_forgot_login" value="" placeholder="Enter your username or email" required data-parsley-error-message="Please enter a valid username or email" />
       <button type="submit" class="btn btn--medium-olive">Get New Password</button>
@@ -1363,7 +1387,7 @@ jQuery(document).ready(function($) {
 			  "duration": "PT1M10S",
 			  "contentUrl": "https://www.youtube.com/embed/2vrli1nlIVk",
 			  "embedUrl": "https://www.youtube.com/embed/2vrli1nlIVk",
-			  "interactionCount": "20"
+			  "interactionCount": "26"
 },
 {
 			  "@context": "http://schema.org/",
@@ -1372,8 +1396,7 @@ jQuery(document).ready(function($) {
 			  "image": [
 				"https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/07/4-Avena-P4A_Family-Room.jpg"
 			   ],
-			  "description": "<p><a href="https://www.pardeehomes.com/smartsavings2019"><img src="https://www.pardeehomes.com/wp-content/uploads/sites/3/2016/05/Banner2.jpg" width="701" height="90" /></a></p>
-<p>Find your new",
+			  "description": "<p>Find your new happy place at Avena. The picturesque French Valley is perfect for families who love the outdoors, wide open spaces, nearby parks, and hiking and biking trails. With beautiful views",
 			 "brand": {
 				"@type": "Thing",
 				"name": "Pardee Homes"
@@ -2163,7 +2186,7 @@ jQuery(document).on('click', '.fancy_close', function(){
           <input type="hidden" name="redirectTo" value="/inland-empire/avena/" />
           <input type="hidden" name="access_token" id="jfb_access_token" value="0" />
           <input type="hidden" name="fbuid" id="jfb_fbuid" value="0" />
-          <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="eda2ab7f13" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />          <input type="hidden" name="rememberme" id="fb_rememberme" value="0" /><input type="hidden" name="blog_id" id="blog_id" value="3" /><input type="hidden" name="premnum" id="premnum" value="6793_6793" />   
+          <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="1bc6f09348" /><input type="hidden" name="_wp_http_referer" value="/inland-empire/avena/" />          <input type="hidden" name="rememberme" id="fb_rememberme" value="0" /><input type="hidden" name="blog_id" id="blog_id" value="3" /><input type="hidden" name="premnum" id="premnum" value="6793_6793" />   
      </form>
 
         <script type="text/javascript">//<!--
@@ -2249,6 +2272,6 @@ var ajax_auth_object = {"redirectOnRegister":"https:\/\/www.pardeehomes.com\/suc
 var tracking_cofing_object = {"tracking_api_url":"https:\/\/www.pardeehomes.com\/wp-content\/plugins\/grazitti-crossdomaintracking\/\/trackingapi\/","domain_name":"pardeehomes.com","is_microwebsite":"0"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/plugins/grazitti-crossdomaintracking/assets/js/tracking_script.js?r=61'></script>
-  </body>
+<script type='text/javascript' src='https://www.pardeehomes.com/wp-content/plugins/grazitti-crossdomaintracking/assets/js/tracking_script.js?r=29'></script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"590b49f913","applicationID":"248634229","transactionName":"YlNVZkVYCkFTURELVlsZYkBeFg1cVlcdTEldRg==","queueTime":0,"applicationTime":2892,"atts":"ThRWEA1CGU8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>

@@ -4,13 +4,13 @@
 <meta charset="UTF-8"/>
 <title>avena - Wiktionary</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"avena","wgTitle":"avena","wgCurRevisionId":50667959,"wgRevisionId":50667959,"wgArticleId":51343,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Spanish redlinks","Spanish redlinks/l","Italian terms inherited from Latin","Italian terms derived from Latin","Italian lemmas","Italian nouns","Italian countable nouns","Latin terms borrowed from substrate languages","Latin terms derived from substrate languages","Latin 3-syllable words","Latin terms with IPA pronunciation","Latin lemmas","Latin nouns","Latin feminine nouns","Latin first declension nouns","Latin feminine nouns in the first declension","la:Grains","Spanish terms inherited from Latin","Spanish terms derived from Latin","Spanish terms with IPA pronunciation","Spanish lemmas","Spanish nouns","Spanish 3-syllable words","es:Grains"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"avena","wgRelevantArticleId":51343,"wgRequestId":"XGMdIQpAAEAAABeHOqAAAABK","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wiktionary","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"avena","wgTitle":"avena","wgCurRevisionId":50667959,"wgRevisionId":50667959,"wgArticleId":51343,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Spanish redlinks","Spanish redlinks/l","Italian terms inherited from Latin","Italian terms derived from Latin","Italian lemmas","Italian nouns","Italian countable nouns","Latin terms borrowed from substrate languages","Latin terms derived from substrate languages","Latin 3-syllable words","Latin terms with IPA pronunciation","Latin lemmas","Latin nouns","Latin feminine nouns","Latin first declension nouns","Latin feminine nouns in the first declension","la:Grains","Spanish terms inherited from Latin","Spanish terms derived from Latin","Spanish terms with IPA pronunciation","Spanish lemmas","Spanish nouns","Spanish 3-syllable words","es:Grains"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"avena","wgRelevantArticleId":51343,"wgRequestId":"XJK3MApAMEwAAEc6@CsAAACO","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wiktionary","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.LegacyScripts","ext.gadget.JavascriptHeadings","ext.gadget.TargetedTranslations","ext.gadget.DocTabs","ext.gadget.BlockInfo","ext.gadget.RevdelInfo","ext.gadget.CodeLinks","ext.gadget.TranslationAdder","ext.gadget.RhymesAdder","ext.gadget.SpecialSearch","ext.gadget.zhDialMap","ext.gadget.catfix","ext.gadget.Edittools","ext.gadget.defaultVisibilityToggles","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.33.0-wmf.16"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.22"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
@@ -25,19 +25,29 @@
 <link rel="canonical" href="https://en.wiktionary.org/wiki/avena"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
-<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+<!--[if lt IE 9]><script src="/w/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-avena rootpage-avena skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<div id="content" class="mw-body" role="main">
-			<a id="top"></a>
-			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-avena rootpage-avena skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
 </div>
-<h1 id="firstHeading" class="firstHeading" lang="en">avena</h1>			<div id="bodyContent" class="mw-body-content">
-				<div id="siteSub" class="noprint">Definition from Wiktionary, the free dictionary</div>				<div id="contentSub"></div>
-				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
-				<a class="mw-jump-link" href="#p-search">Jump to search</a>
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="disambig-see-also"><i>See also:</i> <b class="Latn"><a href="/wiki/Avena" title="Avena">Avena</a></b></div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="">avena</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Definition from Wiktionary, the free dictionary</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="disambig-see-also"><i>See also:</i> <b class="Latn"><a href="/wiki/Avena" title="Avena">Avena</a></b></div>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#Italian"><span class="tocnumber">1</span> <span class="toctext">Italian</span></a>
@@ -201,16 +211,15 @@
 <ul><li><span class="Latn" lang="es"><a href="/w/index.php?title=avena_loca&amp;action=edit&amp;redlink=1" class="new" title="avena loca (page does not exist)">avena loca</a></span></li></ul>
 <h3><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=avena&amp;action=edit&amp;section=17" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
 <ul><li>“<a rel="nofollow" class="external text" href="http://dle.rae.es/?w=avena">avena</a>” in <i><a href="https://en.wikipedia.org/wiki/Diccionario_de_la_lengua_espa%C3%B1ola" class="extiw" title="w:Diccionario de la lengua española">Diccionario de la lengua española</a>, Vigésima tercera edición</i>, Real Academia Española, 2014.</li></ul>
-
 <!-- 
 NewPP limit report
-Parsed by mw1269
-Cached time: 20190212192314
-Cache expiry: 2073600
+Parsed by mw1241
+Cached time: 20190320215704
+Cache expiry: 2592000
 Dynamic content: false
-CPU time usage: 0.488 seconds
-Real time usage: 0.654 seconds
-Preprocessor visited node count: 4383/1000000
+CPU time usage: 0.524 seconds
+Real time usage: 0.720 seconds
+Preprocessor visited node count: 4621/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 18684/2097152 bytes
 Template argument size: 2569/2097152 bytes
@@ -219,30 +228,36 @@ Expensive parser function count: 8/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 1012/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.313/10.000 seconds
-Lua memory usage: 11 MB/50 MB
+Lua time usage: 0.294/10.000 seconds
+Lua memory usage: 11.08 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  610.645      1 -total
- 20.69%  126.369     23 Template:l
- 15.29%   93.395      2 Template:inh
-  9.13%   55.752      1 Template:R:L&amp;S
-  8.25%   50.394     26 Template:redlink_category
-  7.29%   44.545      1 Template:la-IPA
-  6.54%   39.957      1 Template:es-IPA
-  6.27%   38.297      4 Template:cite-book
-  5.81%   35.480      1 Template:la-decl-1st
-  5.78%   35.299      3 Template:m
+100.00%  642.610      1 -total
+ 17.45%  112.142     23 Template:l
+ 14.19%   91.170      2 Template:inh
+  9.51%   61.138      1 Template:R:L&amp;S
+  8.70%   55.896      1 Template:la-IPA
+  8.25%   53.001     26 Template:redlink_category
+  7.00%   44.956      4 Template:cite-book
+  6.21%   39.925      1 Template:es-IPA
+  6.08%   39.079      1 Template:la-decl-1st
+  5.92%   38.070      3 Template:m
 -->
 
-<!-- Saved in parser cache with key enwiktionary:pcache:idhash:51343-0!canonical and timestamp 20190212192313 and revision id 50667959
+<!-- Saved in parser cache with key enwiktionary:pcache:idhash:51343-0!canonical and timestamp 20190320215704 and revision id 50667959
  -->
-</div><noscript><img src="//en.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://en.wiktionary.org/w/index.php?title=avena&amp;oldid=50667959">https://en.wiktionary.org/w/index.php?title=avena&amp;oldid=50667959</a>"					</div>
-				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Italian_terms_inherited_from_Latin" title="Category:Italian terms inherited from Latin">Italian terms inherited from Latin</a></li><li><a href="/wiki/Category:Italian_terms_derived_from_Latin" title="Category:Italian terms derived from Latin">Italian terms derived from Latin</a></li><li><a href="/wiki/Category:Italian_lemmas" title="Category:Italian lemmas">Italian lemmas</a></li><li><a href="/wiki/Category:Italian_nouns" title="Category:Italian nouns">Italian nouns</a></li><li><a href="/wiki/Category:Italian_countable_nouns" title="Category:Italian countable nouns">Italian countable nouns</a></li><li><a href="/wiki/Category:Latin_terms_borrowed_from_substrate_languages" title="Category:Latin terms borrowed from substrate languages">Latin terms borrowed from substrate languages</a></li><li><a href="/wiki/Category:Latin_terms_derived_from_substrate_languages" title="Category:Latin terms derived from substrate languages">Latin terms derived from substrate languages</a></li><li><a href="/wiki/Category:Latin_3-syllable_words" title="Category:Latin 3-syllable words">Latin 3-syllable words</a></li><li><a href="/wiki/Category:Latin_terms_with_IPA_pronunciation" title="Category:Latin terms with IPA pronunciation">Latin terms with IPA pronunciation</a></li><li><a href="/wiki/Category:Latin_lemmas" title="Category:Latin lemmas">Latin lemmas</a></li><li><a href="/wiki/Category:Latin_nouns" title="Category:Latin nouns">Latin nouns</a></li><li><a href="/wiki/Category:Latin_feminine_nouns" title="Category:Latin feminine nouns">Latin feminine nouns</a></li><li><a href="/wiki/Category:Latin_first_declension_nouns" title="Category:Latin first declension nouns">Latin first declension nouns</a></li><li><a href="/wiki/Category:Latin_feminine_nouns_in_the_first_declension" title="Category:Latin feminine nouns in the first declension">Latin feminine nouns in the first declension</a></li><li><a href="/wiki/Category:la:Grains" title="Category:la:Grains">la:Grains</a></li><li><a href="/wiki/Category:Spanish_terms_inherited_from_Latin" title="Category:Spanish terms inherited from Latin">Spanish terms inherited from Latin</a></li><li><a href="/wiki/Category:Spanish_terms_derived_from_Latin" title="Category:Spanish terms derived from Latin">Spanish terms derived from Latin</a></li><li><a href="/wiki/Category:Spanish_terms_with_IPA_pronunciation" title="Category:Spanish terms with IPA pronunciation">Spanish terms with IPA pronunciation</a></li><li><a href="/wiki/Category:Spanish_lemmas" title="Category:Spanish lemmas">Spanish lemmas</a></li><li><a href="/wiki/Category:Spanish_nouns" title="Category:Spanish nouns">Spanish nouns</a></li><li><a href="/wiki/Category:Spanish_3-syllable_words" title="Category:Spanish 3-syllable words">Spanish 3-syllable words</a></li><li><a href="/wiki/Category:es:Grains" title="Category:es:Grains">es:Grains</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Spanish_redlinks" title="Category:Spanish redlinks">Spanish redlinks</a></li><li><a href="/wiki/Category:Spanish_redlinks/l" title="Category:Spanish redlinks/l">Spanish redlinks/l</a></li></ul></div></div>				<div class="visualClear"></div>
-							</div>
-		</div>
+</div><noscript><img src="//en.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wiktionary.org/w/index.php?title=avena&amp;oldid=50667959">https://en.wiktionary.org/w/index.php?title=avena&amp;oldid=50667959</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Italian_terms_inherited_from_Latin" title="Category:Italian terms inherited from Latin">Italian terms inherited from Latin</a></li><li><a href="/wiki/Category:Italian_terms_derived_from_Latin" title="Category:Italian terms derived from Latin">Italian terms derived from Latin</a></li><li><a href="/wiki/Category:Italian_lemmas" title="Category:Italian lemmas">Italian lemmas</a></li><li><a href="/wiki/Category:Italian_nouns" title="Category:Italian nouns">Italian nouns</a></li><li><a href="/wiki/Category:Italian_countable_nouns" title="Category:Italian countable nouns">Italian countable nouns</a></li><li><a href="/wiki/Category:Latin_terms_borrowed_from_substrate_languages" title="Category:Latin terms borrowed from substrate languages">Latin terms borrowed from substrate languages</a></li><li><a href="/wiki/Category:Latin_terms_derived_from_substrate_languages" title="Category:Latin terms derived from substrate languages">Latin terms derived from substrate languages</a></li><li><a href="/wiki/Category:Latin_3-syllable_words" title="Category:Latin 3-syllable words">Latin 3-syllable words</a></li><li><a href="/wiki/Category:Latin_terms_with_IPA_pronunciation" title="Category:Latin terms with IPA pronunciation">Latin terms with IPA pronunciation</a></li><li><a href="/wiki/Category:Latin_lemmas" title="Category:Latin lemmas">Latin lemmas</a></li><li><a href="/wiki/Category:Latin_nouns" title="Category:Latin nouns">Latin nouns</a></li><li><a href="/wiki/Category:Latin_feminine_nouns" title="Category:Latin feminine nouns">Latin feminine nouns</a></li><li><a href="/wiki/Category:Latin_first_declension_nouns" title="Category:Latin first declension nouns">Latin first declension nouns</a></li><li><a href="/wiki/Category:Latin_feminine_nouns_in_the_first_declension" title="Category:Latin feminine nouns in the first declension">Latin feminine nouns in the first declension</a></li><li><a href="/wiki/Category:la:Grains" title="Category:la:Grains">la:Grains</a></li><li><a href="/wiki/Category:Spanish_terms_inherited_from_Latin" title="Category:Spanish terms inherited from Latin">Spanish terms inherited from Latin</a></li><li><a href="/wiki/Category:Spanish_terms_derived_from_Latin" title="Category:Spanish terms derived from Latin">Spanish terms derived from Latin</a></li><li><a href="/wiki/Category:Spanish_terms_with_IPA_pronunciation" title="Category:Spanish terms with IPA pronunciation">Spanish terms with IPA pronunciation</a></li><li><a href="/wiki/Category:Spanish_lemmas" title="Category:Spanish lemmas">Spanish lemmas</a></li><li><a href="/wiki/Category:Spanish_nouns" title="Category:Spanish nouns">Spanish nouns</a></li><li><a href="/wiki/Category:Spanish_3-syllable_words" title="Category:Spanish 3-syllable words">Spanish 3-syllable words</a></li><li><a href="/wiki/Category:es:Grains" title="Category:es:Grains">es:Grains</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Spanish_redlinks" title="Category:Spanish redlinks">Spanish redlinks</a></li><li><a href="/wiki/Category:Spanish_redlinks/l" title="Category:Spanish redlinks/l">Spanish redlinks/l</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
 		<div id="mw-navigation">
 			<h2>Navigation menu</h2>
 			<div id="mw-head">
@@ -343,6 +358,7 @@ Transclusion expansion time report (%,ms,calls,template)
 						<div style="clear: both;"></div>
 		</div>
 		
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.488","walltime":"0.654","ppvisitednodes":{"value":4383,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18684,"limit":2097152},"templateargumentsize":{"value":2569,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1012,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  610.645      1 -total"," 20.69%  126.369     23 Template:l"," 15.29%   93.395      2 Template:inh","  9.13%   55.752      1 Template:R:L\u0026amp;S","  8.25%   50.394     26 Template:redlink_category","  7.29%   44.545      1 Template:la-IPA","  6.54%   39.957      1 Template:es-IPA","  6.27%   38.297      4 Template:cite-book","  5.81%   35.480      1 Template:la-decl-1st","  5.78%   35.299      3 Template:m"]},"scribunto":{"limitreport-timeusage":{"value":"0.313","limit":"10.000"},"limitreport-memusage":{"value":11534226,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20190212192314","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":749,"wgHostname":"mw1269"});});</script>
-	</body>
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.524","walltime":"0.720","ppvisitednodes":{"value":4621,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18684,"limit":2097152},"templateargumentsize":{"value":2569,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1012,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  642.610      1 -total"," 17.45%  112.142     23 Template:l"," 14.19%   91.170      2 Template:inh","  9.51%   61.138      1 Template:R:L\u0026amp;S","  8.70%   55.896      1 Template:la-IPA","  8.25%   53.001     26 Template:redlink_category","  7.00%   44.956      4 Template:cite-book","  6.21%   39.925      1 Template:es-IPA","  6.08%   39.079      1 Template:la-decl-1st","  5.92%   38.070      3 Template:m"]},"scribunto":{"limitreport-timeusage":{"value":"0.294","limit":"10.000"},"limitreport-memusage":{"value":11614629,"limit":52428800}},"cachereport":{"origin":"mw1241","timestamp":"20190320215704","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":844,"wgHostname":"mw1241"});});</script>
+</body>
 </html>

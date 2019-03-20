@@ -1,8 +1,3 @@
-
-//Module imports
-
-var fs = require('fs');
-
 //Objects definitions
 
 //Definición de Objetos
@@ -56,11 +51,13 @@ var writeJson= function (ruta, file){
 let pre_procesar= function(input, output){
     return new Promise(function(resolve, reject){
         if(typeof(input)==="string"){
+            console.log("String Received");
             var file= loadJson(input);
             file= clearJson(file);
             resolve(file);
         }
         else{
+            console.log("Object Received");
             file= clearJson(file);
             resolve(file);
         }

@@ -1,9 +1,5 @@
 avena | new homes in french valley | home builders in winchester
-smart savings event
-save thousands on select move-in ready homes in the inland empire. now through march 3rd!
 avena
-french valleypriced from the mid $400,000s
-
 find your new happy place at avena. the picturesque french valley is perfect for families who love the outdoors, wide open spaces, nearby parks, and hiking and biking trails. with beautiful views of the neighboring mountains, the homes at avena complement the surrounding natural beauty with timeless architecture that offers a modern take on traditional styles. avena was thoughtfully designed for easy family living, featuring four new floor plans, spacious interiors, inviting great rooms and indo
 families will appreciate avena’s convenient location, close to everyday essentials and great shopping. you’re also just minutes away from charming old town temecula, with its historic buildings, antique shops, wine-tasting specialty stores and great restaurants. parents will love that avena is within the highly-acclaimed temecula valley unified school district, which recently earned the distinction of receiving the highest overall assessment scores in riverside county on the new california smart
 sign up on the interest list to get all the latest news and updates on avena.
@@ -12,13 +8,19 @@ photo gallery 47 photos
                                 
 video gallery 2 videos 
                             
+estimate monthly payment
+your actual rate, payment, and costs could be higher. get an official loan estimate before choosing a loan.
+
+**assumptions. you are purchasing a single family home and primary residence. rate is fixed. debt-to-income ratio is less than 41% and excellent credit. these assumptions are subject to change without notice.
+your monthly payment would be*
+*this mortgage calculator is for illustrative purposes only and is not a guarantee. the monthly payment illustration on this tool does not include amounts for property taxes, insurance premiums, homeowner’s association dues, or other factors that potentially could affect your monthly payment. therefore, your actual monthly payment will be higher. interest rates change frequently and without notice. financing availability and terms will depend on your situation.
 let us assist you in your home search!
-dre#: tecara (cara): 01390625, jennine (jennie): 01862974
+dre#: tecara (cara): 01390625, jennine (jennie): 01862974, brooke:  02061071
 stay informed
 join the interest list to be kept informed of the latest information.
 please select a date at least three days from today. call to schedule earlier.
 plans &amp; pricing
-mortgage payment calculator*
+estimate monthly payment
 your actual rate, payment, and costs could be higher. get an official loan estimate before choosing a loan.
 
 **assumptions. you are purchasing a single family home and primary residence. rate is fixed. debt-to-income ratio is less than 41% and excellent credit. these assumptions are subject to change without notice.
@@ -29,8 +31,7 @@ discover, save and get inspired.
 find the communities and floorplans that meet your “must-haves” and a couple “nice-to-haves”, while avoiding your “absolutely nevers”. save these to your favorites for easy access at any time and you’ll be well on your way to becoming our next home enthusiast. it’s that easy.
 login or create your own personal pardee homes profile by signing up below.
 
-
-find your new",
+find your new happy place at avena. the picturesque french valley is perfect for families who love the outdoors, wide open spaces, nearby parks, and hiking and biking trails. with beautiful views",
 			 "brand": {
 				"@type": "thing",
 				"name": "pardee homes"
@@ -41,17 +42,7 @@ find your new",
 				"price": "451000",
 				"pricevaliduntil": "2020-11-05",
 				"itemcondition": "http://schema.org/usedcondition",
-				"availability": "http://schema.org/instock",
-				"seller": {
-				  "@type": "organization",
-				  "name": "pardee"
-				}
-			  }
-}
-]
-
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5
+				"availability": "http://schema.org/instock"
 loading...
 loading...
 loading...

@@ -31,7 +31,7 @@
         <script type="text/javascript" src="http://avenatravel.pl/media/ketchup-plugin/js/jquery.ketchup.messages.js"></script>
         <script type="text/javascript" src="http://avenatravel.pl/media/ketchup-plugin/js/jquery.ketchup.validations.basic.js"></script>
 
-        <script src="http://avenatravel.pl/media/js/avena.js?v=1.0.1" language="javascript" type="text/javascript"></script>
+        <script src="http://avenatravel.pl/media/js/avena.js?v=1.0.2" language="javascript" type="text/javascript"></script>
 
         <script type="text/javascript">
             var LANG = 'en';
@@ -261,7 +261,7 @@ Emergency +48 662 013 213<br /></div>
     var LANG = 'en';
 </script>
 
-<div class="popup-outer">
+<div class="popup-outer" style="display: none;">
     <div class="popup">
 
                     <h1>Privacy policy for the processing of personal data</h1>
@@ -289,7 +289,8 @@ Emergency +48 662 013 213<br /></div>
                     the right to delete data (in certain situations) email: info@avenahotels.pl the right to file a
                     complaint to the supervisory body dealing with the protection of personal data, the right to limit
                     data processing. If your data is processed on the basis of consent or as part of the service
-                    provided (data is necessary to provide the service) you can additionally use the following rights:<br/>
+                    provided (data is necessary to provide the service) you can additionally use the following
+                    rights:<br/>
                     1. the right to withdraw consent in the scope in which they are processed on this basis. Withdrawal
                     of consent does not affect the lawfulness of the processing that was made on the basis of consent
                     before its withdrawal.<br/>
@@ -308,7 +309,7 @@ Emergency +48 662 013 213<br /></div>
                     Data collected when sending us a message via the contact form.<br/>
                     In order to use the contact form, you will need to provide your email address.<br/>
                     <br/>
-                    Data collected automatically<br />
+                    Data collected automatically<br/>
                     During your visit to our website, data about your visit are automatically collected, e.g. your IP
                     address, domain name, browser type, operating system type, etc.
                     When you contact us via the website, telephone, e-mail, etc., you provide us with your personal
@@ -360,7 +361,7 @@ Emergency +48 662 013 213<br /></div>
             </div>
             <div class="popup-buttons">
                 <a href="http://google.pl" class="left">I leave website</a>
-                <a href="http://google.pl" class="right">I go to the page</a>
+                <a href="http://google.pl" class="right">I accept and continue</a>
             </div>
             </div>
 </div>

@@ -3,6 +3,7 @@ var app = express();
 var cors= require('cors');
 var stare=require('../Stare/stare.js');
 var ecosia= require('./ecosiaWebScraper.js');
+const google = require('./google_API');
 
 app.use(cors());
 app.options('*', cors()); //con esta linea y la anterior se permite la conexion desde cualquier servidor hacia el backend
@@ -53,14 +54,28 @@ app.get('/ecosia', function(req, res){
     );
 });
 
-/**
- * EJEMPLO DE MANDAR COSAS DESDE FRONT A BACKEND
- *
- */
-app.get('/ejemplo', (req, res) => {
-    const whoRules = req.param('whoRules') // guardo lo que fue enviado en la variable http "whoRules"
-    res.send(`${whoRules} rulz!`);
-})
+
+app.get('/google', function(req, res){
+    const q = req.param('q');
+    const apiKey = 'AIzaSyCmGpofWrPxQT-KrJnoArXaas0zOADXikA';
+    const cx = '010212477578150644501:wtqrloafnss';
+    const options = { q, cx, apiKey };
+    google.runSample(options).then(
+        function(result){
+            if(result){
+                //Document is an Object of Type "Documents", Defined.
+                console.log(result);
+                stare.prepareSerp('google_serp', JSON.parse(result))
+                    .then(function(result){
+                        var Json= stare.get_Json();
+                        res.send(Json)}
+                    );
+            }
+        }
+    );
+});
+
+
 
 app.listen(3000, function () {
   console.log('I\'m the backend!');

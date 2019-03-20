@@ -25,66 +25,169 @@
             margin-left: 10px;
             margin-righ:10px;
         }
+
+        .chart{
+            display: none;
+        }
+
+
+        .wrapper ul{
+            height:80%;
+        }
+        #sidebar {
+            text-align: center;
+            padding-top:20px;
+            text-align: center;
+            width: 250px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 100vh;
+            z-index: 999;
+            background: #7386D5;
+            color: #fff;
+        }
+
+        .visualizations{
+            padding-top: 70%;
+        }
+
+        .viz2{
+            color: darkgray;
+            padding-top: 20%;
+            text-align: center;
+        }
+        .viz2 ul{
+            border-top: 1px solid lightgray;
+        }
+        .viz2 li{
+            padding-top: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid lightgray;
+        }
+
+        .viz2 li:hover{
+            background-color: #7386D5;
+            color: #fff;
+        }
+
+        .viz2 li:active{
+            padding-top: 11px;
+            padding-bottom: 12px;
+            border-top: 4px solid #5a6dbc;
+            border-left: 4px solid #5a6dbc;
+            border-bottom: 4px solid #94a9fc;
+            border-right: 4px solid #94a9fc;
+        }
+        .clicked{
+            color: white;
+            background-color: #7386D5;
+        }
+
+        .content{
+            padding-left:250px ;
+            margin-right: 10%;
+            background-color: white;
+            height: 100%;
+        }
+        #sideLine {
+            width: 2%;
+            position: fixed;
+            top: 0;
+            right: 0;
+            height: 100vh;
+            z-index: 999;
+            background: #7386D5;
+        }
+
     </style>
+
 </head>
 
 
 <body>
 
-<div class="search-box">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-3">
 
+
+<div class="wrapper">
+    <!-- Sidebar -->
+    <nav id="sidebar">
+        <!-- Title -->
+        <div class="sidebar-header">
+            <h3>Menu</h3>
+            <p>Select Visualization</p>
+        </div>
+
+        <!-- Elements-->
+        <ul class="list-unstyled components bg-light">
+
+            <div class="viz2">
+                <ul class="list-unstyled">
+                    <li id="btn_1">Bubble Chart</li>
+                    <li id="btn_2">Bar Chart</li>
+                    <li id="btn_3">Classic Text</li>
+                </ul>
             </div>
-            <div class="col-sm-6">
-                <!-- Search form -->
-                <div class="title">
-                    <h1>Stare.js</h1>
+        </ul>
+
+        <!-- Footer -->
+        <div >
+            <p> © 2019 Copyright: Bellyster</p>
+            <p>USACH</p>
+        </div>
+    </nav>
+</div>
+<div class="content">
+    <div class="search-box">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3">
+
                 </div>
-                <div class="box active-pink-3 active-pink-4 mb-4">
-
-                    <input class="form-control" id="SearchBox" type="text" placeholder="Search" aria-label="Search">
+                <div class="col-sm-6">
+                    <!-- Search form -->
+                    <div class="title">
+                        <h1>Stare.js</h1>
+                    </div>
 
                 </div>
 
-                <div class="options d-flex justify-content-center">
+                <div class="col-sm-3">
 
-                    <button type="button" class="btn btn-secondary">Google</button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-3">
+
+                </div>
+                <div class="box active-pink-3 sm-4">
+
+                    <input style="width: 440px;" class="form-control" id="SearchBox" type="text" placeholder="Search" aria-label="Search">
+
+                </div>
+                <div class="options d-flex justify-content-center sm-4">
+
+                    <button type="button" id="btn_google" class="btn btn-secondary">Google</button>
 
                     <button type="button" id="btn_ecosia" class="btn btn-secondary">Ecosia</button>
-
-                    <button type="button" class="btn btn-secondary">Yahoo!</button>
-
                 </div>
-
-            </div>
-
-            <div class="col-sm-3">
-
             </div>
         </div>
     </div>
+    <div class="container">
 
+                <div class="chart" id="chart" ><svg></svg></div>
+                <div class="chart" id="chart2"><svg></svg></div>
+                <div class="chart" id="chart3" ><svg></svg></div>
+                <div class="chart" id="searchResults"> </div>
+
+
+    </div>
 </div>
 
 
 
-
-<div class="options">
-
-    <button type="button" class="btn btn-primary" id="btn_1">Bubble Chart</button>
-
-    <button type="button" class="btn btn-primary" id="btn_2">Bar Chart</button>
-
-    <button type="button" class="btn btn-primary" id="btn_3">Classic Text</button>
-
-</div>
-
-<div class="chart-example" id="chart" style="padding-left: 30px; padding-top: 0px; padding-bottom: 0px;"><svg></svg></div>
-<div class="chart-example" id="chart2" style="padding-left: 30px; padding-top: 0px; padding-bottom: 0px;"><svg></svg></div>
-<div class="chart-example" id="chart3" style="padding-left: 30px; padding-top: 0px; padding-bottom: 0px;"><svg></svg></div>
-<div class="chart-example" id="searchResults" style="padding-left: 30px; padding-top: 0px; padding-bottom: 0px;"><svg></svg></div>
+<div id="sideLine"></div>
 
 <script src="./index.js"></script>
 

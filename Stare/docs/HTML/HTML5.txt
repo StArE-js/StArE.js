@@ -85,7 +85,7 @@
 <meta name='shareaholic:language' content='en-US' />
 <meta name='shareaholic:url' content='http://www.arrex.it/en/prodotto/avena/' />
 <meta name='shareaholic:article_published_time' content='2016-02-24T11:25:05+00:00' />
-<meta name='shareaholic:article_modified_time' content='2019-02-08T16:59:18+00:00' />
+<meta name='shareaholic:article_modified_time' content='2019-03-20T16:13:42+00:00' />
 <meta name='shareaholic:shareable_page' content='true' />
 <meta name='shareaholic:article_author_name' content='Neiko' />
 <meta name='shareaholic:site_id' content='4de19479bdc0833c2115d3260260fba9' />
@@ -158,7 +158,7 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"it_IT":
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//www.arrex.it/en/?wordfence_logHuman=1&hid=7F11C6FF7138CD723E2D238562E12446');
+})('//www.arrex.it/en/?wordfence_logHuman=1&hid=8F39AE9325D0A8AD07E6A6ED574E5E85');
 </script>		
 </head>
 <body>
