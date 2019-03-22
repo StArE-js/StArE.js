@@ -31,20 +31,20 @@ var prepareSerp= function(serp_type, input){
                 serp_manager.pre_procesar(input).
                 then(function(json){
                         json_object = json;
-                        resolve(true);
+                        resolve(json_object);
                     }
                 );
             }else{
                 reject (false);
             };
         }else{
+
             //validar objeto aquí!!!!!!!
-            json_object= input;
             serp_manager= require('./Serp_Process/' + serp_type + '.js');
             serp_manager.pre_procesar(input).
             then(function(json){
                     json_object = json;
-                    resolve(true);
+                    resolve(json_object);
                 }
             );
         };

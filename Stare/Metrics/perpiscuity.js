@@ -29,7 +29,7 @@ var english= function(words, syllables){
 };
 
 //Spanish perpiscuity - Szigriszt 1992
-var espanish= function(words, syllables){
+var spanish= function(words, syllables){
     var p= 207-0.623*syllables-words;
     return p;
 };

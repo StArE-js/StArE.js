@@ -1,6 +1,31 @@
-avena resort &amp; spa hotel - prices &amp;  reviews (alanya, turkey) - tripadvisor
-avena resort &amp; spa hotel, alanya
-avena resort &amp; spa hotel
-about
-location
-reviewssee all 36 questions
+
+	vaquita marina, historia de extinci&#243;n que no debe repetirse
+
+
+abonados
+" + json[i].ep2 + "
+vaquita marina, historia de extinci&#243;n que no debe repetirse
+&nbsp;&nbsp;&nbsp;ciudad de méxico, 2 jul. (notimérica) - 
+&nbsp;&nbsp;&nbsp;la desaparición paulatina de la vaquita marina, el único cetáceo endémico de méxico, ha generado alarmar y programas gubernamentales para su salvación que, sin embargo, no han conseguido frenar su extinción.
+&nbsp;&nbsp;&nbsp;tal y como recoge el foro consultivo y científico tecnológico de méxico, en 1993 la población registrada de vaquitas marinas alcanzaba 567 sujetos, mientras que para 2008 quedaban 245 y en 2015 el número de redujo a 59. actualmente, se estima que únicamente sobreviven 30.
+&nbsp;&nbsp;&nbsp;el tema del peligro que corre la vaquita marina a causa de la pesca furtiva, que atrapa accidentalmente al cetáceo en sus redes, no es nuevo. como se ha mencionado, esta problemática ha estado en la agenda de méxico más de una década y, sin embargo, las acciones no han probado ser eficaces.
+&nbsp;&nbsp;&nbsp;ahora, los museos universum y de la ballena y ciencias del mar, junto con la dirección general de divulgación de la ciencia de la universidad nacional autónoma de méxico (unam), han abierto hasta el 30 de septiembre una exposición para generar conciencia y salvar al único cetáceo endémico mexicano.
+&nbsp;&nbsp;&nbsp;durante la inauguración de la exposición, 'vaquita marina entre redes. una historia que no debe repetirse', situada en el museo de ciencias universum, el titular de la dirección general de divulgación de la ciencia (dgdc) de la unam, césar domínguez, resumió el asunto en una frase: la probable extinción de la vaquita marina es nuestra culpa, y es nuestra responsabilidad salvarla.
+&nbsp;&nbsp;&nbsp;"uno de los temas más importantes de la actualidad es la extinción de especies. en los últimos 4.000 millones de años, la tierra ha experimentado 5 grandes extinciones que casi acaban con la vida en el planeta y esta siempre ha encontrado el camino de regreso", ha puntualizado.
+&nbsp;&nbsp;&nbsp;"hoy, la tierra enfrenta la más grave de todas las extinciones masivas. somos testigos y artífices de esta extinción ya que, a diferencia de las 5 anteriores, no está provocada por fenómenos naturales de magnitudes cataclísmicas sino por las actividades humanas", ha indicado en palabras recogidas por el citado foro.
+&nbsp;&nbsp;&nbsp;los recursos para controlar a la enorme cantidad de pescadores ilegales son insuficientes. y es que, incluso cuando los atrapan, la ley estipula solo prisión durante 48 horas. en 2017 se aprobó un decreto en el diario oficial de la federación en el que se restringía de manera temporal la navegación, las actividades de pesca, el turismo náutico y cualquier otra actividad que pudiera desarrollarse en el área protegida de la vaquita marina. el periodo sólo duró de
+&nbsp;&nbsp;&nbsp;en entrevista para el foro consultivo científico y tecnológico, el director del museo de la ballena y ciencias del mar, diego ruiz sabio, puso las cosas en perspectiva: "el problema es más complejo y va más más allá de la intervención gubernamental; es un asunto también de magnitudes: el área protegida de la vaquita marina se compone de 1841 kilómetros cuadrados, mientras que la ciudad de méxico sólo cuenta con 1400. "es muy complejo poder detener a los pescadores en el
+&nbsp;&nbsp;&nbsp;la situación ya alcanzó niveles críticos y los científicos buscan hacer un llamado de conciencia a la población al montar exposiciones como la que se inauguró ayer en universum. ahora sólo queda actuar, para salvar a nuestro cetáceo y a todas las especies más que sufren las consecuencias de nuestro uso desmedido de los recursos naturales.
+&nbsp;&nbsp;&nbsp;la exposición estará abierta hasta el 30 de septiembre de este año, en la planta baja del edificio a del museo universum y se divide en 4 secciones: evolución de los cetáceos; características biológicas de la vaquita marina; las redes fantasmas, y acciones de conservación, en una ambiente inmersivo, que recrea las singularidades del hábitat del cetáceo.
+para leer m&aacute;s
+" + json[i].titular + "
+lo más leído
+google homenajea en su 'doodle' a seiichi miyake, el inventor que ayudó al mundo de la discapacidad visual
+21 de marzo: día mundial del síndrome de down, ¿por qué se celebra hoy?
+19 de marzo: día del hombre en colombia, ¿por qué motivo se celebra hoy?
+filtran un vídeo de shakira como actriz en 1994 que ella misma quiso hacer desaparecer de internet
+hallan muerto de un disparo al perito que redactó el informe que avalaba la hipótesis del asesinato de nisman
+
+    © 2019 notimérica. está expresamente prohibida la redistribución y la redifusión de todo
+    o parte de los contenidos de esta web sin su previo y expreso consentimiento.
+

@@ -1,535 +1,345 @@
 <!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+    <!-- Basic Page Needs
+    	================================================== -->
+    	<meta charset="utf-8">
+    	<title>La Vaquita Supermercados</title>
+    	<meta name="description" content="Encuentra en todas nuestras sedes variedad y frescura con la mejor calidad en carnes, frutas y verduras. Siempre con el precio más bajo en todo el mercado.">
+    	<meta name="keywords" content="supermercado, la vaquita">
+    	<meta name="author" content="">
+    <!-- Mobile Specific Metas
+    	================================================== -->
+    	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    	<meta http-equiv="x-ua-compatible" content="IE=9">
+    	<!-- Font Awesome -->
+    	<link href="stylesheets/fontawesome/css/font-awesome.css" rel="stylesheet">
+    	<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+  <![endif]-->
+  <!--headerIncludes-->
+    <!-- CSS
+    	================================================== -->
+    	<link rel="stylesheet" href="stylesheets/menu.css">
+    	<link rel="stylesheet" href="stylesheets/flat-ui-slider.css">
+    	<link rel="stylesheet" href="stylesheets/base.css">
+    	<link rel="stylesheet" href="stylesheets/skeleton.css">
+    	<link rel="stylesheet" href="stylesheets/landings.css">
+    	<link rel="stylesheet" href="stylesheets/main.css">
+    	<link rel="stylesheet" href="stylesheets/landings_layouts.css">
+    	<link rel="stylesheet" href="stylesheets/box.css">
+        <link rel="stylesheet" href="stylesheets/pixicon.css">
+    	<link href="assets/css/animations.min.css" rel="stylesheet" type="text/css" media="all" />
 
-<html lang="en" data-version="1.86.00">
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!-- Favicons
+    	================================================== -->
+    	<link rel="shortcut icon" href="images/favicon.ico">
+    	<link rel="apple-touch-icon" href="images/favicon-32x32.png">
+    	<link rel="apple-touch-icon" sizes="32x32" href="images/favicon-32x32.png">
+    	<link rel="apple-touch-icon" sizes="192x192" href="images/android-chrome-192x192.png">
 
-  <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108652392-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
 
-    <!-- standard page html head -->
-<title>Luca Avena - Leiden University</title>
-<meta name="google-site-verification" content="o8KYuFAiSZi6QWW1wxqKFvT1WQwN-BxruU42si9YjXw"/>
-<meta name="google-site-verification" content="hRUxrqIARMinLW2dRXrPpmtLtymnOTsg0Pl3WjHWQ4w"/>
-<link rel="canonical" href="https://www.universiteitleiden.nl/en/staffmembers/luca-avena"/>
-  <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+          gtag('config', 'UA-108652392-1');
+        </script>
 
-<meta name="keywords" content="mathematics,probability theory"/>
-<meta name="description" content="　"/>
-  <!-- icons -->
-<link rel="shortcut icon" href="/en/ul2common/icons/favicon.ico" />
-<link rel="icon" type="image/png" sizes="32x32" href="/en/ul2common/icons/icon-32px.png" />
-<link rel="icon" type="image/png" sizes="96x96" href="/en/ul2common/icons/icon-96px.png" />
-<link rel="icon" type="image/png" sizes="195x195" href="/en/ul2common/icons/icon-195px.png" />
+    </head>
+    <body>
+    	<div id="page" class="page">
+    		<div class="pixfort_corporate_2" id="section_corporate_1">
+    			<div class="header_style">
+    				<div class="container">
+    					<div class="sixteen columns header_area">
+    						<div class="htext_style editContent">
+    						</div>
+    					</div>
+    				</div><!-- container -->
+    			</div>
+    			<div class="page_style pix_builder_bg">
+    				<div class="container">
+    					<div class="sixteen columns context_style">
+    						<div class="title_style">
+    							<span class="editContent">
+                                    <a href="#section_corporate_3"><div class="mouse-icon hidden-xs"><div class="scroll"></div></div></a>
+    							</span>
+    						</div>
+    						<div class="subtitle_style">
+    							<span class="editContent">
+    								<span class="pix_text">
+    								</span>
+    							</span>
+    						</div>
+    						<div class="contact_style">
+    							<div class="">
+    								<a href="#" class="">
+    								</a>
+    							</div>
+    						</div>
+    						<div class="note_st">
+    							<span class="editContent">
+    							</span>
 
-<link rel="apple-touch-icon" href="/en/ul2common/icons/icon-120px.png" /> <!-- iPhone retina -->
-<link rel="apple-touch-icon" sizes="180x180" href="/en/ul2common/icons/icon-180px.png" /> <!-- iPhone 6 plus -->
-<link rel="apple-touch-icon" sizes="152x152" href="/en/ul2common/icons/icon-152px.png" /> <!-- iPad retina -->
-<link rel="apple-touch-icon" sizes="167x167" href="/en/ul2common/icons/icon-167px.png" /> <!-- iPad pro -->
-<!-- twitter -->
-<meta property="twitter:card" content="summary"/>
-<meta property="twitter:site" content="@UniLeiden"/>
-<meta property="twitter:title" content="Luca Avena"/>
-<meta property="twitter:description" content="　"/>
-<meta property="twitter:image" content="https://www.universiteitleiden.nl/binaries/content/gallery/ul2/portraits/science/a/luca_avena.jpg/luca_avena.jpg/d600x315"/>
-  <!-- Open Graph -->
-<meta property="og:title" content="Luca Avena"/>
-<meta property="og:type" content="website"/>
-<meta property="og:description" content="　"/>
-<meta property="og:site_name" content="Leiden University"/>
-<meta property="og:locale" content="en_US"/>
-<meta property="og:image" content="https://www.universiteitleiden.nl/binaries/content/gallery/ul2/portraits/science/a/luca_avena.jpg/luca_avena.jpg/d600x315"/>
-  <meta property="og:url" content="https://www.universiteitleiden.nl/en/staffmembers/luca-avena"/>
-  <meta name="application-name" content="search"
-      data-content-type="staffmember" data-content-category="staffmember" data-protected="false" data-language="en" data-last-modified-date="2019-03-14" data-publication-date="2019-03-14" data-gender="M" data-organization="analysis-and-stochastics,mathematical-institute,probability-theory,science" data-faculties="science" data-uuid="b99cf351-11aa-40cb-9883-e9b70a209eeb" data-website="external-site,student-site,staffmember-site,library-site,org-site" data-keywords="mathematics,probability theory" data-lastname="Avena" data-firstname="Luca"/>
-
-<!-- Favicon and CSS -->
-<link rel='shortcut icon' href="/en/ul2common/icons/favicon.ico"/>
-<link rel="stylesheet" href="/en/ul2external/styles/screen.css?v=1.86.00"/>
-
-<script>
-    window.dataLayer = window.Datalayer || [];
-    dataLayer.push ( {
-        event: 'Custom dimensions', customDimensionData: {
-            faculty : 'Science',
-            type :  '',
-            language : 'en',
-            study : '',
-            specialisation : '',
-            pageType: 'staffmember',
-            eventType: '',
-            cookiesAccepted: 'false'
-        }});
-</script>
-
-<!-- Google Tag Manager -->
-<script>(function (w, d, s, l, i) {
-  w[l] = w[l] || [];
-  w[l].push({
-    'gtm.start':
-      new Date().getTime(), event: 'gtm.js'
-  });
-  var f = d.getElementsByTagName(s)[0],
-    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-  j.async = true;
-  j.src =
-    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-  f.parentNode.insertBefore(j, f);
-})(window, document, 'script', 'dataLayer', 'GTM-MR67S7X');
-</script>
-<!-- End Google Tag Manager -->
-<!-- this line enables the loading of asynchronous components (together with the headContributions at the bottom) -->
-    <!-- Header Scripts -->
-    <!-- Please configure Google Analytics Account ID in the Channel Manager / Channel configuration to enable Google Analytics page tracking -->
-
-  </head>
-
-  <body class=" left">
-    <!-- Google Tag Manager -->
-<noscript>
-  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MR67S7X"
-          height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<!-- End Google Tag Manager (noscript) --><!-- To enable JS-based styles: -->
-    <script> document.body.className += ' js'; </script>
-
-    <!-- googleoff: all-->
-<div class="header-container">
-  <nav class="top-nav">
-  <ul class="wrapper">
-    <li>
-        <a class="active" href="/en">Leiden University</a>
-      </li>
-    <li>
-        <a class="" href="https://www.student.universiteitleiden.nl/en">Students</a>
-      </li>
-    <li>
-        <a class="" href="https://www.staff.universiteitleiden.nl/">Staff members</a>
-      </li>
-    <li>
-        <a class="" href="https://www.organisatiegids.universiteitleiden.nl/en">Organisational structure</a>
-      </li>
-    <li>
-        <a class="" href="https://www.library.universiteitleiden.nl/">Library</a>
-      </li>
-    </ul>
-</nav><header class="wrapper clearfix">
-
-    <h1 class="logo">
-      <a href="/en">
-        <img width="151" height="64" src="/en/ul2common/images/zegel.png" alt="Universiteit Leiden"/>
-      </a>
-    </h1>
-
-    <!-- Standard page searchbox -->
-<form id="search" method="get" action="searchresults-main">
-  <input type="hidden" name="website" value="external-site"/>
-  <input type="hidden" name="language" value="en"/>
-  <fieldset>
-    <input type="search" name="q" data-suggest="https://www.universiteitleiden.nl/en/async/searchsuggestions"
-           data-wait="100" data-threshold="3"
-           value="" placeholder="Search for subject or person"/>
-    <button class="submit" type="submit">
-      <span>Search</span>
-    </button>
-  </fieldset>
-
-  <ul class="options">
-    <li>
-      <a href="/en/search" data-hidden='' data-hint="Search for subject or person">
-        All categories</a>
-    </li>
-    <li>
-        <a href="/en/search"  data-hidden='{"content-category":"staffmember"}' data-hint="Search for&nbsp;persons">
-          Persons</a>
-      </li>
-    <li>
-        <a href="/en/search"  data-hidden='{"content-category":"education"}' data-hint="Search for&nbsp;education">
-          Education</a>
-      </li>
-    <li>
-        <a href="/en/search"  data-hidden='{"content-category":"research"}' data-hint="Search for&nbsp;research">
-          Research</a>
-      </li>
-    <li>
-        <a href="/en/search"  data-hidden='{"content-category":"news"}' data-hint="Search for&nbsp;news">
-          News</a>
-      </li>
-    <li>
-        <a href="/en/search"  data-hidden='{"content-category":"event"}' data-hint="Search for&nbsp;events">
-          Events</a>
-      </li>
-    <li>
-        <a href="/en/search"  data-hidden='{"content-category":"dossier"}' data-hint="Search for&nbsp;dossiers">
-          Dossiers</a>
-      </li>
-    <li>
-        <a href="/en/search"  data-hidden='{"content-category":"location"}' data-hint="Search for&nbsp;locations">
-          Locations</a>
-      </li>
-    <li>
-        <a href="/en/search"  data-hidden='{"content-category":"course"}' data-hint="Search for&nbsp;courses">
-          Courses</a>
-      </li>
-    <li>
-        <a href="/en/search"  data-hidden='{"content-category":"vacancy"}' data-hint="Search for&nbsp;vacancies">
-          Vacancies</a>
-      </li>
-    <li>
-        <a href="/en/search"  data-hidden='{"content-category":"general"}' data-hint="Search for&nbsp;other">
-          Other</a>
-      </li>
-    <li>
-      <a href="/en/search"  data-hidden='{"keywords":"true"}' data-hint="Search for&nbsp;keywords">
-        Keywords</a>
-    </li>
-  </ul>
-
-</form>
-
-<div class="language-btn-group">
-  <a href="https://www.universiteitleiden.nl/medewerkers/luca-avena" class="btn">
-              <abbr title="Nederlands">nl</abbr>
-            </a>
-          <span class="btn active">
-          <abbr title="English">en</abbr>
-        </span>
-      </div></header>
-  <nav class="main-nav" data-menu-label="Menu">
-  <ul class="wrapper">
-
-    <li><a class="home" href="/en"><span>Home</span></a></li>
-    <li><a href="/en/research" >Research</a></li>
-
-  <li><a href="/en/education" >Education</a></li>
-
-  <li><a href="/en/academic-staff" >Academic staff</a></li>
-
-  <li><a href="/en/about-us" >About us</a></li>
-
-  <li><a href="/en/about-us/management-and-organisation/faculties" >Faculties</a></li>
-
-  <li><a href="/en/the-hague" >Campus The Hague</a></li>
-
-  <li><a href="/en/alumni" >Alumni</a></li>
-
-  <li><a href="http://www.library.universiteitleiden.nl/" >Library</a></li>
-
-  </ul>
-</nav></div>
-<!-- googleon: all-->
-<div class="main-container">
-      <div class="main wrapper clearfix">
-
-        <!-- main Student and Staff pages -->
-<!-- googleoff: all-->
-<nav class="breadcrumb">
-    <ul>
-      <li><a href="/en">Home</a></li>
-
-      <li>Luca Avena</li>
-            </ul>
-  </nav>
-<!-- googleon: all-->
-<div id="content" class="profile">
-  <article>
-
-    <figure class="photo search-off">
-          <img src="/binaries/content/gallery/ul2/portraits/science/a/luca_avena.jpg/luca_avena.jpg/d200x250"  alt="" width="200" height="250" />
-        </figure>
-      <!-- facts -->
-
-    <section class="basics">
-      <h1>Luca Avena</h1>
-      <p class="context search-off">
-        Assistant professor</p>
-
-      <ul class="tags">
-  <li>
-      <a href="/en/search?keywords=true&website=external-site&language=en&q=mathematics">mathematics</a>
-    </li>
-  <li>
-      <a href="/en/search?keywords=true&website=external-site&language=en&q=probability+theory">probability theory</a>
-    </li>
-  </ul><dl class="facts search-off">
-        <dt>Name</dt>
-        <dd>Dr. L.  Avena </dd>
-
-        <dt>Telephone</dt>
-            <dd>
-              <a href="tel:+31715278029">+31 71 527 8029</a>
-            </dd>
-          <dt>E-mail</dt>
-            <dd><a href="mailto:l.avena@math.leidenuniv.nl">l.avena@math.leidenuniv.nl</a></dd>
-          </dl>
-    </section>
-
-    <!-- Overview tab -->
-
-    <section class="tab search-off" data-tab-label="Overview">
-        <p>　</p>
-        <div class="box-row threes">
-            <div class="box">
-    <div class="box-header ">
-      <h2>News</h2>
-    </div>
-    <div class="box-content">
-      <ul>
-        <li >
-              <a href="/en/news/2016/12/our-talents-and-discoveries-2016">
-    <img src="/binaries/content/gallery/ul2/main-images/science/header-discoverer.jpg/header-discoverer.jpg/d50x50" alt="" width="50" height="50" />
-      <div>
-      <span class="meta">13 December 2016</span>
-      <strong>Our Talents and Discoveries 2016</strong>
-    </div>
-</a>
-</li>
-          </ul>
-      </div>
-  </div>
-</div>
-        </section>
-
-    <!-- Biography tab -->
-
-    <!-- Contact tab -->
-
-    <section class="tab search-off" data-tab-label="Contact">
-      <div class="role">
-  <div class="col">
-    <h2>Assistant professor</h2>
-    <ul>
-      <li>Wiskunde en Natuurwetenschappen</li>
-      <li>Mathematisch Instituut</li>
-      <li>Mathematisch Instituut</li>
-      </ul>
-  </div>
-  <div class="col">
-    <h3>Work address</h3>
-        <address>
-          <a href="/en/locations/snellius">Snellius</a><br/>
-          Niels Bohrweg&nbsp;1<br/>
-          2333 CA&nbsp;Leiden<br/>
-          Room number&nbsp;208</address>
-      <h3>Contact</h3>
-      <ul>
-        <li>
-            <a href="tel:+31715278029">+31 71 527 8029</a>
-          </li>
-        <li><a href="mailto:l.avena@math.leidenuniv.nl">l.avena@math.leidenuniv.nl</a></li>
-        </ul>
-    </div>
-
-</div></section>
-
-    <!-- Publications tab -->
-
-    <section class="tab search-off" data-tab-label="Publications">
-              <p>
-              <a href="/en/staffmembers/luca-avena/publications" class="tab-link">Publications</a>
-            </p>
-              </section>
-
-        <!-- Additional functions tab -->
-
-    <section class="tab search-off" data-tab-label="Ancillary activities">
-      <div class="box-row full">
-        <div class="box">
-          <div class="box-content">
-            <ul>
-                      <li>
-                          <span class="meta">Geen relevante nevenwerkzaamheden</span>
-                          <strong></strong>
-                        </li>
-                      </ul>
-                  </div>
-        </div>
-      </div>
-      </section>
-
-    <!-- Share links -->
-
-    <section class="share search-off">
-      <a class="facebook" href="http://www.facebook.com/sharer/sharer.php?u=https://www.universiteitleiden.nl/en/staffmembers/luca-avena" title="Share on Facebook"></a>
-<a class="twitter" href="https://twitter.com/intent/tweet?text=Luca+Avena&amp;url=https%3A%2F%2Fwww.universiteitleiden.nl%2Fen%2Fstaffmembers%2Fluca-avena" title="Share on Twitter"></a>
-<a class="linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;title=Luca+Avena&amp;url=https%3A%2F%2Fwww.universiteitleiden.nl%2Fen%2Fstaffmembers%2Fluca-avena" title="Share on LinkedIn"></a>
-<a class="google-plus" href="https://plus.google.com/share?url=https://www.universiteitleiden.nl/en/staffmembers/luca-avena" title="Share on Google+"></a>
-<a class="envelope" href="mailto:?subject=I%20wanted%20you%20to%20see%20this%20site&amp;body=Check%20out%20this:%20https://www.universiteitleiden.nl/en/staffmembers/luca-avena." title="Share by email"></a>
-
-</section>
-
-  </article>
-</div>
-<aside>
-
-  <div class="box paginated" data-per-page="10" data-prev="" data-next="">
-    <div class="box-header">
-      <h2>Research</h2>
-    </div>
-    <div class="box-content">
-      <ul>
-        <li>
-            <a href="/en/research/research-projects/science/networks">
-              <img src="/binaries/content/gallery/ul2/main-images/science/mi/complex-network.jpg/complex-network.jpg/d50x50" alt="" width="50" height="50" />
-      <div>
-                <strong>NETWORKS</strong>
-              </div>
-            </a>
-          </li>
-        </ul>
-    </div>
-  </div>
-<div class="box paginated" data-per-page="10" data-prev="" data-next="">
-    <div class="box-header">
-      <h2>Organisation</h2>
-    </div>
-    <div class="box-content">
-      <ul>
-        <li>
-            <a href="/en/science">Science</a>
-              </li>
-        <li>
-            <a href="/en/science/mathematics">Mathematical Institute (MI)</a>
-              </li>
-        <li>
-            <a href="/en/science/mathematics/probability-theory">Probability Theory</a>
-              </li>
-        </ul>
-    </div>
-  </div>
-</aside></div>
-    </div>
-
-    <!-- googleoff: all-->
-<div class="footer-container">
-    <footer class="wrapper clearfix">
-      <section>
-          <h2>Study programmes</h2>
-              <ul>
-                <li>
-                    <a href="/en/education/bachelors">Bachelor&#039;s programmes</a>
-                  </li>
-                <li>
-                    <a href="/en/education/masters">Master&#039;s programmes</a>
-                  </li>
-                <li>
-                    <a href="/en/research/studying-for-a-phd">PhD programmes</a>
-                  </li>
-                <li>
-                    <a href="http://summerschool.universiteitleiden.nl">Summer School</a>
-                  </li>
-                <li>
-                    <a href="/en/education/other-modes-of-study">Other modes of study</a>
-                  </li>
-                <li>
-                    <a href="/en/education/bachelors/information-activities/open-days">Bachelor&#039;s Open Days</a>
-                  </li>
-                <li>
-                    <a href="/en/education/masters">Master&#039;s Open  Days</a>
-                  </li>
-                <li>
-                    <a href="/en/education/admission-and-application">Admission &amp; Application</a>
-                  </li>
-                </ul>
-            </section>
-      <section>
-          <h2>Organisation</h2>
-              <ul>
-                <li>
-                    <a href="/en/archaeology">Archaeology</a>
-                  </li>
-                <li>
-                    <a href="/en/governance-and-global-affairs">Governance and Global Affairs</a>
-                  </li>
-                <li>
-                    <a href="/en/humanities">Humanities</a>
-                  </li>
-                <li>
-                    <a href="/en/law">Law</a>
-                  </li>
-                <li>
-                    <a href="/en/medicine-lumc">Medicine/LUMC</a>
-                  </li>
-                <li>
-                    <a href="/en/science">Science</a>
-                  </li>
-                <li>
-                    <a href="/en/social-behavioural-sciences">Social and Behavioural Sciences</a>
-                  </li>
-                <li>
-                    <a href="/en/african-studies-centre-leiden">African Studies Centre Leiden</a>
-                  </li>
-                <li>
-                    <a href="/en/honours-academy">Honours Academy</a>
-                  </li>
-                <li>
-                    <a href="/en/iclon">ICLON (Graduate School of Teaching)</a>
-                  </li>
-                </ul>
-            </section>
-      <section>
-          <h2>About us</h2>
-              <ul>
-                <li>
-                    <a href="/en/dossiers/444">444 years: let&#039;s celebrate together</a>
-                  </li>
-                <li>
-                    <a href="/en/working-at">Working at Leiden University</a>
-                  </li>
-                <li>
-                    <a href="/en/alumni">Alumni</a>
-                  </li>
-                <li>
-                    <a href="/en/about-us/impact">Impact</a>
-                  </li>
-                <li>
-                    <a href="http://www.leiden-delft-erasmus.nl/en/home">Leiden-Delft-Erasmus</a>
-                  </li>
-                <li>
-                    <a href="https://www.universiteitleiden.nl/en/locations">Locations</a>
-                  </li>
-                <li>
-                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/regulations/general/university-website-disclaimer">Disclaimer</a>
-                  </li>
-                <li>
-                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/cookies">Cookies</a>
-                  </li>
-                <li>
-                    <a href="https://www.organisatiegids.universiteitleiden.nl/en/regulations/general/privacy-statements">Privacy</a>
-                  </li>
-                <li>
-                    <a href="/en/about-us/contact">Contact</a>
-                  </li>
-                </ul>
-            </section>
-      <section>
-          <h2>Connect with us</h2>
-              <ul>
-                  <li>
-                      <a href="http://www.leiden.edu/newsletter/address/">Sign up to receive our monthly newsletter</a>
-                    </li>
-                  </ul>
-              <div class="share">
-                <a href="https://www.facebook.com/UniversiteitLeiden" class="facebook"></a>
-                <a href="https://twitter.com/unileidennews" class="twitter"></a>
-                <a href="http://www.youtube.com/user/UniversiteitLeiden" class="youtube"></a>
-                <a href="http://www.linkedin.com/company/leiden-university" class="linkedin"></a>
-                <a href="https://instagram.com/universiteitleiden" class="instagram"></a>
-                <a href="https://plus.google.com/+UniversiteitLeiden" class="google-plus"></a>
+    						</div>
+    					</div>
+    				</div><!-- container -->
+    			</div>
+    		</div>
+<div class="section_pointer" pix-name="22_corporate"></div>
+            <div class="pixfort_corporate_2" id="section_corporate_logo" style="display: block; ">
+                <div class="amazing_style pix_builder_bg" style="background-image: url(images/2_corporate/fondo.png); background-color: rgb(204, 0, 0); padding-top: 0px; padding-bottom: 60px; box-shadow: none; border-color: rgb(68, 68, 68); background-size: cover; background-attachment: scroll; background-repeat: repeat; outline-offset: -3px;">
+                    <div class="container">
+                        <div class="sixteen columns">
+                            <div class="gstyle">
+                                <div class="t1_style">
+                                     <img src="images/2_corporate/lavaquita2.png" alt="Supermercados La Vaquita">
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- container -->
                 </div>
-            </section>
-      </footer>
-  </div>
-<!-- googleon: all-->
-<div class="cookies">
-    <div class="wrapper">
-      <p>This website uses cookies. <a href="https://www.organisatiegids.universiteitleiden.nl/en/cookies">More information</a></p><form action="/en/staffmembers/luca-avena?_hn:type=action&amp;_hn:ref=r53_r9" method="post">
-        <button type="submit" class="accept" name="cookie" value="accept">Accept cookies</button>
-        <button type="submit" class="reject" name="cookie" value="reject">Reject cookies</button>
-      </form>
-    </div>
-  </div>
-<!-- bottom scripts -->
-<script async defer src="/scripts/ul2.js?v=1.86.00" data-main="/scripts/ul2external/main.js"></script>
-<!-- this line enables the loading of asynchronous components (together with the headContributions at the top) -->
-    </body>
+            </div>
+    		<div class="section_pointer" pix-name="2_corporate"></div><div class="pixfort_corporate_2" id="section_corporate_3">
+    			<div class="adv_st pix_builder_bg">
+    				<div class="container">
+    					<div class="sixteen columns">
+    						<div class="four columns  alpha">
+    							<img src="images/uploads/006-gift.png" alt="" style="border-radius: 0px; border-color: rgb(68, 68, 68); border-style: none; border-width: 1px; width: 120px; height: 120px;">
+    							<div class="head_style">
+    								<span class="editContent" style=""><span class="pix_text" rel="">Grandes Premios</span></span>
+    							</div>
+    							<div class="c_style">
+    								<span class="editContent" style="">Bonos de Mercado, Bonos para Amoblar tu Casa y 3 motos BWS son nuestros grandes premios</span>
+    							</div>
+    						</div>
+    						<div class="four columns  ">
+    							<img src="images/uploads/008-delivery-truck.png" alt="" style="border-radius: 0px; border-color: rgb(68, 68, 68); border-style: none; border-width: 1px; width: 120px; height: 120px;">
+    							<div class="head_style"><span class="editContent" style="">Domicilios</span></div>
+    							<div class="c_style">
+    								<span class="editContent" style=""><span class="pix_text" rel="">Disfruta de comprar desde la comodidad de tu casa en la línea única de domicilios <strong>4487068</strong></span></span>
+    							</div>
+    						</div>
+    						<div class="four columns  ">
+    							<img src="images/uploads/002-calendar.png" alt="" style="border-radius: 0px; border-color: rgb(68, 68, 68); border-style: none; border-width: 1px; width: 120px; height: 120px;">
+    							<div class="head_style"><span class="editContent" style=""><span class="pix_text">Días Especiales</span></span></div>
+    							<div class="c_style">
+    								<span class="editContent" style=""><span class="pix_text">Por nuestro aniversario tendremos una agenda increíble de eventos para vos</span></span>
+    							</div>
+    						</div>
+
+    						<div class="four columns  omega">
+    							<img src="images/uploads/003-tag.png" alt="" style="border-radius: 0px; border-color: rgb(68, 68, 68); border-style: none; border-width: 1px; width: 120px; height: 120px;">
+    							<div class="head_style"><span class="editContent" style=""><span class="pix_text">Descuentos</span></span></div>
+    							<div class="c_style">
+    								<span class="editContent" style=""><span class="pix_text">Siempre puedes encontrar los mejores precios con descuentos todos los días</span></span>
+    							</div>
+    						</div>
+    					</div>
+    				</div><!-- container -->
+    			</div>
+    		</div>
+    		<div class="section_pointer" pix-name="2_corporate"></div>
+            <div class="pixfort_corporate_2" id="section_corporate_4" style="display: none; ">
+    			<div class="amazing_style pix_builder_bg" style="background-image: none; background-color: rgb(204, 0, 0); padding-top: 0px; padding-bottom: 60px; box-shadow: none; border-color: rgb(68, 68, 68); background-size: cover; background-attachment: scroll; background-repeat: repeat; outline-offset: -3px;">
+    				<div class="container">
+    					<div class="sixteen columns">
+    						<div class="gstyle">
+    							<div class="t1_style">
+    								 <a href="/separata-caldas/" target="_blank" title="separata" style="text-decoration: none;">
+                                    <span class="editContent" style=""><span class="pix_text" style="color: rgb(255, 255, 255); font-size: 28px; background-color: rgba(0, 0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif;" ></span></span>
+                                    </a>
+    							</div>
+    							<div class="t2_style" style="">
+    								<span class="editContent" style="">
+    									<span class="pix_text" style="color: rgb(255, 255, 255); font-size: 20px; background-color: rgba(0, 0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif;" >Felíz día Mamá </span>
+    								</span>
+    							</div>
+    							<div class="t3_style">
+    								<span class="editContent" style="">
+    									<span class="pix_text" style="color: rgb(255, 255, 255); font-size: 16px; background-color: rgba(0, 0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif;" ></span>
+    								</span>
+    							</div>
+    						</div>
+    						<span>
+                                <!-- iframe style="width:100%; height:440px;" src="about:blank" frameborder="0" width="100%" height="440px" name="separata" allowfullscreen></iframe -->
+                                <-- iframe style="width:100%; height:640px;" src="http://e.issuu.com/embed.html#31543945/60696187" frameborder="0" width="100%" height="640px" name="separata" allowfullscreen></iframe -->
+                                <!-- iframe style="width:100%; height:440px;" width="100%" height="440" src="https://www.youtube-nocookie.com/embed/F0wJpDqDzgQ?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe -->
+    						</span>
+    					</div>
+    				</div><!-- container -->
+    			</div>
+    		</div>
+    		<div class="section_pointer" pix-name="2_corporate"></div><div class="pixfort_corporate_2" id="section_corporate_5">
+    			<div class="adv_style pix_builder_bg" style="outline-offset: -3px;">
+    				<div class="container">
+    					<div class="sixteen columns">
+    						<div class="L1_style">
+    							<span class="editContent" style=""><span class="pix_text">Sedes y Horarios</span></span>
+    						</div>
+    						<div class="L2_style">
+    							<span class="editContent" style=""><span class="pix_text">
+    								Lunes - Sábado 7:00 am a 9:00 pm - Domingos y festivos: 7:00 am a 8:00 pm
+    							</span></span>
+    						</div>
+    						<div class="four columns just_st alpha">
+    							<div class="h_style">
+    								<span class="editContent" style=""><span class="pix_text">Calasanz</span></span>
+    							</div>
+    							<div class="cc_style">
+    								<span class="editContent" style=""><span class="pix_text">Cra. 80 No. 49-05</span></span>
+    							</div>
+    						</div>
+    						<div class="four columns just_st ">
+    							<div class="h_style">
+    								<span class="editContent" style=""><span class="pix_text">Belén</span></span>
+    							</div>
+    							<div class="cc_style">
+    								<span class="editContent" style=""><span class="pix_text">Cra. 75 No. 21-04</span></span>
+    							</div>
+    						</div>
+    						<div class="four columns just_st ">
+    							<div class="h_style">
+    								<span class="editContent" style=""><span class="pix_text">Envigado</span></span>
+    							</div>
+    							<div class="cc_style">
+    								<span class="editContent" style=""><span class="pix_text">Calle 37 Sur No. 40-48</span></span>
+    							</div>
+    						</div>
+    						<div class="four columns just_st omega">
+    							<div class="h_style">
+    								<span class="editContent" style=""><span class="pix_text">Caldas</span></span>
+    							</div>
+    							<div class="cc_style">
+    								<span class="editContent" style=""><span class="pix_text">Cl. 130S No. 50-45</span></span>
+    							</div>
+    						</div>
+                            <div class="L1_style">
+                                <span class="editContent" style=""><span class="pix_text">&nbsp;&nbsp;&nbsp;</span></span>
+                            </div>
+                            <div class="L2_style">
+                                <span class="editContent" style=""><span class="pix_text">
+                                    Lunes - Sábado 8:00 am a 9:00 pm - Domingos y festivos: 8:00 am a 8:00 pm
+                                </span></span>
+                            </div>
+                            <div class="four columns just_st alpha">
+                                <div class="h_style">
+                                    <span class="editContent" style=""><span class="pix_text">La 33</span></span>
+                                </div>
+                                <div class="cc_style">
+                                    <span class="editContent" style=""><span class="pix_text">Cl. 33 No. 80A-36</span></span>
+                                </div>
+                            </div>
+                            <div class="four columns just_st ">
+                                <div class="h_style">
+                                    <span class="editContent" style=""><span class="pix_text">San Cristobal</span></span>
+                                </div>
+                                <div class="cc_style">
+                                    <span class="editContent" style=""><span class="pix_text">Cl. 63 No. 128-85</span></span>
+                                </div>
+                            </div>
+                            <div class="four columns just_st ">
+                                <div class="h_style">
+                                    <span class="editContent" style=""><span class="pix_text">Sabaneta</span></span>
+                                </div>
+                                <div class="cc_style">
+                                    <span class="editContent" style=""><span class="pix_text">Cra. 43A No. 63S-190</span></span>
+                                </div>
+                            </div>
+                            <div class="four columns just_st omega">
+                                <div class="h_style">
+                                    <span class="editContent" style=""><span class="pix_text">El Poblado</span></span>
+                                </div>
+                                <div class="cc_style">
+                                    <span class="editContent" style=""><span class="pix_text">Cl. 9S No. 29D-76</span></span>
+                                </div>
+                            </div>
+    					</div>
+    				</div><!-- container -->
+    			</div>
+    		</div>
+            <div class="big_padding pix_builder_bg dark event_bg" id="section_normal_4_1">
+            <div class="container">
+                <div class="sixteen columns center_text">
+                    <p class="normal_title editContent"><strong>Contáctenos</strong></p>
+                    <div>
+                    <p class="normal_text max_600 light_gray editContent">
+                        Puede escribirnos al correo electrónico <strong><a href="mailto:contactenos@vaquitaexpress.com" style="font-size:1.2em; color:white">contactenos@vaquitaexpress.com</a></strong>
+                    </p>
+                    <p class="normal_text max_600 light_gray editContent">
+                        Para una mejor atención hemos destinado un espacio de Peticiones, Quejas, Reclamos, Sugerencias y Felicitaciones
+                    </p>
+                    </div>
+                    <a href="pqrsf/" class="active_bg_open pix_button btn_normal btn_big  bold_text orange_bg " name="fff">
+                        <span>Ir a nuestro Formulario de PQRF</span>
+                    </a>
+                </div>
+           </div>
+        </div>
+    		<div class="section_pointer" pix-name="2_corporate"></div><div class="pixfort_corporate_2" id="section_corporate_9">
+    			<div class="contact_section pix_builder_bg">
+    				<div class="container">
+    					<div class="sixteen columns pix_inline_block">
+    						<div class="sixteen columns ">
+    							<div class="headtext_style"><span class="editContent" style=""><span class="pix_text">Nuestras Sedes</span></span></div>
+    							<p class="subtext_style editContent">Envigado, Belén, Calasanz y próximamente Caldas</p>
+    							<div class="plan">
+                                    <iframe src="https://snazzymaps.com/embed/23710" width="100%" height="380px" style="border:none;"></iframe>
+    							</div>
+    						</div>
+    					</div>
+    				</div><!-- container -->
+    			</div>
+    		</div>
+    		<div class="section_pointer" pix-name="2_corporate"></div><div class="pixfort_real_estate_4" id="section_real_estate_9">
+    			<div class="foot_st pix_builder_bg" style="outline-offset: -3px;">
+    				<div class="container ">
+    					<div class="seven columns alpha ">
+    						<span class="editContent" style=""><span class="pix_text"><span class="rights_st"> Todos los derechos reservados © 2017 La Vaquita</span></span></span>
+    					</div>
+    					<div class="nine columns omega ">
+    						<div class="socbuttons">
+    							<div class="soc_icons pix_builder_bg">
+    								<ul class="bottom-icons">
+    									<li><a class="pi pixicon-facebook2 normal_gray" href="https://www.facebook.com/supermercadoLaVaquita/"></a></li>
+    									<li><a class="pi pixicon-instagram normal_gray" href="https://www.instagram.com/supermercadolavaquita/"></a></li>
+    								</ul>
+    							</div>
+    							<div class="likes_st">
+    								<span class="editContent"><span class="pix_text">Comparte en nuestras redes</span></span>
+    							</div>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    		<div class="section_pointer" pix-name="4_real_estate"></div></div>
+
+<!-- JavaScript
+	================================================== -->
+	<script src="js-files/jquery-1.8.3.min.js" type="text/javascript"></script>
+	<script src="js-files/jquery.easing.1.3.js" type="text/javascript"></script>
+	<script type="text/javascript" src="js-files/jquery.common.min.js"></script>
+	<script src="js-files/ticker.js" type="text/javascript"></script>
+	<script src="js-files/custom1.js" type="text/javascript"></script>
+	<script src="assets/js/smoothscroll.min.js" type="text/javascript"></script>
+	<script src="assets/js/appear.min.js" type="text/javascript"></script>
+	<script src="js-files/jquery.ui.touch-punch.min.js"></script>
+	<script src="js-files/bootstrap.min.js"></script>
+	<script src="js-files/bootstrap-switch.js"></script>
+	<script src="js-files/custom3.js" type="text/javascript"></script>
+	<script src="assets/js/appear.min.js" type="text/javascript"></script>
+	<script src="assets/js/animations.js" type="text/javascript"></script>
+</body>
 </html>

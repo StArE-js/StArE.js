@@ -1,1 +1,704 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><meta property="og:description" content="Avena Gallagher - Stylist"><meta property="og:title" content="Avena Gallagher - Stylist"><meta property="og:type" content="article"><meta property="og:site_name" content="Avena Gallagher - Stylist"><meta name="twitter:title" content="Avena Gallagher - Stylist"><meta name="twitter:description" content="Avena Gallagher - Stylist"><title>Avena Gallagher</title><link rel="stylesheet" href="css/fonts.css"><script src="bundle.js"></script></head><body><div class="navigation"><div class="menu">Menu</div><div class="inner"></div><ul><li><strong>Avena Gallagher</strong></li><li>Stylist</li><br><li><a href="#Fashion">Fashion</a></li><li><a href="#Projects">Projects</a></li><li><a href="#Portraits">Portraits</a></li><li><a href="#Film">Film</a></li><li><a href="#Commercial">Commercial</a></li><li><a href="#Runway">Runway</a></li><br><a href="mailto:avena.gallagher@gmail.com" target="_blank" class="external">Contact:<br><span class="email">avena.gallagher@gmail.com</span></a><br><br>Represented by <a href="http://www.cartelandco.com/" class="extranal">Cartel & Co</a>.<br><a href="mailto:Humberto@cartelandco.com" target="_blank" class="external">Humberto@cartelandco.com</a></ul></div><script>var data = [{"section":"Fashion","project":"Bernedette Corp: Refashion Capitalism","type":"slideshow","sectionurl":"refashion","url":"[ \"refashion/1.jpg\" ]","slideshow":"[ \"refashion/BC.jpg\"]\n[ \"refashion/1.jpg\" ]\n[ \"refashion/2.jpg\" ]\n[ \"refashion/3.jpg\" ]\n[ \"refashion/5.jpg\" ]\n[ \"refashion/6.jpg\" ]\n[ \"refashion/7.jpg\" ]\n[ \"refashion/8.jpg\" ]","client":"Purple Fashion","photographer":"Benjamin Alexander Huseby","description":"SINCE 1994, THE ANONYMOUS, INTERNATIONAL GROUP OF ARTISTS KNOWN AS BERNADETTE CORPORATION HAS EXPLORED STRATEGIES OF CULTURAL RESISTANCE AND AMBIGUOUS BRANDING STRATEGIES DEVELOPING IN THE MID ‘90S INTO A WOMEN’S FASHION LINE. "},{"section":"Fashion","project":"Fotine Paura","type":"slideshow","sectionurl":"twins","url":"[ \"twins/6.jpg\" ]\n","slideshow":"[ \"twins/3.jpg\" ]\n[ \"twins/4.jpg\" ]\n[ \"twins/6.jpg\" ]\n[ \"twins/1.jpg\" ]\n[ \"twins/2.jpg\" ]\n[ \"twins/5.jpg\" ]\n[ \"twins/7.jpg\" ]\n[ \"twins/8a.jpg\", \"twins/8b.jpg\" ]\n[ \"twins/9.jpg\" ]\n[ \"twins/10.jpg\" ]\n[ \"twins/11.jpg\" ]\n[ \"twins/12.jpg\" ]\n[ \"twins/13a.jpg\", \"twins/13b.jpg\" ]\n[ \"twins/14.jpg\" ] \n[ \"twins/L1001331_15m_RGB.jpg\", \"twins/L1001354_20m_RGB.jpg\" ] \n[ \"twins/L1004533_20m_RGB.jpg\" ] \n[ \"twins/L1000082_18m_greyscale.jpg\" ] \n","client":"Bad Day Magazine","photographer":"Jason Nocito","description":""},{"section":"Fashion","project":"Evan Rachel Wood","type":"slideshow","sectionurl":"interview","url":"[ \"interview/INTERVIEW.jpg\" ]\n","slideshow":"[ \"interview/INTERVIEW.jpg\" ]\n[ \"interview/1.jpg\" ]\n[ \"interview/2.jpg\", \"interview/3.jpg\" ][ \"interview/4.jpg\", \"interview/5.jpg\" ][ \"interview/6.jpg\" , \"interview/7.jpg\" ]","client":"Interview Magazine Germany","photographer":"Rachel Chandler","description":""},{"section":"Fashion","project":"Not In the Berlin Biennale","type":"slideshow","sectionurl":"bb9imageds","url":"[ \"bb9imageds/17_BerlinBiennale-0031_04_RGB.jpg\" ]","slideshow":"[ \"bb9imageds/17_BerlinBiennale-0031_04_RGB.jpg\" ]\n[ \"bb9imageds/04_BerlinBiennale-0045_02_RGB.jpg\" ]\n[ \"bb9imageds/06_BerlinBiennale-0191_03_RGB.jpg\" ]\n[ \"bb9imageds/05_BerlinBiennale-0094_02_RGB.jpg\" ]\n[ \"bb9imageds/08_BerlinBiennale-0036_02_RGB.jpg\" ]\n[ \"bb9imageds/EYES.jpg\", \"bb9imageds/01_BerlinBiennale-0069_02_RGB.jpg\" ]\n[ \"bb9imageds/13_BerlinBiennale-0097.jpg\" ]\n[ \"bb9imageds/02_BerlinBiennale-0020_02_RGB.jpg\", \"bb9imageds/14_BerlinBiennale-0091_03_RGB.jpg\" ]\n[ \"bb9imageds/11_BerlinBiennale-0028_03_RGB.jpg\" ]\n[ \"bb9imageds/09_BerlinBiennale-0093_02_RGB.jpg\" ]\n[ \"bb9imageds/07_BerlinBiennale-0072.jpg\", \"bb9imageds/15_BerlinBiennale-0039_03_RGB.jpg\" ]\n[ \"bb9imageds/12_BerlinBiennale-0057_03_RGB.jpg\" ]","client":"IXth Berlin Biennale for Contemporary Art","photographer":"Roe Ethridge","description":""},{"section":"Fashion","project":"TELFAR Spring 2016","type":"slideshow","sectionurl":"telfarss17lookbook","url":"[ \"telfarss17lookbook/1.jpg\" ]","slideshow":"[ \"telfarss17lookbook/1.jpg\" ]\n[ \"telfarss17lookbook/2.jpg\" ]\n[ \"telfarss17lookbook/3.jpg\", \"telfarss17lookbook/4.jpg\" ]\n[ \"telfarss17lookbook/5.jpg\" ]\n[ \"telfarss17lookbook/6.jpg\", \"telfarss17lookbook/7.jpg\" ]\n[ \"telfarss17lookbook/8.jpg\", \"telfarss17lookbook/9.jpg\" ]\n[ \"telfarss17lookbook/10.jpg\" ][ \"telfarss17lookbook/11.jpg\", \"telfarss17lookbook/12.jpg\" ]\n[ \"telfarss17lookbook/13.jpg\"]\n[ \"telfarss17lookbook/14.jpg\", \"telfarss17lookbook/15.jpg\" ]\n[ \"telfarss17lookbook/16.jpg\" ][ \"telfarss17lookbook/17.jpg\" ]\n[ \"telfarss17lookbook/18.jpg\", \"telfarss17lookbook/19.jpg\" ][ \"telfarss17lookbook/20.jpg\" ][ \"telfarss17lookbook/21.jpg\", \"telfarss17lookbook/22.jpg\" ]","client":"Bad Day Magazine","photographer":"Jason Nocito","description":""},{"section":"Fashion","project":"Bernadette Corporation Jumex Museum, Mexico City","type":"slideshow","sectionurl":"jumex","url":"[ \"jumex/1.jpg\" ]","slideshow":"[ \"jumex/1.jpg\"]\n[\"jumex/2.jpg\", \"jumex/3.jpg\"]\n[ \"jumex/4.jpg\"]\n[\"jumex/5.jpg\", \"jumex/6.jpg\"]\n[\"jumex/8.jpg\"]\n[\"jumex/7.jpg\"]\n[\"jumex/9.jpg\" ]\n[ \"jumex/12.jpg\", \"jumex/10.jpg\"]\n[\"jumex/11.jpg\" ]\n","client":"Purple Fashion","photographer":"Benjamin Alexander Huseby","description":""},{"section":"Fashion","project":"Hanne","type":"slideshow","sectionurl":"bader","url":"[ \"bader/1.jpg\" ]","slideshow":"[ \"bader/1.jpg\"]\n[ \"bader/2.jpg\"]\n[ \"bader/3.jpg\"]\n[\"bader/4.jpg\", \"bader/5.jpg\"]\n[\"bader/6.jpg\", \"bader/7.jpg\"]\n[ \"bader/8.jpg\"]\n[ \"bader/9.jpg\"]\n","client":"Garage Magazine","photographer":"Brianna Capozzi","description":""},{"section":"Fashion","project":"The Casual Pleasure of Dissapointment w. Bjarne Melgaard","type":"slideshow","sectionurl":"bjarnew","url":"[ \"bjarnew/07-WMag-018_02.jpg\" ]","slideshow":"[ \"bjarnew/07-WMag-018_02.jpg\" ]\n[ \"bjarnew/01-WMag-024_02.jpg\" ]\n[ \"bjarnew/05-WMag-021_02.jpg\" ]\n[ \"bjarnew/02-WMag-119_02.jpg\" ]\n[ \"bjarnew/03-WMag-024_03.jpg\" ]\n[ \"bjarnew/04-WMag-036_02.jpg\" ]\n[ \"bjarnew/06-WMag-070_02.jpg\" ]","client":"W Magazine","photographer":"Roe Ethridge","description":""},{"section":"Fashion","project":"Cronutz","type":"slideshow","sectionurl":"cronutz","url":"[ \"cronutz/1.jpg\" ]","slideshow":"[ \"cronutz/1.jpg\"]\n[\"cronutz/2.jpg\", \"cronutz/3.jpg\"]\n[ \"cronutz/4.jpg\"]\n[\"cronutz/5.jpg\", \"cronutz/6.jpg\"]\n[\"cronutz/7.jpg\", \"cronutz/8.jpg\"]\n[ \"cronutz/9.jpg\"]\n[\"cronutz/10.jpg\", \"cronutz/11.jpg\"]\n[\"cronutz/12.jpg\", \"cronutz/13.jpg\"]\n[ \"cronutz/14.jpg\"]\n[\"cronutz/15.jpg\", \"cronutz/16.jpg\"]\n[ \"cronutz/17.jpg\"]\n[ \"cronutz/18.jpg\"]\n[\"cronutz/19.jpg\", \"cronutz/20.jpg\"]\n[ \"cronutz/21.jpg\"]\n[\"cronutz/22.jpg\", \"cronutz/23.jpg\"]\n[ \"cronutz/25.jpg\"]\n[\"cronutz/24.jpg\", \"cronutz/26.jpg\"]","client":"Bad Day Magazine","photographer":"Jason Nocito","description":""},{"section":"Fashion","project":"Chibi Cherry","type":"slideshow","sectionurl":"kingkong","url":"[ \"kingkong/COVER.jpg\" ]","slideshow":"[ \"kingkong/COVER.jpg\" ]","client":"King Kong Magazine","photographer":"Logan Jackson","description":""},{"section":"Fashion","project":"Bernadette Corporation, The Complete Poem","type":"slideshow","sectionurl":"completepoem","url":"[ \"completepoem/COMPLETEPOEMBOOK.jpg\" ]","slideshow":"[ \"completepoem/COMPLETEPOEMBOOK.jpg\" ][ \"bernedettecorp/1.jpg\" ]\n[ \"bernedettecorp/2.jpg\" ]\n[ \"bernedettecorp/3.jpg\" ]\n[ \"bernedettecorp/4.jpg\" ]\n[ \"bernedettecorp/5.jpg\" ]\n[ \"bernedettecorp/6a.jpg\",  \"bernedettecorp/6b.jpg\" ]\n[ \"bernedettecorp/7.jpg\" ]\n[ \"bernedettecorp/8.jpg\" ]\n[ \"bernedettecorp/9.jpg\" ]\n[ \"bernedettecorp/10.jpg\" ]","client":"Purple Fashion","photographer":"David Vasiljevic","description":""},{"section":"Fashion","project":"Georgia","type":"slideshow","sectionurl":"leather","url":"[ \"leather/1.jpg\" ]","slideshow":"[ \"leather/1.jpg\"]\n[\"leather/2.jpg\" ]\n[ \"leather/3.jpg\", \"leather/4.jpg\"]\n[\"leather/5.jpg\"]\n[\"leather/6.jpg\"]\n[\"leather/7.jpg\"]\n[\"leather/8.jpg\", \"leather/9.jpg\" ]\n[ \"leather/10.jpg\"]\n[\"leather/11.jpg\" ]\n[\"leather/12.jpg\" ]\n[\"leather/13.jpg\" ]\n[\"leather/14.jpg\", \"leather/15.jpg\" ]\n[\"leather/16.jpg\", \"leather/17.jpg\" ]\n","client":"Bad Day Magazine","photographer":"Jason Nocito","description":""},{"section":"Fashion","project":"Tznius","type":"slideshow","sectionurl":"tznius","url":"[ \"tznius/1.jpg\", \"tznius/1b.jpg\" ]","slideshow":"[ \"tznius/1.jpg\", \"tznius/1b.jpg\" ]\n[ \"tznius/2.jpg\" ]\n[ \"tznius/3.jpg\", \"tznius/3b.jpg\" ]\n[ \"tznius/4.jpg\" ]\n[ \"tznius/5.jpg\", \"tznius/5b.jpg\" ]\n[ \"tznius/6.jpg\" ]\n[ \"tznius/7.jpg\", \"tznius/7b.jpg\" ]\n[ \"tznius/8.jpg\" ]\n[ \"tznius/9.jpg\", \"tznius/9b.jpg\" ]\n[ \"tznius/10.jpg\" ]\n[ \"tznius/11.jpg\" ]\n[ \"tznius/12.jpg\" ]\n[ \"tznius/13.jpg\" ]\n[ \"tznius/14.jpg\" ]","client":"Tiwimutu Magazine","photographer":"","description":"TZNIUS (HEBREW: צניעות):  “MODESTY”, OR “PRIVACY” IS USED WITHIN JUDAISM TO DESCRIBE BOTH THE CHARACTER TRAIT OF MODESTY AND HUMILITY, AS WELL AS A GROUP OF JEWISH LAWS PERTAINING TO CONDUCT IN GENERAL AND ESPECIALLY BETWEEN THE SEXES. THE TERM IS FREQUENTLY USED WITH REGARD TO THE RULES OF DRESS FOR WOMEN."},{"section":"Fashion","project":"Tacoma","type":"slideshow","sectionurl":"tacoma","url":"[\"tacoma/1.jpg\"]","slideshow":"[\"tacoma/0.jpg\"]\n[\"tacoma/1.jpg\"]\n[\"tacoma/3.jpg\"]\n[\"tacoma/4.jpg\"]\n[\"tacoma/5.jpg\"]\n[\"tacoma/6.jpg\"]\n[\"tacoma/7.jpg\"]\n[\"tacoma/8.jpg\"]\n[\"tacoma/9.jpg\"]\n[\"tacoma/10.jpg\"]\n[\"tacoma/11.jpg\"]\n[\"tacoma/12.jpg\"]\n","client":"Bad Day Magazine","photographer":"Jason Nocito","description":""},{"section":"Fashion","project":"Green Mind","type":"slideshow","sectionurl":"greenmind","url":"[\"greenmind/10.jpg\"]","slideshow":"[\"greenmind/10.jpg\"][\"greenmind/3B.jpg\"]\n[\"greenmind/7.jpg\"]\n[\"greenmind/2.jpg\"]\n[\"greenmind/4A.jpg\", \"greenmind/4B.jpg\"][\"greenmind/3A.jpg\"]\n[\"greenmind/6.jpg\"]\n[\"greenmind/9.jpg\"]\n","client":"Bad Day Magazine","photographer":"Jason Nocito","description":"Feat Johnson Trading Co."},{"section":"Fashion","project":"Amelia","type":"slideshow","sectionurl":"hearts","url":"[ \"hearts/1.jpg\" ]","slideshow":"[ \"hearts/1.jpg\" ]\n[ \"hearts/2.jpg\", \"hearts/3.jpg\" ]\n[ \"hearts/4.jpg\" ]\n[ \"hearts/5.jpg\" ]\n[ \"hearts/6.jpg\" ]\n[ \"hearts/7.jpg\" ]\n[ \"hearts/8.jpg\" ]\n[ \"hearts/9.jpg\" ][ \"hearts/10.jpg\" ]","client":"Hearts Magazine","photographer":"Jody Rogac","description":""},{"section":"Fashion","project":"Regarding Tanlines","type":"slideshow","sectionurl":"tanlines","url":"[ \"tanlines/1.jpg\" ]","slideshow":"[ \"tanlines/1.jpg\" ]\n[ \"tanlines/2.jpg\" ]\n[ \"tanlines/3.jpg\" ]\n[ \"tanlines/4.jpg\" ]\n[ \"tanlines/5.jpg\" ]\n[ \"tanlines/6.jpg\" ]\n[ \"tanlines/7.jpg\" ]\n[ \"tanlines/8.jpg\" ]\n[ \"tanlines/9.jpg\" ]","client":"Bad Day Magazine","photographer":"Alex John Beck","description":""},{"section":"Fashion","project":"ATM","type":"slideshow","sectionurl":"atm","url":"[ \"atmmachine/1.jpg\", \"atmmachine/2.jpg\" ]","slideshow":"[ \"atmmachine/1.jpg\", \"atmmachine/2.jpg\" ]\n[ \"atmmachine/3.jpg\", \"atmmachine/4.jpg\" ]\n[ \"atmmachine/5.jpg\", \"atmmachine/6.jpg\" ]\n[ \"atmmachine/7.jpg\", \"atmmachine/8.jpg\" ]\n[ \"atmmachine/9.jpg\", \"atmmachine/10.jpg\" ]\n[ \"atmmachine/11.jpg\", \"atmmachine/12.jpg\" ]\n[ \"atmmachine/13.jpg\", \"atmmachine/14.jpg\" ]\n[ \"atmmachine/15.jpg\", \"atmmachine/16.jpg\" ]\n[ \"atmmachine/17.jpg\", \"atmmachine/18.jpg\" ]","client":"Bad Day Magazine","photographer":"Jason Nocito","description":""},{"section":"Fashion","project":"Agnette","type":"slideshow","sectionurl":"muse","url":"[ \"muse/0.jpg\" ]","slideshow":"[ \"muse/0.jpg\" ]\n[ \"muse/1.jpg\", \"muse/1B.jpg\" ]\n[ \"muse/3.jpg\" ]\n[ \"muse/4.jpg\" ]\n[ \"muse/5.jpg\" ]\n[ \"muse/6r.jpg\", \"muse/7.jpg\"]\n[ \"muse/8.jpg\" ]\n[ \"muse/11.jpg\", \"muse/10.jpg\"]\n[ \"muse/12.jpg\" ]","client":"Muse Magazine","photographer":"Jason Nocito","description":""},{"section":"Fashion","project":"Twilight Zone","type":"slideshow","sectionurl":"twilight_zone","url":"[ \"twilightzone/1.jpg\" ]","slideshow":"[ \"twilightzone/1.jpg\" ]\n[ \"twilightzone/2.jpg\", \"twilightzone/2b.jpg\" ]\n[ \"twilightzone/3.jpg\", \"twilightzone/3b.jpg\" ]\n[ \"twilightzone/4.jpg\" ]\n[ \"twilightzone/5.jpg\" ]\n[ \"twilightzone/6.jpg\" ]\n[ \"twilightzone/7.jpg\" ]","client":"Nylon Magazine","photographer":"Jason Nocito","description":""},{"section":"Fashion","project":"Mumbai","type":"slideshow","sectionurl":"mumbai","url":"[ \"mumbai/1.jpg\" ]","slideshow":"[ \"mumbai/1.jpg\" ]\n[ \"mumbai/1A.jpg\" ]\n[ \"mumbai/1B.jpg\" ]\n[ \"mumbai/2A.jpg\" ]\n[ \"mumbai/2B.jpg\" ]\n[ \"mumbai/3A.jpg\" ]\n[ \"mumbai/3B.jpg\" ]\n[ \"mumbai/4.jpg\" ]","client":"Dazed & Confused","photographer":"Jason Nocito","description":"MEN'S EYEWEAR STORY SHOT ON THE STREETS OF MUMBAI."},{"section":"Fashion","project":"Fades","type":"slideshow","sectionurl":"fades","url":"[ \"fades/1.jpg\" ]","slideshow":"[ \"fades/1.jpg\" ]\n[ \"fades/2.jpg\" ]\n[ \"fades/3.jpg\" ]\n[ \"fades/4.jpg\" ]\n[ \"fades/5.jpg\" ]\n[ \"fades/6.jpg\" ]","client":"Bidoun Magazine","photographer":"Adrian Gaut","description":""},{"section":"Fashion","project":"White Girl","type":"slideshow","sectionurl":"badday","url":"[ \"badday/1.jpg\" ]","slideshow":"[ \"badday/1.jpg\" ]\n[ \"badday/2.jpg\",  \"badday/3.jpg\" ]\n[ \"badday/4.jpg\" ]\n[ \"badday/5.jpg\",  \"badday/6.jpg\" ]\n[ \"badday/7.jpg\" ]\n[ \"badday/8.jpg\",  \"badday/9.jpg\" ]","client":"Bad Day Magazine","photographer":"KT Auleta","description":""},{"section":"Fashion","project":"Who Killed Mr. Invisible?","type":"slideshow","sectionurl":"mr_invisible","url":"[ \"invisible/1.jpg\" ]","slideshow":"[ \"invisible/1.jpg\" ]\n[ \"invisible/2A.jpg\", \"invisible/2B.jpg\" ]\n[ \"invisible/3A.jpg\", \"invisible/3B.jpg\" ]\n[ \"invisible/4.jpg\" ]","client":"Blow Up Magazine","photographer":"KT Auleta","description":""},{"section":"Commercial","project":"Apple","type":"slideshow","sectionurl":"apple","url":"[ \"apple/1.jpg\" ]","slideshow":"[ \"apple/1.jpg\" ]\n[ \"apple/2.jpg\" ]\n[ \"apple/3.jpg\" ]","client":"Campaign","photographer":"Jason Nocito","description":""},{"section":"Commercial","project":"Equinox","type":"slideshow","sectionurl":"equinox","url":"[ \"equinox/1.jpg\" ]","slideshow":"[ \"equinox/1.jpg\" ]\n[ \"equinox/2.jpg\" ]\n[ \"equinox/3.jpg\" ]\n[ \"equinox/4.jpg\" ]\n[ \"equinox/5.jpg\" ]\n[ \"equinox/6.jpg\" ]\n[ \"equinox/7.jpg\" ]","client":"Campaign","photographer":"Jason Nocito","description":""},{"section":"Commercial","project":"Nike Running","type":"slideshow","sectionurl":"nike_running","url":"[ \"nikerunning/1.jpg\" ]","slideshow":"[ \"nikerunning/1.jpg\" ]\n[ \"nikerunning/new.jpg\" ]\n[ \"nikerunning/2.jpg\" ]\n[ \"nikerunning/3.jpg\" ]\n[ \"nikerunning/4.jpg\" ]\n[ \"nikerunning/5.jpg\" ]\n[ \"nikerunning/6.jpg\" ]\n[ \"nikerunning/7.jpg\" ]\n[ \"nikerunning/8.jpg\" ]\n[ \"nikerunning/9.jpg\" ]\n[ \"nikerunning/10.jpg\" ]\n[ \"nikerunning/11.jpg\" ]","client":"Campaign","photographer":"Jason Nocito","description":""},{"section":"Commercial","project":"Levis","type":"slideshow","sectionurl":"levis","url":"[ \"levis/00.jpg\" ]","slideshow":"[ \"levis/00.jpg\" ]\n[ \"levis/0.jpg\" ]\n[ \"levis/1.jpg\" ]\n[ \"levis/2.jpg\" ]\n[ \"levis/3.jpg\" ]\n[ \"levis/4.jpg\" ]\n[ \"levis/5.jpg\" ]\n[ \"levis/6.jpg\" ]\n[ \"levis/7.jpg\" ][ \"levis/8.jpg\" ][ \"levis/9.jpg\" ]","client":"Hand Made Denim Campaign","photographer":"Alex John Beck","description":""},{"section":"Commercial","project":"Diesel","type":"slideshow","sectionurl":"diesel","url":"[\"diesel/1.jpg\" ]","slideshow":"[ \"diesel/1.jpg\" ]\n[\"diesel/2a.jpg\", \"diesel/2b.jpg\"]\n[\"diesel/3.jpg\"]\n[ \"diesel/4a.jpg\", \"diesel/4b.jpg\" ]\n[ \"diesel/5.jpg\" ]\n[ \"diesel/6.jpg\" ]\n[ \"diesel/7a.jpg\", \"diesel/7b.jpg\" ]\n[ \"diesel/8.jpg\" ]\n[ \"diesel/9a.jpg\", \"diesel/9b.jpg\" ]\n[ \"diesel/10.jpg\" ]\n[ \"diesel/11a.jpg\", \"diesel/11b.jpg\" ]\n[ \"diesel/12a.jpg\", \"diesel/12b.jpg\" ]\n[ \"diesel/13.jpg\" ]\n[ \"diesel/14a.jpg\", \"diesel/14b.jpg\" ]\n[ \"diesel/15.jpg\" ]\n[ \"diesel/16a.jpg\", \"diesel/16b.jpg\" ]\n[ \"diesel/17.jpg\" ]\n[ \"diesel/18a.jpg\",  \"diesel/18b.jpg\" ]\n[ \"diesel/19.jpg\" ]\n[ \"diesel/20.jpg\" ]\n[ \"diesel/21.jpg\" ]\n[ \"diesel/22a.jpg\", \"diesel/22b.jpg\" ]\n[ \"diesel/23.jpg\" ]\n[ \"diesel/24.jpg\" ]","client":"Campaign","photographer":"Jason Nocito","description":""},{"section":"Commercial","project":"Bantu","type":"slideshow","sectionurl":"bantu","url":"[\"bantu/1.jpg\" ]","slideshow":"[ \"bantu/1.jpg\"]\n[ \"bantu/3.jpg\"]\n[ \"bantu/4.jpg\"]\n[ \"bantu/5.jpg\"]\n[ \"bantu/6.jpg\"]\n[ \"bantu/7.jpg\"]\n[ \"bantu/8.jpg\"]","client":"SS 2014 Campaign","photographer":"Asger Carlsen","description":"Campaign for the 100% sustainable, Made in Africa Surf-wear line."},{"section":"Commercial","project":"Maryam Nassir Zadeh","type":"slideshow","sectionurl":"maryam","url":"[\"maryam/1.jpg\" ]","slideshow":"[ \"maryam/1.jpg\"]\n[ \"maryam/2a.jpg\", \"maryam/2b.jpg\"]\n[ \"maryam/3.jpg\"]\n[ \"maryam/4a.jpg\", \"maryam/4b.jpg\"]\n[ \"maryam/5a.jpg\", \"maryam/5b.jpg\"]\n[ \"maryam/6.jpg\"]\n[ \"maryam/7a.jpg\", \"maryam/7b.jpg\"]\n[ \"maryam/8.jpg\"]\n[ \"maryam/9.jpg\"]","client":"Campaign + Look Book","photographer":"Andre Herrero","description":""},{"section":"Commercial","project":"Opening Ceremony","type":"slideshow","sectionurl":"opening_ceremony","url":"","slideshow":"[ \"openingceremony/1.jpg\" ]\n[ \"openingceremony/2.jpg\" ]\n[ \"openingceremony/3.jpg\" ]\n[ \"openingceremony/4.jpg\" ]\n[ \"openingceremony/5.jpg\" ]\n[ \"openingceremony/6.jpg\" ]\n[ \"openingceremony/7.jpg\" ]\n[ \"openingceremony/8.jpg\" ]\n[ \"openingceremony/9.jpg\" ]\n[ \"openingceremony/10.jpg\" ]\n[ \"openingceremony/11.jpg\" ]\n[ \"openingceremony/12.jpg\" ]\n[ \"openingceremony/13.jpg\" ]\n[ \"openingceremony/14.jpg\" ]\n[ \"openingceremony/15.jpg\" ]","client":"Look Book","photographer":"Tim Barber","description":""},{"section":"Commercial","project":"VPL","type":"slideshow","sectionurl":"vpl_commercial","url":"[ \"vpl_ad/0.jpg\" ]","slideshow":"[ \"vpl_ad/0.jpg\" ]","client":"Advertisement","photographer":"KT Auleta","description":""},{"section":"Fashion","project":"Jeremy","type":"slideshow","sectionurl":"jeremy","url":"[ \"jeremy/1.jpg\" ]","slideshow":"[ \"jeremy/1.jpg\" ]\n[ \"jeremy/2.jpg\" ]\n[ \"jeremy/3.jpg\" ]\n[ \"jeremy/4.jpg\" ]","client":"TRNSWRLD","photographer":"Nils Friedman","description":""},{"section":"Projects","project":"Shanzai Biennial N°1","type":"slideshow","sectionurl":"sb1","url":"[ \"shanzhaibiennial/1.jpg\" ]","slideshow":"[ \"shanzhaibiennial/5.jpg\" ]\n[ \"shanzhaibiennial/6.jpg\" ]\n[ \"shanzhaibiennial/1.jpg\" ]\n[ \"shanzhaibiennial/2.jpg\" ]\n[ \"shanzhaibiennial/3.jpg\" ]\n[ \"shanzhaibiennial/4.jpg\" ]\n[ \"shanzhaibiennial/8.jpg\" ]\n[ \"shanzhaibiennial/9.jpg\" ]","client":"Modern Weekly","photographer":"Asger Carlsen","description":"INAGAUGURAL CAMPAIGN FOR FASHION/ART BRAND SHANZHAI BIENNIAL BASED ON THE PAINTINGS OF CHINESE ART-STAR YUE MINJUN."},{"section":"Projects","project":"Shanzhai Biennial N°2","type":"video","sectionurl":"sb2","url":"<iframe src='http://www.nowness.com/media/embedvideo?itemid=3027&issueid=2442' width='1280' height='720' frameborder='0'></iframe>","slideshow":"","client":"MoMA PS1","photographer":"Shanzhai Biennial","description":"MUSIC VIDEO FEATURING A CHINESE MODEL COVERING SINEAD O'CONNOR'S COVER OF \"NOTHING COMPARES 2 U\" IN A FLOOR LENGTH SEQUINED GOWN IN THE LIKENESS OF A BOTTLE OF HEAD AND SHOULDERS ANTI-DANDRUFF SHAMPOO. INSTALLED AT MOMA PS1 AS PART OF EXPO-1 ON A 20X10 FT FLEXIBLE L.E.D CURTAIN VISITORS COULD WALK THROUGH AND TOUCH."},{"section":"Projects","project":"Bernedette Corp.","type":"slideshow","sectionurl":"bernedette_corp","url":"[ \"bernedettecorp/1.jpg\" ]","slideshow":"[ \"bernedettecorp/1.jpg\" ]\n[ \"bernedettecorp/2.jpg\" ]\n[ \"bernedettecorp/3.jpg\" ]\n[ \"bernedettecorp/4.jpg\" ]\n[ \"bernedettecorp/5.jpg\" ]\n[ \"bernedettecorp/6a.jpg\",  \"bernedettecorp/6b.jpg\" ]\n[ \"bernedettecorp/7.jpg\" ]\n[ \"bernedettecorp/8.jpg\" ]\n[ \"bernedettecorp/9.jpg\" ]\n[ \"bernedettecorp/10.jpg\" ]","client":"The Complete Poem, pub. Koenig Books","photographer":"David Vasiljevic","description":"IMAGES FROM THE BOOK, \"THE COMPLETE POEM\" BY THE NEW YORK ARTIST COLLECTIVE BERNADETTE CORPORATION PHOTOGRAPHY BY DAVID VASILJEVIC. WAS ALSO A SHOW AT GREEN NAFTALI GALLERY."},{"section":"Projects","project":"Animal Planet","type":"slideshow","sectionurl":"animals","url":"[ \"animals/1.jpg\" ]","slideshow":"[\"animals/1.jpg\"]\n[\"animals/2.jpg\"]\n[\"animals/3.jpg\"]\n[\"animals/4.jpg\"]\n[\"animals/5.jpg\"]\n[\"animals/6.jpg\"]\n[\"animals/7.jpg\"]\n[\"animals/8.jpg\"]\n[\"animals/9.jpg\"]\n[\"animals/10.jpg\"]","client":"Bidoun Magazine","photographer":"Boru O'Brien O'Connell","description":""},{"section":"Projects","project":"Remote Photos","type":"slideshow","sectionurl":"remote_photos","url":"[ \"remotephotos/remote.jpg\" ]","slideshow":"[ \"remotephotos/remote.jpg\" ]\n[ \"remotephotos/remote1.jpg\" ]\n[ \"remotephotos/remote2.jpg\" ]\n[ \"remotephotos/remote3.jpg\" ]\n[ \"remotephotos/remote4.jpg\" ]","client":"pub. Léo Scheer editions","photographer":"Martha Camarillo","description":"A BOOK INVESTIGATING FASHION AND TEENAGE IDENTITY: A RANDOM GROUP OF AMERICAN TEENAGERS WERE SENT FASHION SAMPLES AND DISPOSABLE CAMERAS AND ASKED TO PHOTOGRAPH THEMSELVES."},{"section":"Projects","project":"Wow-Wow-Wee","type":"slideshow","sectionurl":"wow_wee","url":"[ \"wowowwee/0.jpg\", \"wowowwee/1.jpg\" ]","slideshow":"[ \"wowowwee/0.jpg\", \"wowowwee/1.jpg\" ]\n[ \"wowowwee/2.jpg\", \"wowowwee/3.jpg\" ]\n[ \"wowowwee/4.jpg\", \"wowowwee/5.jpg\" ]\n[ \"wowowwee/6.jpg\", \"wowowwee/7.jpg\" ]\n[ \"wowowwee/8.jpg\", \"wowowwee/9.jpg\" ]\n[ \"wowowwee/10.jpg\", \"wowowwee/11.jpg\" ]\n[ \"wowowwee/12.jpg\", \"wowowwee/13.jpg\" ]\n[ \"wowowwee/14.jpg\", \"wowowwee/15.jpg\" ]\n[ \"wowowwee/16.jpg\", \"wowowwee/17.jpg\" ]\n[ \"wowowwee/18.jpg\", \"wowowwee/19.jpg\" ]\n[ \"wowowwee/20.jpg\", \"wowowwee/21.jpg\" ]","client":"Serpentine Gallery, London","photographer":"Carissa Rodriguez","description":"FOR THE GARDEN MARATHON AT LONDON’S SERPENTINE GALLERY, WOW-WOW-WEE OPENED THE FLIP-FILE ON CONTEMPORARY PICNICKING VIA PINOY PRIDE. MANET-MEETS-MANILA SUR L’HERBE, SUNDAY AFTERNOON ON THE ISLAND OF LUZON (NG SEURAT, N’EST-CE PAS?), TAKING THE GUES(S)TWORK OUT OF DOMESTIC DRESSING AND PUTTING IT OUTDOORS WITH HIGH STREET, LOW-COST SPORTSWEAR. “HEP, HEP, HOORAY!” A POST-COLONIAL TRIBAL YOUNIFORM FOR UK DISPLAY."},{"section":"Projects","project":"Design Within Riche","type":"slideshow","sectionurl":"riche","url":"[ \"designwithinriche/1.jpg\" ]","slideshow":"[ \"designwithinriche/1.jpg\" ]\n[ \"designwithinriche/2.jpg\" ]","client":"Guyton-Walker Studio","photographer":"Carissa Rodriguez","description":"IT’S TITLE INSPIRED FROM AN EMBROIDERY ON A PILLOW BELONGING TO EMELDA MARCOS READING “NOUVEAU RICHE IS BETTER THAN NO RICHE AT ALL”, DESIGN WITHIN RICHE WAS A PERFORMANCE DEALING WITH FASHION AND LABOR. IT CONSISTED OF A MODEL SITTING UNDER A  GUYTON-WALKER COCONUT LAMP. THE MODEL WAS DRESSED IN A SILVER SHIFT DRESS FROM PRADA’S SPRING COLLECTION, WITH A SILHOUETTE OF A PALM TREE AS A SMALL TROPICAL DETAIL REMINSCENT OF THE PHILIPPINES: A GENERAL STAND-IN FOR THE ROTE LABOR THAT GOES INTO MAKING READY-TO-WEAR CLOTHING. "},{"section":"Portraits","project":"Courtney Love","type":"slideshow","sectionurl":"courtney_love","url":"[ \"courtney/2b.jpg\" ]","slideshow":"[ \"courtney/2b.jpg\"]\n[ \"courtney/2.jpg\" ]\n[ \"courtney/3.jpg\", \"courtney/3b.jpg\" ]\n[ \"courtney/5.jpg\" ]\n[ \"courtney/4.jpg\", \"courtney/4b.jpg\" ]\n[ \"courtney/1.jpg\" ]\n[ \"courtney/1b.jpg\" ]","client":"Vanidad Magazine","photographer":"David Roemer","description":""},{"section":"Portraits","project":"IUD","type":"slideshow","sectionurl":"iud","url":"[ \"iud/1.jpg\" ]","slideshow":"[ \"iud/1.jpg\" ]\n[ \"iud/2.jpg\" ]\n[ \"iud/3.jpg\" ]","client":"Vice Magazine","photographer":"Richard Kern","description":""},{"section":"Portraits","project":"Tracy Morgan","type":"slideshow","sectionurl":"tracy_morgan","url":"[ \"tracymorgan/2.jpg\"]\n","slideshow":"[ \"tracymorgan/2.jpg\"]\n[ \"tracymorgan/1.jpg\"]\n[ \"tracymorgan/3.jpg\" ]\n[ \"tracymorgan/1b.jpg\"]\n[ \"tracymorgan/2b.jpg\" ]\n[\"tracymorgan/3b.jpg\"]","client":"Bullet Magazine","photographer":"Marcelo Krasilcic","description":""},{"section":"Portraits","project":"Karley Sciortino","type":"slideshow","sectionurl":"Karley Sciortino","url":"[\"purple/1.jpg\"]","slideshow":"[\"purple/1.jpg\"]\n[\"purple/3.jpg\"]\n[\"purple/4.jpg\"]\n[\"purple/5.jpg\"]\n[\"purple/6A.jpg\", \"purple/6B.jpg\"]\n[\"purple/7.jpg\"]\n[\"purple/8.jpg\"]","client":"Purple Fashion","photographer":"Stacey Mark","description":"PORTRAITS OF SEX-WRITER AND BLOGGER OF \"SLUTEVER\" KARLEY SCIORTINO FOR PURPLE FASHION."},{"section":"Portraits","project":"Dennis Hopper","type":"slideshow","sectionurl":"dennis_hopper","url":"[ \"dennis/0.jpg\" ]","slideshow":"[ \"dennis/0.jpg\" ]\n[ \"dennis/1.jpg\" ]","client":"Bidoun Magazine","photographer":"Boru O'Brien O'Connell","description":""},{"section":"Portraits","project":"Navid Negahban","type":"slideshow","sectionurl":"navid","url":"[ \"navid/1.jpg\"]","slideshow":"[ \"navid/1.jpg\"]\n[\"navid/2.jpg\" ]\n[ \"navid/3.jpg\", \"navid/4.jpg\" ]\n[ \"navid/5.jpg\"]\n[\"navid/6.jpg\" ]","client":"Bidoun Magazine","photographer":"Michael Schmelling","description":"VILLAIN OF THE HIT SERIES “HOMELAND” LOITERS AROUND VARIOUS LOS ANGELES SUPERMARKETS IN VAGUELY THREATENING ATTIRE."},{"section":"Portraits","project":"Kate Moss","type":"slideshow","sectionurl":"kate_moss","url":"[ \"moss/1.jpg\" ]","slideshow":"[ \"moss/1.jpg\" ]","client":"V Magazine","photographer":"Mick Rock","description":""},{"section":"Film","project":"Telfar Mainstream:Fluid","type":"video","sectionurl":"telfar","url":"<iframe src=\"//www.youtube.com/embed/dY5-6WGzh8U\" width='1280' height='720' frameborder='0'></iframe>","slideshow":"","client":"TELFAR SS 2014","photographer":"MAINSTREAM:FLUID","description":"by SHANZHAI BIENNIAL"},{"section":"Film","project":"Lost Olympics (Baseball)","type":"video","sectionurl":"olympics1","url":"<iframe src='http://www.nowness.com/media/embedvideo?itemid=2330&issueid=2097' width='1280' height='720' frameborder='0'></iframe>","slideshow":"","client":"NOWNESS","photographer":"KT Auleta","description":""},{"section":"Film","project":"Lost Olympics (Tennis)","type":"video","sectionurl":"olympics2","url":"<iframe src=\"http://player.vimeo.com/video/49687272\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>","slideshow":"","client":"NOWNESS","photographer":"KT Auleta","description":""},{"section":"Film","project":"Twilight Zone","type":"video","sectionurl":"tzvid","url":"<iframe src=\"http://player.vimeo.com/video/30095683\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href=\"http://vimeo.com/30095683\">Jason Nocito for Nylon</a> from <a href=\"http://vimeo.com/user4722544\">DSREPS</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>","slideshow":"","client":"Nylon Magazine","photographer":"Jason Nocito","description":""},{"section":"Film","project":"Apiece Apart","type":"video","sectionurl":"a_piece_apart","url":"<iframe src=\"http://player.vimeo.com/video/54200724\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>","slideshow":"","client":"SS/2010","photographer":"KT Auleta","description":"VIDEO LOOK-BOOK FOR THE CLOTHING LINE A PIECE APART"},{"section":"Film","project":"Runaround","type":"video","sectionurl":"runaround","url":"<iframe src=\"http://player.vimeo.com/video/14921065\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>","slideshow":"","client":"","photographer":"KT Auleta","description":"A NARRATIVE SHORT THAT EXPLORES THE SEXUAL MATURATION OF A PROMISCUOUS, SMALL TOWN AMERICAN GIRL, AND HER 2 BEST FRIENDS AS THEY SPEND THE SUMMER PURSUING A GOLDEN TAN AND THE OPPOSITE SEX."},{"section":"Runway","project":"TELFAR SS 2014","type":"slideshow","sectionurl":"TELFAR_SS2014","url":"","slideshow":"[ \"telfarss2014/1.jpg\"]\n[ \"telfarss2014/2.jpg\"]\n[ \"telfarss2014/3.jpg\"]\n[ \"telfarss2014/4.jpg\"]\n[ \"telfarss2014/5.jpg\"]\n[ \"telfarss2014/6.jpg\"]\n[ \"telfarss2014/7.jpg\"]\n[ \"telfarss2014/8.jpg\"]\n[ \"telfarss2014/9.jpg\"]\n[ \"telfarss2014/10.jpg\"]\n[ \"telfarss2014/11.jpg\"]\n[ \"telfarss2014/12.jpg\"]\n[ \"telfarss2014/13.jpg\"]\n[ \"telfarss2014/14.jpg\"]\n[ \"telfarss2014/15.jpg\"]\n[ \"telfarss2014/16.jpg\"]\n[ \"telfarss2014/17.jpg\"]\n[ \"telfarss2014/18.jpg\"]\n[ \"telfarss2014/19.jpg\"]\n[ \"telfarss2014/20.jpg\"]\n[ \"telfarss2014/21.jpg\"]\n[ \"telfarss2014/22.jpg\"]\n[ \"telfarss2014/23.jpg\"]\n[ \"telfarss2014/24.jpg\"]\n[ \"telfarss2014/25.jpg\"]\n[ \"telfarss2014/26.jpg\"]\n[ \"telfarss2014/27.jpg\"]\n[ \"telfarss2014/28.jpg\"]\n[ \"telfarss2014/29.jpg\"]\n[ \"telfarss2014/30.jpg\"]\n[ \"telfarss2014/31.jpg\"]","client":"","photographer":"","description":""}]</script></body></html>
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<link rel="stylesheet" type="text/css" href="/assets-fw/css/main.css">
+<title>México prepara estrategia para salvar a la vaquita marina</title>
+<meta content="FayerWayer" name="author">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta charset="UTF-8">
+<link href="/assets-fw/img/apple-touch-icon.png" rel="apple-touch-icon" sizes="114x114">
+<link href="/assets-fw/img/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+<link href="/assets-fw/img/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+<link href="/assets-fw/manifest.json" rel="manifest">
+<meta content="#FF5227" name="theme-color">
+<meta property="fb:pages" content="6054184526" />
+<script type="text/javascript">
+      dataLayer = [{
+          'article_id': '384999',
+          'page_title': decodeURIComponent("M%C3%A9xico%20prepara%20estrategia%20para%20salvar%20a%20la%20vaquita%20marina".replace(/&#34;/g,'"')),
+          'pub_date': '2019/01/28%2014:49:13',
+          'pub_date_simple': '2019/01/28%2014:49:13',
+          'pub_date_GMT': '2019/01/28%2017:49:13',
+          'upd_date': '2019/01/28%2016:18:50',
+          'upd_date_GMT': '2019/01/28%2013:18:50',
+          'generateddate': '2019/01/28%2014:49:15',
+          'main_zone': 'fw',
+          'agency': 'fw',
+          'autor_name': 'York%20Perry',
+          'owner_market': 'fw',
+          'current_market': 'fw',
+          'byline': '',
+          'channel_name': 'politica',
+          'sub_channel_names': 'politica',
+          'all_channel_names': 'politica',
+          'pub_type': 'normal',
+          'content_type': 'article',
+          'canonical_link': 'https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina',
+          'current_link': 'https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina',
+          'countryCdn' : 'CL'
+      }];
+
+  </script>
+<script>
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			 })(window,document,'script','dataLayer','GTM-MQTRQ4Z');
+	</script>
+<script>
+
+				var mainCategory =  "politica";
+				var allCategories =  "politica";
+				var fechaMarca =  "2019-01-28T14:49:13-03:00";
+				var idPost = "384999";
+				var tipoPost = "article";
+				/* queue */
+				function capitalizeFirstLetter(string) {
+				    return string.charAt(0).toUpperCase() + string.slice(1);
+				}
+
+	     var googletag = googletag || {};
+	     googletag.cmd = googletag.cmd || [];
+			 
+			 	var shortname= "fayerwayer";
+				var bottomShortname = "fayerwayerbz";
+			 
+
+	     window.__ad_site = 'BZ_'+capitalizeFirstLetter(shortname);
+
+	    // window.__ad_slug = 'politica';
+var slices = window.location.href.split("/");
+var size=slices.length;window.__ad_slug=slices[size-2];
+console.log(window.__ad_slug);
+			 if(window.__ad_slug == "www.fayerwayer.com"){
+				 window.__ad_slug = "";
+			 }
+	     window.__ad_channel = 'politica';
+	     window.__ad_pagetype = 'article';
+	     window.__ad_keyword = 'extinci&oacute;n,M&eacute;xico,Vaquita marina'.replace(/,\s+/g,",");
+	     window.__disqus_shortname = shortname;
+			 
+			         
+			         
+			 
+			 
+			 
+			 
+			 window.__ad_native = 'false';
+			 
+			 
+			 window.__ad_safety = 'false';
+			 
+
+	     window.__site = 'fayerwayer'
+	     window.__crossposted_sites = [["belelu","https:\/\/www.belelu.com"],["bolido","https:\/\/www.bolido.com"],["fayerwayer","https:\/\/www.fayerwayer.com"],["niubie","https:\/\/www.niubie.com"],["saborizante","https:\/\/www.saborizante.com"],["sabrosia","https:\/\/www.sabrosia.com"],["veoverde","https:\/\/www.veoverde.com"],["wayerless","https:\/\/www.wayerless.com"]];
+
+
+	     /* we have to expose jquery as $ cause ads creatives assume jquery is always available as $ :( */
+	     function exposeJqueryAsAliasBecauseReasons(){
+	       setTimeout(function(){
+	         if(window.jQuery){
+	           window.$ = jQuery.noConflict(false);
+	         }else{
+	           exposeJqueryAsAliasBecauseReasons()
+	         }
+	       }, 10);
+	     }
+
+	     exposeJqueryAsAliasBecauseReasons()
+
+	     /*
+	     * this does not need docu :D
+	     */
+	     window.onDomLoaded = function(fn){
+	       jQuery(document).ready(function(){
+	         typeof fn === 'function' && fn()
+	       })
+	     }
+
+	     /*
+	     *  displaySlotIf
+	     *  evaluates if a slot display call should
+	     *  be made or not based on device
+	     *  @devices: string|array
+	     *  @slotID: string
+	     */
+	     window.displaySlotIf = function(devices, slotID){
+	       var currentDevice = 'mobile';
+	       var called = false;
+
+	       function displayCall(id){
+	         googletag.cmd.push(function() { googletag.display(id); });
+	       }
+
+	       if(window.innerWidth >= 768){
+	         currentDevice = 'tablet';
+	       }
+
+	       if(window.innerWidth > 1024){
+	         currentDevice = 'desktop';
+	       }
+
+
+	       if(typeof devices === 'string'){
+	         if(currentDevice.indexOf(devices) !== -1){
+	           displayCall(slotID);
+	           called = true;
+	         }
+	       }
+
+	       if(typeof devices === 'object' && devices.length){
+	         devices.forEach(function(device){
+	           if(currentDevice.indexOf(device) !== -1 && !called){
+	             displayCall(slotID);
+	             called = true;
+	           }
+	         })
+	       }
+
+	       return called;
+	     }
+	</script>
+<link rel="canonical" href="https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina/" />
+
+<meta property="article:tag" content="extinción" />
+<meta property="article:tag" content="México" />
+<meta property="article:tag" content="Vaquita marina" />
+<meta name="description" content="La Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT) arma un programa para proteger a la vaquita marina y otras especies del Golfo de California.">
+<meta content="noodp" name="robots">
+<link href="https://www.fayerwayer.com/" rel="https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina/">
+<meta content="es_ES" property="og:locale">
+<meta content="website" property="og:type">
+<meta property="og:title" content="México prepara estrategia para salvar a la vaquita marina" />
+<meta property="og:description" content="La Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT) arma un programa para proteger a la vaquita marina y otras especies del Golfo de California." />
+<meta content="https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina/" property="og:url">
+<meta property="og:site_name" content="FayerWayer" />
+<meta content="summary_large_image" name="twitter:card">
+<meta name="twitter:description" content="La Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT) arma un programa para proteger a la vaquita marina y otras especies del Golfo de California." />
+<meta name="twitter:title" content="México prepara estrategia para salvar a la vaquita marina" />
+
+<meta property="og:image" content="https://media.metrolatam.com/2019/01/28/vaquitamarina-4db76cf4a351e38367365941456d99d8-1200x800.jpg" />
+<meta property="og:image:secure_url" content="https://media.metrolatam.com/2019/01/28/vaquitamarina-4db76cf4a351e38367365941456d99d8-1200x800.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="800" />
+<meta name="twitter:image" content="https://media.metrolatam.com/2019/01/28/vaquitamarina-4db76cf4a351e38367365941456d99d8-1200x800.jpg" />
+<link rel="amphtml" href="https://www.fayerwayer.com/metroamp/2019/01/mexico-salvar-vaquita-marina/">
+<script type='application/ld+json'>
+	{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.fayerwayer.com\/","name":"FayerWayer","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.fayerwayer.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}
+	</script>
+<link href='//www.googletagservices.com' rel='dns-prefetch'>
+<link href='//s.w.org' rel='dns-prefetch'>
+
+<script type='text/javascript'>
+	  (function() {
+	    var useSSL = 'https:' == document.location.protocol;
+	    var src = (useSSL ? 'https:' : 'http:') +
+	        '//www.googletagservices.com/tag/js/gpt.js';
+	    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+	  })();
+	</script>
+</script>
+<script src='/assets-fw/js/jquery.js' type='text/javascript'>
+	</script>
+<script src='/assets-fw/js/jquery-migrate.min.js?ver=1.4.1' type='text/javascript'>
+	</script>
+<script src='/assets-fw/js/advertising.js' type='text/javascript'>
+	</script>
+<link href='//www.google-analytics.com' rel='dns-prefetch'>
+<link href='//www.googletagmanager.com' rel='dns-prefetch'>
+<link href="//fonts.googleapis.com/css?family=Lato:700,400,300" rel="prefetch">
+<script>
+	function getQueryString(a,b){var c=b?b:window.location.href,d=new RegExp("[?&]"+a+"=([^&#]*)","i"),e=d.exec(c);return e?e[1]:null}
+	</script>
+<script type="text/javascript" src="//cmp.smartadserver.mgr.consensu.org/stub.js"></script>
+<script type="application/javascript" src="//ced.sascdn.com/tag/2276/smart.js" async></script>
+<script>
+  window.cmpLang = {
+    "es": {
+        "footerTitle": "Tu privacidad es importante para nosotros.",
+        "footerLogoUrl": "",
+        "footerDescription": "Nosotros y nuestros sitios asociados utilizamos cookies para personalizar nuestro contenido y crear experiencias más valiosas para ti. Podemos recopilar información no confidencial sobre su uso.  Tú puedes aceptar completamente el uso de esta tecnología, o bien, administrar tu configuración para controlar qué información se recopila y procesa.  Para más información sobre nuestras Políticas de Datos, visite nuestra Declaración de Privacidad.",
+        "footerManageBtnText": "Configurar preferencias",
+        "footerAcceptAllBtnText": "Aceptar",
+        "modalTitle": "Tu privacidad es importante para nosotros.",
+        "modalDescription": "Nosotros y nuestros sitios asociados utilizamos cookies para personalizar nuestro contenido y crear experiencias más valiosas para ti. Podemos recopilar información no confidencial sobre su uso.  Tú puedes aceptar completamente el uso de esta tecnología, o bien, administrar tu configuración para controlar qué información se recopila y procesa.  Para más información sobre nuestras Políticas de Datos, visite nuestra Declaración de Privacidad.",
+        "modalPurposeTitle": "Autorizo ",
+        "modalVendorTitle": "Para los siguientes sitios asociados",
+        "modalSaveBtnText": "Guardar",
+        "modalAcceptAllBtnText": "Aceptar todo",
+        "modalRejectAllBtnText": "Rechazar todo"
+    },
+   "en": {
+       "footerTitle": "Your privacy is important to us",
+       "footerLogoUrl": "",
+       "footerDescription": "We and our partners use cookies to personalize your content and create more valuable experiences for you. We may collect non-sensitive information about your usage. You can consent to the use of this technology or manage your settings to fully control what information is being collected and processed. For more information on our data policies, please visit our Privacy Statement.",
+       "footerManageBtnText": "Manage my choices",
+       "footerAcceptAllBtnText": "Accept",
+       "modalTitle": "Your privacy is important to us",
+       "modalDescription": "We and our partners use cookies to personalize your content and create more valuable experiences for you. We may collect non-sensitive information about your usage. You can consent to the use of this technology or manage your settings to fully control what information is being collected and processed. For more information on our data policies, please visit our Privacy Statement.",
+       "modalPurposeTitle": "You authorize",
+       "modalVendorTitle": "For the following partners",
+       "modalSaveBtnText": "Save",
+       "modalAcceptAllBtnText": "Accept all",
+       "modalRejectAllBtnText": "Reject all"
+   },
+   "fr": {
+       "footerTitle": "Votre vie privée est importante pour nous",
+       "footerLogoUrl": "",
+       "footerDescription": "Nous et nos partenaires utilisons des cookies pour personnaliser votre contenu et créer des expériences plus précieuses pour vous. Nous pouvons collecter des informations non sensibles sur votre utilisation. Vous pouvez consentir à l'utilisation de cette technologie ou gérer vos paramètres pour contrôler entièrement les informations collectées et traitées. Pour plus d'informations sur nos politiques de données, s'il vous plaît visitez notre Déclaration de confidentialité.",
+       "footerManageBtnText": "Gérer mes choix",
+       "footerAcceptAllBtnText": "Accepter",
+       "modalTitle": "Votre vie privée est importante pour nous",
+       "modalDescription": "Nous et nos partenaires utilisons des cookies pour personnaliser votre contenu et créer des expériences plus précieuses pour vous. Nous pouvons collecter des informations non sensibles sur votre utilisation. Vous pouvez consentir à l'utilisation de cette technologie ou gérer vos paramètres pour contrôler entièrement les informations collectées et traitées. Pour plus d'informations sur nos politiques de données, s'il vous plaît visitez notre Déclaration de confidentialité.",
+       "modalPurposeTitle": "Vous autorisez",
+       "modalVendorTitle": "Pour les partenaires suivants",
+       "modalSaveBtnText": "Sauvegarder",
+       "modalAcceptAllBtnText": "Tout accepter",
+       "modalRejectAllBtnText": "Tout rejeter"
+   }
+ }
+</script>
+</head>
+<body class="homepage" data-country="fw">
+<input type="hidden" value="QUERY_STRING=&pais=CL" />
+<div class="main-article" data-id="384999"></div>
+<div id='ad_skin'>
+<script>
+		googletag.cmd.push(function() { googletag.display('ad_skin'); });
+		</script>
+</div>
+<div id='ad_layer'>
+<script>
+		googletag.cmd.push(function() { googletag.display('ad_layer'); });
+		</script>
+</div>
+<div id='ad_teads'>
+<script>
+		googletag.cmd.push(function() { googletag.display('ad_teads'); });
+		</script>
+</div>
+<div id='ad_footer'>
+<script>
+		displaySlotIf(['desktop', 'tablet', 'mobile'], 'ad_footer');
+		</script>
+</div>
+<canvas id="gameCanvas" style="background-color:black;display:none;margin:0 auto;"></canvas>
+<section class="ads ads-header-big">
+<div class="container">
+<a class="close-ads-header-big" href="javascript:void(0);"><i class="fa fa-times-circle"></i></a>
+<div id='ad_header'>
+<script>
+      googletag.cmd.push(function() { googletag.display('ad_header'); });
+      </script>
+</div>
+</div>
+</section>
+<section class="bz-network only-desktop">
+<div class="container">
+<nav class="social only-desktop">
+<ul>
+<li>
+Síguenos
+</li>
+<li>
+<a href="https://twitter.com/fayerwayer" target="_blank"><i class="fa fa-twitter"></i></a>
+</li>
+<li>
+<a href="https://facebook.com/fayerwayer" target="_blank"><i class="fa fa-facebook"></i></a>
+</li>
+<li>
+<a href="https://instagram.com/fayerwayeroficial/" target="_blank"><i class="fa fa-instagram"></i></a>
+</li>
+<li>
+<a href="https://youtube.com/user/fayerwayer" target="_blank"><i class="fa fa-youtube-play"></i></a>
+</li>
+<li>
+<a href="https://feeds.feedburner.com/fayerwayer" target="_blank"><i class="fa fa-rss"></i></a>
+</li>
+</ul>
+</nav>
+<nav class="our-network only-desktop">
+<ul>
+<li>Nuestra Red :</li>
+<li>
+<a class="l-publimetro" href="http://www.publimetro.cl/cl/" target="_blank" title="Publimetro">Publimetro</a>
+</li>
+<li><a class="l-nuevamujer" href="http://www.nuevamujer.com/" target="_blank" title="Nueva Mujer">Nueva Mujer</a></li><li><a class="l-ign" href="http://latam.ign.com" target="_blank" title="IGN">IGN</a></li><li><a class="l-salvajes" href="http://www.salvajes.com" target="_blank" title="Salvajes">Salvajes</a></li>
+<li>
+<a class="l-zonainmobiliaria" href="http://www.zonainmobiliaria.com" target="_blank" title="Zona Inmobiliaria">Zona Inmobiliaria</a>
+</li>
+</ul>
+</div>
+</section>
+<section class="ads ads-desktop ads-header">
+<div id='ad_top'>
+<script>
+    googletag.cmd.push(function() { googletag.display('ad_top'); });
+    </script>
+</div>
+</section>
+<section class="ads ads-desktop ads-pre-header">
+<div id='ad_push'>
+<script>
+    googletag.cmd.push(function() { googletag.display('ad_push'); });
+    </script>
+</div>
+</section>
+<header class="container">
+<div class="container block">
+<div class="left parent">
+<a class="brand child" href="/"><img alt="FayerWayer" src="/assets-fw/img/logo.png"></a> <button class="button-menu child only-mobile" id="mobile-menu"><i class="fa fa-bars"></i></button>
+<ul class="menu"><li><a href="/category/moviles/" title="Móviles">Móviles</a></li><li><a href="/category/videojuegos/" title="Videojuegos">Videojuegos</a></li><li><a href="/category/ciencia/" title="Ciencia">Ciencia</a></li><li><a href="/category/internet/" title="Internet">Internet</a></li><li><a href="/category/hardware/" title="Hardware">Hardware</a></li><li><a href="/category/entretencion/" title="Entretenimiento">Entretenimiento</a></li></ul>
+</div>
+<div class="right">
+<button class="button-search only-desktop" id="search-button"><i class="fa fa-search"></i></button>
+<form action="/" class="search-desktop" method="get" role="search" style="display:none;">
+<input class="search-input" name="s" placeholder="Ingresa tu búsqueda" type="search">
+</form>
+<button class="button-search-mobile only-mobile" id="button-search-mobile"><i class="fa fa-search"></i></button>
+</div>
+</div>
+</header>
+<section class="menu-mobile-search container">
+<a class="overlay close-overlay-search-mobile" href="javascript:void(0);" rel="nofollow"></a>
+<form action="/" class="mobile-searchform" method="get" role="search">
+<input class="search-input" name="s" placeholder="Ingresa tu búsqueda" type="search"> <a class="close-overlay-search-mobile" href="javascript:void(0)" rel="nofollow"><i class="fa fa-close"></i></a>
+</form>
+</section>
+<section class="menu-mobile">
+<div class="content">
+<nav>
+<ul class="menu"><li><a href="/category/moviles/" title="Móviles">Móviles</a></li><li><a href="/category/videojuegos/" title="Videojuegos">Videojuegos</a></li><li><a href="/category/ciencia/" title="Ciencia">Ciencia</a></li><li><a href="/category/internet/" title="Internet">Internet</a></li><li><a href="/category/hardware/" title="Hardware">Hardware</a></li><li><a href="/category/entretencion/" title="Entretenimiento">Entretenimiento</a></li></ul>
+<ul>
+<li>
+<a class="network-menu js-menu-mobile-network" href="javascript:void(0);">Más de nuestra red</a>
+<ul class="network submenu">
+<li><a class="l-nuevamujer" href="http://www.nuevamujer.com/" target="_blank" title="Nueva Mujer">Nueva Mujer</a></li><li><a class="l-ign" href="http://latam.ign.com" target="_blank" title="IGN">IGN</a></li><li><a class="l-salvajes" href="http://www.salvajes.com" target="_blank" title="Salvajes">Salvajes</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+<section class="followus">
+<div class="brand"><img onerror="this.src='/assets-fw/img/logo-footer.png';this.onerror=null;" src="/assets-fw/img/logo-footer.svg"></div>
+<div class="tagline">
+<p>Dosis diarias de tecnología en español.™</p>
+</div>
+<div class="title">
+Síguenos
+</div>
+<ul>
+<li>
+<a href="https://twitter.com/fayerwayer" target="_blank"><i class="fa fa-twitter"></i></a>
+</li>
+<li>
+<a href="https://facebook.com/fayerwayer" target="_blank"><i class="fa fa-facebook"></i></a>
+</li>
+<li>
+<a href="https://instagram.com/fayerwayeroficial/" target="_blank"><i class="fa fa-instagram"></i></a>
+</li>
+<li>
+<a href="https://youtube.com/user/fayerwayer" target="_blank"><i class="fa fa-youtube-play"></i></a>
+</li>
+<li>
+<a href="https://feeds.feedburner.com/fayerwayer" target="_blank"><i class="fa fa-rss"></i></a>
+</li>
+</ul>
+</section>
+<footer>
+<div class="container mobile-footer">
+<div class="metro">
+<a href="#"><img onerror="this.src='/assets-fw/img/logo-metro.png'; this.onerror=null;" src="/assets-fw/img/logo-metro.svg"></a>
+<p>FayerWayer es una marca registrada de Betazeta Networks S.A., Publimetro S.A., Metro International S.A. by-nc-sa (cc) 2017. Algunos derechos reservados. El contenido de este sitio está licenciado bajo CreativeCommons.</p>
+</div>
+<div class="contact">
+<img alt="Betazeta" src="/assets-fw/img/logo-betazeta.svg">
+<p>Contacto Editorial: <a href="/cdn-cgi/l/email-protection#8ee8eff7ebfcf9eff7ebfcceecebfaeff4ebfaefa0ede1e3" target="_blank"><span class="__cf_email__" data-cfemail="3d5b5c44584f4a5c44584f7d5f58495c4758495c135e5250">[email&#160;protected]</span></a></p>
+<p>Contacto Comercial: <a href="/cdn-cgi/l/email-protection#dfb7b0b3be9fbdbaabbea5baabbef1bcb0b2" target="_blank"><span class="__cf_email__" data-cfemail="3d5552515c7d5f58495c4758495c135e5250">[email&#160;protected]</span></a></p>
+</div>
+</div>
+</footer>
+</div>
+<div class="close-box">
+<a href="javascript:void(0);" id="close-menu-mobile"></a>
+</div>
+</section>
+<main class="single clear">
+<div id="skin-branding">
+<div class="container js-skin-content-wrapper clear">
+<section class="body-post clear">
+<div data-io-article-url="https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina/">
+<article class="single-post">
+
+
+<div class="top">
+<div class="thumbnail">
+<img alt="México prepara estrategia para salvar a la vaquita marina" src="https://media.metrolatam.com/2019/01/28/vaquitamarina-4db76cf4a351e38367365941456d99d8-1200x600.jpg">
+</div>
+<div class="gradient"></div>
+<div class="title-top">
+<h3>
+<a href="/category/politica" title="Pol&iacute;tica" rel="tag">Pol&iacute;tica</a>
+</h3>
+<h1>México prepara estrategia para salvar a la vaquita marina</h1>
+<div class="author-date">
+<p class="author">
+<span>por</span>
+<a href="https://www.fayerwayer.com/author/8913/" rel="author" title="Posts by York Perry">York Perry</a>
+</p>
+<p class="date js-bz-moment-calendar" data-timestamp="1548697753000">2019/01/28</p> 
+</div>
+</div>
+</div>
+<div class="content-post">
+<div class="author-box">
+<div class="left">
+<a href="/author/8913/" rel="nofollow"><img alt='' class='avatar avatar-65 photo' height='65' src='https://media.metrolatam.com/profile/8913-128x128.jpg?nocache' width='65'></a>
+</div>
+<div class="right">
+<span>por</span> <a href="/author/8913/" rel="author" title="Posts by York Perry">York Perry</a>
+
+</div>
+</div>
+<div class="description">
+<h2>¿Gracias Leonardo DiCaprio?</h2>
+</div>
+<div class="share">
+<div class="counter-share">
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+                  jQuery(function($){
+                           $.ajax({
+                             
+                             url: 'https://graph.facebook.com/?id=https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina',
+                             
+                             success: function(data) {
+                                 $('.share-number div').html(data.share.share_count);
+                             }
+                           });
+                         });
+                  </script>
+<div class="share-number">
+<div class="number"></div><span>Compartidos</span>
+</div>
+</div>
+<ul class="share-buttons">
+<li>
+<a class="facebook popup-link" href="https://www.facebook.com/sharer/sharer.php?u=https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina&t=México prepara estrategia para salvar a la vaquita marina" target="_blank" title="Share on Facebook"><i aria-hidden="true" class="fa fa-facebook fa-2x"></i></a>
+</li>
+<li>
+<a class="twitter popup-link" href="https://twitter.com/intent/tweet?source=https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina&text=México prepara estrategia para salvar a la vaquita marina-%20https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina" target="_blank" title="Tweet"><i aria-hidden="true" class="fa fa-twitter fa-2x"></i></a>
+</li>
+<li class="only-desktop">
+<a class="googleplus popup-link" href="https://plus.google.com/share?url=https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina" target="_blank" title="Share on Google+"><i aria-hidden="true" class="fa fa-google-plus fa-2x"></i></a>
+</li>
+<li class="only-desktop">
+<a class="pinterest popup-link" href="https://pinterest.com/pin/create/button/?url=https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina&description=México prepara estrategia para salvar a la vaquita marina" target="_blank" title="Pin it"><i aria-hidden="true" class="fa fa-pinterest fa-2x"></i></a>
+</li>
+<li class="whatsapp only-mobile">
+<a data-action="share/whatsapp/share" href="whatsapp://send?text=México prepara estrategia para salvar a la vaquita marina%20-%20https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina" rel="nofollow"><i aria-hidden="true" class="fa fa-whatsapp fa-2x"></i></a>
+</li>
+<li class="telegram only-mobile">
+<a href="https://telegram.me/share/url?url=https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina&text=México prepara estrategia para salvar a la vaquita marina" title="Telegram"><i aria-hidden="true" class="fa fa-telegram fa-2x"></i></a>
+</li>
+</ul>
+</div>
+<div class="content-note">
+<div id='ad_hcodemedia'>
+<script>
+              		googletag.cmd.push(function() { googletag.display('ad_hcodemedia'); });
+              		</script>
+</div>
+<p>La <strong>Vaquita Marina</strong><a href="https://www.fayerwayer.com/2018/05/adios-vaquita-marina-mexico-no-salvarla/"> tenía sus días contados en México</a> a la mitad de 2018. Sin embargo han surgido <a href="https://www.publimetro.com.mx/mx/noticias/2018/10/17/vaquita-marina-esperanza-salvarse-la-extincion.html">algunos milagrosos giros inesperados</a>; con los que es posible aún salvar la especie.</p>
+<p>La situación por desgracia es extremadamente complicada. Ya que luego de una serie de embargos los pescadores furtivos han vuelto a las andadas. Con <strong><a href="https://www.am.com.mx/2019/01/12/viral/un-grupo-de-cuidadores-de-la-vaquita-marina-fueron-atacados-por-pescadores-por-lo-que-tuvieron-que-alejarse-de-la-zona-pero-continuaran-con-la-vigilancia-538670">acciones agresivas</a></strong> donde incluso han llegado a atacar a los cuidadores de la vaquita marina.</p>
+<a href="https://media.metrolatam.com/2019/01/28/vaquitamarinabg-f74a0a4deba0be0782c9ace2bbf75313.jpg" target="_blank" class="fluid-width-image-wrapper"><img class="aligncenter size-large wp-image-790126" alt="Vaquita Marina" title="Vaquita Marina" src="https://media.metrolatam.com/2019/01/28/vaquitamarinabg-f74a0a4deba0be0782c9ace2bbf75313.jpg"></a>
+<p>En razón de ello la<strong> Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT)</strong> y la <strong>Secretaría de Agricultura y Desarrollo Rural (SADER)</strong>; acaban de anunciar que pondrán en marcha un programa integral de atención que buscará solucionar este conflicto.</p>
+<p>Según señala en <strong><a href="https://www.gob.mx/semarnat/prensa/el-gobierno-de-mexico-a-traves-de-semarnat-y-sader-pondra-en-marcha-programa-integral-para-la-sustentabilidad-pesquera-en-el-alto-golfo-de-california">un comunicado oficial de la SEMARNAT</a></strong>; el programa buscará mejorar la protección de la biodiversidad y elevar las condiciones de vida de las comunidades costeras de la región.</p>
+<blockquote><p>El plan establecerá <strong>metas y acciones de corto, mediano y largo plazo,</strong> como el fortalecimiento de prácticas de pesca sustentable; y otras actividades económicas rentables y consistentes con la preservación de la biodiversidad.</p>
+<p>Además de la actualización de los <strong>esquemas de vigilancia y protección a la vaquita marina</strong> y de fortalecimiento del combate a la pesca furtiva y al tráfico ilegal de Totoaba.</p></blockquote>
+<p>Para esta nueva estrategia la vaquita marina es un elemento preponderante, pero no el único. Ya que buscará centrarse en <strong>toda la biodiversidad</strong> de la zona. La red de tráfico construida en torno a la pesca furtiva de la Totoaba habría sido detonante principal de los problemas en la región.</p>
+<p>De modo que todo se enfocará a restablecer la dinámica social y económica de la región. Aunque las líneas de acción concretas aún están por definirse.</p>
+<p>Esto curiosamente coincide con el estreno de <strong><a href="https://www.fayerwayer.com/2019/01/sea-of-shadows-carlos-loret-documental/">Sea of Shadows.</a></strong> Un documental producido por Leonardo DiCaprio; en donde se denuncia esta red criminal que ha puesto al borde del exterminio a la vaquita marina.</p>
+</div>
+
+<div class="tags">
+<h2>
+<ul>
+<div class="wrap-article tags-box" tg new-tag="true">
+<ul class="list-tags">
+<li><a href="/tag/extincion" title="extinción">extinción</a></li>
+<li><a href="/tag/mexico" title="México">México</a></li>
+<li><a href="/tag/vaquita-marina" title="Vaquita marina">Vaquita marina</a></li>
+</ul>
+</div>
+
+</ul>
+</h2>
+</div>
+</div>
+</article>
+</div>
+<div class="related-posts">
+<h2 class="title-cat"><strong>Noticias</strong> Relacionadas</h2>
+<div class="related-slider js-related-slider inactive">
+
+</div>
+</div>
+<div class="comments">
+<button class="show-comments">Cargar comentarios <i aria-hidden="true" class="fa fa-comments-o"></i></button>
+<div id="disqus_thread"></div>
+</div>
+</section>
+<aside>
+<div class="ads ads-desktop hide-mobile">
+<div id='ad_300x250_1'>
+<script>
+            displaySlotIf(['desktop', 'tablet'], 'ad_300x250_1');
+            </script>
+</div>
+</div>
+<section class="posts-lists recents">
+<div class="title-cat">
+<strong>Noticias</strong> recientes
+</div>
+<div class="items-list">
+
+</div>
+</section>
+<div class="ads ads-desktop">
+<div id='ad_300x250_2'>
+<script>
+            displaySlotIf('desktop', 'ad_300x250_2');
+            </script>
+</div>
+</div>
+<section class="posts-lists most-read">
+<div class="title-cat">
+Lo más visto
+</div>
+<div class="items-list js-most-read-items js-most-read-mobile js-most-read-desktop">
+
+</div>
+</section>
+<div class="ads ads-desktop">
+<div id='ad_300x250_3'>
+<script>
+            displaySlotIf('desktop', 'ad_300x250_3');
+            </script>
+</div>
+</div>
+</aside>
+</div>
+</div>
+</main>
+<section class="ads ads-pre-footer">
+<div class="container">
+<div id='ad_bottom'>
+<script>
+      displaySlotIf(['desktop', 'tablet', 'mobile'], 'ad_bottom');
+      </script>
+</div>
+</div>
+</section>
+<footer>
+<div class="container metro-world">
+<ul class="horizontal-list">
+<li><h5>Metro en el mundo</h5></li><li><a href="https://www.publimetro.cl/cl/" target="_blank" title="Chile">Chile</a></li><li><a href="https://www.publimetro.co/co/" target="_blank" title="Colombia">Colombia</a></li><li><a href="https://www.metroecuador.com.ec/ec/" target="_blank" title="Ecuador">Ecuador</a></li><li><a href="https://www.publinews.gt/gt/" target="_blank" title="Guatemala">Guatemala</a></li><li><a href="https://www.publimetro.com.mx/mx/" target="_blank" title="México">México</a></li><li><a href="https://www.metro.pr/pr/" target="_blank" title="Puerto Rico">Puerto Rico</a></li><li><a href="https://www.metrord.do/do/" target="_blank" title="República Dominicana">República Dominicana</a></li><li><a href="https://www.metrojornal.com.br/" target="_blank" title="Brasil">Brasil</a></li>
+</ul>
+</div>
+<div class="container">
+<div class="column">
+<div class="brand"><img onerror="this.src='/assets-fw/img/logo-footer.png';this.onerror=null;" src="/assets-fw/img/logo-footer.svg"></div>
+<div class="tagline">
+<p>Dosis diarias de tecnología en español.™</p>
+</div>
+<div class="social">
+<h2>Síguenos</h2>
+<ul>
+<li>
+<a href="https://twitter.com/fayerwayer" target="_blank"><i class="fa fa-twitter"></i></a>
+</li>
+<li>
+<a href="https://facebook.com/fayerwayer" target="_blank"><i class="fa fa-facebook"></i></a>
+</li>
+<li>
+<a href="https://instagram.com/fayerwayeroficial/" target="_blank"><i class="fa fa-instagram"></i></a>
+</li>
+<li>
+<a href="https://youtube.com/user/fayerwayer" target="_blank"><i class="fa fa-youtube-play"></i></a>
+</li>
+<li>
+<a href="https://feeds.feedburner.com/fayerwayer" target="_blank"><i class="fa fa-rss"></i></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="column">
+<div class="contact">
+<img alt="Betazeta" src="/assets-fw/img/logo-betazeta.svg">
+<p>Contacto Editorial: <a href="/cdn-cgi/l/email-protection#8aecebf3eff8fdebf3eff8cae8effeebf0effeeba4e9e5e7" target="_blank"><span class="__cf_email__" data-cfemail="c1a7a0b8a4b3b6a0b8a4b381a3a4b5a0bba4b5a0efa2aeac">[email&#160;protected]</span></a></p>
+<p>Contacto Comercial: <a href="/cdn-cgi/l/email-protection#6b0304070a2b090e1f0a110e1f0a45080406" target="_blank"><span class="__cf_email__" data-cfemail="7f1710131e3f1d1a0b1e051a0b1e511c1012">[email&#160;protected]</span></a></p>
+</div>
+</div>
+<div class="column">
+<div class="publimetro">
+<img onerror="this.src='/assets-fw/img/logo-metro.png'; this.onerror=null;" src="/assets-fw/img/logo-metro.svg">
+<p>FayerWayer es una marca registrada de Betazeta Networks S.A., Publimetro S.A., Metro International S.A. by-nc-sa (cc) 2019. Algunos derechos reservados. El contenido de este sitio está licenciado bajo CreativeCommons.</p>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+
+        
+
+       var disqus_shortname = bottomShortname;
+
+       (function () {
+           var nodes = document.getElementsByTagName('span');
+           for (var i = 0, url; i < nodes.length; i++) {
+               if (nodes[i].className.indexOf('dsq-postid') != -1 && nodes[i].parentNode.tagName == 'A') {
+                   nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                   url = nodes[i].parentNode.href.split('#', 1);
+                   if (url.length == 1) { url = url[0]; }
+                   else { url = url[1]; }
+                   nodes[i].parentNode.href = url + '#disqus_thread';
+               }
+           }
+           var s = document.createElement('script');
+           s.async = true;
+           s.type = 'text/javascript';
+           s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+           (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+       }());
+       //
+</script>
+<script src="https://www.gstatic.com/firebasejs/4.6.2/firebase-app.js" type='text/javascript'></script>
+<script src="https://www.gstatic.com/firebasejs/4.6.2/firebase-auth.js" type='text/javascript'></script>
+<script src="https://www.gstatic.com/firebasejs/4.6.2/firebase-database.js" type='text/javascript'></script>
+<script src='/assets-fw/js/jquery.match-height.min.js' type='text/javascript'></script>
+<script src='/assets-fw/js/jquery.sticky.min.js?ver=1.1.0' type='text/javascript'></script>
+<script src='/assets-fw/js/slick.min.js?ver=1.4.1' type='text/javascript'></script>
+<script src='/assets-fw/js/jquery.scroll-to.min.js?ver=2.1.2' type='text/javascript'></script>
+<script src='/assets-fw/js/moment.min.js?ver=2.18.1' type='text/javascript'></script>
+<script src='/assets-fw/js/crossposted.js?ver=1.1.2' type='text/javascript'></script>
+<script src='/assets-fw/js/theme.js?ver=1.2.0' type='text/javascript'></script>
+<script src='/assets-fw/js/jquery.lazyload.min.js?ver=1.0' type='text/javascript'></script>
+<script src='/assets-fw/js/jquery.fitvids.min.js?ver=1.1' type='text/javascript'></script>
+<script src='/assets-fw/js/wp-embed.min.js?ver=4.7.4' type='text/javascript'></script>
+<script src='/assets-fw/js/mustache.js?ver=0.8.1' type='text/javascript'></script>
+<script src='/assets-fw/js/gallery.js?ver=1.1.0' type='text/javascript'></script>
+<script src='/assets-fw/js/single.js?ver=1.2.1' type='text/javascript'></script>
+<script src='https://s.imgur.com/min/embed.js' type='text/javascript'></script>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<script src="https://www.gstatic.com/firebasejs/4.6.2/firebase-app.js" type='text/javascript'></script>
+<script src="https://www.gstatic.com/firebasejs/4.6.2/firebase-auth.js" type='text/javascript'></script>
+<script src="https://www.gstatic.com/firebasejs/4.6.2/firebase-database.js" type='text/javascript'></script>
+
+<script src="https://www.gstatic.com/firebasejs/5.0.4/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.0.4/firebase-messaging.js"></script>
+<script src="/assets-fw/js/transversalSitios.js?v=1"></script>
+</body>
+</html>

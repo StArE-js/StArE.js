@@ -17,18 +17,10 @@ app.get('/json', function(req, res){
     var input= __dirname +"/files/SERP.json";
 
     //Document is an Object of Type "Documents", Defined.
-    var Documents= stare.prepareSerp('google_serp', input)
-        .then(function(result){
-            if(result){
-                console.log("The Operation succeed");
-                stare.get_Metrics('length','ranking', 'language', 'perpiscuity');
-                var Json= stare.get_Json();
+    var Json= stare.get_Json();
+    stare.get_Metrics('length','ranking', 'language', 'perpiscuity');
+    res.send(Json);
 
-            }else{
-              console.log("The operation Failed");
-            };
-        res.send(Json)}
-        );
 } );
 
 app.get('/update', function(req, res){
@@ -64,11 +56,10 @@ app.get('/google', function(req, res){
         function(result){
             if(result){
                 //Document is an Object of Type "Documents", Defined.
-                console.log(result);
-                stare.prepareSerp('google_serp', JSON.parse(result))
+                stare.prepareSerp('google_serp', result)
                     .then(function(result){
-                        var Json= stare.get_Json();
-                        res.send(Json)}
+                        //var Json= stare.get_Json();
+                        res.send(result)}
                     );
             }
         }

@@ -58,7 +58,7 @@ let pre_procesar= function(input, output){
         }
         else{
             console.log("Object Received");
-            file= clearJson(file);
+            file= clearJson(input);
             resolve(file);
         }
     })};

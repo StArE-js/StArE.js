@@ -1,100 +1,103 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" prefix="og: http://ogp.me/ns#">
-	
-	<head>
+<html lang="es-MX" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="5YqubAqlCRimE3iswBv8uKy7MpYhJN9lhgpPIBfaD1A" />
+<meta name="google-site-verification" content="i55h6qBIH_u1SxWs1OMwwdCncmOtsPA-aWcTdgATQ78" />
+<meta property="fb:pages" content="125915447459526" />
+<title>La vaquita marina mexicana, al borde de la extinción - Ecoosfera</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://ecoosfera.com/xmlrpc.php">
+<!--[if lt IE 9]><script src="https://ecoosfera.com/wp-content/themes/binderpro/js/html5shiv.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="https://ecoosfera.com/wp-content/themes/binderpro/js/selectivizr-min.js"></script><![endif]-->
 
-	<!-- meta tags -->
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="copyright" content="Copyright &copy; 2019 Arrex Le Cucine">
-	<meta name="author" content="Arrex Le Cucine">
-	<meta name="designer" content="neiko.it">
-	<meta name="robots" content="index, follow">
-	<meta name="googlebot" content="index, follow">
-	<meta name="Rating" content="General">
-	<title>Avena - Arrex Le Cucine</title>
+<link rel="shortcut icon" href="https://ecoosfera.com/wp-content/imagenes/cropped-favicon-1-150x150.png">
+<link rel="stylesheet" type="text/css" href="https://ecoosfera.com/wp-content/cache/minify/5eaee.css" media="all" />
 
-<link rel="stylesheet" href="http://www.arrex.it/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.3.8" type="text/css" media="all" />
-    
-	<!-- icons -->
-    
-	<link rel="apple-touch-icon" href="http://www.arrex.it/apple-touch-icon.png">
-	<link rel="shortcut icon" href="http://www.arrex.it/favicon.ico" type="image/x-icon">
-	<link rel="icon" type="image/png" href="http://www.arrex.it/favicon.png">
-	<meta name="msapplication-TileColor" content="#EB6B0C">
-	<meta name="msapplication-TileImage" content="http://www.arrex.it/mstile.png">
-	<meta name="theme-color" content="#EB6B0C">
-	
-	<!-- Font -->
-	
-	<link rel="stylesheet" href="http://www.arrex.it/wp-content/themes/arrex-cucine/css/font-awesome/css/font-awesome.min.css">
-	<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700,700italic,400italic,300italic' rel='stylesheet' type='text/css'>
+<link rel="alternate" href="https://ecoosfera.com/2016/05/la-vaquita-marina-mexicana-al-borde-de-la-extincion/" hreflang="es-mx">
+<meta name="description" content="La vaquita marina sólo existe en México, al norte del Golfo de California, muere incidentalmente en las redes agalleras para capturar camarón y peces como curvinas, macarelas, mantarrayas, tiburones, robalos y totoabas. "><meta name="keywords" content="especies acuáticas en peligro de extinción, especies marinas mexicanas, especies mexicanas en peligro de extinción, vaquita marina mexicana, vaquita mexicana en riesgo de extinción, "><meta property="fb:app_id" content="283812931772584" />    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
 
-    <!-- Bootstrap 3 -->
-		
-	<link href="http://www.arrex.it/wp-content/themes/arrex-cucine/css/bootstrap.min.css" rel="stylesheet" media="screen">
-	<link href="http://www.arrex.it/wp-content/themes/arrex-cucine/css/bootstrap_plus.css" rel="stylesheet" media="screen">
-	<link href="http://www.arrex.it/wp-content/themes/arrex-cucine/style.css" type="text/css" rel="stylesheet" media="screen, projection" />
-	<script src="http://www.arrex.it/wp-content/themes/arrex-cucine/js/jquery.js"></script>
-	<script src="http://www.arrex.it/wp-content/themes/arrex-cucine/js/bootstrap.min.js"></script>
-	
-	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-	
-	<!--[if lt IE 9]>
-		<script src="http://www.arrex.it/wp-content/themes/arrex-cucine/js/html5shiv.min.js"></script>
-		<script src="http://www.arrex.it/wp-content/themes/arrex-cucine/js/respond.min.js"></script>
-	<![endif]-->
-	    
-	<link rel="alternate" hreflang="it-IT" href="http://www.arrex.it/prodotto/avena/" />
-<link rel="alternate" hreflang="en-US" href="http://www.arrex.it/en/prodotto/avena/" />
-<link rel="alternate" hreflang="fr-FR" href="http://www.arrex.it/fr/prodotto/avena/" />
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/158515645/home_mobile', [300, 250], 'div-gpt-ad-1533755397523-0').addService(googletag.pubads());
+	googletag.defineSlot('/158515645/home_mobile_2', [300, 250], 'div-gpt-ad-1534815005784-0').addService(googletag.pubads());
+	googletag.defineSlot('/158515645/home_desktop', [728, 90], 'div-gpt-ad-1533756797397-0').addService(googletag.pubads());
+	googletag.defineSlot('/158515645/home_desktop_large_2', [728, 90], 'div-gpt-ad-1534814841284-0').addService(googletag.pubads());
+	googletag.defineSlot('/158515645/item_desktop_large', [728, 90], 'div-gpt-ad-1533774634299-0').addService(googletag.pubads());
+	googletag.defineSlot('/158515645/item_desktop_large_2', [728, 90], 'div-gpt-ad-1535512672362-0').addService(googletag.pubads());
+	googletag.defineSlot('/158515645/item_mobile_box', [300, 250], 'div-gpt-ad-1533775304033-0').addService(googletag.pubads());
+	googletag.defineSlot('/158515645/item_mobile_box_2', [300, 250], 'div-gpt-ad-1535512779619-0').addService(googletag.pubads());
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&appId=283812931772584&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
-<!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://www.arrex.it/en/prodotto/avena/" />
-<meta property="og:locale" content="en_US" />
+<!-- This site is optimized with the Yoast SEO plugin v10.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="La vaquita marina sólo existe en México, al norte del Golfo de California, muere incidentalmente en las redes agalleras para capturar camarón y peces como curvinas, macarelas, mantarrayas, tiburones, robalos y totoabas."/>
+<link rel="canonical" href="https://ecoosfera.com/2016/05/la-vaquita-marina-mexicana-al-borde-de-la-extincion/" />
+<link rel="publisher" href="https://plus.google.com/115006301081241037084"/>
+<meta property="og:locale" content="es_MX" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Avena - Arrex Le Cucine" />
-<meta property="og:description" content="The design kitchen goes high tech Avena is the modern kitchen that is all about technology, experimenting and combining different materials in a context in which the design creates harmony and balance." />
-<meta property="og:url" content="http://www.arrex.it/en/prodotto/avena/" />
-<meta property="og:site_name" content="Arrex Le Cucine" />
-<meta property="article:publisher" content="https://www.facebook.com/Arrex.Le.Cucine" />
-<meta property="og:image" content="http://www.arrex.it/wp-content/uploads/2016/01/logo_arrex_official.png" />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="The design kitchen goes high tech Avena is the modern kitchen that is all about technology, experimenting and combining different materials in a context in which the design creates harmony and balance." />
-<meta name="twitter:title" content="Avena - Arrex Le Cucine" />
-<meta name="twitter:site" content="@ArrexLeCucine" />
-<meta name="twitter:image" content="http://www.arrex.it/wp-content/uploads/2016/01/logo_arrex_official.png" />
-<meta name="twitter:creator" content="@ArrexLeCucine" />
+<meta property="og:title" content="La vaquita marina mexicana, al borde de la extinción - Ecoosfera" />
+<meta property="og:description" content="La vaquita marina sólo existe en México, al norte del Golfo de California, muere incidentalmente en las redes agalleras para capturar camarón y peces como curvinas, macarelas, mantarrayas, tiburones, robalos y totoabas." />
+<meta property="og:url" content="https://ecoosfera.com/2016/05/la-vaquita-marina-mexicana-al-borde-de-la-extincion/" />
+<meta property="og:site_name" content="Ecoosfera" />
+<meta property="article:publisher" content="https://www.facebook.com/Ecoosfera/" />
+<meta property="article:tag" content="especies acuáticas en peligro de extinción" />
+<meta property="article:tag" content="especies marinas mexicanas" />
+<meta property="article:tag" content="especies mexicanas en peligro de extinción" />
+<meta property="article:tag" content="vaquita marina mexicana" />
+<meta property="article:tag" content="vaquita mexicana en riesgo de extinción" />
+<meta property="article:section" content="Destacados" />
+<meta property="article:published_time" content="2016-05-17T17:00:10+00:00" />
+<meta property="article:modified_time" content="2017-12-16T01:24:02+00:00" />
+<meta property="og:updated_time" content="2017-12-16T01:24:02+00:00" />
+<meta property="fb:app_id" content="283812931772584" />
+<meta property="og:image" content="https://ecoosfera.com/wp-content/imagenes/vaquita-marina-1.jpg" />
+<meta property="og:image:secure_url" content="https://ecoosfera.com/wp-content/imagenes/vaquita-marina-1.jpg" />
+<meta property="og:image:width" content="1500" />
+<meta property="og:image:height" content="998" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="La vaquita marina sólo existe en México, al norte del Golfo de California, muere incidentalmente en las redes agalleras para capturar camarón y peces como curvinas, macarelas, mantarrayas, tiburones, robalos y totoabas." />
+<meta name="twitter:title" content="La vaquita marina mexicana, al borde de la extinción - Ecoosfera" />
+<meta name="twitter:site" content="@ecoosfera" />
+<meta name="twitter:image" content="https://ecoosfera.com/wp-content/imagenes/vaquita-marina-1.jpg" />
+<meta name="twitter:creator" content="@ecoosfera" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"https://ecoosfera.com/","sameAs":["https://www.facebook.com/Ecoosfera/","https://www.instagram.com/ecoosfera/","https://plus.google.com/115006301081241037084","https://www.youtube.com/user/Ecoosfera","https://twitter.com/ecoosfera"],"@id":"https://ecoosfera.com/#organization","name":"Ecoosfera","logo":"https://ecoosfera.com/wp-content/imagenes/2018/04/logo_ecoosfera-copia.png"}</script>
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://ecoosfera.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://ecoosfera.com/category/destacados/","name":"Destacados"}},{"@type":"ListItem","position":3,"item":{"@id":"https://ecoosfera.com/2016/05/la-vaquita-marina-mexicana-al-borde-de-la-extincion/","name":"La vaquita marina mexicana, al borde de la extinci\u00f3n"}}]}</script>
 <!-- / Yoast SEO plugin. -->
 
-<!-- This site is powered by Shareaholic - https://shareaholic.com -->
-<script type='text/javascript' data-cfasync='false'>
-  //<![CDATA[
-    _SHR_SETTINGS = {"endpoints":{"local_recs_url":"http:\/\/www.arrex.it\/wp-admin\/admin-ajax.php?action=shareaholic_permalink_related"}};
-  //]]>
-</script>
-<script type='text/javascript' data-cfasync='false'
-        src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js'
-        data-shr-siteid='4de19479bdc0833c2115d3260260fba9' async='async' >
-</script>
-
-<!-- Shareaholic Content Tags -->
-<meta name='shareaholic:site_name' content='Arrex Le Cucine' />
-<meta name='shareaholic:language' content='en-US' />
-<meta name='shareaholic:url' content='http://www.arrex.it/en/prodotto/avena/' />
-<meta name='shareaholic:article_published_time' content='2016-02-24T11:25:05+00:00' />
-<meta name='shareaholic:article_modified_time' content='2019-03-20T16:13:42+00:00' />
-<meta name='shareaholic:shareable_page' content='true' />
-<meta name='shareaholic:article_author_name' content='Neiko' />
-<meta name='shareaholic:site_id' content='4de19479bdc0833c2115d3260260fba9' />
-<meta name='shareaholic:wp_version' content='7.8.0.3' />
-
-<!-- Shareaholic Content Tags End -->
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Ecoosfera &raquo; Feed" href="https://ecoosfera.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ecoosfera &raquo; RSS de los comentarios" href="https://ecoosfera.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ecoosfera &raquo; La vaquita marina mexicana, al borde de la extinción RSS de los comentarios" href="https://ecoosfera.com/2016/05/la-vaquita-marina-mexicana-al-borde-de-la-extincion/feed/" />
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.arrex.it\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.4"}};
-			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ecoosfera.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
 img.wp-smiley,
@@ -110,519 +113,603 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<script type='text/javascript' src='http://www.arrex.it/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='http://www.arrex.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script type='text/javascript' src='http://www.arrex.it/wp-content/plugins/sitepress-multilingual-cms/res/js/jquery.cookie.js?ver=3.3.8'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"it_IT":"http:\/\/www.arrex.it\/prodotto\/avena\/","it":"http:\/\/www.arrex.it\/prodotto\/avena\/","IT":"http:\/\/www.arrex.it\/prodotto\/avena\/","en_US":"http:\/\/www.arrex.it\/en\/prodotto\/avena\/","en":"http:\/\/www.arrex.it\/en\/prodotto\/avena\/","US":"http:\/\/www.arrex.it\/en\/prodotto\/avena\/","fr_FR":"http:\/\/www.arrex.it\/fr\/prodotto\/avena\/","fr":"http:\/\/www.arrex.it\/fr\/prodotto\/avena\/","FR":"http:\/\/www.arrex.it\/fr\/prodotto\/avena\/"},"cookie":{"name":"_icl_visitor_lang_js","domain":"www.arrex.it","path":"\/","expiration":24}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='http://www.arrex.it/wp-content/plugins/sitepress-multilingual-cms/res/js/browser-redirect.js?ver=3.3.8'></script>
-<link rel='https://api.w.org/' href='http://www.arrex.it/en/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.arrex.it/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.arrex.it/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 4.5.4" />
-<link rel='shortlink' href='http://www.arrex.it/en/?p=1627' />
-<link rel="alternate" type="application/json+oembed" href="http://www.arrex.it/en/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.arrex.it%2Fen%2Fprodotto%2Favena%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://www.arrex.it/en/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.arrex.it%2Fen%2Fprodotto%2Favena%2F&#038;format=xml" />
-<meta name="generator" content="WPML ver:3.3.8 stt:1,4,27;" />
-<script type="text/javascript">
-(function(url){
-	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
-	var addEvent = function(evt, handler) {
-		if (window.addEventListener) {
-			document.addEventListener(evt, handler, false);
-		} else if (window.attachEvent) {
-			document.attachEvent('on' + evt, handler);
-		}
-	};
-	var removeEvent = function(evt, handler) {
-		if (window.removeEventListener) {
-			document.removeEventListener(evt, handler, false);
-		} else if (window.detachEvent) {
-			document.detachEvent('on' + evt, handler);
-		}
-	};
-	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
-	var logHuman = function() {
-		var wfscr = document.createElement('script');
-		wfscr.type = 'text/javascript';
-		wfscr.async = true;
-		wfscr.src = url + '&r=' + Math.random();
-		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
-		for (var i = 0; i < evts.length; i++) {
-			removeEvent(evts[i], logHuman);
-		}
-	};
-	for (var i = 0; i < evts.length; i++) {
-		addEvent(evts[i], logHuman);
-	}
-})('//www.arrex.it/en/?wordfence_logHuman=1&hid=8F39AE9325D0A8AD07E6A6ED574E5E85');
-</script>		
-</head>
-<body>
-	
-	<div id="header">
-	
-		<div id="top_header">
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-6 text-left">
-						<a href="http://www.gruppoatma.com" target="_blank" title="Go to the Atma Group website">Atma group</a>
-					</div>
-					<div class="col-xs-6 text-right">
-						<a href="http://facebook.com/Arrex.Le.Cucine" class="link_facebook" title="Follow Arrex on Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
-						<a href="http://twitter.com/ArrexLeCucine" class="link_twitter" title="Follow Arrex on Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
-						<a href="https://it.pinterest.com/arrexlecucineit/" class="link_pinterest" title="Follow Arrex on Pinterest" target="_blank"><i class="fa fa-pinterest-p"></i></a>
-						<a href="https://plus.google.com/117844939950892918973" class="link_googleplus" title="Follow Arrex on GooglePlus" target="_blank"><i class="fa fa-google-plus"></i></a>
-						<a href="http://youtube.com/user/arrexlecucine" class="link_youtube" title="Follow Arrex on YouTube"><i class="fa fa-youtube-play" target="_blank"></i></a>
-					</div>
-				</div>
-			</div>
-		</div>
-	    
-		<nav class="navbar navbar-default" role="navigation">
-			<div class="container">
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed navbar-right" data-toggle="collapse" data-target=".navbar-collapse">
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					</button>
-					<a class="navbar-brand" href="http://www.arrex.it/en" title="Arrex Le Cucine trasforma in realtà le migliori idee d’arredo per la cucina componibile e il living."><img src="http://www.arrex.it/wp-content/themes/arrex-cucine/images/logo_arrex_cucine.png" alt="Arrex Le Cucine" class="img-responsive" id="main_logo"></a>
-				</div>
-				
-				<div id="menu_container" class="clearfix">
-				<div class="collapse navbar-collapse navbar-right"><ul id="menu-menu-inglese" class="nav navbar-nav"><li id="menu-item-1797" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1797 dropdown"><a title="Profile" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Profile <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li id="menu-item-1509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1509"><a title="Company Profile" href="http://www.arrex.it/en/production-furniture-kitchen-living-room/">Company Profile</a></li>
-	<li id="menu-item-1516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1516"><a title="History" href="http://www.arrex.it/en/furniture-italian-factory-story/">History</a></li>
-	<li id="menu-item-1520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1520"><a title="Worldwide" href="http://www.arrex.it/en/made-in-italy-kitchens/">Worldwide</a></li>
-	<li id="menu-item-1524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1524"><a title="Green mind" href="http://www.arrex.it/en/sustainably-manufacture-ecological-kitchens/">Green mind</a></li>
-	<li id="menu-item-1529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1529"><a title="The Atma Consortium" href="http://www.arrex.it/en/atma-consortium/">The Atma Consortium</a></li>
-</ul>
-</li>
-<li id="menu-item-1559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1559 dropdown"><a title="Kitchens &#038; living rooms" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Kitchens &#038; living rooms <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li id="menu-item-1798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1798"><a title="Kitchens &#038; living rooms" href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/">Kitchens &#038; living rooms</a></li>
-	<li id="menu-item-1799" class="menu-item menu-item-type-taxonomy menu-item-object-collezione current-prodotto-ancestor current-menu-parent current-prodotto-parent menu-item-1799"><a title="Modern Collection" href="http://www.arrex.it/en/collezione/modern-style-kitchen/">Modern Collection</a></li>
-	<li id="menu-item-1800" class="menu-item menu-item-type-taxonomy menu-item-object-collezione menu-item-1800"><a title="Classic Collection" href="http://www.arrex.it/en/collezione/classic-style-kitchen/">Classic Collection</a></li>
-	<li id="menu-item-1537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1537"><a title="Masonry kitchens" href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/italian-masonry-kitchens/">Masonry kitchens</a></li>
-	<li id="menu-item-1801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1801"><a title="Living" href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/living-furniture/">Living</a></li>
-	<li id="menu-item-1802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1802"><a title="Tables e Chairs" href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/kitchen-tables-chairs/">Tables e Chairs</a></li>
-	<li id="menu-item-1545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1545"><a title="Accessories" href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/kitchen-accessories/">Accessories</a></li>
-</ul>
-</li>
-<li id="menu-item-1803" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1803 dropdown"><a title="Details" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Details <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li id="menu-item-1533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1533"><a title="Materials and finishes" href="http://www.arrex.it/en/kitchen-materials-and-finishes/">Materials and finishes</a></li>
-	<li id="menu-item-1804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1804"><a title="Masonry kitchens" href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/italian-masonry-kitchens/">Masonry kitchens</a></li>
-	<li id="menu-item-1548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1548"><a title="Worktops" href="http://www.arrex.it/en/kitchen-worktops/">Worktops</a></li>
-	<li id="menu-item-1541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1541"><a title="Made-to-measure kitchen" href="http://www.arrex.it/en/custom-made-to-measure-kitchen/">Made-to-measure kitchen</a></li>
-	<li id="menu-item-1805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1805"><a title="Accessories" href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/kitchen-accessories/">Accessories</a></li>
-	<li id="menu-item-1565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1565"><a title="Handles" href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/kitchen-handles/">Handles</a></li>
-</ul>
-</li>
-<li id="menu-item-1806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1806 dropdown"><a title="Arrex for You" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Arrex for You <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li id="menu-item-1835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1835"><a title="Styles and Inspirations" href="http://www.arrex.it/en/kitchen-styles-and-inspirations/">Styles and Inspirations</a></li>
-	<li id="menu-item-1568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1568"><a title="Arrex Channel" href="http://www.arrex.it/en/arrex-channel/">Arrex Channel</a></li>
-	<li id="menu-item-3833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3833"><a title="Vote the kitchen" href="http://www.arrex.it/en/vote-the-kitchen/">Vote the kitchen</a></li>
-	<li id="menu-item-1634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1634"><a title="Poma Multi-functional Centre" href="http://www.arrex.it/en/poma-multifunctional-centre/">Poma Multi-functional Centre</a></li>
-</ul>
-</li>
-<li id="menu-item-1807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1807 dropdown"><a title="Service" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Service <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li id="menu-item-1552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1552"><a title="Service" href="http://www.arrex.it/en/assistance-services-arrex/">Service</a></li>
-	<li id="menu-item-1556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1556"><a title="Cleaning and maintenance" href="http://www.arrex.it/en/kitchen-cleaning-and-maintenance/">Cleaning and maintenance</a></li>
-	<li id="menu-item-1562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1562"><a title="Sales network" href="http://www.arrex.it/en/arrex-sales-network/">Sales network</a></li>
-</ul>
-</li>
-<li id="menu-item-1637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1637 dropdown"><a title="Contacts" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Contacts <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li id="menu-item-3834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3834"><a title="Contacts" href="http://www.arrex.it/en/contact-us/">Contacts</a></li>
-	<li id="menu-item-3835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3835"><a title="Sales network" href="http://www.arrex.it/en/arrex-sales-network/">Sales network</a></li>
-</ul>
-</li>
-<li id="menu-item-3836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3836"><a title="Blog" target="_blank" href="http://blog.arrex.it">Blog</a></li>
-<li class="menu-item menu-item-language menu-item-language-current menu-item-has-children"><a href="#" onclick="return false">EN</a></li><li class="menu-item menu-item-language"><a href="http://www.arrex.it/prodotto/avena/">IT</a></li><li class="menu-item menu-item-language"><a href="http://www.arrex.it/fr/prodotto/avena/">FR</a></li></ul></div>				</div>
-			</div>
-		</nav>
-	
-	</div>
-	
-	<div id="main_container">
-	<link href="http://www.arrex.it/wp-content/themes/arrex-cucine/js/fancybox/jquery.fancybox.css" rel="stylesheet" media="screen">
-	<script src="http://www.arrex.it/wp-content/themes/arrex-cucine/js/fancybox/jquery.fancybox.pack.js"></script>
-
-	<div class="background_image" style="background-image:url(http://www.arrex.it/wp-content/uploads/2016/02/AVENA_WHITE_RED1.jpg);"></div>
-	
-	<script type="text/javascript">
-		// slide fade on scroll
-		jQuery(document).ready(function(){
-
-			jQuery('.single_product_placeholder').css({
-				'padding-top':0,
-				'height':jQuery(window).height()*0.6
-			});
-					
-			jQuery(window).scroll(function(){
-				var home_slideshow_height = jQuery('.single_product_placeholder').outerHeight();
-				var winsSrollTop = $(window).scrollTop();
-				var ratio = (winsSrollTop * 100 / home_slideshow_height);
-				if(ratio>100) ratio = 100;
-				jQuery('.background_image').css({
-					'-webkit-filter': 'blur('+ratio/10+'px)',
-				    '-moz-filter': 'blur('+ratio/10+'px)',
-				    '-o-filter': 'blur('+ratio/10+'px)',
-				    '-ms-filter': 'blur('+ratio/10+'px)',
-				    'filter': 'blur('+ratio/10+'px)',
-				});
-			});
-		});
-	</script>
-
-	<div itemscope itemtype="http://schema.org/Product" class="container">
-		
-		<meta itemprop="image" content="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_WHITE_RED1.jpg">
-		
-		<div class="single_product_placeholder"></div>
-		
-		<div class="row product_breadcrumb">
-			<div class="col-xs-12 col-sm-6">
-				<a href="javascript:history.back();" class="back" title="go back to previous page"><i class="fa fa-arrow-circle-left"></i></a>
-				<p class="breadcrumbs"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://www.arrex.it/en" rel="v:url" property="v:title">Arrex</a> / <span rel="v:child" typeof="v:Breadcrumb"><a href="http://www.arrex.it/en/collezione/modern-style-kitchen/" rel="v:url" property="v:title">Modern Collection</a> / <span class="breadcrumb_last">Avena</span></span></span></span></p>			</div>
-			<div class="hidden-xs col-sm-6 text-right">
-				<p class="internav">
-					<a href="http://www.arrex.it/en/prodotto/arcobaleno/" title="view previous product">&lsaquo; Arcobaleno</a>					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="http://www.arrex.it/en/prodotto/bianca/" title="view next product">Bianca &rsaquo;</a>				</p>
-			</div>
-		</div>
-		
-		<div class="row product_content">
-			
-			<div class="col-md-12">
-				<h1 itemprop="name">Avena</h1>
-			</div>
-			<div class="col-xs-12 col-md-8 col-lg-8 product_description">
-				<h2>The model concept:</h2>
-				<div itemprop="description"><p>The design kitchen goes high tech</p>
-<p>Avena is the modern kitchen that is all about technology, experimenting and combining different materials in a context in which the design creates harmony and balance.</p>
-</div>
-							</div>
-			<div class="col-xs-12 col-md-4 col-lg-4">
-				<h2>Technical Features:</h2>
-				<ul class="list-unstyled product_feats">
-				<li caratteristica_id="94" data-html="true" data-toggle="popover" data-placement="bottom" title="Lacquer" data-content="&lt;img src=&quot;http://www.arrex.it/wp-content/uploads/2016/03/icon_black_laccato.png&quot; style=&quot;width:100px; height:100px;&quot; class=&quot;img-responsive img_center&quot;&gt;&lt;br&gt;"><span><img src="http://www.arrex.it/wp-content/uploads/2016/03/icon_black_laccato.png" class="img-responsive" alt="Lacquer"></span>Lacquer</li><li caratteristica_id="98" data-html="true" data-toggle="popover" data-placement="bottom" title="Lacquered veneer" data-content="&lt;img src=&quot;http://www.arrex.it/wp-content/uploads/2016/03/icon_black_impiallacciato_laccato.png&quot; style=&quot;width:100px; height:100px;&quot; class=&quot;img-responsive img_center&quot;&gt;&lt;br&gt;"><span><img src="http://www.arrex.it/wp-content/uploads/2016/03/icon_black_impiallacciato_laccato.png" class="img-responsive" alt="Lacquered veneer"></span>Lacquered veneer</li><li caratteristica_id="106" data-html="true" data-toggle="popover" data-placement="bottom" title="Veneer" data-content="&lt;img src=&quot;http://www.arrex.it/wp-content/uploads/2016/03/icon_black_impiallacciato.png&quot; style=&quot;width:100px; height:100px;&quot; class=&quot;img-responsive img_center&quot;&gt;&lt;br&gt;"><span><img src="http://www.arrex.it/wp-content/uploads/2016/03/icon_black_impiallacciato.png" class="img-responsive" alt="Veneer"></span>Veneer</li><li caratteristica_id="100" data-html="true" data-toggle="popover" data-placement="bottom" title="Gola-system handle" data-content="&lt;img src=&quot;http://www.arrex.it/wp-content/uploads/2016/03/icon_black_maniglia_gola.png&quot; style=&quot;width:100px; height:100px;&quot; class=&quot;img-responsive img_center&quot;&gt;&lt;br&gt;"><span><img src="http://www.arrex.it/wp-content/uploads/2016/03/icon_black_maniglia_gola.png" class="img-responsive" alt="Gola-system handle"></span>Gola-system handle</li><li caratteristica_id="88" data-html="true" data-toggle="popover" data-placement="bottom" title="Living room features" data-content="&lt;img src=&quot;http://www.arrex.it/wp-content/uploads/2016/03/icon_black_elementi_living.png&quot; style=&quot;width:100px; height:100px;&quot; class=&quot;img-responsive img_center&quot;&gt;&lt;br&gt;"><span><img src="http://www.arrex.it/wp-content/uploads/2016/03/icon_black_elementi_living.png" class="img-responsive" alt="Living room features"></span>Living room features</li><li caratteristica_id="86" data-html="true" data-toggle="popover" data-placement="bottom" title="Mixable with other models" data-content="&lt;img src=&quot;http://www.arrex.it/wp-content/uploads/2016/03/icon_black_componibilita.png&quot; style=&quot;width:100px; height:100px;&quot; class=&quot;img-responsive img_center&quot;&gt;&lt;br&gt;"><span><img src="http://www.arrex.it/wp-content/uploads/2016/03/icon_black_componibilita.png" class="img-responsive" alt="Mixable with other models"></span>Mixable with other models</li><li caratteristica_id="149" data-html="true" data-toggle="popover" data-placement="bottom" title="Ecologic" data-content="&lt;img src=&quot;http://www.arrex.it/wp-content/uploads/2016/03/icon_black_ecosostenibile.png&quot; style=&quot;width:100px; height:100px;&quot; class=&quot;img-responsive img_center&quot;&gt;&lt;br&gt;"><span><img src="http://www.arrex.it/wp-content/uploads/2016/03/icon_black_ecosostenibile.png" class="img-responsive" alt="Ecologic"></span>Ecologic</li>				</ul>
-			</div>
-		
-		</div>
-		
-				
-			<div class="product_main_images row">
-				
-				<div class="col-xs-12 section_title text-center">
-					<h2>Compositions gallery</h2>
-				</div>
-				
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_WHITE_RED1-1200x722.jpg" title="Avena laccato lucido colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_WHITE_RED1-750x450.jpg" alt="Avena laccato lucido colore Ral" class="img_fullwidth">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/AVENA2-1200x722.jpg" title="Avena laccato lucido colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/AVENA2-750x450.jpg" alt="Avena laccato lucido colore Ral" class="img_fullwidth">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_-3-1200x690.jpg" title="Avena laccato lucido colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_-3-750x450.jpg" alt="Avena laccato lucido colore Ral" class="img_fullwidth">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_-2-1200x690.jpg" title="Avena laccato lucido colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_-2-750x450.jpg" alt="Avena laccato lucido colore Ral" class="img_fullwidth">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_-4-1125x750.jpg" title="Avena laccato lucido colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_-4-750x450.jpg" alt="Avena laccato lucido colore Ral" class="img_fullwidth">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-ebano-lucido-e-laccato-colore-ral-opaco-1200x670.jpg" title="Avena Impiallacciato Ebano Lucido E Laccato Colore Ral Opaco" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-ebano-lucido-e-laccato-colore-ral-opaco-750x450.jpg" alt="Avena Impiallacciato Ebano Lucido E Laccato Colore Ral Opaco" class="img_fullwidth">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-rovere-grigio-1200x697.jpg" title="Avena Impiallacciato Rovere Grigio" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-rovere-grigio-750x450.jpg" alt="Avena Impiallacciato Rovere Grigio" class="img_fullwidth">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-rovere-laccato-colore-ral-1184x750.jpg" title="Avena Impiallacciato Rovere Laccato Colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-rovere-laccato-colore-ral-750x450.jpg" alt="Avena Impiallacciato Rovere Laccato Colore Ral" class="img_fullwidth">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-rovere-moro-e-laccato-colore-ral-1119x750.jpg" title="Avena Impiallacciato Rovere Moro E Laccato Colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-rovere-moro-e-laccato-colore-ral-750x450.jpg" alt="Avena Impiallacciato Rovere Moro E Laccato Colore Ral" class="img_fullwidth">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-rovere-naturale-1200x691.jpg" title="Avena Impiallacciato Rovere Naturale" data-toggle="tooltip" data-placement="bottom" class="col-xs-12 col-sm-6 col-md-4 images_crop fancybox" rel="compositions">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-impiallacciato-rovere-naturale-750x450.jpg" alt="Avena Impiallacciato Rovere Naturale" class="img_fullwidth">
-					</a>
-								
-			</div>
-		
-		
-				
-			<div class="product_detail_images row">
-				
-				<div class="col-xs-12 section_title text-center">
-					<h2>Details gallery</h2>
-				</div>
-				
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/AVENA1-copia.jpg" title="Avena Particolare laccato lucido colore  Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-6 col-sm-4 col-md-3 images_crop fancybox" rel="details">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/AVENA1-copia-400x400.jpg" alt="Avena Particolare laccato lucido colore  Ral" class="img_fullwidth">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_-1-639x750.jpg" title="Avena Particolare laccato lucido colore  Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-6 col-sm-4 col-md-3 images_crop fancybox" rel="details">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/AVENA_-1-400x400.jpg" alt="Avena Particolare laccato lucido colore  Ral" class="img_fullwidth">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-impiallacciato-ebano-lucido-e-laccato-opaco-colore-ral-518x750.jpg" title="Avena Particolare Impiallacciato Ebano Lucido E Laccato Opaco Colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-6 col-sm-4 col-md-3 images_crop fancybox" rel="details">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-impiallacciato-ebano-lucido-e-laccato-opaco-colore-ral-400x400.jpg" alt="Avena Particolare Impiallacciato Ebano Lucido E Laccato Opaco Colore Ral" class="img_fullwidth">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-impiallacciato-laccato-colore-ral-1154x750.jpg" title="Avena Particolare Impiallacciato Laccato Colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-6 col-sm-4 col-md-3 images_crop fancybox" rel="details">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-impiallacciato-laccato-colore-ral-400x400.jpg" alt="Avena Particolare Impiallacciato Laccato Colore Ral" class="img_fullwidth">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-impiallacciato-rovere-grigio-1055x750.jpg" title="Avena Particolare Impiallacciato Rovere Grigio" data-toggle="tooltip" data-placement="bottom" class="col-xs-6 col-sm-4 col-md-3 images_crop fancybox" rel="details">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-impiallacciato-rovere-grigio-400x400.jpg" alt="Avena Particolare Impiallacciato Rovere Grigio" class="img_fullwidth">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-impiallacciato-rovere-naturale-518x750.jpg" title="Avena Particolare Impiallacciato Rovere Naturale" data-toggle="tooltip" data-placement="bottom" class="col-xs-6 col-sm-4 col-md-3 images_crop fancybox" rel="details">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-impiallacciato-rovere-naturale-400x400.jpg" alt="Avena Particolare Impiallacciato Rovere Naturale" class="img_fullwidth">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-1125x750.jpg" title="Avena Particolare" data-toggle="tooltip" data-placement="bottom" class="col-xs-6 col-sm-4 col-md-3 images_crop fancybox" rel="details">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/avena-particolare-400x400.jpg" alt="Avena Particolare" class="img_fullwidth">
-					</a>
-								
-			</div>
-		
-				
-		<script type="text/javascript">
-			jQuery(document).ready(function(){
-				jQuery('.fancybox').fancybox({'padding':0});
-				jQuery('.fancybox_finiture').fancybox({'padding':20});
-			});
-		</script>
-		
-		<div class="row product_action text-center">
-			
-            <a href="http://www.arrex.it/en/contact-us/?modello=Avena" class="col-xs-12 col-sm-3 inline valign_middle">
-                <img src="http://www.arrex.it/wp-content/themes/arrex-cucine/icons/icon_white_contacts.png" class="sm_iconic">
-				Request more information            </a>
-			
-			
-			
-            <div class="col-xs-12 col-sm-3 inline valign_middle" id="bookmarkme">
-                <img src="http://www.arrex.it/wp-content/themes/arrex-cucine/icons/icon_white_ergonomics.png" class="sm_iconic">
-                Add to Favorites            </div>
-
-		</div>
-
-		<script type="text/javascript">
-			
-		    $(document).ready(function(){
-			    
-		        $('#bookmarkme').click(function() {
-		            if (window.sidebar && window.sidebar.addPanel) { // Mozilla Firefox Bookmark
-		                window.sidebar.addPanel(document.title,window.location.href,'');
-		            } else if(window.external && ('AddFavorite' in window.external)) { // IE Favorite
-		                window.external.AddFavorite(location.href,document.title); 
-		            } else if(window.opera && window.print) { // Opera Hotlist
-		                this.title=document.title;
-		                return true;
-		            } else { // webkit - safari/chrome
-		                alert( "You can add this page to your favorites by clicking " + (navigator.userAgent.toLowerCase().indexOf('mac') != - 1 ? 'Command/Cmd' : 'CTRL') + ' + D');
-		            }
-		        });
-			    $('[data-toggle="popover"]').popover({trigger:"hover"});
-			    $('[data-toggle="tooltip"]').tooltip();
-				
-				$('.images_crop').hover(function(){
-					// IN
-					$(this).parent('div').find('.images_crop').not(this).stop().animate({'opacity':0.33},500);
-				},function(){
-					// OUT
-					$(this).parent('div').find('.images_crop').stop().animate({'opacity':1},300);
-				});
-		    
-		    });
-		</script>
-
-		
-			<div class="product_materials row">
-				
-				<div class="col-xs-12 section_title text-center">
-					<h2>Available finishes:</h2>
-				</div>
-				
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-ebano-e1460108872953-498x750.jpg" title="Impiallacciato Ebano" data-toggle="tooltip" data-placement="bottom" class="col-xs-3 col-sm-2 col-lg-18 fancybox_finiture inline images_finishes" rel="finishes">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-ebano-e1460108872953-266x400.jpg" alt="Impiallacciato Ebano" class="img-responsive">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-laccato-colore-ral-e1460108890541-500x750.jpg" title="Impiallacciato Laccato Colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-3 col-sm-2 col-lg-18 fancybox_finiture inline images_finishes" rel="finishes">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-laccato-colore-ral-e1460108890541-267x400.jpg" alt="Impiallacciato Laccato Colore Ral" class="img-responsive">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-rovere-grigio-e1460124558386-516x750.jpg" title="Impiallacciato Rovere Grigio" data-toggle="tooltip" data-placement="bottom" class="col-xs-3 col-sm-2 col-lg-18 fancybox_finiture inline images_finishes" rel="finishes">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-rovere-grigio-e1460124558386-275x400.jpg" alt="Impiallacciato Rovere Grigio" class="img-responsive">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-rovere-moro-e1460109080139.jpg" title="Impiallacciato Rovere Moro" data-toggle="tooltip" data-placement="bottom" class="col-xs-3 col-sm-2 col-lg-18 fancybox_finiture inline images_finishes" rel="finishes">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-rovere-moro-e1460109080139-268x400.jpg" alt="Impiallacciato Rovere Moro" class="img-responsive">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-rovere-naturale-e1460108979785-498x750.jpg" title="Impiallacciato Rovere Naturale" data-toggle="tooltip" data-placement="bottom" class="col-xs-3 col-sm-2 col-lg-18 fancybox_finiture inline images_finishes" rel="finishes">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/impiallacciato-rovere-naturale-e1460108979785-266x400.jpg" alt="Impiallacciato Rovere Naturale" class="img-responsive">
-					</a>
-									<a href="http://www.arrex.it/wp-content/uploads/2016/02/laccato-colore-ral-e1460108996541-498x750.jpg" title="Laccato Colore Ral" data-toggle="tooltip" data-placement="bottom" class="col-xs-3 col-sm-2 col-lg-18 fancybox_finiture inline images_finishes" rel="finishes">
-						<img src="http://www.arrex.it/wp-content/uploads/2016/02/laccato-colore-ral-e1460108996541-266x400.jpg" alt="Laccato Colore Ral" class="img-responsive">
-					</a>
-								
-			</div>
-		
-		
-		<div class="product_share row">
-			
-			<div class="col-xs-12 section_title text-center">
-				<h2>Share</h2>
-				<br>
-				<div class='shareaholic-canvas' data-app-id='24288928' data-app='share_buttons' data-title='Avena' data-link='http://www.arrex.it/en/prodotto/avena/' data-summary=''></div>			</div>
-			
-		</div>
-				
-	</div>
+	<link rel="stylesheet" type="text/css" href="https://ecoosfera.com/wp-content/cache/minify/beb6f.css" media="all" />
 
 
-</div> <!-- fine main-container-->
 
-<div id="footer" class="text-center col-sm-text-left">
-	<div class="container" id="footer_block">
-		<div class="row">
-			
-			<div class="col-xs-12 col-sm-3">
-				<h5>Informations</h5><br>
-				<strong>Arrex - 1 S.P.A.</strong>
-				<p>C.F. e P. IVA: 00291360261</p>
-				<strong>Ar-Due S.P.A.</strong>
-				<p>P. IVA: 00611290933</p>
-				<br>
-			</div>
-	
-			<div class="col-xs-12 col-sm-3">
-				<h5>Useful links</h5>
-				<ul id="menu-link-utili-inglese" class="list-unstyled"><li id="menu-item-1820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1820"><a target="_blank" href="http://webapplication.arrex.it/webapp/">Area Riservata</a></li>
-<li id="menu-item-1822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1822"><a target="_blank" href="http://arrexsales.active121.com/">Area Agenti</a></li>
-<li id="menu-item-6266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6266"><a href="http://www.arrex.it/en/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-6265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6265"><a href="http://www.arrex.it/en/information-about-cookies/">Information about cookies</a></li>
-</ul>	            <div>
-		            <!-- Servizio Assistenza Programma Grafico -->
-		            <script language="JavaScript" src="http://eu.ntrsupport.com/inquiero/web/an/ann4.asp?login=I23ECF503C6B21A90700343&lang=it&button=bottone&sur=grado di soddisfazione"></script>
-					<a href="http://eu.ntrsupport.com"><img src="http://eu.ntrsupport.com/inquiero/images/monitor.gif" border="0" width="1" height="1"></a>
-	            </div>
-				<br>
-			</div>
+<style id='mashsb-styles-inline-css' type='text/css'>
+.mashsb-count {color:#cccccc;}.mashsb-buttons a {
+        background-image: -webkit-linear-gradient(bottom,rgba(0, 0, 0, 0.17) 0%,rgba(255, 255, 255, 0.17) 100%);
+        background-image: -moz-linear-gradient(bottom,rgba(0, 0, 0, 0.17) 0%,rgba(255, 255, 255, 0.17) 100%);
+        background-image: linear-gradient(bottom,rgba(0,0,0,.17) 0%,rgba(255,255,255,.17) 100%);}[class^="mashicon-"] .text, [class*=" mashicon-"] .text{
+    text-indent: -9999px !important;
+    line-height: 0px;
+    display: block;
+    } 
+    [class^="mashicon-"] .text:after, [class*=" mashicon-"] .text:after {
+        content: "" !important;
+        text-indent: 0;
+        font-size:13px;
+        display: block !important;
+    }
+    [class^="mashicon-"], [class*=" mashicon-"] {
+        width:25%;
+        text-align: center !important;
+    }
+    [class^="mashicon-"] .icon:before, [class*=" mashicon-"] .icon:before {
+        float:none;
+        margin-right: 0;
+    }
+    .mashsb-buttons a{
+       margin-right: 3px;
+       margin-bottom:3px;
+       min-width: 0;
+       width: 41px;
+    }
+    .onoffswitch, 
+    .onoffswitch-inner:before, 
+    .onoffswitch-inner:after 
+    .onoffswitch2,
+    .onoffswitch2-inner:before, 
+    .onoffswitch2-inner:after  {
+        margin-right: 0px;
+        width: 41px;
+        line-height: 41px;
+    }
+</style>
+<link rel="stylesheet" type="text/css" href="https://ecoosfera.com/wp-content/cache/minify/e1a1a.css" media="all" />
 
-			<div class="col-xs-12 col-sm-3">
-				<h5>Arrex Cloud</h5>
-				<p>L’area download Arrex Cloud, riservata ad agenti, rivenditori, giornalisti e redattori.</p>
-				<ul id="menu-link-utili" class="list-unstyled">
-					<li id="menu-item-6615" class="arrex_cloud menu-item menu-item-type-post_type menu-item-object-page menu-item-6615"><a href="http://www.arrex.it/area-download/"><i class="fa fa-cloud-download" aria-hidden="true"></i> Arrex Cloud</a></li>
-				</ul>
-				<br>
-			</div>
-			
-				
-			<div class="col-xs-12 col-sm-3" id="footer_social">
-				<h5>Arrex social</h5>
-				<p>Arrex is also on social networks:</p>
-				<a href="http://facebook.com/Arrex.Le.Cucine" class="link_facebook" title="Follow Arrex on Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
-				<a href="http://twitter.com/ArrexLeCucine" class="link_twitter" title="Follow Arrex on Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
-				<a href="https://it.pinterest.com/arrexlecucineit/" class="link_pinterest" title="Follow Arrex on Pinterest" target="_blank"><i class="fa fa-pinterest-p"></i></a>
-				<a href="https://plus.google.com/117844939950892918973" class="link_googleplus" title="Follow Arrex on GooglePlus" target="_blank"><i class="fa fa-google-plus"></i></a>
-				<a href="http://youtube.com/user/arrexlecucine" class="link_youtube" title="Follow Arrex on YouTube"><i class="fa fa-youtube-play" target="_blank"></i></a>				
-				<br><br>
-<!--
-				<h5>Languages</h5>
-				<div class="list-unstyled"><ul><li class="page_item page-item-1573"><a href="http://www.arrex.it/en/arrex-channel/arrex-moments/">Arrex Moments</a></li><li class="page_item page-item-1575"><a href="http://www.arrex.it/en/arrex-channel/beker-programma-cucina/">Bekèr</a></li><li class="page_item page-item-6257"><a href="http://www.arrex.it/en/information-about-cookies/">Information about cookies</a></li><li class="page_item page-item-6252"><a href="http://www.arrex.it/en/privacy-policy/">Privacy Policy</a></li><li class="page_item page-item-1551"><a href="http://www.arrex.it/en/assistance-services-arrex/">Service</a></li><li class="page_item page-item-1832"><a href="http://www.arrex.it/en/kitchen-styles-and-inspirations/">Styles and Inspirations</a></li><li class="page_item page-item-1528"><a href="http://www.arrex.it/en/atma-consortium/">The Atma Consortium</a></li><li class="page_item page-item-1570"><a href="http://www.arrex.it/en/apply-vote-your-kitchen/">Vote for your kitchen!</a></li><li class="page_item page-item-3829"><a href="http://www.arrex.it/en/vote-the-kitchen/">Vote the kitchen</a></li><li class="page_item page-item-1547"><a href="http://www.arrex.it/en/kitchen-worktops/">Worktops</a></li><li class="page_item page-item-1519"><a href="http://www.arrex.it/en/made-in-italy-kitchens/">Worldwide</a></li><li class="page_item page-item-1567 page_item_has_children"><a href="http://www.arrex.it/en/arrex-channel/">Arrex Channel</a></li><li class="page_item page-item-1508"><a href="http://www.arrex.it/en/production-furniture-kitchen-living-room/">Company Profile</a></li><li class="page_item page-item-1555"><a href="http://www.arrex.it/en/kitchen-cleaning-and-maintenance/">Cleaning and maintenance</a></li><li class="page_item page-item-1636"><a href="http://www.arrex.it/en/contact-us/">Contacts</a></li><li class="page_item page-item-1515"><a href="http://www.arrex.it/en/furniture-italian-factory-story/">History</a></li><li class="page_item page-item-1544"><a href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/kitchen-accessories/">Accessories</a></li><li class="page_item page-item-1789"><a href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/living-furniture/">Living</a></li><li class="page_item page-item-1523"><a href="http://www.arrex.it/en/sustainably-manufacture-ecological-kitchens/">Green mind</a></li><li class="page_item page-item-1564"><a href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/kitchen-handles/">Handles</a></li><li class="page_item page-item-1558 page_item_has_children"><a href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/">Kitchens &#038; living rooms</a></li><li class="page_item page-item-1536"><a href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/italian-masonry-kitchens/">Masonry kitchens</a></li><li class="page_item page-item-1779"><a href="http://www.arrex.it/en/kitchens-and-living-rooms-arrex/kitchen-tables-chairs/">Tables e Chairs</a></li><li class="page_item page-item-1540"><a href="http://www.arrex.it/en/custom-made-to-measure-kitchen/">Made-to-measure kitchen</a></li><li class="page_item page-item-1639"><a href="http://www.arrex.it/en/">Homepage</a></li><li class="page_item page-item-1532"><a href="http://www.arrex.it/en/kitchen-materials-and-finishes/">Materials and finishes</a></li><li class="page_item page-item-1633"><a href="http://www.arrex.it/en/poma-multifunctional-centre/">Poma Multi-functional Centre</a></li><li class="page_item page-item-1561"><a href="http://www.arrex.it/en/arrex-sales-network/">Sales network</a></li>
-</ul></div>				<br>
--->
-			</div>
-			
-		</div>
-	</div>
-	
-	<div class="container text-center">
-		<div id="copyright">
-			Powered by: <a href="http://www.neiko.it" target="_blank" title="Neiko: Agenzia di Comunicazione, Sviluppo Web, Grafica, 3D">Neiko srl</a> 
-		</div>
-	</div>
-	
-</div>
+<link crossorigin="anonymous" rel='stylesheet' id='quadro-font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?ver=3.2.1' type='text/css' media='all' />
+<link rel="stylesheet" type="text/css" href="https://ecoosfera.com/wp-content/cache/minify/b1443.css" media="all" />
 
-<script type="text/javascript">
-	// mani-container min height to window size
-	function resize_heights(){
-		var wih_height = jQuery(window).height() - 100;
-		jQuery('#main-container').css('min-height',wih_height);
-	};
-	jQuery(document).ready(function(){ resize_heights(); });
-	jQuery(window).load(function(){ resize_heights(); });
-	jQuery(window).resize(function(){ resize_heights(); });
-</script>
 
-<!-- Cookie  -->
 
-<div id="informativaCookie" style="position:fixed; bottom:0; left:0; right:0; padding:5px; text-align: center; background-color: #5F5D5E; color:#FFF; font-size: 12px; font-family: Arial, Helvetica, serif; z-index:100">
-	
-	<span style="padding:5px;">Per offrirti il miglior servizio possibile, in questo sito utilizziamo i cookies. Continuando la navigazione ne autorizzi l'uso.</span>
-	<span id="cookies_ok" onclick="setCookie('informatoCookie','true',30);" style="background-color: #777; border:solid 1px #777; cursor: pointer; margin:2px; padding:3px 10px; display:inline-block; color:#FFF; text-decoration: none;">OK</span>
-	<a href="http://www.arrex.it/informativa-sui-cookies/" target="_blank" style="background-color: #777; border:solid 1px #777; cursor: pointer; margin:2px; padding:3px 10px; display:inline-block; color:#FFF; text-decoration: none;">Maggiori informazioni</a>
-	
-</div>
+<script type="text/javascript" src="https://ecoosfera.com/wp-content/cache/minify/ab2ef.js"></script>
 
-<script type="text/javascript">
-	
-	function setCookie(cname, cvalue, exdays) {
-	    var d = new Date();
-	    d.setTime(d.getTime() + (exdays*24*60*60*1000));
-	    var expires = "expires="+d.toUTCString();
-	    document.cookie = cname + "=" + cvalue + "; " + expires;
-	    if(cname == 'informatoCookie' && cvalue == 'true'){
-		    document.getElementById('informativaCookie').style.display = 'none';
-	    }
-	}
-	
-	function getCookie(cname) {
-	    var name = cname + "=";
-	    var ca = document.cookie.split(';');
-	    for(var i=0; i<ca.length; i++) {
-	        var c = ca[i];
-	        while (c.charAt(0)==' ') c = c.substring(1);
-	        if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
-	    }
-	    return "";
-	}
-	
-	if( getCookie('informatoCookie') ){
-		document.getElementById('informativaCookie').style.display = 'none';
-	}
-	
-</script>
 
-<!-- Piwik -->
 
-<!-- Analytics -->
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js'></script>
+<link rel='https://api.w.org/' href='https://ecoosfera.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ecoosfera.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ecoosfera.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.1" />
+<link rel='shortlink' href='https://ecoosfera.com/?p=32973' />
+<link rel="alternate" type="application/json+oembed" href="https://ecoosfera.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fecoosfera.com%2F2016%2F05%2Fla-vaquita-marina-mexicana-al-borde-de-la-extincion%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://ecoosfera.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fecoosfera.com%2F2016%2F05%2Fla-vaquita-marina-mexicana-al-borde-de-la-extincion%2F&#038;format=xml" />
+<script type="text/javascript">var ajaxurl = "https://ecoosfera.com/wp-admin/admin-ajax.php"</script>      <meta name="onesignal" content="wordpress-plugin"/>
+          <link rel="manifest"
+            href="https://ecoosfera.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/manifest.json.php?gcm_sender_id="/>
+          <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>    <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://ecoosfera.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = 'c50cd099-c14e-43c5-91de-c22fa6278b7c';
+oneSignal_options['autoRegister'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "Gracias por suscribirte";
+oneSignal_options['path'] = "https://ecoosfera.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.3cd6b41f-0715-4da8-9007-02ca4af2dc44";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = 'Ecoosfera quiere enviarte notificaciones';
+oneSignal_options['promptOptions']['exampleNotificationTitleDesktop'] = 'Ecoosfera';
+oneSignal_options['promptOptions']['exampleNotificationMessageDesktop'] = 'Esta notificación es para tu dispositivo de escritorio';
+oneSignal_options['promptOptions']['exampleNotificationTitleMobile'] = 'Ecoosfera';
+oneSignal_options['promptOptions']['exampleNotificationMessageMobile'] = 'Esta notificación es para tu dispositivo móvil';
+oneSignal_options['promptOptions']['exampleNotificationCaption'] = 'Puedes cancelar tu suscripción en cualquier momento';
+oneSignal_options['promptOptions']['acceptButtonText'] = 'Continuar';
+oneSignal_options['promptOptions']['cancelButtonText'] = 'No gracias!';
+oneSignal_options['promptOptions']['siteName'] = 'Ecoosfera';
+oneSignal_options['promptOptions']['autoAcceptTitle'] = 'Permitir';
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'inverse';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['prenotify'] = true;
+oneSignal_options['notifyButton']['displayPredicate'] = function() {
+              return OneSignal.isPushNotificationsEnabled()
+                      .then(function(isPushEnabled) {
+                          return !isPushEnabled;
+                      });
+            };
+oneSignal_options['notifyButton']['showCredit'] = false;
+oneSignal_options['notifyButton']['text'] = {};
+oneSignal_options['notifyButton']['text']['message.prenotify'] = 'Click para recibir nuestras notificaciones';
+oneSignal_options['notifyButton']['text']['tip.state.unsubscribed'] = 'Suscríbete a nuestras notificaciones';
+oneSignal_options['notifyButton']['text']['tip.state.subscribed'] = 'Ahora recibirás nuestras notificaciones';
+oneSignal_options['notifyButton']['text']['tip.state.blocked'] = 'Bloqueaste nuestras notificaciones';
+oneSignal_options['notifyButton']['text']['message.action.subscribed'] = 'Gracias por recibir nuestras notificaciones';
+oneSignal_options['notifyButton']['text']['message.action.resubscribed'] = 'Gracias por regresar';
+oneSignal_options['notifyButton']['text']['message.action.unsubscribed'] = 'No volverás a recibir nuestras notificaciones.';
+oneSignal_options['notifyButton']['text']['dialog.main.title'] = 'Ecoosfera Notificaiones';
+oneSignal_options['notifyButton']['text']['dialog.main.button.subscribe'] = 'Suscríbete';
+oneSignal_options['notifyButton']['text']['dialog.main.button.unsubscribe'] = 'Cancelar suscripción';
+oneSignal_options['notifyButton']['text']['dialog.blocked.title'] = 'Desbloquear notificaciones';
+oneSignal_options['notifyButton']['text']['dialog.blocked.message'] = 'Sigue las instrucciones para activar las notificaciones';
+              oneSignal_options['autoRegister'] = false;
+              OneSignal.showHttpPrompt();
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
 
 <script>
-	
+	WebFont.load({
+		google: {
+			families: ['Oswald:normal, bold', 'Vollkorn:normal, bold', ],
+		},
+		timeout: 3500 // Set the timeout
+	});
+</script>
+
+<style>
+body {
+	background-color: #ffffff;
+	font-family: "Vollkorn";	font-size: 18px;
+}
+
+
+.mod-title, .meta-nav strong, .site-header .widget-title {
+	font-family: "Vollkorn";}
+
+.single-post article a, .single-post article a:visited,
+.page-content a, .page-content a:visited {
+	color: #1b6c8f;
+}
+
+a:hover,
+.single-post article a:hover,
+.page-content a:hover {
+	color: #1b6c8f;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, h1, h2, h3, h4, h5, h6,
+.mod-editor-content, .readmore-link, input[type="submit"], .comment-reply-link, 
+.comment-author cite, .post-navigation .meta-nav, .paging-navigation .meta-nav, .comment-navigation a,
+blockquote, q, .taxonomy-description p, .wpcf7 p, .read-author-link a, .qbtn, input[type="button"],
+.flashnews-content .entry-title, div#jp-relatedposts h3.jp-relatedposts-headline {
+	font-family: "Oswald";}
+
+
+.main-navigation .menu a {
+	font-family: "Oswald";}
+
+.site-footer { background-color: #fff; }
+.site-footer, .widget select, .widget input[type="submit"] { color: # }
+.site-footer a { color: # }
+
+
+
+
+</style>
+<!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Oswald:normal| bold| Vollkorn:normal| bold| ">
+<![endif]-->
+ 
+<link rel="amphtml" href="https://ecoosfera.com/2016/05/la-vaquita-marina-mexicana-al-borde-de-la-extincion/amp/"><link rel="icon" href="https://ecoosfera.com/wp-content/imagenes/cropped-favicon-1-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://ecoosfera.com/wp-content/imagenes/cropped-favicon-1-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://ecoosfera.com/wp-content/imagenes/cropped-favicon-1-300x300.png" />
+<meta name="msapplication-TileImage" content="https://ecoosfera.com/wp-content/imagenes/cropped-favicon-1-300x300.png" />
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-39793139-15', 'auto');
+  ga('create', 'UA-16236853-1', 'ecoosfera.com');
   ga('send', 'pageview');
-
+  ga('send', 'event', '1605', 'visit', 'https://ecoosfera.com/2016/05/la-vaquita-marina-mexicana-al-borde-de-la-extincion/', {nonInteraction: true});
 </script>
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "29716220" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="https://sb.scorecardresearch.com/p?c1=2&c2=29716220&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '202950577157183'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=202950577157183&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+<body class="post-template-default single single-post postid-32973 single-format-standard site-header-type2 onsingle-fullwidth-right group-blog unknown" data-url="https://ecoosfera.com">
+<div id="single_id_id" data-id="32973"></div>
+<script type="text/javascript">var related = [];related.push("68636");related.push("68671");related.push("68729");related.push("68650");related.push("21104");related.push("31674");related.push("34512");related.push("38074");</script><div id="info_mc" data-country="CL" data-mobile="0"></div>
+<div id="page" class="hfeed site">
+	
+	<header id="masthead" class="site-header" role="banner">
+		
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<div class="inner-nav">
+				<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+				<div class="menu-neo2-container"><ul id="menu-neo2" class="menu"><li id="menu-item-53677" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53677"><a href="https://ecoosfera.com/category/arte/">Arte</a></li>
+<li id="menu-item-53680" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53680"><a href="https://ecoosfera.com/category/evolucion/">Evolución</a></li>
+<li id="menu-item-53684" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53684"><a href="https://ecoosfera.com/category/gaia/">Guía Gaia</a></li>
+<li id="menu-item-53685" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-53685"><a href="https://ecoosfera.com/category/medio-ambiente/">Medio Ambiente</a></li>
+<li id="menu-item-53690" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53690"><a href="https://ecoosfera.com/category/noticias/">Noticias</a></li>
+<li id="menu-item-53692" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53692"><a href="https://ecoosfera.com/category/ciencia-inovacion/">Sci-Innovación</a></li>
+<li id="menu-item-53693" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53693"><a href="https://ecoosfera.com/category/salud-1/">Wellness</a></li>
+<li id="menu-item-67169" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67169"><a href="https://ecoosfera.com/category/columna-especial/">Columna especial</a></li>
+<li id="menu-item-57940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57940"><a href="https://ecoosfera.com/nosotros/">Nosotros</a></li>
+</ul></div>							</div>
+		</nav><!-- #site-navigation -->
 
-<script type='text/javascript' src='http://www.arrex.it/wp-includes/js/wp-embed.min.js?ver=4.5.4'></script>
+		<div class="inner-header">
+			<div class="site-branding">
+						<h1 class="site-title logo-title">
+			<a href="https://ecoosfera.com/" rel="home">
+				<img src="https://ecoosfera.com/wp-content/imagenes/2018/07/logo_ecoosfera-1-1.png" alt="Ecoosfera" title="Ecoosfera Logo">
+			</a>
+		</h1>
+				</div>
+			
+			<h1 class="menu-toggle"><i class="fa fa-bars"></i></h1>
+
+						<div class="header-search new-custom"><span>Buscar...</span><form role="search" method="get" class="search-form" action="https://ecoosfera.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="" value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit" value="Search" />
+</form></div>			<ul class="social-area  brand-color header-social-icons"><li><a href="https://www.facebook.com/Ecoosfera" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li><li><a href="https://www.instagram.com/ecoosfera/?hl=es-la" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li><li><a href="https://twitter.com/ecoosfera" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li><li><a href="https://ecoosfera.us19.list-manage.com/subscribe?u=88c382ce186f0c045c9c56c66&id=96826611a4" target="_blank" title="Suscríbete"><i class="fa fa-envelope-o"></i></a></li></ul>			<div id="btn_sear_n">
+			</div>
+
+			
+		</div>
+	
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content"><div id="primary" class="content-area">
+    <main id="main" class="site-main" role="main">
+		            <div id="wrap-sing">
+<article id="post-32973" class="prim_1 prim intro changlink post-32973 post type-post status-publish format-standard has-post-thumbnail hentry category-destacados category-medio-ambiente tag-especies-acuaticas-en-peligro-de-extincion tag-especies-marinas-mexicanas tag-especies-mexicanas-en-peligro-de-extincion tag-vaquita-marina-mexicana tag-vaquita-mexicana-en-riesgo-de-extincion" data-url="https://ecoosfera.com/2016/05/la-vaquita-marina-mexicana-al-borde-de-la-extincion/" data-titulo="La vaquita marina mexicana, al borde de la extinción">
+	    <div class="entry-thumbnail fwip" style="max-height:500px;min-height:500px;background:url('https://ecoosfera.com/wp-content/imagenes/vaquita-marina-1.jpg') repeat center">
+            </div>
+	<header class="entry-header clear">
+		<h1 class="entry-title">La vaquita marina mexicana, al borde de la extinción</h1>
+		<div id="exc_ps">
+        	<p>La vaquita marina sólo existe en México, al norte del Golfo de California, muere incidentalmente en las redes agalleras para capturar camarón y peces como curvinas, macarelas, mantarrayas, tiburones, robalos y totoabas. </p>
+        </div>
+		<div class="entry-meta clear">
+			
+			<span class="post-icon"></span>
+			<span class="posted-on"><a href="https://ecoosfera.com/2016/05/la-vaquita-marina-mexicana-al-borde-de-la-extincion/" title="12:00 pm" rel="bookmark" ><time class="entry-date published" datetime="2016-05-17T12:00:10-06:00">May 17, 2016</time><time class="updated" datetime="2017-12-15T19:24:02-06:00">Dic 15, 2017</time></a></span>						<p class="cat-links"> EN <a href="https://ecoosfera.com/category/medio-ambiente/" rel="category tag">Medio Ambiente, </a></p>           <aside class="mashsb-container mashsb-main "><div class="mashsb-box"><div class="mashsb-count mash-small" style="float:left;"><div class="counts mashsbcount">99</div><span class="mashsb-sharetext">SHARES</span></div><div class="mashsb-buttons"><a  class="mashicon-facebook mash-small mashsb-noshadow" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fecoosfera.com%2F2016%2F05%2Fla-vaquita-marina-mexicana-al-borde-de-la-extincion" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Facebook</span></a><a  class="mashicon-twitter mash-small mashsb-noshadow" href="https://twitter.com/intent/tweet?text=La%20vaquita%20marina%20mexicana%2C%20al%20borde%20de%20la%20extinci%C3%B3n&url=https://ecoosfera.com/2016/05/la-vaquita-marina-mexicana-al-borde-de-la-extincion&via=ecoosfera" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Twitter</span></a><a  class="mashicon-google mash-small mashsb-noshadow" href="" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Google</span></a><a style="display:none;" class="mashicon-whatsapp mash-small mashsb-noshadow" href="" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Whatsapp</span></a><a  class="mashicon-mail mash-small mashsb-noshadow" href="" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Mail</span></a><div class="onoffswitch2 mash-small mashsb-noshadow" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons made by mashshare.net - Version: 3.6.1-->		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+	    <div id="ad_c728" style="text-align:center;margin-bottom:15px;">
+        <center>
+        <script type="text/javascript"><!--
+		google_ad_client = "ca-pub-4064238548794124";
+		/* ECOOSFERA */
+		google_ad_slot = "9145733047";
+		google_ad_width = 728;
+		google_ad_height = 90;
+		//-->
+		</script>
+		<script type="text/javascript"
+		src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script>
+        </center>
+    </div>
+		<div class="entry-content">
+				<p style="text-align: justify;">De acuerdo con la estimación de la Secretaría de Medio Ambiente y Recursos Naturales –Semarnat– y el Fondo Mundial para la Naturaleza –WWF– en México, la población de <strong>vaquitas marinas está al borde de la extinción.</strong> Tan sólo en el 2014 sobrevivían 97 marsopas, mientras que en 2015, 60. </p>
+<p style="text-align: justify;">El Comité Internacional para la Recuperación de la Vaquita –CIRVA–, explica que se perdió prácticamente el 40 por ciento de su población en el último año. Sin embargo, Omar Vidal, director general de WWF en México, asegura que &#8220;<strong>[l]as 60 vaquitas que CIRVA estima que sobrevivían</strong> en diciembre probablemente se redujeron 20 por ciento más debido a que <strong>fueron atrapadas y se ahogaron en la pesca descontrolada de la totoaba entre enero y abril de 2016</strong>.&#8221;</p>
+<p>La vaquita marina sólo existe en México, al norte del Golfo de California, y es el cetáceo más pequeño que existe que <strong>muere incidentalmente en las redes agalleras</strong> para capturar camarón y peces como curvinas, macarelas, mantarrayas, tiburones, robalos y totoabas. </p>
+<p>Y pese a los esfuerzos gubernamentales del presidente Enrique Peña Nieto y su comité asesor multidisciplinario para plantear medidas urgentes con el fin de salvar a esta marsopa mexicana, esta especie está en peligro de extinción.</p>
+<p style="text-align: justify;">En abril del 2015, el presidente mexicano anunció un plan que incluye la prohibición de redes agalleras por dos años y la compensación con 70 millones de dólares a las comunidades pesqueras afectadas. No obstante, el WWF en México comentó que varios de los pescadores que fueron compensados económicamente continuaron pescando totoaba, y la mayoría de <strong>los pescadores seleccionados para emplear las redes que no atrapan vaquitas no sabían cómo usarlas</strong> o no estaban comprometidos a pescar con ellas. </p>
+<p style="text-align: justify;">La razón principal por la que se pesca ilegal de totoaba, es la alta demanda de su vejiga natatoria –localmente conocida como &#8216;buche&#8217;– en China. Estas vejigas son transportadas por contrabando de México a EE.UU y así ser traficadas a China, en donde se consideran un alimento de lujo por el que se pagan miles de dólares: &#8220;<strong>Al final, si la vaquita se extingue, será una responsabilidad compartida por los tres países</strong>&#8220;.</p>
+<p style="text-align: justify;">Frente a esto, Vidal invitó a los gobiernos de México, EE.UU. y China a tomar medidas urgentes y coordinadas para detener la pesca, tráfico y consumo de productos de la totoaba. Recomendó incluso que &#8220;las <strong>autoridades mexicanas cierren inmediata e indefinidamente todas las pesquerías en el hábitat de la vaquita</strong>, e instrumenten una vigilancia estricta y permanente a lo largo del año para asegurar que ninguna vaquita más muera en actividades pesqueras. Y los pescadores afectados deberán ser compensados económicamente.&#8221;</p>
+	
+   	    </div><!-- .entry-content -->
+        <div id="ad_c728" style="text-align:center;margin-bottom:15px;">
+        <center>
+        <!-- /158515645/item_desktop_large_2 -->
+		<script type="text/javascript"><!--
+		google_ad_client = "ca-pub-4064238548794124";
+		/* ECOOSFERA */
+		google_ad_slot = "9145733047";
+		google_ad_width = 728;
+		google_ad_height = 90;
+		//-->
+		</script>
+		<script type="text/javascript"
+		src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script>
+        </center>
+    </div>
+	     <div class="comm-fb" id="coms_32973">
+        <div class="fb-comments" data-href="https://ecoosfera.com/2016/05/la-vaquita-marina-mexicana-al-borde-de-la-extincion/" data-width="100%" data-numposts="5"></div>
+    </div>
+	    <div id="ads_ecoo">
+    	<div id="ad_1">
+    		<script type="text/javascript"><!--
+			google_ad_client = "ca-pub-4064238548794124";
+			/* ECOOSFERA */
+			google_ad_slot = "9145733047";
+			google_ad_width = 300;
+			google_ad_height = 250;
+			//-->
+			</script>
+			<script type="text/javascript"
+			src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+    	</div>
+    	<div id="ad_2">
+    		<script type="text/javascript"><!--
+			google_ad_client = "ca-pub-4064238548794124";
+			/* ECOOSFERA */
+			google_ad_slot = "9145733047";
+			google_ad_width = 300;
+			google_ad_height = 250;
+			//-->
+			</script>
+			<script type="text/javascript"
+			src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+    	</div>
+    	<div id="ad_3">
+    		<script type="text/javascript"><!--
+			google_ad_client = "ca-pub-4064238548794124";
+			/* ECOOSFERA */
+			google_ad_slot = "9145733047";
+			google_ad_width = 300;
+			google_ad_height = 250;
+			//-->
+			</script>
+			<script type="text/javascript"
+			src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+    	</div>
+    </div>
+	</article><!-- #post-## -->
+				<article id="post-38074" class="prim_2 prim changlink post-38074 post type-post status-publish format-standard has-post-thumbnail hentry category-destacados category-medio-ambiente category-recomendadas tag-animales-del-mar tag-animales-marinos tag-conservacion-de-la-biodiversidad tag-conservacion-marina tag-especies-marinas-mexicanas" data-url="https://ecoosfera.com/2017/10/mares-mexicanos-conservacion-mar-oceanos-mexico/" data-titulo="Mares Mexicanos, un proyecto para comunicar la belleza natural del mar e incentivar su conservación (VIDEOS)">
+              <div class="separatorc">
+ 	           	<hr class="left">
+ 	           	<hr class="right">
+               </div>
+			                   <div class="entry-thumbnail fwip" style="max-height:500px;min-height:500px;background:url('https://ecoosfera.com/wp-content/imagenes/mares-mexicanos-conservacion-mar-oceanos-mexico-1.jpg') repeat center">
+	                                </div>
+                <header class="entry-header clear">
+                    
+                    <h1 class="entry-title">Mares Mexicanos, un proyecto para comunicar la belleza natural del mar e incentivar su conservación (VIDEOS)</h1>
+                    <div id="exc_ps">
+                        <p>Los ecosistemas de todo el planeta nos piden efusivamente ser protegidos, algunos a través de los indicios de daño ecológico y, otros, demostrando su inmensa belleza.</p>
+                    </div>
+                    <div class="entry-meta clear">
+                        
+                        <span class="post-icon"></span>
+                        <span class="posted-on"><a href="https://ecoosfera.com/2017/10/mares-mexicanos-conservacion-mar-oceanos-mexico/" title="12:03 pm" rel="bookmark" ><time class="entry-date published" datetime="2017-10-18T12:03:56-06:00">Oct 18, 2017</time><time class="updated" datetime="2017-12-15T19:23:41-06:00">Dic 15, 2017</time></a></span>                                                <p class="cat-links"> EN <a href="https://ecoosfera.com/category/medio-ambiente/" rel="category tag">Medio Ambiente, </a><a href="https://ecoosfera.com/category/recomendadas/" rel="category tag">Recomendadas, </a></p>                                    
+						<aside class="mashsb-container mashsb-main "><div class="mashsb-box"><div class="mashsb-count mash-small" style="float:left;"><div class="counts mashsbcount">1</div><span class="mashsb-sharetext">SHARES</span></div><div class="mashsb-buttons"><a  class="mashicon-facebook mash-small mashsb-noshadow" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fecoosfera.com%2F2017%2F10%2Fmares-mexicanos-conservacion-mar-oceanos-mexico" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Facebook</span></a><a  class="mashicon-twitter mash-small mashsb-noshadow" href="https://twitter.com/intent/tweet?text=Ecoosfera&url=https://ecoosfera.com/2017/10/mares-mexicanos-conservacion-mar-oceanos-mexico&via=ecoosfera" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Twitter</span></a><a  class="mashicon-google mash-small mashsb-noshadow" href="" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Google</span></a><a style="display:none;" class="mashicon-whatsapp mash-small mashsb-noshadow" href="" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Whatsapp</span></a><a  class="mashicon-mail mash-small mashsb-noshadow" href="" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Mail</span></a><div class="onoffswitch2 mash-small mashsb-noshadow" style="display:none;"></div></div></div>
+                    <div style="clear:both;"></div><div class="mashsb-toggle-container"></div></aside>
+            <!-- Share buttons made by mashshare.net - Version: 3.6.1-->                    </div><!-- .entry-meta -->
+                    
+                </header><!-- .entry-header -->
+                				<div id="ad_c728" style="text-align:center;margin-bottom:15px;">
+					<center>
+					<script type="text/javascript"><!--
+					google_ad_client = "ca-pub-4064238548794124";
+					/* ECOOSFERA */
+					google_ad_slot = "9145733047";
+					google_ad_width = 728;
+					google_ad_height = 90;
+					//-->
+					</script>
+					<script type="text/javascript"
+					src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+					</script>
+					</center>
+				</div>
+				            
+                <div class="entry-content">
+                    					<p style="text-align: justify;">Las impactantes y muy desalentadoras imágenes que cotidianamente nos muestran el daño ambiental, adquieren cada vez más peso como medios para la concientización. Sin embargo, <strong>la belleza natural habla por sí misma y nos llama a conservarla y, especialmente, proteger las historias de vida que alberga</strong>. Con esta premisa en mente fue que se creo el idílico sitio web de<a href="http://maresmexicanos.com/" target="_blank" rel="noopener"><strong> Mares Mexicanos</strong></a>.</p>
+<p style="text-align: justify;">Se trata de un espacio dedicado a <strong>“la comunicación de la extraordinaria riqueza marina de México”</strong>, poniendo énfasis en relatos sobre manejo sostenible de los recursos del mar, que pueden inspirar a otros a participar en la conservación de este bello ecosistema.</p>
+<p style="text-align: justify;">Para “contar historias desde lo más profundo” comparten<strong> narrativas de conservación bellamente ilustradas por imágenes que nos recuerdan que la naturaleza, como aún la experimentamos hoy, no puede desaparecer.</strong> A la par, son punto de encuentro y medio de promoción para proyectos ligados al <a href="https://ecoosfera.com/2013/05/la-suma-importancia-del-turismo-sustentable-segun-celine-cousteau/" target="_blank" rel="noopener">ecoturismo</a>, la pesca y comercialización de recursos marinos sustentables y los deportes amigables con el medio ambiente.</p>
+<p><strong>En breve te compartimos algunas bellas piezas encontradas en su sitio web:</strong></p>
+<p style="text-align: justify;"><strong>“Biosferas del mar”</strong> es su colección de audiovisuales que muestran la belleza de los hábitats marinos de las costas mexicanas. La conciencia sobre la existencia de estas magníficas especies es muy importante. <strong>En México hay alrededor de 90 especies marinas en riesgo, algunas de ellas al borde de extinguirse.</strong> Problemas ambientales muy graves como el cambio climático, la ubicuidad del plástico, el tráfico ilegal de animales y la contaminación del agua, en muchos sentidos son irreversibles, pero sí pueden ser disminuidos y <strong>estamos a tiempo de recuperar muchos ecosistemas dañados.</strong></p>
+<p><center><iframe src="https://player.vimeo.com/video/159275153" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><strong>“Voces del mar”</strong> son documentales cortos en donde se cuenta la historia de 14 sitios en donde las <strong>comunidades locales hicieron equipo con científicos y otros especialistas para conservar ecosistemas marinos, sin dejar de consumir y aprovechar recursos para beneficiarse económicamente</strong>. En México hay acciones en diferentes niveles (desde gubernamentales, hasta comunitarias)<a href="https://ecoosfera.com/2017/03/detras-del-desarrollo-sustentable-de-la-isla-holbox/" target="_blank" rel="noopener"> en favor de la pesca sustentable</a>, pero su impacto se reduce si, las personas que compran recursos del mar, no apoyan fuentes sustentables o<a href="https://ecoosfera.com/2016/04/lista-roja-de-los-pescados-que-no-deberias-consumir/"> consumen especies en peligro</a>.</p>
+<p><center><iframe src="https://player.vimeo.com/video/162199353" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><strong>“Guardianes del Mar”</strong>, también a manera de documental cuenta las historias de cuatro áreas naturales protegidas del ecosistema marino en México. La intención es <strong>compartir la importancia de resguardar estos entornos ecológicos</strong> y mostrar de forma muy íntima y honesta las acciones que las comunidades y otros grupos realizan para lograrlo.</p>
+<p><center><iframe src="https://player.vimeo.com/video/159951950" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
+<p>&nbsp;</p>
+<p><strong>Encuentra más información de este genial proyecto en <a href="http://maresmexicanos.com" target="_blank" rel="nofollow noopener">maresmexicanos.com</a></strong></p>
+                                                                            </div><!-- .entry-content -->
+                    <div id="ad_c728" style="text-align:center;margin-bottom:15px;">
+        <center>
+        <script type="text/javascript"><!--
+		google_ad_client = "ca-pub-4064238548794124";
+		/* ECOOSFERA */
+		google_ad_slot = "9145733047";
+		google_ad_width = 728;
+		google_ad_height = 90;
+		//-->
+		</script>
+		<script type="text/javascript"
+		src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script>
+        </center>
+    </div>
+	                <div class="comm-fb" id="coms_38074">
+					<div class="fb-comments" data-href="https://ecoosfera.com/2017/10/mares-mexicanos-conservacion-mar-oceanos-mexico/" data-width="100%" data-numposts="5"></div>
+				</div>
+				<div id="ads_ecoo">
+    	<div id="ad_1">
+    		<script type="text/javascript"><!--
+			google_ad_client = "ca-pub-4064238548794124";
+			/* ECOOSFERA */
+			google_ad_slot = "9145733047";
+			google_ad_width = 300;
+			google_ad_height = 250;
+			//-->
+			</script>
+			<script type="text/javascript"
+			src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+    	</div>
+    	<div id="ad_2">
+    		<script type="text/javascript"><!--
+			google_ad_client = "ca-pub-4064238548794124";
+			/* ECOOSFERA */
+			google_ad_slot = "9145733047";
+			google_ad_width = 300;
+			google_ad_height = 250;
+			//-->
+			</script>
+			<script type="text/javascript"
+			src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+    	</div>
+    	<div id="ad_3">
+    		<script type="text/javascript"><!--
+			google_ad_client = "ca-pub-4064238548794124";
+			/* ECOOSFERA */
+			google_ad_slot = "9145733047";
+			google_ad_width = 300;
+			google_ad_height = 250;
+			//-->
+			</script>
+			<script type="text/javascript"
+			src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+    	</div>
+    </div>
+            </article><!-- #post-## -->
+			</div>
+<!--<div class="load_more_unique">Cargar Más</div>-->
+	    </main><!-- #main -->
+</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		
+		<div class="footer-bottom custom_footer">
+			<div id="container">
+				<div class="footer-site-info">
+					<div id="pages_new">
+						<a href="https://ecoosfera.com/nosotros/">Nosotros</a>
+						<a href="https://ecoosfera.com/team/">Team</a>
+						<a href="https://ecoosfera.com/unete/">Únete</a>
+						<a href="https://ecoosfera.com/ventas/">Ventas</a>
+						<a href="https://ecoosfera.com/contacto/">Contacto</a>
+					</div>
+					<div id="copy_new">
+						Todos los derechos reservados 2018 © Ecoosfera
+					</div>
+					<div id="partner_new">
+						Ecoosfera es un medio encubado en el <a href="http://laboratoriodeconcienciadigital.com" target="_blank">Laboratorio de Conciencia Digital</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!--<div class="bottom-footer clear">
+			
+			<div class="site-info">
+							</div><!-- .site-info -->
+			
+						
+		<!--</div>-->
+		
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<a href="#" class="back-to-top"></a>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.arrex.it\/en\/","ajax_url":"http:\/\/www.arrex.it\/en\/wp-admin\/admin-ajax.php","url_type":"1"};
+var wpcf7 = {"apiSettings":{"root":"https:\/\/ecoosfera.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://www.arrex.it/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.5.4'></script>
+<script type="text/javascript" src="https://ecoosfera.com/wp-content/cache/minify/0fef6.js"></script>
 
-</body>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mashsb = {"shares":"99","round_shares":"1","animate_shares":"0","dynamic_buttons":"0","share_url":"https:\/\/ecoosfera.com\/2016\/05\/la-vaquita-marina-mexicana-al-borde-de-la-extincion\/","title":"La+vaquita+marina+mexicana%2C+al+borde+de+la+extinci%C3%B3n","image":"https:\/\/ecoosfera.com\/wp-content\/imagenes\/vaquita-marina-1.jpg","desc":"La vaquita marina s\u00f3lo existe en M\u00e9xico, al norte del Golfo de California, muere incidentalmente en las redes agalleras para capturar camar\u00f3n y peces como curvinas, macarelas, mantarrayas, tiburones, robalos y totoabas. ","hashtag":"ecoosfera","subscribe":"content","subscribe_url":"","activestatus":"1","singular":"1","twitter_popup":"1","refresh":"1","nonce":"4a89719853","postid":"32973","servertime":"1553291611","ajaxurl":"https:\/\/ecoosfera.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://ecoosfera.com/wp-content/cache/minify/acda7.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"https:\/\/ecoosfera.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+
+
+
+<script type="text/javascript" src="https://ecoosfera.com/wp-content/cache/minify/02fda.js"></script>
+
+ 
+			<script type="text/javascript" class="teads" async="true" src="//a.teads.tv/page/54807/tag"></script>
+	</body>
 </html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced 
+Minified using disk
+
+Served from: ecoosfera.com @ 2019-03-22 15:53:32 by W3 Total Cache
+-->
