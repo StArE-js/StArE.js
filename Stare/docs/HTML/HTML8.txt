@@ -1,1247 +1,284 @@
 <!DOCTYPE html>
-<!--[if IEMobile 7]><html class="iem7"  lang="es" dir="ltr"><![endif]-->
-<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="es" dir="ltr"><![endif]-->
-<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="es" dir="ltr"><![endif]-->
-<!--[if IE 8]><html class="lt-ie9"  lang="es" dir="ltr"><![endif]-->
-<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<html class="client-nojs" lang="en" dir="ltr">
 <head>
-  <meta charset="utf-8" />
-<meta http-equiv="x-dns-prefetch-control" content="on" />
-<link rel="dns-prefetch" href="//cdn2.excelsior.com.mx" />
-<!--[if IE 9]>
-<link rel="prefetch" href="//cdn2.excelsior.com.mx" />
-<![endif]-->
-<meta property="og:description" content="La relajación de la seguridad y vigilancia, así como la falta de apoyos acordados, provocó que la pesca furtiva siguiera" />
-<meta name="abstract" content="Falta estrategia para preservar a vaquita" />
-<link rel="canonical" href="//www.excelsior.com.mx/nacional/falta-estrategia-para-preservar-a-vaquita/1292779" />
-<meta property="og:title" content="Falta estrategia para preservar a vaquita" />
-<meta property="og:type" content="article" />
-<link rel="shortcut icon" href="//www.excelsior.com.mx/sites/excelsior.com.mx/themes/excelsior_v2/favicon.ico" type="image/vnd.microsoft.icon" />
-<meta property="og:url" content="https://www.excelsior.com.mx/nacional/falta-estrategia-para-preservar-a-vaquita/1292779" />
-<meta property="og:site_name" content="Excélsior" />
-<link rel="shortlink" href="//www.excelsior.com.mx/nacional/falta-estrategia-para-preservar-a-vaquita/1292779" />
-<meta name="keywords" content="Falta estrategia para preservar a vaquita, Falta, estrategia, preservar, vaquita, relajación, seguridad, vigilancia, falta, apoyos, acordados, provocó, pesca, furtiva, Excélsior, Nacional, Noticias de hoy" />
-<meta name="twitter:site" content="@Excelsior" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta property="og:image" content="https://cdn2.excelsior.com.mx/media/styles/imagen_redes_sociales/public/pictures/2019/01/27/2088237.jpg" />
-<meta name="news_keywords" content="Falta estrategia para preservar a vaquita, Falta, estrategia, preservar, vaquita, relajación, seguridad, vigilancia, falta, apoyos, acordados, provocó, pesca, furtiva, Excélsior, Nacional, Noticias de hoy" />
-<meta name="description" content="La relajación de la seguridad y vigilancia, así como la falta de apoyos acordados, provocó que la pesca furtiva siguiera" />
-<meta name="twitter:title" content="Falta estrategia para preservar a vaquita" />
-<meta property="og:image:height" content="498" />
-<meta name="twitter:description" content="&lt;p&gt;La relajación de la seguridad y vigilancia, así como la falta de apoyos acordados, provocó que la pesca furtiva siguiera&lt;/p&gt;" />
-<meta property="og:image:width" content="664" />
-<meta property="fb:pages" content="274065655968965" />
-<meta name="twitter:image" content="https://cdn2.excelsior.com.mx/media/styles/large/public/pictures/2019/01/27/2088237.jpg" />
-<link rel="dns-prefetch" href="//ads.rubiconproject.com/" />
-<link rel="dns-prefetch" href="//optimized-by.rubiconproject.com/" />
-  <link rel="dns-prefetch" href="//ajax.googleapis.com">
-  <link rel="dns-prefetch" href="http://www.googletagservices.com">
-  <link rel="dns-prefetch" href="https://www.googletagmanager.com">
-  <link rel="dns-prefetch" href="https://apis.google.com">
-  <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
-  <link rel="dns-prefetch" href="//connect.facebook.net">
-  <link rel="dns-prefetch" href="https://apis.google.com/">
-  <link rel="dns-prefetch" href="//s7.addthis.com">
-  <title>Falta estrategia para preservar a vaquita</title>
-  <!-- Falta estrategia para preservar a vaquita -->
-    <meta property="fb:app_id" content="550225168356361"/>
-      <!--<meta name="viewport" content="initial-scale=1">
-      <meta name="viewport" content="maximum-scale=1">
-      <meta name="viewport" content="width=device-width">-->
-    <meta name="viewport" content="width=1024">
-        <meta http-equiv="cleartype" content="on">
-        <meta name="cXenseParse:imx:contenttype" content="node">
-        <meta name="cXenseParse:recs:publishtime" content="2019-01-27T11:00:11.000Z"/>
-    <meta name="cXenseParse:recs:articleid" content="1292779">
-    <meta name="cXenseParse:imx:nodetype" content="article">
-    <meta name="cXenseParse:imx:img-grande200px" content="//cdn2.excelsior.com.mx/media/styles/imagen_portada_grande_200px/public/pictures/2019/01/27/2088237.jpg"/>
-    <meta name="cXenseParse:imx:img-portada" content="//cdn2.excelsior.com.mx/media/pictures/2019/01/27/2088236.jpg"/>
-        <meta property="og:article:author" content="adrian.miron"/>
-    <meta property="article:published_time" content="2019-01-27T11:00:11-06:00" />
-    <meta property="article:modified_time" content="2019-01-27T10:29:50-06:00" />
-              <meta name="google-site-verification" content="4aPNO7I9bLZ1Ri0jG6GgQN7H8szVq-hbCgq9AFPaQ4M" />
-        <!-- google deep linking -->
-    <link rel="alternate" href="android-app://com.excelsior/http/excelsior/1292779"/>
-    <link rel="alternate" href="ios-app://510688559.com.inventmx.excelsior/http/www.excelsior.com.mx/excelsior/1292779"/>
-        <!-- AMP -->
-        <link rel="amphtml" href="//m.excelsior.com.mx/nacional/falta-estrategia-para-preservar-a-vaquita/1292779/amp">
-        <!-- END AMP -->
-    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
-        <!-- DFP FASTLANE -->
-    <script src="//ads.rubiconproject.com/header/11930.js"></script>
-    <!-- end FASTLANE -->
-    <link type="text/css" rel="stylesheet" href="//www.excelsior.com.mx/media/cdn/css/https/css_rFFdBulXPcnGb6E07RkscZEucKArCPYZnxsdIaxeEeE.css" media="all" />
-<link type="text/css" rel="stylesheet" href="//www.excelsior.com.mx/media/cdn/css/https/css_QqriJj4ov50eAPG9JgSlkh87i1rLA30SAyMG2ecjt64.css" media="all" />
-<link type="text/css" rel="stylesheet" href="//www.excelsior.com.mx/media/cdn/css/https/css_PI3Y6gEfeQMJwKiJQFWh_gzNl-UMZkfoLWfoKYEBXD4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="//www.excelsior.com.mx/media/cdn/css/https/css_ILSSx8-Y1wVeoPNPBVMopZaryY-Hr4Yu-R8o5VL-gmM.css" media="all" />
-    
-    <!-- Retargetly -->
-    <script type="text/javascript">
-    var _rely = [],_rl_id = 205,_rl_src=2,_rl_ptc = ('https:' == window.location.protocol ? 'https' : 'http');
-    _rely.send = function(){};
-    (function() { var rl = document.createElement('script');
-      rl.type = 'text/javascript';
-      rl.async = true;
-      rl.src = _rl_ptc+'://api.retargetly.com/loader?id='+_rl_id;
-      rl.id = 'rely-api'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(rl, s); })();
-    </script>
-
-    <script type="text/javascript"> var _rl_gen_sg=function(){ var e="_rl_sg",n=document.cookie.indexOf(e);
-    if(-1==n)return[];n+=e.length+1;
-    var o=document.cookie.indexOf(";",n);
-    return-1==o&& (o=document.cookie.length),document.cookie.substring(n,o).split(",")};
-    </script>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.12/jquery.min.js'>\x3C/script>")</script>
-<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
-<script src="//www.excelsior.com.mx/media/js/js_vytZR4SiMsfEqmefAPgvd-KkLdiJ1Q5OFzEInwYlopg.js"></script>
-<script>var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-googletag.slots = googletag.slots || {};</script>
-<script src="//www.googletagservices.com/tag/js/gpt.js"></script>
-<script src="//www.excelsior.com.mx/media/js/js_s3L_uC35AiN5EGYY533su-jccnLRp2aKpOnjgPLbo34.js"></script>
-<script>var rubicon_extends = rubicon_extends || [];
-  var fastlane = fastlane || [];
-  fastlane.slots = fastlane.slots || [];
-  googletag = googletag   || {};
-  googletag.slots = googletag.slots || {};
-  googletag.cmd = googletag.cmd || [];
-
-  googletag.cmd.push( function(){
-    googletag.pubads().disableInitialLoad();
-  });
-
-   //here is rubicon variable
-  </script>
-<script>rubicon_extends['728x90_nacional_cont'] = {"adid":"20","machinename":"728x90_nacional_cont","slot":"728x90_nacional_cont","adunit":"35139216\/Excelsior\/Nacional\/728x90_Nacional_Contenido","size":"[[970, 250], [970, 90], [900, 200], [728, 90]]","block":"1","settings":{"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"content","value":"[node:content-type:machine-name]"}],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1,"raw":{"adid":"20","machinename":"728x90_nacional_cont","slot":"728x90_nacional_cont","adunit":"Excelsior\/Nacional\/728x90_Nacional_Contenido","size":"970x250,970x90,900x200,728x90","block":"1","settings":{"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"content","value":"[node:content-type:machine-name]"}],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1},"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"content","value":"[node:content-type:machine-name]"}],"breakpoints":[],"wrapper_id":"dfp-ad-728x90_nacional_cont-wrapper","placeholder_id":"dfp-ad-728x90_nacional_cont","adunit_hitory":"Excelsior\/Nacional\/728x90_Nacional_Contenido"}</script>
-<script>rubicon_extends['728x90_excelsior_tags_2'] = {"adid":"287","machinename":"728x90_excelsior_tags_2","slot":"728x90_excelsior_tags_2","adunit":"35139216\/Excelsior\/Excelsior_Tags","size":"[[970, 250], [970, 90], [900, 200], [728, 90]]","block":"1","settings":{"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"intereses","value":"[term:url:path]"},{"target":"position","value":"two"}],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1,"raw":{"adid":"287","machinename":"728x90_excelsior_tags_2","slot":"728x90_excelsior_tags_2","adunit":"Excelsior\/Excelsior_Tags","size":"970x250,970x90,900x200,728x90","block":"1","settings":{"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"intereses","value":"[term:url:path]"},{"target":"position","value":"two"}],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1},"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"intereses","value":"[term:url:path]"},{"target":"position","value":"two"}],"breakpoints":[],"wrapper_id":"dfp-ad-728x90_excelsior_tags_2-wrapper","placeholder_id":"dfp-ad-728x90_excelsior_tags_2","adunit_hitory":"Excelsior\/Excelsior_Tags"}</script>
-<script>rubicon_extends['300x250_nacional_cont_1'] = {"adid":"24","machinename":"300x250_nacional_cont_1","slot":"300x250_nacional_cont_1","adunit":"35139216\/Excelsior\/Nacional\/300x250_Nacional_Contenido","size":"[[300, 250], [300, 600], [400, 500]]","block":"1","settings":{"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"position","value":"one"},{"target":"content","value":"[node:content-type:machine-name]"},{"target":"intereses","value":"[node:field-tags-navegacion]"}],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1,"raw":{"adid":"24","machinename":"300x250_nacional_cont_1","slot":"300x250_nacional_cont_1","adunit":"Excelsior\/Nacional\/300x250_Nacional_Contenido","size":"300x250,300x600,400x500","block":"1","settings":{"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"position","value":"one"},{"target":"content","value":"[node:content-type:machine-name]"},{"target":"intereses","value":"[node:field-tags-navegacion]"}],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1},"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"position","value":"one"},{"target":"content","value":"[node:content-type:machine-name]"},{"target":"intereses","value":"[node:field-tags-navegacion]"}],"breakpoints":[],"wrapper_id":"dfp-ad-300x250_nacional_cont_1-wrapper","placeholder_id":"dfp-ad-300x250_nacional_cont_1","adunit_hitory":"Excelsior\/Nacional\/300x250_Nacional_Contenido"}</script>
-<script>rubicon_extends['300x250_nacional_cont_6'] = {"adid":"280","machinename":"300x250_nacional_cont_6","slot":"300x250_nacional_cont_6","adunit":"35139216\/Excelsior\/Nacional\/300x250_Nacional_Contenido","size":"[300, 250]","block":"1","settings":{"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"position","value":"six"},{"target":"content","value":"[node:content-type:machine-name]"},{"target":"intereses","value":"[node:field-tags-navegacion]"}],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1,"raw":{"adid":"280","machinename":"300x250_nacional_cont_6","slot":"300x250_nacional_cont_6","adunit":"Excelsior\/Nacional\/300x250_Nacional_Contenido","size":"300x250","block":"1","settings":{"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"position","value":"six"},{"target":"content","value":"[node:content-type:machine-name]"},{"target":"intereses","value":"[node:field-tags-navegacion]"}],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1},"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"position","value":"six"},{"target":"content","value":"[node:content-type:machine-name]"},{"target":"intereses","value":"[node:field-tags-navegacion]"}],"breakpoints":[],"wrapper_id":"dfp-ad-300x250_nacional_cont_6-wrapper","placeholder_id":"dfp-ad-300x250_nacional_cont_6","adunit_hitory":"Excelsior\/Nacional\/300x250_Nacional_Contenido"}</script>
-<script>rubicon_extends['1x1_nacional_cont'] = {"adid":"18","machinename":"1x1_nacional_cont","slot":"1x1_nacional_cont","adunit":"35139216\/Excelsior\/Nacional\/1x1_Nacional_Contenido","size":"[1, 1]","block":"0","settings":{"out_of_page":1,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"content","value":"[node:content-type:machine-name]"}],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1,"raw":{"adid":"18","machinename":"1x1_nacional_cont","slot":"1x1_nacional_cont","adunit":"Excelsior\/Nacional\/1x1_Nacional_Contenido","size":"1x1","block":"0","settings":{"out_of_page":1,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"content","value":"[node:content-type:machine-name]"}],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1},"out_of_page":1,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"content","value":"[node:content-type:machine-name]"}],"breakpoints":[],"wrapper_id":"dfp-ad-1x1_nacional_cont-wrapper","placeholder_id":"dfp-ad-1x1_nacional_cont","adunit_hitory":"Excelsior\/Nacional\/1x1_Nacional_Contenido"}</script>
-<script>rubicon_extends['300x250_nacional_cont_4'] = {"adid":"27","machinename":"300x250_nacional_cont_4","slot":"300x250_nacional_cont_4","adunit":"35139216\/Excelsior\/Nacional\/300x250_Nacional_Contenido","size":"[300, 250]","block":"1","settings":{"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"position","value":"four"},{"target":"content","value":"[node:content-type:machine-name]"},{"target":"intereses","value":"[node:field-tags-navegacion]"}],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1,"raw":{"adid":"27","machinename":"300x250_nacional_cont_4","slot":"300x250_nacional_cont_4","adunit":"Excelsior\/Nacional\/300x250_Nacional_Contenido","size":"300x250","block":"1","settings":{"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"position","value":"four"},{"target":"content","value":"[node:content-type:machine-name]"},{"target":"intereses","value":"[node:field-tags-navegacion]"}],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1},"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"position","value":"four"},{"target":"content","value":"[node:content-type:machine-name]"},{"target":"intereses","value":"[node:field-tags-navegacion]"}],"breakpoints":[],"wrapper_id":"dfp-ad-300x250_nacional_cont_4-wrapper","placeholder_id":"dfp-ad-300x250_nacional_cont_4","adunit_hitory":"Excelsior\/Nacional\/300x250_Nacional_Contenido"}</script>
-<script>rubicon_extends['native_excelsior'] = {"adid":"284","machinename":"native_excelsior","slot":"native_excelsior","adunit":"35139216\/Excelsior\/native\/n_bl_excelsior","size":"'fluid'","block":"1","settings":{"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1,"raw":{"adid":"284","machinename":"native_excelsior","slot":"native_excelsior","adunit":"Excelsior\/native\/n_bl_excelsior","size":"fluid","block":"1","settings":{"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1},"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[],"breakpoints":[],"wrapper_id":"dfp-ad-native_excelsior-wrapper","placeholder_id":"dfp-ad-native_excelsior","adunit_hitory":"Excelsior\/native\/n_bl_excelsior"}</script>
-<script>rubicon_extends['300x250_nacional_cont_2'] = {"adid":"25","machinename":"300x250_nacional_cont_2","slot":"300x250_nacional_cont_2","adunit":"35139216\/Excelsior\/Nacional\/300x250_Nacional_Contenido","size":"[[300, 250], [300, 600]]","block":"1","settings":{"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"position","value":"two"},{"target":"content","value":"[node:content-type:machine-name]"},{"target":"intereses","value":"[node:field-tags-navegacion]"}],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1,"raw":{"adid":"25","machinename":"300x250_nacional_cont_2","slot":"300x250_nacional_cont_2","adunit":"Excelsior\/Nacional\/300x250_Nacional_Contenido","size":"300x250,300x600","block":"1","settings":{"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"position","value":"two"},{"target":"content","value":"[node:content-type:machine-name]"},{"target":"intereses","value":"[node:field-tags-navegacion]"}],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1},"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"position","value":"two"},{"target":"content","value":"[node:content-type:machine-name]"},{"target":"intereses","value":"[node:field-tags-navegacion]"}],"breakpoints":[],"wrapper_id":"dfp-ad-300x250_nacional_cont_2-wrapper","placeholder_id":"dfp-ad-300x250_nacional_cont_2","adunit_hitory":"Excelsior\/Nacional\/300x250_Nacional_Contenido"}</script>
-<script>rubicon_extends['300x250_nacional_cont_3'] = {"adid":"26","machinename":"300x250_nacional_cont_3","slot":"300x250_nacional_cont_3","adunit":"35139216\/Excelsior\/Nacional\/300x250_Nacional_Contenido","size":"[300, 250]","block":"1","settings":{"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"position","value":"three"},{"target":"content","value":"[node:content-type:machine-name]"},{"target":"intereses","value":"[node:field-tags-navegacion]"}],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1,"raw":{"adid":"26","machinename":"300x250_nacional_cont_3","slot":"300x250_nacional_cont_3","adunit":"Excelsior\/Nacional\/300x250_Nacional_Contenido","size":"300x250","block":"1","settings":{"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"position","value":"three"},{"target":"content","value":"[node:content-type:machine-name]"},{"target":"intereses","value":"[node:field-tags-navegacion]"}],"breakpoints":[]},"table":"dfp_tags","type":"Normal","export_type":1},"out_of_page":0,"slug":"","short_tag":0,"adsense_ad_types":"","adsense_channel_ids":"","adsense_colors":{"background":"","border":"","link":"","text":"","url":""},"targeting":[{"target":"position","value":"three"},{"target":"content","value":"[node:content-type:machine-name]"},{"target":"intereses","value":"[node:field-tags-navegacion]"}],"breakpoints":[],"wrapper_id":"dfp-ad-300x250_nacional_cont_3-wrapper","placeholder_id":"dfp-ad-300x250_nacional_cont_3","adunit_hitory":"Excelsior\/Nacional\/300x250_Nacional_Contenido"}</script>
-<script>
-  var gptran = false;
-  function gptrun() {
-    if (gptran) {
-      return;
-    }
-    gptran = true;
-
-    for(var z in fastlane.slots ){
-      rubicontag && rubicontag.setTargetingForGPTSlot && rubicontag.setTargetingForGPTSlot(fastlane.slots[z] );
-    }
-    googletag.pubads().refresh();
-  };
-
-
-  var rubicontag = rubicontag || {};
-  rubicontag.cmd = rubicontag.cmd || [];
-  var adslots = [];
-
-  rubicontag.cmd.push(function(){
-    var index = 1;
-    for(var i in rubicon_extends ){
-
-      var adunit = rubicon_extends[i].adunit;
-      var size_escape = rubicon_extends[ i ].size.replace(/'/g, '"');
-      var size   =  JSON.parse(size_escape);
-      var placeholder_id = rubicon_extends[ i ].placeholder_id;
-      var adunit_hitory = rubicon_extends[ i ].adunit_hitory;
-      var position = 'atf';
-      if(index  >= 4){
-        position = 'btf';
-      }
-      rubicontag.defineSlot(adunit,size,placeholder_id  ).setPosition( position).setFPI('adunit',adunit_hitory.replace('35139216\/','')).setFPI('position', position );
-      index ++;
-    }// end for
-
-    try{
-      var a = new Array('gender', 'age', 'education', 'interest', 'product', 'income', 'marital', 'custom', 'cluster', 'career', 'brand', 'industry', 'everybuyer', 'connection');
-      for (nvg_i in a){
-        var b = '';
-        var c = 'nvg_' + a[nvg_i];
-        c = c.substring(0, 10);
-        var d = nvg41021.getSegment(a[nvg_i]);
-        if (d.search(',') != -1){
-          rubicontag.setFPV(c,d.join(','));
-        } else {
-          rubicontag.setFPV(c,d);
-        }
-      }
-    } catch(e){ console.log('Rubicon - error  Navegg'); };
-    rubicontag.run(gptrun);
-  });
-  </script>
-<script>
-googletag.cmd.push(function(){
-  fastlane.slots["728x90_nacional_cont"] = googletag.defineSlot("35139216/Excelsior/Nacional/728x90_Nacional_Contenido", [[970, 250], [970, 90], [900, 200], [728, 90]], "dfp-ad-728x90_nacional_cont")
-  .addService(googletag.pubads())
-  .setTargeting("content", "article"); fastlane.slots["728x90_excelsior_tags_2"] = googletag.defineSlot("35139216/Excelsior/Excelsior_Tags", [[970, 250], [970, 90], [900, 200], [728, 90]], "dfp-ad-728x90_excelsior_tags_2")
-  .addService(googletag.pubads())
-  .setTargeting("position", "two"); fastlane.slots["300x250_nacional_cont_1"] = googletag.defineSlot("35139216/Excelsior/Nacional/300x250_Nacional_Contenido", [[300, 250], [300, 600], [400, 500]], "dfp-ad-300x250_nacional_cont_1")
-  .addService(googletag.pubads())
-  .setTargeting("position", "one")
-  .setTargeting("content", "article")
-  .setTargeting("intereses", ["Cine","Gobierno federal","Animales en peligro de extinción","Animales"]); fastlane.slots["300x250_nacional_cont_6"] = googletag.defineSlot("35139216/Excelsior/Nacional/300x250_Nacional_Contenido", [300, 250], "dfp-ad-300x250_nacional_cont_6")
-  .addService(googletag.pubads())
-  .setTargeting("position", "six")
-  .setTargeting("content", "article")
-  .setTargeting("intereses", ["Cine","Gobierno federal","Animales en peligro de extinción","Animales"]); fastlane.slots["1x1_nacional_cont"] = googletag.defineOutOfPageSlot("35139216/Excelsior/Nacional/1x1_Nacional_Contenido", "dfp-ad-1x1_nacional_cont")
-  .addService(googletag.pubads())
-  .setTargeting("content", "article"); fastlane.slots["300x250_nacional_cont_4"] = googletag.defineSlot("35139216/Excelsior/Nacional/300x250_Nacional_Contenido", [300, 250], "dfp-ad-300x250_nacional_cont_4")
-  .addService(googletag.pubads())
-  .setTargeting("position", "four")
-  .setTargeting("content", "article")
-  .setTargeting("intereses", ["Cine","Gobierno federal","Animales en peligro de extinción","Animales"]); fastlane.slots["native_excelsior"] = googletag.defineSlot("35139216/Excelsior/native/n_bl_excelsior", 'fluid', "dfp-ad-native_excelsior")
-  .addService(googletag.pubads()); fastlane.slots["300x250_nacional_cont_2"] = googletag.defineSlot("35139216/Excelsior/Nacional/300x250_Nacional_Contenido", [[300, 250], [300, 600]], "dfp-ad-300x250_nacional_cont_2")
-  .addService(googletag.pubads())
-  .setTargeting("position", "two")
-  .setTargeting("content", "article")
-  .setTargeting("intereses", ["Cine","Gobierno federal","Animales en peligro de extinción","Animales"]); fastlane.slots["300x250_nacional_cont_3"] = googletag.defineSlot("35139216/Excelsior/Nacional/300x250_Nacional_Contenido", [300, 250], "dfp-ad-300x250_nacional_cont_3")
-  .addService(googletag.pubads())
-  .setTargeting("position", "three")
-  .setTargeting("content", "article")
-  .setTargeting("intereses", ["Cine","Gobierno federal","Animales en peligro de extinción","Animales"]);
-    googletag.pubads().setTargeting("url", "nacional/falta-estrategia-para-preservar-a-vaquita/1292779");
-  googletag.pubads().setTargeting("plataforma", "desktop");
-  googletag.pubads().setTargeting("intereses", ["Cine","Gobierno federal","Animales en peligro de extinción","Animales"]);
-  googletag.pubads().setTargeting("id_nota_ex", "1292779");
-  googletag.pubads().setTargeting("_rl", typeof(_rl_gen_sg) === typeof(Function)?_rl_gen_sg(): []);
-
-  googletag.pubads().enableSingleRequest();
-  googletag.pubads().enableAsyncRendering();
-  googletag.enableServices();
-});
-
-setTimeout(gptrun, 3000);  </script>
-<script src="//www.excelsior.com.mx/media/js/js_mnggvquTinHDCsDFRSAj1ux_UtUfz0_H3ZEsXevn7yY.js"></script>
-<script>var base_path = '/'; var module_path = 'sites/all/modules/likedislike';</script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
-<script src="//www.excelsior.com.mx/media/js/js_yQp91mpqks_gq2LglTMvwfqp3fwdyCwfTI0zI3Hq92o.js"></script>
-<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-3403383-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("set", "dimension1", "adrian.miron");ga("send", "pageview");</script>
-<script src="//www.excelsior.com.mx/media/js/js_IIU49ggwTm3aaG-sr5WgX3TyiBuhdM00d_mXpxD5X6I.js"></script>
-<script src="//cdn2.excelsior.imagendigital.com/library/js/jquery.colorbox-min.js"></script>
-<script src="//www.excelsior.com.mx/media/js/js_ukdadI66ovNw_9sqcCobVDXa0HGjzSiY2RVI0-z_Qvk.js"></script>
-<script src="//www.excelsior.com.mx/media/js/js_uEJF2gF4ih3zYWzkR4qCvKMHMbH-aP3tj8pET9RAtCA.js"></script>
-<script src="//www.excelsior.com.mx/media/js/js_f-uYFI_-PcdvVPcaQq9BESsC1jYzUQmOJE2UaXhNfjg.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"excelsior_v2","theme_token":"AocFvB0gtipJa_VfAzdkuraPFoAiVHRsCjOzq762y7M","js":{"sites\/all\/modules\/custom\/excelsior_viralizacion\/js\/excelsior_viralizacion.js":1,"sites\/all\/modules\/custom\/excelsior_bloques\/js\/excelsior_boletin_box_bottom.js":1,"\/sites\/excelsior.com.mx\/themes\/excelsior_v2\/js\/node.js":1,"0":1,"1":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.12.4\/jquery.min.js":1,"2":1,"3":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1\/jquery-migrate.min.js":1,"misc\/jquery.once.js":1,"4":1,"https:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"5":1,"6":1,"7":1,"8":1,"9":1,"10":1,"11":1,"12":1,"13":1,"14":1,"15":1,"16":1,"public:\/\/languages\/es_NYRccJcoiINdAesXuSrC-5lE7cyyyaY4ar1qITupaKM.js":1,"sites\/all\/modules\/likedislike\/likedislike.js":1,"17":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/jquery-cookie\/1.4.1\/jquery.cookie.min.js":1,"sites\/all\/modules\/custom\/excelsior_canales\/js\/handlebars-v1.3.0.min.js":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/js\/jquery.ImxInfiniteScroll.plugin-v2.0.min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"18":1,"sites\/all\/modules\/custom\/excelsior_pop_subscribe\/js\/excelsior_pop_subscribe.js":1,"\/\/cdn2.excelsior.imagendigital.com\/library\/js\/jquery.colorbox-min.js":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/js\/jquery.imxsticky-1.0.js":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/js\/node-sticky.js":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/js\/IMx_imageShare.js":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/js\/jquery.lazyload.min.js":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/js\/jquery.clicanalytics_plugin.js":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/js\/jquery.trackingClicksGA.js":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/js\/dfp_gpt_async.js":1,"sites\/all\/modules\/custom\/taboola_v2\/js\/_taboola_.js":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/js\/easing\/jquery.easing.min.js":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"sites\/all\/modules\/custom\/digiteka_embed\/digiteka_embed.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/likedislike\/templates\/likedislike.css":1,"sites\/all\/modules\/custom\/excelsior_viralizacion\/css\/excelsior_viralizacion.css":1,"sites\/all\/modules\/custom\/excelsior_canales\/css\/canal_scroll_infinito.css":1,"sites\/all\/modules\/custom\/excelsior_canales\/css\/canal_paginado.css":1,"sites\/all\/modules\/custom\/excelsior_canales\/css\/IMXScroll.css":1,"sites\/all\/modules\/custom\/excelsior_bloques\/css\/excelsior_boletin_box_bottom.css":1,"sites\/all\/modules\/custom\/excelsior_pop_subscribe\/css\/excelsior_pop_subscribe.css":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/js\/galleria\/themes\/excelsior\/galleria.excelsior.css":1,"sites\/all\/modules\/custom\/imx_videonota\/css\/imx_videonota_seriesplayer.css":1,"sites\/all\/modules\/custom\/excelsior_bloques\/css\/excelsior_bloques_node_tags.css":1,"sites\/all\/modules\/custom\/excelsior_viralizacion\/css\/excelsior_viralizacion_redes_sociales_node_comparte.css":1,"sites\/all\/modules\/custom\/excelsior_bloques\/css\/excelsior_bloques_recs_content.css":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/css\/dfp.css":1,"sites\/all\/modules\/custom\/excelsior_twitter\/css\/excelsior_twitter_block.css":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/system.menus.css":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/system.messages.css":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/system.theme.css":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/css\/fontBreve.css":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/css\/normalize.css":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/css\/components\/misc.css":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/css\/views-styles.css":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/css\/print.css":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/css\/pages.css":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/css\/navigation.css":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/css\/tabs.css":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/css\/forms.css":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/css\/styles.css":1,"sites\/excelsior.com.mx\/themes\/excelsior_v2\/css\/nodes.css":1,"sites\/all\/modules\/custom\/bottom\/imx-bottom-responsive--v2.css":1,"sites\/all\/modules\/custom\/excelsior_bloques\/css\/block-barra--sticky-v2.css":1}},"menu":{"seccion":"nacional","subSeccion":"cine"},"dfp":{"canal":"nacional","ubicacion":"cont"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"field_group":{"hidden":"full"}});</script>
-<!-- imxfixedsuper -->
-<link type="text/css" rel="stylesheet" href="//cdn2.excelsior.imagendigital.com/styles/style_imxfixedsuper.css" media="all" />
-<script type="text/javascript" src="//cdn2.excelsior.imagendigital.com/library/js/jquery.imxfixedsuper.min.js"></script>
-<!-- end imxfixedsuper -->
-
-        <!-- AddThis -->
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e43f14f2aeea544"></script>
-    <!-- AddThis -->
-            <!--[if lt IE 9]>
-    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
-    <![endif]-->
-        <!-- Begin comScore Tag Direct -->
-    <script>
-    var _comscore = _comscore || [];
-    _comscore.push({ c1: "2", c2: "14933943" });
-    (function() {
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-    el.parentNode.insertBefore(s, el);
-    })();
-    </script>
-    <noscript>
-    <img src="//b.scorecardresearch.com/p?c1=2&c2=14933943&cv=2.0&cj=1" />
-    </noscript>
-    <!-- End comScore Tag -->
-          <!-- galleria.io -->
-      <link href="/sites/excelsior.com.mx/themes/excelsior_v2/js/galleria/themes/excelsior/galleria.excelsior.css" rel='stylesheet' type='text/css' >
-      <script src="/sites/excelsior.com.mx/themes/excelsior_v2/js/galleria/galleria-1.2.9.min.js"></script>
-      <script src="/sites/excelsior.com.mx/themes/excelsior_v2/js/galleria/themes/excelsior/galleria.excelsior.min.js"></script>
-      <!-- end galleria.io -->
-    
-    
-<!-- teads --> <script type="text/javascript" class="teads" async="true" src="//a.teads.tv/page/71006/tag"></script>    </head>
-<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-1292779 node-type-article section-nacional" >
-<div id="fb-root"></div>
-  <!-- Funcion generada por imx_ads.module >-->
-  <script type="text/javascript">
-    if (typeof smart_ads == 'function') {
-      //smart_ads();
-    }
-  </script>
-       <!-- CXense  -->
-    <!-- cXense script begin -->
-    <div id="cX-root" style="display:none"></div>
-    <script type="text/javascript">
-      var cX = cX || {}; cX.callQueue = cX.callQueue || [];
-      cX.callQueue.push(['setAccountId', '9222288259132208947']);
-      cX.callQueue.push(['setSiteId', '9222288259132208948']);
-      cX.callQueue.push(['sendPageViewEvent']);
-    </script>
-    <script type="text/javascript">
-      (function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
-      scriptEl.src = ('https:' == document.location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
-      var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {};} ());
-    </script>
-    <!-- cXense script end -->
-    <!--    -->
-    
-      <p id="skip-link">
-      <a href="#main-menu" class="element-invisible element-focusable">Saltar al menú</a>
-    </p>
-      <div class="region region-page-top">
-    <div id="dfp-ad-1x1_nacional_cont-wrapper" class="dfp-tag-wrapper element-hidden">
-<div  id="dfp-ad-1x1_nacional_cont" class="dfp-tag-wrapper">
-    <script type="text/javascript">
-    googletag.cmd.push(function() {
-      googletag.display("dfp-ad-1x1_nacional_cont");
-    });
-  </script>
+<meta charset="UTF-8"/>
+<title>Taza National Park - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Taza_National_Park","wgTitle":"Taza National Park","wgCurRevisionId":861331914,"wgRevisionId":861331914,"wgArticleId":14512288,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Commons category link from Wikidata","Commons category link is on Wikidata using P373","IUCN Category II","National parks of Algeria","Biosphere reserves of Algeria","Geography of Jijel Province","Protected areas established in 1985","Tourist attractions in Jijel Province"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Taza_National_Park","wgRelevantArticleId":14512288,"wgRequestId":"XMVl9wpAADkAAI37G7oAAABT","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCoordinates":{"lat":36.6,"lon":5.5},"wgWikibaseItemId":"Q2671615","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.1"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/International_park_Taza_01.JPG/1200px-International_park_Taza_01.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Taza_National_Park"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Taza_National_Park&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Taza_National_Park&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Taza_National_Park"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=qqx&amp;modules=html5shiv&amp;only=scripts&amp;skin=fallback&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Taza_National_Park rootpage-Taza_National_Park skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
 </div>
-</div>  </div>
-  
-<!-- Region skin -->
- <div class="clear"></div>
-<div id="page">
-        <div id="region-aperture">
-          <div class="region region-aperture">
-    <div id="block-dfp-728x90-nacional-cont" class="block block-dfp first last odd">
 
-      
-  <div id="dfp-ad-728x90_nacional_cont-wrapper" class="dfp-tag-wrapper">
-<div  id="dfp-ad-728x90_nacional_cont" class="dfp-tag-wrapper">
-    <script type="text/javascript">
-    googletag.cmd.push(function() {
-      googletag.display("dfp-ad-728x90_nacional_cont");
-    });
-  </script>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Taza National Park</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold">Taza National Park</th></tr><tr><td colspan="2" style="text-align:center;font-size: 100%;"><div style="background-color: #CDE5B2;"><a href="/wiki/IUCN" class="mw-redirect" title="IUCN">IUCN</a> category II (<a href="/wiki/National_park" title="National park">national park</a>)</div></td></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:International_park_Taza_01.JPG" class="image"><img alt="International park Taza 01.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/International_park_Taza_01.JPG/284px-International_park_Taza_01.JPG" decoding="async" width="284" height="213" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/International_park_Taza_01.JPG/426px-International_park_Taza_01.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/International_park_Taza_01.JPG/568px-International_park_Taza_01.JPG 2x" data-file-width="4608" data-file-height="3456" /></a></td></tr><tr><td colspan="2" style="text-align:center"><div class="center"><div style="width:284px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:284px;padding:0"><div style="position:relative;width:284px"><a href="/wiki/File:Algeria_relief_location_map.jpg" class="image" title="Map showing the location of Taza National Park"><img alt="Map showing the location of Taza National Park" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Algeria_relief_location_map.jpg/284px-Algeria_relief_location_map.jpg" decoding="async" width="284" height="282" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Algeria_relief_location_map.jpg/426px-Algeria_relief_location_map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Algeria_relief_location_map.jpg/568px-Algeria_relief_location_map.jpg 2x" data-file-width="1287" data-file-height="1279" /></a><div style="position:absolute;top:6.138%;left:67.342%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Map showing the location of Taza National Park" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Taza National Park" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div></div></div><div></div></div></div></div></td></tr><tr class="locality"><th scope="row">Location</th><td><a href="/wiki/Jijel_Province" title="Jijel Province">Jijel Province</a>, <a href="/wiki/Algeria" title="Algeria">Algeria</a></td></tr><tr class="note"><th scope="row">Nearest&#160;city</th><td>Taza, Algeria</td></tr><tr><th scope="row">Coordinates</th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Taza_National_Park&amp;params=36_36_N_5_30_E_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">36°36′N</span> <span class="longitude">5°30′E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">36.600°N 5.500°E</span><span style="display:none">&#xfeff; / <span class="geo">36.600; 5.500</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Taza_National_Park&amp;params=36_36_N_5_30_E_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">36°36′N</span> <span class="longitude">5°30′E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">36.600°N 5.500°E</span><span style="display:none">&#xfeff; / <span class="geo">36.600; 5.500</span></span></span></a></span></span></span></td></tr><tr><th scope="row">Area</th><td>3,807 km²</td></tr><tr class="note"><th scope="row">Established</th><td>1923</td></tr><tr><th scope="row">Website</th><td><a rel="nofollow" class="external free" href="http://www.pntaza.dz">http://www.pntaza.dz</a></td></tr></tbody></table>
+<p>The <b>Taza National Park</b> (<a href="/wiki/Arabic" title="Arabic">Arabic</a>:الحظيرة الوطنية تازة) is one of the smaller <a href="/wiki/List_of_national_parks_of_Algeria" class="mw-redirect" title="List of national parks of Algeria">national parks of Algeria</a>. It is located in <a href="/wiki/Jijel_Province" title="Jijel Province">Jijel Province</a> in the region of the <a href="/wiki/Tell_Atlas" title="Tell Atlas">Tell Atlas</a>, and is named after the nearby city of Taza. Its total area is 3,807 hectares (9,410 acres) and it includes parts of the forested area of the <a href="/wiki/Guerrouch" title="Guerrouch">Guerrouch massif</a>. The lower parts of the park seldom experience frost and are relatively warm and dry, while the peaks may have a covering of snow in winter. The annual precipitation in the park ranges from 1,000 to 1,400 millimetres (39 to 55&#160;in) and the annual mean temperature is around 18&#160;°C (64&#160;°F).<sup id="cite_ref-Harrap2010_1-0" class="reference"><a href="#cite_note-Harrap2010-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_park"><span class="tocnumber">1</span> <span class="toctext">The park</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Biosphere_reserve"><span class="tocnumber">2</span> <span class="toctext">Biosphere reserve</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Flora_and_fauna"><span class="tocnumber">3</span> <span class="toctext">Flora and fauna</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Line_notes"><span class="tocnumber">5</span> <span class="toctext">Line notes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
 </div>
-</div>
-</div>
-  </div>
-          <div class="clear"></div>
-      </div>
-      <!-- publicidad periférica y botón ir arriba -->
-        <div id="scrollUpWrapper" >
-          <a href="#" class="scrollup"></a>
-      </div>
-        <div id="page-wrapper">
-          <div class="header__region region region-header">
-    <div id="block-excelsior-viralizacion-excelsior-viralizacion-header" class="block block-excelsior-viralizacion first last odd">
 
-      
-  
-</div>
-  </div>
-        <div id="wrapper-header">
-      <header class="header left" id="header" role="banner">
-            <!--<div id="header-top">-->
-          <div class="imx-sticky-menu">
-           <div id="header-logo" class="left">
-              <div class="top-shares">
-                <ul class="clicsAnalytics" category="blockMenuTopRedesSuscripcion">
-                      <li class="top-data"><span class="">22 de Marzo de 2019</span></li>
-
-                      <li class="anunciate-page">
-                        <a class="anunciate  text-uppercase" target="_blank"  href="/anunciate">Anúnciate</a>
-                      </li>
-                      <li class="newsletter-channel">
-                        <a class="newsletter  text-uppercase" target="_blank"  href="/suscripcion">suscripciones </a>
-                      </li>
-                     
-                      <li class="shares"> <a class="share-fb-top  iblock" aria-label="Facebook Excélsior"  target="_blank" href="https://www.facebook.com/ExcelsiorMex"></a></li>
-                      <li class="shares"> <a class="share-tw-top  dblock" aria-label="Twitter Excélsior"  target="_blank"  href="https://www.twitter.com/Excelsior"></a></li>
-                      <li class="shares"> <a class="share-rss-top dblock" aria-label="Rss Excélsior"  target="_blank" href="/rss.xml"></a></li>
-                      <li class="shares"> <a class="share-yt-top dblock " aria-label="YouTube Excélsior"  target="_blank" href="https://www.youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/featured"></a></li>
-                      <li class="shares"> <a class="share-instagram-top dblock " aria-label="Instagram Excélsior" target="_blank" href="https://www.instagram.com/periodicoexcelsior/"></a></li>
-                      <li class="shares"> <a class="share-flipboard-top dblock " aria-label="Flipboard Excélsior" target="_blank" href="https://flipboard.com/@excelsiormex/"></a></li>
-
-                                         <li class="search-cx-excelsior">
-                                                <div id = "busqueda-cx">
-                        <form action="//www.excelsior.com.mx/buscador"  name="new_search" id="new-search-cx"   method = "GET"  onsubmit="return getSearchForm()">
-                          <label for="cx-query" class="u-label-title-data "> Buscar en Excélsior</label>
-                          <input type="text" name="b" id="cx-query" autocomplete="off" placeholder="Buscar en Excélsior">
-                          <input type="image" alt="Buscar en excélsior" src="//cdn2.excelsior.imagendigital.com/images/icon_busacar_ev2.png" width="" height="25" id="cx-send" />
-                        </form>
-                        </div>
-                      </li>
-                                   </ul>
-              </div>
-            <!---</div>-->
-              <div class="header-menu-top-logo">
-                <ul class="clicsAnalytics" category="blockMenuLogoTvImpresoRadioApps">
-                                      <li class="logo-excelsior-content">
-                        <a href="/" title="Inicio"  aria-label="Inicio Excelsior" rel="home" class="header__logo dblock" id="logo"> </a>
-                    </li>
-                                     <li class="product-imagen--digital"> <a id="imx-product-imagen-digital" class="imx-product-imagen-digital imx-sprite-new-excelsior"> </a> </li>
-                   <li class="product-excelsior"><a id="imx-product-tv" class="imx-product imx-sprite-new-excelsior"  href="/tv">TELEVISIÓN</a></li>
-                   <li class="product-excelsior"><a id="imx-product-im" class="imx-product imx-sprite-new-excelsior"  href="/impreso">IMPRESO</a></li>
-                   <li class="product-excelsior"><a id="imx-product-rd" class="imx-product imx-sprite-new-excelsior"  href="/radio">RADIO</a></li>
-                   <li class="product-excelsior"><a id="imx-product-app" class="imx-product imx-sprite-new-excelsior" href="/apps">APPS</a></li>
-                  </ul>
-              </div>
-            </div>
-            <div id="navigation">
-                                  <nav id="main-menu" role="navigation" class="clicsAnalytics" category="blockMenuPrincipal">
-                           <div class="region region-navigation">
-    <div id="block-system-main-menu" class="block block-system block-menu first last odd" role="navigation">
-
-      
-  <ul class="menu"><li class="menu__item is-leaf first leaf menu-item-2" id="menu-item-1"><a href="/" title="" class="menu__link">Portada</a></li><li class="menu__item is-leaf leaf menu-item-3" id="menu-item-2"><a href="/nacional" title="" class="menu__link">Nacional</a></li><li class="menu__item is-leaf leaf menu-item-4" id="menu-item-3"><a href="/global" title="" class="menu__link">Global</a></li><li class="menu__item is-leaf leaf menu-item-5" id="menu-item-4"><a href="/dineroenimagen" title="" class="menu__link">Dinero</a></li><li class="menu__item is-leaf leaf menu-item-6" id="menu-item-5"><a href="/comunidad" title="" class="menu__link">Comunidad</a></li><li class="menu__item is-leaf leaf menu-item-7" id="menu-item-6"><a href="/adrenalina" title="" class="menu__link">Adrenalina</a></li><li class="menu__item is-leaf leaf menu-item-8" id="menu-item-7"><a href="/funcion" title="" class="menu__link">Función</a></li><li class="menu__item is-leaf leaf menu-item-9" id="menu-item-8"><a href="/hacker" title="" class="menu__link">Hacker</a></li><li class="menu__item is-leaf leaf menu-item-10" id="menu-item-9"><a href="/expresiones" title="" class="menu__link">Expresiones</a></li><li class="menu__item is-leaf leaf menu-item-11" id="menu-item-10"><a href="/opinion" title="" class="menu__link">Opinión</a></li><li class="menu__item is-leaf leaf menu-item-12" id="menu-item-11"><a href="/trending" title="" class="menu__link">Trending</a></li><li class="menu__item is-leaf last leaf menu-item-13" id="menu-item-12"><a href="/suplementos" title="" class="menu__link">Suplementos</a></li></ul>
-</div>
-  </div>
-                      <div class="clear"></div>
-                    </nav>
-                                               <nav id="subnavigation-menu" role="subnavigation" class="clicsAnalytics" category="blockMenuPrincipal">
-                        <div class="region region-subnavigation">
-    <div id="block-menu-menu-menu-nacional" class="block block-menu first last odd" role="navigation">
-
-      
-  <ul class="menu"><li class="menu__item is-leaf first leaf menu-item-14" id="menu-item-13"><a href="/nacional/seguridad" title="" class="menu__link">Seguridad</a></li><li class="menu__item is-leaf leaf menu-item-15" id="menu-item-14"><a href="/nacional/estados" title="" class="menu__link">Estados</a></li><li class="menu__item is-leaf leaf menu-item-16" id="menu-item-15"><a href="/politica" title="" class="menu__link">Política</a></li><li class="menu__item is-leaf last leaf menu-item-17" id="menu-item-16"><a href="/sociedad" title="" class="menu__link">Sociedad</a></li></ul>
-</div>
-  </div>
-                      <div class="clear"></div>
-                  </nav>
-                        </div>
-        </div>
-      </header>
-      </div>
-      <div class="clear"></div>
-      <div id="main" class="content-wrapper-main">
-                                                                                    <div class="region region-content-top">
-    <div id="block-excelsior-especiales-menu-especiales-wide" class="block block-excelsior-especiales first odd">
-
-      
-  <div class="b-especiales-banner">
-        </div>
-<div class="clear"></div>
-  <script type="text/javascript">
-  (function($){
-      $(document).ready(function(){
-          var hastUrl, pathUrlEspecial, UrlEspecial ;
-          pathUrlEspecial = window.location.pathname.toString().split("/");
-          hastUrl =pathUrlEspecial.pop();
-          if(hastUrl!=''){
-              jQuery(this).removeClass('active');
-              jQuery('#menu-especiales-wrapper ul#menu li a').each(function(){
-              var UrlActivate = jQuery(this).attr('href').split('/').pop();
-              
-              if( UrlActivate === hastUrl ){
-                  jQuery(this).addClass('active');
-              
-                }
-              })
-           }
-      });  //Termina ready
-  })(jQuery);
-  </script>
-
-</div>
-<div id="block-block-70" class="block block-block even">
-
-      
-  <!-- Banner Imagen TV --><div class="id--banner-imagentv" id="id--banner-imagentv"> </div>
-
-</div>
-<div id="block-imx-videonota-imx-videonota-video" class="block block-imx-videonota last odd">
-
-      
-  <div class="clear"></div>
-
-</div>
-  </div>
-                    <!-- Inicia main content -->
-          <div id="node-content-ads" class="column " role="main">
-                            <a id="main-content"></a>
-                                                                      
-
-
-
-<article class="cXenseParse node-1292779 node node-article node-promoted view-mode-full clearfix" about="/nacional/falta-estrategia-para-preservar-a-vaquita/1292779" typeof="sioc:Item foaf:Document">
-    <header>
-                             <h1  class="node__title node-title">Falta estrategia para preservar a vaquita</h1>
-                            <h2 class="node-summary">La relajación de la seguridad y vigilancia, así como la falta de apoyos acordados, provocó que la pesca furtiva siguiera</h2>
-                <span class="dblock imx-aitor-data-created-wrapper">
-            <span class="imx-data-created">27/01/2019 05:00</span>
-                &nbsp;Ernesto Méndez        </span>
-        <div id="node-top-utility-bar">
-            <!-- google_ad_section_start(weight=ignore) -->
-          <div class="wrapper-share-nodes">
-            <div id="addthis-shares-node-top">
-                <span class="share-title-section">COMPARTIR</span>
-                <!-- AddThis Button BEGIN -->
-                <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
-                    <a class="addthis_button_facebook"></a>
-                    <a class="addthis_button_twitter" addthis:title = "Falta estrategia para preservar a vaquita" addthis:url = "https://www.excelsior.com.mx/nacional/falta-estrategia-para-preservar-a-vaquita/1292779" ></a>
-                    <a class="addthis_button_google_plusone_share"></a>
-                    <a class="addthis_button_email"></a>
-                    <a class="addthis_button_compact"></a>
-                </div>
-                <!-- AddThis Button END -->
-            </div>
-            <div class="wrapper-shares-nodes-follow">
-              <span class="share-title-section">SÍGUENOS</span>
-              <a class="share-fb-nodes imx-sprite-shares iblock" aria-label="Facebook Excélsior"  target="_blank" href="https://www.facebook.com/ExcelsiorMex"></a>
-              <a class="share-tw-nodes imx-sprite-shares dblock" aria-label="Twitter Excélsior"  target="_blank"  href="https://www.twitter.com/Excelsior"></a>
-            </div>
-          </div>
-            <!-- google_ad_section_end -->
-        </div>
-        <span property="dc:title" content="Falta estrategia para preservar a vaquita" class="rdf-meta element-hidden"></span>            </header>
-    <div id="contenido" class="clear">
-                            <!-- Region de la galeria -->
-                <div id="block-excelsior-especiales-article-galerias" class="block block-excelsior-especiales first odd">
-
-      
-        <!-- imagen -->
-    <div id="content-wrapper-image">
-      <div id="wrapper-image">
-          <img src="//cdn2.excelsior.com.mx/media/styles/imagen_portada_grande/public/pictures/2019/01/27/2088237.jpg" alt="El Comit&eacute; Internacional para la Recuperaci&oacute;n de la Vaquita adelant&oacute; que la poblaci&oacute;n este a&ntilde;o podr&iacute;a ser de menos de 15 ejemplares / Foto: Especial">
-      </div>
-      <!-- /imagen -->
-      <p class="single-image-info-description">
-                El Comité Internacional para la Recuperación de la Vaquita adelantó que la población este año podría ser de menos de 15 ejemplares / Foto: Especial            </p>
-    </div>
-    <div class="clear"></div>
-  
-</div>
-            <!-- Foind de la galeria -->
-                <!-- codiga-->
-                <!-- end codiga-->
-                      <!-- Region -->
-            <!-- Node Middle -->
-            <div id="block-excelsior-minutoxminuto-mxm-node-theme-excelsior" class="block block-excelsior-minutoxminuto first odd">
-
-      
-  
-</div>
-            <!-- Node Middle -->
-              <!-- End Region -->
-                    <div class="clear"></div>
-            <div id="node-article-body" class="body left">
-                          <!-- body -->
-            <p>CIUDAD DE MÉXICO.</p>
-<p class="letter-capitular">A horas del estreno mundial en el Festival de Cine de Sundance del documental de Leonardo DiCaprio sobre los esfuerzos para salvar a la vaquita marina de la extinción, el Alto Golfo de California enfrenta una situación crítica por la falta de estrategia del nuevo gobierno federal para preservar a esta especie, exclusiva de México.</p>
-<p>Luego del cambio de poder, los operativos de seguridad y vigilancia para esta especie se relajaron, lo que provocó, a su vez, que la captura furtiva de pez totoaba esté fuera de control.</p>
-<p>Por ello, pescadores legales de cooperativas de San Felipe, Baja California, y Golfo de Santa Clara, Sonora, enviaron una carta al titular de la Comisión Nacional de Acuacultura y Pesca (Conapesca), Raúl Elenes Angulo, avisándole que el próximo viernes 1 de febrero regresarán al mar, al menos, 300 pequeñas embarcaciones, pues desde noviembre no reciben el pago de compensaciones, de alrededor de 43 millones de pesos mensuales, para mantener sus redes fuera del agua.</p>
-<blockquote><p>Todas las embarcaciones propiedad de nuestras afiliadas, por medio de sus representantes y pescadores, nos han manifestado que, por la situación económica crítica y no tener nada concreto, buscarán hacerse a la mar para buscar el sustento para sus familias, como se hacía antes del acuerdo publicado el 10 de abril de 2015, toda vez que no podemos continuar sin un compromiso formal del gobierno federal en torno a la problemática que hoy ya desangra a nuestras comunidades pesqueras”, establece el documento.</p>
-</blockquote>
-<p>En entrevista con <strong>Excélsior</strong>, Carlos Alberto Tirado, dirigente de la Federación Regional de Sociedades Cooperativas de Pescadores de la Reserva de la Biósfera, explicó que el 8 y 29 de noviembre sostuvieron reuniones con los actuales titulares de la Secretaría de Medio Ambiente y Recursos Naturales (Semarnat), Josefa González Blanco, y de la Secretaría de Agricultura y Desarrollo Rural (Seder), Víctor Villalobos, quienes se comprometieron a aportar recursos económicos para mantener los pagos de compensaciones por lo menos hasta el 15 de enero, lo que no ocurrió.</p>
-<p>En otro documento, dirigido al presidente Andrés Manuel López Obrador, la Federación de Sociedades Cooperativas de Producción Ribereña del Puerto de San Felipe, pide que se garantice mínimamente el sustento de las familias que dependen de la pesca a través de las compensaciones, las cuales llevaban tres años realizándose desde la prohibición de la pesca ribereña legal.</p>
-<p>Alejandro Olivera, representante en México del Centro para la Diversidad Biológica advirtió sobre la incertidumbre que genera que, a casi dos meses de iniciada esta administración, no haya un plan o una estrategia pública por parte de Semarnat o Conapesca.</p>
-<blockquote><p>Esto genera mucha incertidumbre tanto en el sector pesquero como en las organizaciones de la sociedad civil, y mientras tanto la pesca ilegal de totoaba continúa imparable, por lo que es urgente que se tomen acciones. No es momento para callar y dar un paso atrás”, manifestó.</p>
-</blockquote>
-<p>En la reunión del Comité Internacional para la Recuperación de la Vaquita (CIRVA), programada para finales de febrero, se dará a conocer la estimación actualizada sobre la población de vaquita marina en el Alto Golfo de California, que, trascendió, será de menos de 15 ejemplares.</p>
-<p> </p>
-<p>AMU</p>
-            <!-- /body -->
-            </div>
-            </div>
-</article><!-- /.node artitle-->
-<!--  Region de node Artitle Bottom -->
-<div class = "node_artitle_bottom" >
-    <div id="block-excelsior-bloques-excelsior-bloques-node-tags" class="block block-excelsior-bloques first odd">
-
-      
-  <section id="node-tags">
-<span class="node-tags-title">Tags:</span>
-<a href="/cine" class="node-tags-link">Cine</a><a href="/gobierno-federal" class="node-tags-link">Gobierno federal</a><a href="/animales-en-peligro-de-extincion" class="node-tags-link">Animales en peligro de extinción</a><a href="/animales" class="node-tags-link">Animales</a></section>
-<div class="clear"></div>
-</div>
-<div id="block-excelsior-twitter-excelsior-twitter-block-node" class="block block-excelsior-twitter even">
-
-      
-  
-</div>
-<div id="block-excelsior-viralizacion-excelsior-redes-node-comparte" class="block block-excelsior-viralizacion odd">
-
-      
-  
-<!-- google_ad_section_start(weight=ignore) -->
-<div id="article-redes-sociales" class="mb2 left clear">
-    <div id="addthis-shares">
-        <span class="share-title-section">COMPARTIR</span>
-        <!-- AddThis Button BEGIN -->
-        <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
-
-            <a class="addthis_counter_facebook"></a>
-            <a class="addthis_button_twitter"  addthis:title = "Falta estrategia para preservar a vaquita" addthis:url = "https://www.excelsior.com.mx/nacional/falta-estrategia-para-preservar-a-vaquita/1292779" tw:via="Excelsior" title = "Tweet" href = "#"  > </a>
-            <a class="addthis_button_google_plusone_share"></a>
-            <a class="addthis_button_pinterest_share"></a>
-            <a class="addthis_button_email"></a>
-            <a class="addthis_button_compact"></a>
-        </div>
-        <!-- AddThis Button END -->
-    </div>
-    <div class="wrapper-shares-nodes-follow">
-      <span class="share-title-section">SÍGUENOS</span>
-      <a class="share-fb-nodes imx-sprite-shares iblock" aria-label="Facebook Excélsior"  target="_blank" href="//www.facebook.com/ExcelsiorMex"></a>
-      <a class="share-tw-nodes imx-sprite-shares dblock" aria-label="Twitter Excélsior"  target="_blank"  href="//www.twitter.com/Excelsior"></a>
-    </div>
-</div>
-<div class="clear"></div>
-<!-- google_ad_section_end -->
-
-</div>
-<div id="block-excelsior-bloques-excelsior-bloques-recs-content" class="block block-excelsior-bloques even">
-
-      
-  <section id="recs-content"  class="left">
-  <h6 class="recs-content-title">Porque leíste esta nota, te recomendamos:</h6>
-  
-  <div id="recs-wrapper" class="left">
-	<div id="PorqueLeisteAds" class="left">
-		<div id="dfp-ad-300x250_nacional_cont_4-wrapper" class="dfp-tag-wrapper">
-<div  id="dfp-ad-300x250_nacional_cont_4" class="dfp-tag-wrapper">
-    <script type="text/javascript">
-    googletag.cmd.push(function() {
-      googletag.display("dfp-ad-300x250_nacional_cont_4");
-    });
-  </script>
-</div>
-</div>        <span class="imx-title-imx-ads">PUBLICIDAD</span>
-	</div>
-	<div class="relacionadosNotaBottom-items right">
-	  <ul class="recs-content-list">
-	    	    <li class="recs-content-list-item" >
-	      <a onclick="ga('send', 'event', 'RecomendacionesGlobo', 'Clic', 'Link 0 editorial');" href="//www.excelsior.com.mx/nacional/pescadores-furtivos-atacan-barco-de-sea-shepherd-en-habitat-de-vaquita-marina/1289569" class="recs-content-list-item-link">
-	       <span class="bullet-red dis-in-bl"></span>Pescadores furtivos atacan barco de Sea Shepherd en hábitat de vaquita marina	      </a>
-	    </li>
-	    	    <li class="recs-content-list-item" >
-	      <a onclick="ga('send', 'event', 'RecomendacionesGlobo', 'Clic', 'Link 1 editorial');" href="//www.excelsior.com.mx/nacional/ya-hay-fecha-para-vaquita-sea-ghosts-documental-de-dicaprio/1279007" class="recs-content-list-item-link">
-	       <span class="bullet-red dis-in-bl"></span>Ya hay fecha para ‘Vaquita: Sea of ghosts’ documental de DiCaprio	      </a>
-	    </li>
-	    	    <li class="recs-content-list-item" >
-	      <a onclick="ga('send', 'event', 'RecomendacionesGlobo', 'Clic', 'Link 2 editorial');" href="//www.excelsior.com.mx/nacional/leonardo-dicaprio-no-ha-dado-ni-un-peso-para-vaquita-marina/1278618" class="recs-content-list-item-link">
-	       <span class="bullet-red dis-in-bl"></span>Leonardo DiCaprio no ha dado ni un peso para vaquita marina	      </a>
-	    </li>
-	    	  </ul>
-	</div>
-  </div>
-</section>
-<div class="clear"></div>
-
-</div>
-</div>
-<div id="block-excelsior-bloques-excelsior-bloques-cx-node-recs" class="block block-excelsior-bloques first odd">
-
-      
-  
-<section id="article-related-node"  class="imx-related-cxense left clearfix ">
-  <h4 id="article-related-node-title" class="tuppercase pabsolute imx-priete-new-excelsior">Relacionadas</h4>
-  <ul id="article-related-node-list">
-      <li class="article-related-node-list-item left">
-      <a onclick="ga('send','event', 'RecomendacionesCxenseNode', 'Clic', 'Link 1');" class="article-related-node-list-item-link title-hover" href="//www.excelsior.com.mx/funcion/eva-green-logra-el-equilibrio-con-dumbo/1303231">
-        <img alt="" class="article-related-node-list-item-link-image lazy" data-original="//cdn2.excelsior.com.mx/media/styles/imagen_portada_grande_200px/public/pictures/2019/03/22/2118700.jpg" />
-        <noscript>
-          <img all="" class="article-related-node-list-item-link-image" src="//cdn2.excelsior.com.mx/media/styles/imagen_portada_grande_200px/public/pictures/2019/03/22/2118700.jpg" />
-        </noscript>
-        <h4 class="article-related-node-list-item-link-title">Eva Green logra el equilibrio con Dumbo</h4>
-      </a>
-    </li>
-      <li class="article-related-node-list-item left">
-      <a onclick="ga('send','event', 'RecomendacionesCxenseNode', 'Clic', 'Link 2');" class="article-related-node-list-item-link title-hover" href="//www.excelsior.com.mx/funcion/gael-garcia-y-penelope-cruz-se-juntan-en-cuba-por-rodaje/1303198">
-        <img alt="" class="article-related-node-list-item-link-image lazy" data-original="//cdn2.excelsior.com.mx/media/styles/imagen_portada_grande_200px/public/pictures/2019/03/21/2118620.jpg" />
-        <noscript>
-          <img all="" class="article-related-node-list-item-link-image" src="//cdn2.excelsior.com.mx/media/styles/imagen_portada_grande_200px/public/pictures/2019/03/21/2118620.jpg" />
-        </noscript>
-        <h4 class="article-related-node-list-item-link-title">Gael García y Penélope Cruz se juntan en Cuba por rodaje</h4>
-      </a>
-    </li>
-      <li class="article-related-node-list-item left">
-      <a onclick="ga('send','event', 'RecomendacionesCxenseNode', 'Clic', 'Link 3');" class="article-related-node-list-item-link title-hover" href="//www.excelsior.com.mx/funcion/roma-lidera-nominaciones-a-los-premios-platino/1303188">
-        <img alt="" class="article-related-node-list-item-link-image lazy" data-original="//cdn2.excelsior.com.mx/media/styles/imagen_portada_grande_200px/public/pictures/2019/03/21/2118592.jpg" />
-        <noscript>
-          <img all="" class="article-related-node-list-item-link-image" src="//cdn2.excelsior.com.mx/media/styles/imagen_portada_grande_200px/public/pictures/2019/03/21/2118592.jpg" />
-        </noscript>
-        <h4 class="article-related-node-list-item-link-title">‘Roma’ lidera nominaciones a los Premios Platino</h4>
-      </a>
-    </li>
-      <li class="article-related-node-list-item left">
-      <a onclick="ga('send','event', 'RecomendacionesCxenseNode', 'Clic', 'Link 4');" class="article-related-node-list-item-link title-hover" href="//www.excelsior.com.mx/trending/dia-mundial-del-agua-10-peliculas-para-celebrar/1303179">
-        <img alt="" class="article-related-node-list-item-link-image lazy" data-original="//cdn2.excelsior.com.mx/media/styles/imagen_portada_grande_200px/public/pictures/2019/03/21/2118565.jpg" />
-        <noscript>
-          <img all="" class="article-related-node-list-item-link-image" src="//cdn2.excelsior.com.mx/media/styles/imagen_portada_grande_200px/public/pictures/2019/03/21/2118565.jpg" />
-        </noscript>
-        <h4 class="article-related-node-list-item-link-title">Día Mundial del Agua: 10 películas para celebrar</h4>
-      </a>
-    </li>
-      <li class="article-related-node-list-item left">
-      <a onclick="ga('send','event', 'RecomendacionesCxenseNode', 'Clic', 'Link 5');" class="article-related-node-list-item-link title-hover" href="//www.excelsior.com.mx/funcion/nuevo-avance-de-avengers-endgame-enloquece-a-los-fans/1303171">
-        <img alt="" class="article-related-node-list-item-link-image lazy" data-original="//cdn2.excelsior.com.mx/media/styles/imagen_portada_grande_200px/public/pictures/2019/03/21/2118522.jpg" />
-        <noscript>
-          <img all="" class="article-related-node-list-item-link-image" src="//cdn2.excelsior.com.mx/media/styles/imagen_portada_grande_200px/public/pictures/2019/03/21/2118522.jpg" />
-        </noscript>
-        <h4 class="article-related-node-list-item-link-title">Nuevo avance de ‘Avengers: Endgame’ enloquece a los fans</h4>
-      </a>
-    </li>
-      <li class="article-related-node-list-item left">
-      <a onclick="ga('send','event', 'RecomendacionesCxenseNode', 'Clic', 'Link 6');" class="article-related-node-list-item-link title-hover" href="//www.excelsior.com.mx/global/cae-asesino-canibal-que-buscaba-imitar-estilo-de-freddy-krueger/1303150">
-        <img alt="" class="article-related-node-list-item-link-image lazy" data-original="//cdn2.excelsior.com.mx/media/styles/imagen_portada_grande_200px/public/pictures/2019/03/21/2118447.jpg" />
-        <noscript>
-          <img all="" class="article-related-node-list-item-link-image" src="//cdn2.excelsior.com.mx/media/styles/imagen_portada_grande_200px/public/pictures/2019/03/21/2118447.jpg" />
-        </noscript>
-        <h4 class="article-related-node-list-item-link-title">Cae asesino caníbal que buscaba imitar estilo de Freddy Krueger </h4>
-      </a>
-    </li>
-    </ul>
-</section>
-<div class="clear"></div>
-<!-- /excelsior-bloques-cx-node-recs -->
+<h2><span class="mw-headline" id="The_park">The park</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza_National_Park&amp;action=edit&amp;section=1" title="Edit section: The park">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Taza National Park was established in 1923 by the French colonial administrators in Algeria. Its aim was to protect the coastline and towering forested heights and provide protection for the <a href="/wiki/Barbary_macaque" title="Barbary macaque">Barbary macaque</a>.<sup id="cite_ref-Haggett2001_3-0" class="reference"><a href="#cite_note-Haggett2001-3">&#91;3&#93;</a></sup> The park adjoins the Mediterranean Sea, and includes cliffs that rise from sea level to over 1,100&#160;m (3,600&#160;ft). The largest forest in Algeria of <a href="/wiki/Quercus_suber" title="Quercus suber">cork oaks</a> (<i>Quercus suber</i>) and <a href="/wiki/Quercus_faginea" title="Quercus faginea">gall oaks</a> (<i>Quercus faginea</i>) is found here.<sup id="cite_ref-Ham_4-0" class="reference"><a href="#cite_note-Ham-4">&#91;4&#93;</a></sup> The park is located 30 kilometres north-east of <a href="/wiki/Jijel" title="Jijel">Jijel</a>. The park includes the <a href="/wiki/Cave" title="Cave">caves</a> of Jijel, in addition to <a href="/wiki/Sand_beach" class="mw-redirect" title="Sand beach">sand beaches</a> and many <a href="/wiki/Cliff" title="Cliff">cliffs</a> and <a href="/wiki/Grotto" title="Grotto">grottoes</a>. It is a <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a>-recognized <a href="/wiki/Biosphere_reserve" class="mw-redirect" title="Biosphere reserve">biosphere reserve</a> with a varied <a href="/wiki/Flora" title="Flora">flora</a> and <a href="/wiki/Fauna" title="Fauna">fauna</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Biosphere_reserve">Biosphere reserve</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza_National_Park&amp;action=edit&amp;section=2" title="Edit section: Biosphere reserve">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Taza Biosphere Reserve comprises the whole of Taza National Park. It aims to combine conservation of the environment with the sustainable use of natural resources,  allowing the local economy to flourish. Some of the habitats, plants and wildlife are important or unique in North Africa and internationally. About 5,600 people, mostly of <a href="/wiki/Berbers" title="Berbers">Berber</a> origin, live inside the reserve, largely sustaining themselves on small agricultural holdings, cultivating vegetables, fodder crops and tree fruits. Tourism is also important to the local economy. Management of the reserve includes eco-development projects, with beehives and fruit tree seed being distributed to villagers, and forest tracks and electricity supplies being improved for remote communities.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Flora_and_fauna">Flora and fauna</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza_National_Park&amp;action=edit&amp;section=3" title="Edit section: Flora and fauna">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At lower altitudes, the Guerrouch forest is largely dominated by cork oaks, but higher up <a href="/wiki/Quercus_afares" title="Quercus afares">Algerian chestnut-leaved oak</a> (<i>Quercus afares</i>) and <a href="/wiki/Quercus_canariensis" title="Quercus canariensis">Algerian oak</a> (<i>Quercus canariensis</i>) are also present and there is a plentiful <a href="/wiki/Understorey" class="mw-redirect" title="Understorey">understorey</a> of <a href="/wiki/Prunus_avium" title="Prunus avium">bird cherry</a> (<i>Prunus avium</i>), <a href="/wiki/Salix_pedicellata" title="Salix pedicellata">Mediterranean willow</a> (<i>Salix pedicellata</i>), <a href="/wiki/Alnus_glutinosa" title="Alnus glutinosa">European alder</a> (<i>Alnus glutinosa</i>), <a href="/wiki/Acer_monspessulanum" title="Acer monspessulanum">Montpellier maple</a> (<i>Acer monspessulanum</i>) and <a href="/wiki/Fraxinus_angustifolia" title="Fraxinus angustifolia">narrow-leaved ash</a> (<i>Fraxinus angustifolia</i>).<sup id="cite_ref-Harrap2010_1-1" class="reference"><a href="#cite_note-Harrap2010-1">&#91;1&#93;</a></sup> 
+</p><p>The <a href="/wiki/Barbary_ape" class="mw-redirect" title="Barbary ape">barbary ape</a> is an <a href="/wiki/Endangered" class="mw-redirect" title="Endangered">endangered</a> <a href="/wiki/Primate" title="Primate">primate</a> with a narrowly restricted present distribution and is present in the park.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> The endangered <a href="/wiki/Algerian_nuthatch" title="Algerian nuthatch">Algerian nuthatch</a> is also present, with an estimated population of 364 individuals in a 1989 survey.<sup id="cite_ref-Harrap2010_1-2" class="reference"><a href="#cite_note-Harrap2010-1">&#91;1&#93;</a></sup> The park is also known for its <a href="/wiki/Bird_of_prey" title="Bird of prey">birds of prey</a>.<sup id="cite_ref-Ham_4-1" class="reference"><a href="#cite_note-Ham-4">&#91;4&#93;</a></sup>
+</p><p>Earlier, the <a href="/wiki/Barbary_lion" title="Barbary lion">Barbary lion</a>'s range had included this place.<sup id="cite_ref-Pease1913_8-0" class="reference"><a href="#cite_note-Pease1913-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza_National_Park&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>C. Michael Hogan. 2008. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090831095518/http://globaltwitcher.auderis.se/artspec_information.asp?thingid=31757"><i>Barbary Macaque: Macaca sylvanus</i>, GlobalTwitcher.com, ed. Nicklas Stromberg</a></li>
+<li>UNESCO. 2006. <a rel="nofollow" class="external text" href="http://www.unesco.org/mabdb/br/brdir/directory/biores.asp?mode=all&amp;code=ALG+05"><i>Taza National Park</i></a></li></ul>
+<h2><span class="mw-headline" id="Line_notes">Line notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza_National_Park&amp;action=edit&amp;section=5" title="Edit section: Line notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Harrap2010-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Harrap2010_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Harrap2010_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Harrap2010_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Harrap, Simon (2010). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=2M8UE327UswC&amp;pg=PA137"><i>Tits, Nuthatches and Treecreepers</i></a>. Bloomsbury Publishing. p.&#160;137. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4081-3458-0" title="Special:BookSources/978-1-4081-3458-0"><bdi>978-1-4081-3458-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Tits%2C+Nuthatches+and+Treecreepers&amp;rft.pages=137&amp;rft.pub=Bloomsbury+Publishing&amp;rft.date=2010&amp;rft.isbn=978-1-4081-3458-0&amp;rft.au=Harrap%2C+Simon&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D2M8UE327UswC%26pg%3DPA137&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza+National+Park" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/sites/index.html?action=SitHTMDetails.asp&amp;sid=6177&amp;m=0">Taza National Park on Birdlife.org</a></span>
+</li>
+<li id="cite_note-Haggett2001-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Haggett2001_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Haggett, Peter (2001). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=hoqVekc_XJIC&amp;pg=PA2208"><i>Encyclopedia of World Geography</i></a>. Marshall Cavendish. p.&#160;2208. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7614-7289-6" title="Special:BookSources/978-0-7614-7289-6"><bdi>978-0-7614-7289-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+of+World+Geography&amp;rft.pages=2208&amp;rft.pub=Marshall+Cavendish&amp;rft.date=2001&amp;rft.isbn=978-0-7614-7289-6&amp;rft.au=Haggett%2C+Peter&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DhoqVekc_XJIC%26pg%3DPA2208&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza+National+Park" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Ham-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ham_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ham_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Ham, Anthony; Luckham, Nana; Sattin, Anthony (2007). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=0hh0YF79430C&amp;pg=PA64"><i>Algeria</i></a>. Lonely Planet. p.&#160;64. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-74179-099-3" title="Special:BookSources/978-1-74179-099-3"><bdi>978-1-74179-099-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Algeria&amp;rft.pages=64&amp;rft.pub=Lonely+Planet&amp;rft.date=2007&amp;rft.isbn=978-1-74179-099-3&amp;rft.au=Ham%2C+Anthony&amp;rft.au=Luckham%2C+Nana&amp;rft.au=Sattin%2C+Anthony&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D0hh0YF79430C%26pg%3DPA64&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza+National+Park" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">UNESCO. 2006</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">UNESCO. 2006</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">C. Michael Hogan. 2008</span>
+</li>
+<li id="cite_note-Pease1913-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pease1913_8-0">^</a></b></span> <span class="reference-text">Pease, A. E. (1913). <a rel="nofollow" class="external text" href="https://archive.org/stream/bookoflion1913alfr#page/n5/mode/2up"><i>The Book of the Lion</i></a> John Murray, London.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza_National_Park&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://archive.is/20070930160206/http://www.unep-wcmc.org/wdpa/sitedetails.cfm?siteid=9743&amp;level=nat">Park data on UNEP-WPMC</a></li></ul>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Taza_National_Park" class="extiw" title="commons:Category:Taza National Park">Taza National Park</a></b></i>.</td></tr></tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="National_Parks_of_Algeria" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#abdb75;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:National_Parks_of_Algeria" title="Template:National Parks of Algeria"><abbr title="View this template" style="background:#abdb75;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:National_Parks_of_Algeria" title="Template talk:National Parks of Algeria"><abbr title="Discuss this template" style="background:#abdb75;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:National_Parks_of_Algeria&amp;action=edit"><abbr title="Edit this template" style="background:#abdb75;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="National_Parks_of_Algeria" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_national_parks_of_Algeria" class="mw-redirect" title="List of national parks of Algeria">National Parks of Algeria</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hoggar_Mountains" title="Hoggar Mountains">Ahaggar</a></li>
+<li><a href="/wiki/Belezma_National_Park" title="Belezma National Park">Belezma</a></li>
+<li><a href="/wiki/Chr%C3%A9a_National_Park" title="Chréa National Park">Chréa</a></li>
+<li><a href="/wiki/Djurdjura_National_Park" title="Djurdjura National Park">Djurdjura</a></li>
+<li><a href="/wiki/El_Kala_National_Park" title="El Kala National Park">El Kala</a></li>
+<li><a href="/wiki/Gouraya_National_Park" title="Gouraya National Park">Gouraya</a></li>
+<li><a href="/wiki/Tassili_n%27Ajjer" title="Tassili n&#39;Ajjer">Tassili n'Ajjer</a></li>
+<li><a class="mw-selflink selflink">Taza</a></li>
+<li><a href="/wiki/Th%C3%A9niet_El_Had_National_Park" title="Théniet El Had National Park">Théniet El Had</a></li>
+<li><a href="/wiki/Tlemcen_National_Park" title="Tlemcen National Park">Tlemcen</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1271
+Cached time: 20190423185709
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.264 seconds
+Real time usage: 0.366 seconds
+Preprocessor visited node count: 1056/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 30908/2097152 bytes
+Template argument size: 4949/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 11205/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.128/10.000 seconds
+Lua memory usage: 4.34 MB/50 MB
+-->
 <!--
-<div id="taboola-below-content-thumbnails"></div>
-<script type="text/javascript">
- window._taboola = window._taboola || [];
-  _taboola.push({ mode: 'thumbnails-a', container: 'taboola-below-content-thumbnails', placement: 'Below Content Thumbnails', target_type: 'mix' });
-</script>
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  305.897      1 -total
+ 37.99%  116.214      1 Template:Infobox_protected_area
+ 32.71%  100.045      1 Template:Infobox
+ 29.24%   89.444      1 Template:Reflist
+ 24.15%   73.872      3 Template:Cite_book
+ 18.13%   55.447      1 Template:Location_map
+ 16.31%   49.891      1 Template:Commonscat
+ 12.50%   38.244      1 Template:Commons
+ 11.70%   35.797      1 Template:Sister_project
+ 10.67%   32.654      4 Template:Convert
 -->
 
-</div>
-<div id="block-comments-comments" class="block block-comments even">
-
-      
-  <h4 id="comentarios-title" class="tuppercase pabsolute imx-priete-new-excelsior">Comentarios</h4>
-<div id="comments">
-    <div class="fb-comments" data-href="http://www.excelsior.com.mx/nacional/falta-estrategia-para-preservar-a-vaquita/1292779" data-num-posts="5" data-width="100%"></div>
-</div>
-
-</div>
-<div id="block-excelsior-bloques-excelsior-bloques-imxify" class="block block-excelsior-bloques odd">
-
-      
-  <div id="article-related-node" class="left mb1">
-  <h4 id="article-related-node-title" class=" tuppercase pabsolute imx-priete-new-excelsior ">Lo que pasa en la red</h4>
-  <div id="imx-network-promote"></div>
-  <script type="text/javascript" charset="utf-8" async defer src="//cdn2.webapps.imagendigital.com/global_resources/imxify/imxify.5.0.min.js"></script>
-  <script defer src="/sites/all/modules/custom/excelsior_bloques/js/excelsior_bloques_imxify.js"></script>
-</div>
-<div class="clear"></div>
-
-</div>
-<div id="block-excelsior-pop-subscribe-excelsior-pop-subscribe-block" class="block block-excelsior-pop-subscribe even">
-
-      
-  <div id="excelsior_pop_subscribe_hotspot"></div>
-</div>
-          </div>
-          <!-- Fin main content -->
-                                    <!--Inica barra lateral-->
-              <aside class="sidebars" id="sidebar-ads">
-                <div id="main_container_right_inner">
-                  <div id="sidebarTop">
-                                      </div>
-                  <div id="sidebar" class="left">
-                    <div id="userAgentTest" class="sidebar-mobile">
-                        <div id="sidebar-inner">
-                            <div id="sidebarMainWrapper">
-                                <div id="sidebarMain">
-                                      <section class="region region-sidebar-first column sidebar">
-    <div id="block-dfp-300x250-nacional-cont-1" class="block block-dfp first odd">
-
-      
-  <div id="dfp-ad-300x250_nacional_cont_1-wrapper" class="dfp-tag-wrapper">
-<div  id="dfp-ad-300x250_nacional_cont_1" class="dfp-tag-wrapper">
-    <script type="text/javascript">
-    googletag.cmd.push(function() {
-      googletag.display("dfp-ad-300x250_nacional_cont_1");
-    });
-  </script>
-</div>
-</div>
-</div>
-<div id="block-excelsior-bloques-block-barra-sticky-v2" class="block block-excelsior-bloques even">
-
-      
-  <div id="eb-editor-te-recomienda-top" class="left prelative">
-  <div class="imx-priete-new-excelsior imx-editor-recomienda-lateral">
-     <h3>  El editor te recomienda</h3>
-  </div>
-  <div class="eb-editor-te-recomienda-container">
-    <ul class="eb-editor-te-recomienda-list">
-        	            <li class="eb-editor-te-recomienda-list-item">
-	              <a onclick="ga('send', 'event', 'EditorTeRecomiendaTop', 'Clic', 'Link 1');" href="/nacional/luis-donaldo-colosio-25-anos-despues-quien-fue-por-que/1303259" class="eb-editor-te-recomienda-list-item-link">
-	                <img  alt="" src="//cdn2.excelsior.com.mx/media/styles/cuadrada_chica/public/pictures/2019/03/22/2118773.jpg" class="eb-editor-te-recomienda-list-item-image">
-	                <span class="eb-editor-te-recomienda-list-seccion">Nacional</span>
-	                <p class="eb-editor-te-recomienda-list-item-title">Luis Donaldo Colosio, 25 años después... ¿quién fue?, ¿por qué?</p>
-	              </a>
-	            </li>
-
-             
-        	            <li class="eb-editor-te-recomienda-list-item">
-	              <a onclick="ga('send', 'event', 'EditorTeRecomiendaTop', 'Clic', 'Link 2');" href="/nacional/cene-con-colosio-dos-dias-antes-de-que-lo-asesinaran-revela-lopez-obrador/1303267" class="eb-editor-te-recomienda-list-item-link">
-	                <img  alt="" src="//cdn2.excelsior.com.mx/media/styles/cuadrada_chica/public/pictures/2019/03/22/2118792.jpg" class="eb-editor-te-recomienda-list-item-image">
-	                <span class="eb-editor-te-recomienda-list-seccion">Nacional</span>
-	                <p class="eb-editor-te-recomienda-list-item-title">Cené con Colosio dos días antes de que lo asesinaran, revela López Obrador </p>
-	              </a>
-	            </li>
-
-             
-        	            <li class="eb-editor-te-recomienda-list-item">
-	              <a onclick="ga('send', 'event', 'EditorTeRecomiendaTop', 'Clic', 'Link 3');" href="/nacional/enfrentamiento-cerca-del-centro-de-acapulco-dura-10-minutos/1303258" class="eb-editor-te-recomienda-list-item-link">
-	                <img  alt="" src="//cdn2.excelsior.com.mx/media/styles/cuadrada_chica/public/pictures/2019/03/22/2118752.jpg" class="eb-editor-te-recomienda-list-item-image">
-	                <span class="eb-editor-te-recomienda-list-seccion">Nacional</span>
-	                <p class="eb-editor-te-recomienda-list-item-title">Enfrentamiento cerca del centro de Acapulco, dura 10 minutos</p>
-	              </a>
-	            </li>
-
-             
-        	            <li class="eb-editor-te-recomienda-list-item">
-	              <a onclick="ga('send', 'event', 'EditorTeRecomiendaTop', 'Clic', 'Link 4');" href="/nacional/este-fue-el-discurso-de-colosio-el-6-de-marzo-de-1994/1303105" class="eb-editor-te-recomienda-list-item-link">
-	                <img  alt="" src="//cdn2.excelsior.com.mx/media/styles/cuadrada_chica/public/pictures/2019/03/21/2118324.jpg" class="eb-editor-te-recomienda-list-item-image">
-	                <span class="eb-editor-te-recomienda-list-seccion">Nacional</span>
-	                <p class="eb-editor-te-recomienda-list-item-title">Este fue el discurso de Colosio el 6 de marzo de 1994</p>
-	              </a>
-	            </li>
-
-             
-        	            <li class="eb-editor-te-recomienda-list-item">
-	              <a onclick="ga('send', 'event', 'EditorTeRecomiendaTop', 'Clic', 'Link 5');" href="/nacional/llega-buque-tanque-venezolano-a-mexico-trae-cargamento-de-gasolina/1303250" class="eb-editor-te-recomienda-list-item-link">
-	                <img  alt="" src="//cdn2.excelsior.com.mx/media/styles/cuadrada_chica/public/pictures/2019/03/22/2118731.jpg" class="eb-editor-te-recomienda-list-item-image">
-	                <span class="eb-editor-te-recomienda-list-seccion">Nacional</span>
-	                <p class="eb-editor-te-recomienda-list-item-title">Llega buque-tanque venezolano a México; trae cargamento de gasolina</p>
-	              </a>
-	            </li>
-
-             
-        	           <li class="imx--ads--barra-sticky" rol="rol--5">
-              <div class="banner--native-node-excelsior"><div id="dfp-ad-native_excelsior-wrapper" class="dfp-tag-wrapper">
-<div  id="dfp-ad-native_excelsior" class="dfp-tag-wrapper">
-    <script type="text/javascript">
-    googletag.cmd.push(function() {
-      googletag.display("dfp-ad-native_excelsior");
-    });
-  </script>
-</div>
-</div></div><div id="dfp-ad-300x250_nacional_cont_2-wrapper" class="dfp-tag-wrapper">
-<div  id="dfp-ad-300x250_nacional_cont_2" class="dfp-tag-wrapper">
-    <script type="text/javascript">
-    googletag.cmd.push(function() {
-      googletag.display("dfp-ad-300x250_nacional_cont_2");
-    });
-  </script>
-</div>
-</div>	           </li>
-
-          	            <li class="eb-editor-te-recomienda-list-item">
-	              <a onclick="ga('send', 'event', 'EditorTeRecomiendaTop', 'Clic', 'Link 6');" href="/global/petrolera-estatal-compra-12-sillas-en-32-mil-dolares-y-se-justifica/1303131" class="eb-editor-te-recomienda-list-item-link">
-	                <img  alt="" src="//cdn2.excelsior.com.mx/media/styles/cuadrada_chica/public/pictures/2019/03/21/2118400.jpg" class="eb-editor-te-recomienda-list-item-image">
-	                <span class="eb-editor-te-recomienda-list-seccion">Global</span>
-	                <p class="eb-editor-te-recomienda-list-item-title">Petrolera estatal compra 12 sillas en 32 mil dólares y se justifica</p>
-	              </a>
-	            </li>
-
-             
-        	            <li class="eb-editor-te-recomienda-list-item">
-	              <a onclick="ga('send', 'event', 'EditorTeRecomiendaTop', 'Clic', 'Link 7');" href="/comunidad/graban-vehiculo-que-atropella-a-usuario-de-scooter-en-la-roma/1303057" class="eb-editor-te-recomienda-list-item-link">
-	                <img  alt="" src="//cdn2.excelsior.com.mx/media/styles/cuadrada_chica/public/pictures/2019/03/21/2118175.jpg" class="eb-editor-te-recomienda-list-item-image">
-	                <span class="eb-editor-te-recomienda-list-seccion">Comunidad</span>
-	                <p class="eb-editor-te-recomienda-list-item-title">Graban vehículo que atropella a usuario de scooter en la Roma</p>
-	              </a>
-	            </li>
-
-             
-        	            <li class="eb-editor-te-recomienda-list-item">
-	              <a onclick="ga('send', 'event', 'EditorTeRecomiendaTop', 'Clic', 'Link 8');" href="/nacional/enojarse-30-o-40-minutos-al-dia-resulta-benefico-para-el-cerebro/1303123" class="eb-editor-te-recomienda-list-item-link">
-	                <img  alt="" src="//cdn2.excelsior.com.mx/media/styles/cuadrada_chica/public/pictures/2019/03/21/2118375.jpg" class="eb-editor-te-recomienda-list-item-image">
-	                <span class="eb-editor-te-recomienda-list-seccion">Nacional</span>
-	                <p class="eb-editor-te-recomienda-list-item-title">Enojarse 30 o 40 minutos al día resulta benéfico para el cerebro</p>
-	              </a>
-	            </li>
-
-             
-        	            <li class="eb-editor-te-recomienda-list-item">
-	              <a onclick="ga('send', 'event', 'EditorTeRecomiendaTop', 'Clic', 'Link 9');" href="/nacional/he-plantado-mas-de-500-mil-arboles-yo-solito-el-bronco/1303089" class="eb-editor-te-recomienda-list-item-link">
-	                <img  alt="" src="//cdn2.excelsior.com.mx/media/styles/cuadrada_chica/public/pictures/2019/03/21/2118256.jpg" class="eb-editor-te-recomienda-list-item-image">
-	                <span class="eb-editor-te-recomienda-list-seccion">Nacional</span>
-	                <p class="eb-editor-te-recomienda-list-item-title">'He plantado más de 500 mil árboles yo solito': 'El Bronco' </p>
-	              </a>
-	            </li>
-
-             
-        	            <li class="eb-editor-te-recomienda-list-item">
-	              <a onclick="ga('send', 'event', 'EditorTeRecomiendaTop', 'Clic', 'Link 10');" href="/comunidad/secuestran-a-perrita-pastor-belga-en-rio-churubusco/1303080" class="eb-editor-te-recomienda-list-item-link">
-	                <img  alt="" src="//cdn2.excelsior.com.mx/media/styles/cuadrada_chica/public/pictures/2019/03/21/2118229.jpg" class="eb-editor-te-recomienda-list-item-image">
-	                <span class="eb-editor-te-recomienda-list-seccion">Comunidad</span>
-	                <p class="eb-editor-te-recomienda-list-item-title">'Secuestran' a perrita pastor belga en Río Churubusco</p>
-	              </a>
-	            </li>
-
-                            <li class="imx--ads--barra-sticky" rol="rol-v--9">
-               <!--
-                  <div id="taboola-right-rail-thumbnails"></div>
-                  <script type="text/javascript">
-                     window._taboola = window._taboola || [];
-                     _taboola.push({mode: 'thumbnails-rr', container: 'taboola-right-rail-thumbnails', placement: 'Right Rail Thumbnails', target_type: 'mix' });
-                  </script>-->
-                <div id="dfp-ad-300x250_nacional_cont_3-wrapper" class="dfp-tag-wrapper">
-<div  id="dfp-ad-300x250_nacional_cont_3" class="dfp-tag-wrapper">
-    <script type="text/javascript">
-    googletag.cmd.push(function() {
-      googletag.display("dfp-ad-300x250_nacional_cont_3");
-    });
-  </script>
-</div>
-</div>              </li>
-            
-        	            <li class="eb-editor-te-recomienda-list-item">
-	              <a onclick="ga('send', 'event', 'EditorTeRecomiendaTop', 'Clic', 'Link 11');" href="/expresiones/viven-con-sindrome-de-down-y-tienen-talentos-increibles/1301884" class="eb-editor-te-recomienda-list-item-link">
-	                <img  alt="" src="//cdn2.excelsior.com.mx/media/styles/cuadrada_chica/public/pictures/2019/03/14/2114639.jpg" class="eb-editor-te-recomienda-list-item-image">
-	                <span class="eb-editor-te-recomienda-list-seccion">Expresiones</span>
-	                <p class="eb-editor-te-recomienda-list-item-title">Viven con Síndrome de Down y ¡tienen talentos increíbles!</p>
-	              </a>
-	            </li>
-
-             
-        	            <li class="eb-editor-te-recomienda-list-item">
-	              <a onclick="ga('send', 'event', 'EditorTeRecomiendaTop', 'Clic', 'Link 12');" href="/trending/las-16-razas-de-perros-favoritas-cual-es-la-tuya/1302856" class="eb-editor-te-recomienda-list-item-link">
-	                <img  alt="" src="//cdn2.excelsior.com.mx/media/styles/cuadrada_chica/public/pictures/2019/03/20/2117606.jpg" class="eb-editor-te-recomienda-list-item-image">
-	                <span class="eb-editor-te-recomienda-list-seccion">Trending</span>
-	                <p class="eb-editor-te-recomienda-list-item-title">Las 16 razas de perros favoritas, ¿cuál es la tuya?</p>
-	              </a>
-	            </li>
-
-             
-        	            <li class="eb-editor-te-recomienda-list-item">
-	              <a onclick="ga('send', 'event', 'EditorTeRecomiendaTop', 'Clic', 'Link 13');" href="/trending/cuantos-cuadrados-hay-en-esta-imagen-reto-para-genios/1303058" class="eb-editor-te-recomienda-list-item-link">
-	                <img  alt="" src="//cdn2.excelsior.com.mx/media/styles/cuadrada_chica/public/pictures/2019/03/21/2118178.jpg" class="eb-editor-te-recomienda-list-item-image">
-	                <span class="eb-editor-te-recomienda-list-seccion">Trending</span>
-	                <p class="eb-editor-te-recomienda-list-item-title">¿Cuántos cuadrados hay en esta imagen? Reto para genios</p>
-	              </a>
-	            </li>
-
-             
-        	            <li class="eb-editor-te-recomienda-list-item">
-	              <a onclick="ga('send', 'event', 'EditorTeRecomiendaTop', 'Clic', 'Link 14');" href="/trending/mujer-muere-tras-sesion-maratonica-de-5-horas-de-sexo/1302836" class="eb-editor-te-recomienda-list-item-link">
-	                <img  alt="" src="//cdn2.excelsior.com.mx/media/styles/cuadrada_chica/public/pictures/2019/03/20/2117540.jpg" class="eb-editor-te-recomienda-list-item-image">
-	                <span class="eb-editor-te-recomienda-list-seccion">Trending</span>
-	                <p class="eb-editor-te-recomienda-list-item-title">Mujer muere tras sesión maratónica de 5 horas de sexo</p>
-	              </a>
-	            </li>
-
-             
-        	            <li class="eb-editor-te-recomienda-list-item">
-	              <a onclick="ga('send', 'event', 'EditorTeRecomiendaTop', 'Clic', 'Link 15');" href="/adrenalina/los-sensuales-tips-de-amanda-elise-maestra-del-fitness/1187963" class="eb-editor-te-recomienda-list-item-link">
-	                <img  alt="" src="//cdn2.excelsior.com.mx/media/styles/cuadrada_chica/public/pictures/2018/12/28/2072926.jpg" class="eb-editor-te-recomienda-list-item-image">
-	                <span class="eb-editor-te-recomienda-list-seccion">Adrenalina</span>
-	                <p class="eb-editor-te-recomienda-list-item-title">Los sensuales tips de Amanda Elise, maestra del fitness</p>
-	              </a>
-	            </li>
-
-             
-        
-    </ul>
-  </div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14512288-0!canonical and timestamp 20190423185708 and revision id 861331914
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Taza_National_Park&amp;oldid=861331914">https://en.wikipedia.org/w/index.php?title=Taza_National_Park&amp;oldid=861331914</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Category_II" title="Category:IUCN Category II">IUCN Category II</a></li><li><a href="/wiki/Category:National_parks_of_Algeria" title="Category:National parks of Algeria">National parks of Algeria</a></li><li><a href="/wiki/Category:Biosphere_reserves_of_Algeria" title="Category:Biosphere reserves of Algeria">Biosphere reserves of Algeria</a></li><li><a href="/wiki/Category:Geography_of_Jijel_Province" title="Category:Geography of Jijel Province">Geography of Jijel Province</a></li><li><a href="/wiki/Category:Protected_areas_established_in_1985" title="Category:Protected areas established in 1985">Protected areas established in 1985</a></li><li><a href="/wiki/Category:Tourist_attractions_in_Jijel_Province" title="Category:Tourist attractions in Jijel Province">Tourist attractions in Jijel Province</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata_using_P373" title="Category:Commons category link is on Wikidata using P373">Commons category link is on Wikidata using P373</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
 </div>
 
-<div class="clear"></div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Taza+National+Park" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Taza+National+Park" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Taza_National_Park" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Taza_National_Park" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Taza_National_Park">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Taza_National_Park&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Taza_National_Park&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Taza_National_Park" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Taza_National_Park" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Taza_National_Park&amp;oldid=861331914" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Taza_National_Park&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2671615" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Taza_National_Park&amp;id=861331914" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Taza+National+Park">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Taza+National+Park&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Taza_National_Park&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Taza_National_Park" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D9%82%D8%A9_%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9_%D8%AA%D8%A7%D8%B2%D8%A9" title="الحديقة الوطنية تازة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B7%D0%B0_(%D0%BF%D0%B0%D1%80%D0%BA)" title="Таза (парк) – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Parque_nacional_de_Taza" title="Parque nacional de Taza – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Parc_national_de_Taza" title="Parc national de Taza – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B9%D5%A1%D5%A6%D5%A1_(%D5%A1%D5%A6%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6_%D5%BA%D5%A1%D6%80%D5%AF)" title="Թազա (ազգային պարկ) – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9F%E0%B4%BE%E0%B4%B8%E0%B4%BE_%E0%B4%A6%E0%B5%87%E0%B4%B6%E0%B5%80%E0%B4%AF%E0%B5%8B%E0%B4%A6%E0%B5%8D%E0%B4%AF%E0%B4%BE%E0%B4%A8%E0%B4%82" title="ടാസാ ദേശീയോദ്യാനം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%AA%D8%A7%D8%B2%D8%A7_%D9%86%DB%8C%D8%B4%D9%86%D9%84_%D9%BE%D8%A7%D8%B1%DA%A9" title="تازا نیشنل پارک – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Park_Narodowy_Taza" title="Park Narodowy Taza – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B7%D0%B0_(%D0%B1%D0%B8%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%B0%D1%82)" title="Таза (биосферный резерват) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B8_%D0%BF%D0%B0%D1%80%D0%BA_%D0%A2%D0%B0%D0%B7%D0%B0" title="Национални парк Таза – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B7%D0%B0_(%D0%B1%D1%96%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%BD%D0%B8%D0%B9_%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%B0%D1%82)" title="Таза (біосферний резерват) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%A1%94%E6%89%8E%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92" title="塔扎國家公園 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2671615#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 26 September 2018, at 17:36<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Taza_National_Park&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
 
-
-</div>
-<div id="block-dfp-300x250-nacional-cont-6" class="block block-dfp last odd">
-
-      
-  <div id="dfp-ad-300x250_nacional_cont_6-wrapper" class="dfp-tag-wrapper">
-<div  id="dfp-ad-300x250_nacional_cont_6" class="dfp-tag-wrapper">
-    <script type="text/javascript">
-    googletag.cmd.push(function() {
-      googletag.display("dfp-ad-300x250_nacional_cont_6");
-    });
-  </script>
-</div>
-</div>
-</div>
-  </section>
-                                </div>
-                            </div>
-                           <div id="sidebarBottomWrapper ">
-                                <div id="sidebar-bottom"  class="left">
-                                                                      </div>
-                            </div>
-                        </div>
-                    </div>
-                  </div>
-                </div>
-              </aside>
-              <!--Fin barra lateral-->
-                </div>
-      <div class="clear"></div>
-      <!-- fin main -->
-              <div id="content-wrapper-middle-bottom" class="clearfix">
-            <div class="region region-content-bottom">
-    <div id="block-dfp-728x90-excelsior-tags-2" class="block block-dfp first odd">
-
-      
-  <div id="dfp-ad-728x90_excelsior_tags_2-wrapper" class="dfp-tag-wrapper">
-<div  id="dfp-ad-728x90_excelsior_tags_2" class="dfp-tag-wrapper">
-    <script type="text/javascript">
-    googletag.cmd.push(function() {
-      googletag.display("dfp-ad-728x90_excelsior_tags_2");
-    });
-  </script>
-</div>
-</div>
-</div>
-<div id="block-excelsior-canales-canal-scroll-infinito" class="block block-excelsior-canales last even">
-
-      
-  <div class="notes_wapper">
-  <div class="imx-encabezado-canles left" style="display:none" >
-    <a href="/nacional">
-      <h2 class="u-text-encabezado-accesible dblock imx-priete-new-excelsior imx-pleka-canal-home pleka-title-canal-sprite-nacional">
-      Nacional      </h2>
-    </a>
-  </div>
-</div>
-<script type="text/IMxInfiniteScroll" id="wrapper-infinite-scroll" style="display:none;">
-<div id="block-page-{{page}}" class="imx-mas-recientes-canles">
-  {{#with data}}
-    {{#each nodes}}
-      {{#ifIndex5 @index}}
-        <!-- Inicia publicidad -->
-        <div class="imx-mas-recientes-publicidad left">
-          <div id="BlockScroll{{this.node.page}}" class="imx-ads-content-wraper">
-            <span class="imx-ads-content-title">PUBLICIDAD</span>
-          </div>
-        </div>
-        <!-- fin div publicidad -->
-      {{/ifIndex5}}
-      {{#if @first}}
-        <section class="b-nota-principal-canales">
-          <a href="{{setRelativeScheme this.node.url}}" id="block block primer nota">
-            <img alt="" src='{{styleReplace this.node.imagen.src "lateral" "imagen_movil_interior_nota"}}' style="display: inline;">
-            {{#ifNotArticle}}
-              <span class="pabsolute dblock imx-priete-new-excelsior imx-pleca-nota-{{this.node.tipo}}"></span>
-            {{/ifNotArticle}}
-            <span class="u-dblock b-nota-principal-canales-titulo back-{{this.node.seccion}}">
-              <h3>{{this.node.title}}</h3>
-            </span>
-          </a>
-        </section>
-      {{else}}
-        <div class="item-notas-canal prelative left">
-            <a href="{{setRelativeScheme this.node.url}}" target="_parent">
-                <span class="items-notas-canal-imagen dblock">
-                    <img src="{{styleReplaceThumbs this.node.imagen.src}}" alt="">
-                    {{#ifNotArticle}}
-                      <span class="pabsolute dblock imx-priete-new-excelsior imx-pleca-nota-{{this.node.tipo}}"></span>
-                    {{/ifNotArticle}}
-                </span>
-                <span class="item-titulo-nota-canal dblock ">
-                     {{this.node.title}}
-                </span>
-                <p>
-                    <span class="left nota-flujo-hora ">{{this.node.publicado}}</span>
-                    {{this.node.summary}}
-                </p>
-            </a>
-        </div>
-      {{/if}}
-    {{/each}}
-  {{/with}}
-</div>
-</script>
-<script type="text/javascript">
-  var btnSeeMore = false;
-  if (_objectIsDefined(jQuery, "browser")) {
-    if (typeof jQuery.browser.mobileInfiniteScroll != "undefined" && jQuery.browser.mobileInfiniteScroll){
-      btnSeeMore = jQuery.browser.mobileInfiniteScroll;
-    }
-  }
-
-  infiniteSO = {settings:{}, parameters:{}}
-  infiniteSO.settings = {
-    site: "",
-    append: ".notes_wapper",
-    text_lenght: 50,
-    api_key:"",
-    api_url: "//www.excelsior.com.mx",
-    repo : "taxonomy-term-json",
-    taxonomy: "1",
-    loading: "//cdn2.excelsior.imagendigital.com/sprite/tools/loader_rombo.gif",
-    IMxEnd: function(){},
-    label_analytics: "view-",
-    analitics: true,
-    recreating_fb: false,
-    recreating_twitter: false,
-    recreating_google: false,
-    sleep: 2000,
-    btnSeeMore: btnSeeMore,
-    firstScroll: false,
-    scroll:80,
-  };
-  infiniteSO.parameters = {
-    page: 0,
-  };
-
-</script>
-
-</div>
-  </div>
-        </div>
-        </div><!--fin page wrraper-->
-  <div class="clear"></div>
-        <div id="content-wrapper-bottom" class="clearfix">
-            <div class="region region-bottom">
-    <div id="block-bottom-bottom" class="block block-bottom first last odd">
-
-      
-  <div>
-    <!-- //cdn2.excelsior.imagendigital.com/bottom/imx_bottom_imagendigital_responsive.js -->
-    <script
-            src="//cdn.imagendigital.com/resources/global_resources/bottom/imx_bottom_imagendigital_responsive.js"
-           type="text/javascript" id="imx_bottom_js" class="imx_bottom_compressed imx_bottom_colors" >
-    </script>
-    <div id="bottom-links" style="display:none;">
-        <span id="politicasprivacidad">/aviso-de-privacidad</span>
-        <span id="condiciones-uso">/terminos-y-condiciones-de-uso</span>
-        <span id="gotop">#page</span>
-        <span id="politicaambiental">/politica-ambiental</span>
-        <span id="descuentos-excelsior">https://descuentos.excelsior.com.mx</span>
-        <span id="sitemap">/sitemap.xml</span>
-        <span id="excelsiorDir">/directorio</span>
-        <span id="excelsiorSusc">/suscripcion</span>
-        <span id="rss">/rss.xml</span>
-        <span id="excelsiorHearColors">//www.hearcolors.com.mx/SelloAccesibilidad.php?num_clte=9B87B0E0</span>
-    </div>
-</div>
-
-</div>
-  </div>
-      </div>
-      <footer id="footer" class="region region-footer">
-    <div id="block-taboola-v2-block-script-taboola-main" class="block block-taboola-v2 first odd">
-
-      
-  
-</div>
-<div id="block-block-87" class="block block-block last even">
-
-      
-  <!-- SeedTag --><script type="text/javascript">
-<!--//--><![CDATA[// ><!--
-
-  window._seedtagq = window._seedtagq || [];
-  window._seedtagq.push(['_setId', '5791-4802-01']);
-  window._seedtagq.push(['iframe_mode']);
-  (function () {
-   var st = document.createElement('script');
-   st.type = 'text/javascript';
-   st.async = true;
-   st.src = ('https:' == document.location.protocol
-    ? 'https'
-    : 'http') + '://config.seedtag.com/loader.js?v=' + Math.random();
-   var s = document.getElementsByTagName('script')[0];
-   s.parentNode.insertBefore(st, s);
-  })();
-
-//--><!]]>
-</script>
-</div>
-  </footer>
-</div>
-<div class="clear"></div>
-  <script src="//www.excelsior.com.mx/media/js/js__o6heQmgdp6AibDSW7a90JJ7f7nuCwDL158yba7m7_U.js"></script>
-<script>
-        jQuery(document).ready(function() {
-         if (jQuery("#fotogaleria").length > 0) {
-             jQuery("#fotogaleria .galleria-container .galleria-stage .galleria-image-nav > div").click(function(){refreshSlotBox1();});
-            }
-         });</script>
-<script>
-        jQuery(window).load(function() {
-         if (jQuery("#fotogaleria").length > 0) {
-            jQuery("#fotogaleria .galleria-container .galleria-thumbnails-container .galleria-thumbnails-list .galleria-thumbnails > .galleria-image").click(function(){refreshSlotBox1();});
-            jQuery("#fotogaleria .galleria-container .galleria-thumbnails-container .galleria-nav-prev, #fotogaleria .galleria-container .galleria-thumbnails-container .galleria-nav-next").click(function(){refreshSlotBox1();});
-           }
-         });</script>
-
-  <!-- Facebook -->
-<script type="text/javascript">
- window.fbAsyncInit = function() {
-  FB.init({
-    appId      : '550225168356361',
-    status     : true,
-    xfbml      : true,
-    version    : 'v2.7'
-   });
- };
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/es_LA/sdk.js";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-</script>
-<!-- -->
-<script type="text/javascript">
-!function(d,s,id){
-  var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
-  if(!d.getElementById(id)){
-    js=d.createElement(s);
-    js.id=id;
-    js.src=p+"://platform.twitter.com/widgets.js";
-    fjs.parentNode.insertBefore(js,fjs);
-  }
-}(document,"script","twitter-wjs");
-</script>
-
-<script type="text/javascript">
-var addthis_share = {
-   templates : {
-          twitter : "{{title}} {{url}} vía @Excelsior"
-       },
-    url_transforms : {
-        shorten: {
-            twitter: "bitly"
-        }
-    },
-    shorteners : {
-        bitly : {
-            username: "excelsiorwebweb",
-            apiKey: "R_8773f76a4d02bfc5c165afde2f9145e4"
-        }
-    }
-}
-var addthis_config = {
-    ui_language: "es"
-}
-</script>
-<!--
-<script type="text/javascript" src="//static.imagendigital.com/control/scripts/schedule_itv.min.js"></script>
-<script type="text/javascript">searchCurrentLive("excelsior", "#id--banner-imagentv");</script>
--->
-<script type="text/javascript" >
-  addthis.init();
-</script>
-
-<script type="text/javascript" >
-jQuery(document).ready(function(){
-  /* imxfixedsuper */
-  jQuery('body').imxfixedsuper({
-     page: '#page-wrapper',
-     banner_wrapper: '#region-aperture',
-     content: '.content-wrapper-main'
-   });
-});
-</script>
-
-<!-- adblockDetector
-<script src="//737aebe7d69c81121b98-469d1938c942b4c8df1c08ee87f4d1a1.r21.cf1.rackcdn.com/adblockDetector.min.js"></script>
-<script>
-(function(){
-  if(typeof window.adblockDetector != 'undefined'){
-    window.adblockDetector.init({
-      debug: false,
-      found: function(){
-        if(typeof window.ga != 'undefined'){
-          ga('send', 'event', 'AdBlock', 'Found', location.pathname);
-        }
-      },
-    });
-  }
-}());
-</script>
--->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.264","walltime":"0.366","ppvisitednodes":{"value":1056,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":30908,"limit":2097152},"templateargumentsize":{"value":4949,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11205,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  305.897      1 -total"," 37.99%  116.214      1 Template:Infobox_protected_area"," 32.71%  100.045      1 Template:Infobox"," 29.24%   89.444      1 Template:Reflist"," 24.15%   73.872      3 Template:Cite_book"," 18.13%   55.447      1 Template:Location_map"," 16.31%   49.891      1 Template:Commonscat"," 12.50%   38.244      1 Template:Commons"," 11.70%   35.797      1 Template:Sister_project"," 10.67%   32.654      4 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.128","limit":"10.000"},"limitreport-memusage":{"value":4554067,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20190423185709","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1262"});});</script>
 </body>
 </html>

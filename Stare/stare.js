@@ -214,9 +214,14 @@ var get_Json= function(){
     return JSON.stringify(json_object);
 };
 
+var reset = function(){
+    json_object="";
+};
+
 module.exports = {
     get_Items,
     get_Json,
     prepareSerp,
-    get_Metrics
+    get_Metrics,
+    reset
 };

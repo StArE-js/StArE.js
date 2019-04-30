@@ -1,951 +1,254 @@
-
 <!DOCTYPE html>
-<html lang="es" xml:lang="es" xmlns="https://www.w3.org/1999/xhtml" xmlns:og="https://opengraphprotocol.org/schema/" xmlns:fb="https://www.facebook.com/2008/fbml" prefix="og: https://ogp.me/ns#">
-<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><base href="https://www.notimerica.com"/><meta http-equiv="x-dns-prefetch-control" content="on" /><link rel="dns-prefetch" href="//s01.europapress.net" /><link rel="dns-prefetch" href="//s03.europapress.net" /><link rel="dns-prefetch" href="//img.europapress.es" /><link rel="dns-prefetch" href="//img2.europapress.es" /><link rel="dns-prefetch" href="//ajax.googleapis.com" /><link rel="dns-prefetch" href="//google-analytics.com" /><link rel="dns-prefetch" href="//b.scorecardresearch.com" /><link rel="dns-prefetch" href="//platform.twitter.com" /><link rel="dns-prefetch" href="//connect.facebook.net" />
-    <script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
-    <script type="text/javascript">WebFont.load({google: {families: ['Roboto:400,700,400italic','Frank+Ruhl+Libre:500']}});</script>
-    <script type="text/javascript">
-        !function (t) { var e; "undefined" != typeof window ? e = window : "undefined" != typeof self && (e = self), e.lazyload = t() }(function () { return function t(e, n, r) { function o(u, c) { if (!n[u]) { if (!e[u]) { var f = "function" == typeof require && require; if (!c && f) return f(u, !0); if (i) return i(u, !0); var a = new Error("Cannot find module '" + u + "'"); throw a.code = "MODULE_NOT_FOUND", a } var l = n[u] = { exports: {} }; e[u][0].call(l.exports, function (t) { var n = e[u][1][t]; return o(n ? n : t) }, l, l.exports, t, e, n, r) } return n[u].exports } for (var i = "function" == typeof require && require, u = 0; u < r.length; u++) o(r[u]); return o }({ 1: [function (t, e, n) { (function (n) { function r(t) { -1 === c.call(a, t) && a.push(t) } function o(t) { function e(t) { var e = n(t); e && (t.src = e), t.setAttribute("data-lzled", !0), i[c.call(i, t)] = null } function n(e) { return "function" == typeof t.src ? t.src(e) : e.getAttribute(t.src) } function o(n) { d && n.classList.add(t.deprecated), n.onload = null, n.removeAttribute("onload"), n.onerror = null, n.removeAttribute("onerror"), -1 === c.call(i, n) && f(n, t, e) } t = u({ offset: 1048, src: "data-src", container: !1, deprecated: "force-size" }, t || {}), "string" == typeof t.src && r(t.src); var i = []; return o } function i(t) { var e = "HTML" + t + "Element"; if (e in n != !1) { var r = n[e].prototype.getAttribute; n[e].prototype.getAttribute = function (t) { if ("src" === t) { for (var e, n = 0, o = a.length; o > n && !(e = r.call(this, a[n])) ; n++); return e || r.call(this, t) } return r.call(this, t) } } } function u(t, e) { for (var n in t) void 0 === e[n] && (e[n] = t[n]); return e } function c(t) { for (var e = this.length; e-- && this[e] !== t;); return e } e.exports = o; var f = t("in-viewport"), a = ["data-src"], l = function () { var t = navigator.userAgent, e = /like android/i.test(t), n = function (e) { var n = t.match(e); return n && n.length > 1 && n[1] || "" }, r = {}; return r.device = /tablet/i.test(t) || /[^-]mobi/i.test(t), r.chrome = /CrOS|chrome|crios|crmo/i.test(t), r.android = !e && /android/i.test(t), r.osVersion = r.android && n(/android[ \/-](\d+(\.\d+)*)/i), r.version = n(/version\/(\d+(\.\d+)?)/i), r.device && !r.chrome && r.android && parseFloat(r.osVersion) < 4.4 && parseInt(r.version) <= 4 }, d = l(); n.lzld = o(), i("Image"), i("IFrame") }).call(this, "undefined" != typeof global ? global : "undefined" != typeof self ? self : "undefined" != typeof window ? window : {}) }, { "in-viewport": 2 }], 2: [function (t, e, n) { (function (t) { function n(e, n, r) { var o = { container: t.document.body, offset: 0 }; (void 0 === n || "function" == typeof n) && (r = n, n = {}); for (var u = o.container = n.container || o.container, c = o.offset = n.offset || o.offset, a = 0; a < f.length; a++) if (f[a].container === u) return f[a].isInViewport(e, c, r); return f[f.push(i(u)) - 1].isInViewport(e, c, r) } function r(t, e, n) { t.attachEvent ? t.attachEvent("on" + e, n) : t.addEventListener(e, n, !1) } function o(t, e, n) { var r; return function () { function o() { r = null, n || t.apply(i, u) } var i = this, u = arguments, c = n && !r; clearTimeout(r), r = setTimeout(o, e), c && t.apply(i, u) } } function i(e) { function n(t, e, n) { if (!n) return d(t, e); var r = i(t, e, n); return r.watch(), r } function i(t, e, n) { function r() { s.add(t, e, n) } function o() { s.remove(t) } return { watch: r, dispose: o } } function f(t, e, n) { d(t, e) && (s.remove(t), n(t)) } function d(n, r) { if (!l(t.document.documentElement, n) || !l(t.document.documentElement, e)) return !1; if (!n.offsetWidth || !n.offsetHeight) return !1; var o = n.getBoundingClientRect(), i = {}; if (e === t.document.body) i = { top: -r, left: -r, right: t.document.documentElement.clientWidth + r, bottom: t.document.documentElement.clientHeight + r }; else { var u = e.getBoundingClientRect(); i = { top: u.top - r, left: u.left - r, right: u.right + r, bottom: u.bottom + r } } var c = o.right >= i.left && o.left <= i.right && o.bottom >= i.top && o.top <= i.bottom; return c } var s = u(), p = e === t.document.body ? t : e, v = o(s.checkAll(f), 15); return r(p, "scroll", v), p === t && r(t, "resize", v), a && c(s, e, v), setInterval(v, 150), { container: e, isInViewport: n } } function u() { function t(t, e, n) { r(t) || i.push([t, e, n]) } function e(t) { var e = n(t); -1 !== e && i.splice(e, 1) } function n(t) { for (var e = i.length - 1; e >= 0; e--) if (i[e][0] === t) return e; return -1 } function r(t) { return -1 !== n(t) } function o(t) { return function () { for (var e = i.length - 1; e >= 0; e--) t.apply(this, i[e]) } } var i = []; return { add: t, remove: e, isWatched: r, checkAll: o } } function c(t, e, n) { function r(t) { t.some(o) === !0 && setTimeout(n, 0) } function o(e) { var n = c.call([], Array.prototype.slice.call(e.addedNodes), e.target); return u.call(n, t.isWatched).length > 0 } var i = new MutationObserver(r), u = Array.prototype.filter, c = Array.prototype.concat; i.observe(e, { childList: !0, subtree: !0, attributes: !0 }) } e.exports = n; var f = [], a = "function" == typeof t.MutationObserver, l = t.document.documentElement.compareDocumentPosition ? function (t, e) { return !!(16 & t.compareDocumentPosition(e)) } : t.document.documentElement.contains ? function (t, e) { return t !== e && (t.contains ? t.contains(e) : !1) } : function (t, e) { for (; e = e.parentNode;) if (e === t) return !0; return !1 } }).call(this, "undefined" != typeof global ? global : "undefined" != typeof self ? self : "undefined" != typeof window ? window : {}) }, {}] }, {}, [1])(1) });
-    </script>
-    <title>
-	Vaquita marina, historia de extinci&#243;n que no debe repetirse
-</title><link href="https://s01.europapress.net/imagenes/estaticos/favicons/notimerica/favicon-32.ico" rel="shortcut icon" /><link rel=" apple-touch-icon-precomposed" sizes=" 152x152" href=" https://s01.europapress.net/imagenes/estaticos/favicons/notimerica/favicon-152.png" /><link rel = "apple-touch-icon-precomposed" sizes="144x144" href="https://s01.europapress.net/imagenes/estaticos/favicons/notimerica/favicon-144.png" /><link rel = "apple-touch-icon-precomposed" sizes="120x120" href="https://s01.europapress.net/imagenes/estaticos/favicons/notimerica/favicon-120.png" /><link rel = "apple-touch-icon-precomposed" sizes="72x72" href="https://s01.europapress.net/imagenes/estaticos/favicons/notimerica/favicon-72.png" /><link rel = "apple-touch-icon-precomposed" href="https://s01.europapress.net/imagenes/estaticos/favicons/notimerica/favicon-57.png" /><meta http-equiv="Content-Language" content="es" /><meta name="distribution" content="global" /><link rel="index" title="Notimerica" href="https://www.notimerica.com" /><link href="https://plus.google.com/101131134978819552698" rel="publisher" />
-    <link href="/css/estilos_1297036692716257285_0_r2701.css" type="text/css" rel="stylesheet"/>
-<link rel="preload" href="/css/estilos_0_12582912_r2701.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link href="/css/estilos_0_12582912_r2701.css" type="text/css" rel="stylesheet"/></noscript>
-
-    <script  type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script type="text/javascript" src="/js/scripts_703687441776673_1125.js"></script>
- 
-
-<script async src='https://www.googletagservices.com/tag/js/gpt.js'></script>
-<script>
-    var googletag = googletag || {};
-    googletag.cmd = googletag.cmd || [];
-</script>
-
-<script type='text/javascript'>
-    googletag.cmd.push(function () {
-        googletag.defineSlot('/5555/adconion.europapress.es/notimerica', [[980, 90], [728, 90], [980, 200], [970, 250], [980, 90]], 'div-gpt-ad-1483461443104-0').addService(googletag.pubads());
-googletag.defineOutOfPageSlot('/5555/adconion.europapress.es/notimerica', 'div-gpt-ad-1483461662175-0').addService(googletag.pubads());
-googletag.defineSlot('/5555/adconion.europapress.es/notimerica', [[300, 250], [300, 600], 'fluid'], 'div-gpt-ad-1483461443105-1').addService(googletag.pubads());
-googletag.defineSlot('/5555/adconion.europapress.es/internacionalBTF', [[300, 250], 'fluid'], 'div-gpt-ad-1483461443106-2').addService(googletag.pubads());
-googletag.defineSlot('/1013178/Adman_notimerica_300x250', [300, 250], 'div-gpt-id-Adman_notimerica_300x250').addService(googletag.pubads());
-googletag.defineSlot('/5555/adconion.europapress.es/notimericaBTF2', [[300, 250], 'fluid'], 'div-gpt-ad-1483461443107-3').addService(googletag.pubads());
-googletag.defineSlot('/1013178/Footer_Publi', [1, 1], 'div-gpt-id-Footer_Publi').addService(googletag.pubads());
-
-        
-            googletag.pubads().collapseEmptyDivs(false);
-        
-            googletag.enableServices();
-        
-    });
-</script>
-    <script type="text/javascript">
-        window._newsroom = window._newsroom || [];
-        !function (e, f, u) {
-            e.async = 1;
-            e.src = u;
-            f.parentNode.insertBefore(e, f);
-        }(document.createElement('script'),
-            document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/europapress-europapress/newsroom.js');
-    </script>
-<meta http-equiv="Refresh" content="600" />
-<script type="text/javascript"> 
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-   ga('create', 'UA-55296045-1', {cookieDomain: 'notimerica.com', siteSpeedSampleRate: 5, 'allowLinker': true});
-   ga('require', 'linker');
-   ga('linker:autoLink', ['aldia.cat', 'culturaocio.com', 'europapress.es', 'infosalus.com']);
-
-   ga('send', 'pageview');
-   ga('create', 'UA-2197908-14', {'name': 'audit', cookieDomain: 'notimerica.com', siteSpeedSampleRate: 5, 'allowLinker': true});
-   ga('audit.require', 'linker');
-   ga('audit.linker:autoLink', ['aldia.cat', 'culturaocio.com', 'europapress.es', 'infosalus.com']);
-
-   ga('audit.send', 'pageview');
-</script>
-
-<meta name="viewport" content="width=1080" />
-    
-
-
-
-    <style>
-        body.wallpaper-ep-home {
-            background-position: 50% 60px !important;
-        }
-    </style>
-
-                                                          <script type="text/javascript">
-                                                            document.addEventListener('copy', addLinkCopy);
-                                                          </script><link rel="amphtml" href="https://amp.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html"/><link rel='alternate' type='application/rss+xml' href='https://www.notimerica.com/rss/rss.aspx?ch=561' /><meta name="title" content="Vaquita marina, historia de extinci&#243;n que no debe repetirse" />
-<meta name="description" content="La desaparici&#243;n paulatina de la vaquita marina, el &#250;nico cet&#225;ceo end&#233;mico de M&#233;xico, ha generado alarmar y programas gubernamentales para su salvaci&#243;n que,..." /><link rel="img_src" href="https://img.europapress.es/fotoweb/fotonoticia_20180702103214_800.jpg" /><meta property="og:image" content="https://img.europapress.es/fotoweb/fotonoticia_20180702103214_800.jpg" /><meta property="og:image:type" content="image/jpeg" /><meta property="og:image:width" content="800" /><meta property="og:image:height" content="400" /><meta property="og:image" itemprop="image"  content="https://img.europapress.es/fotoweb/fotonoticia_20180702103214_256.jpg" /><meta name="date" content="2018-07-02T10:32:14 +02:00" /><meta name="DC.title" content="Vaquita marina, historia de extinci&#243;n que no debe repetirse" /><meta name="DC.date.issued" content="2018-07-02T10:32:14 +02:00" /><meta name="DC.description" content="La desaparici&#243;n paulatina de la vaquita marina, el &#250;nico cet&#225;ceo end&#233;mico de M&#233;xico, ha generado alarmar y programas gubernamentales para su salvaci&#243;n que,..." /><meta name="DC.subject" content="M&#233;xico" /><meta name="DC.creator" content="Europa Press" /><meta name="DC.publisher" content="Europa Press" /><meta name="DC.language" content="(SCHEME=ISO639) es" /><meta name="resource-type" content="document" /><meta name="medium" content="news" /><meta name="news_keywords" content="M&#233;xico" /><meta name="original-source" content="https://www.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html" /><link rel="canonical" href="https://www.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html" /><meta property="fb:app_id" content="1608506622723505" /><meta property="article:publisher" content="https://www.facebook.com/Notimerica" /><meta property="fb:profile_id" content="144143572454007" /><meta property="og:title" content="Vaquita marina, historia de extinci&#243;n que no debe repetirse" /><meta property="og:description" content="La desaparici&#243;n paulatina de la vaquita marina, el &#250;nico cet&#225;ceo end&#233;mico de M&#233;xico, ha generado alarmar y programas gubernamentales para su salvaci&#243;n que,..." /><meta property="og:type" content="article" /><meta property="og:site_name" content="notimerica.com" /><meta property="og:locale" content="es_ES" /><meta property="og:url" content="https://www.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html" /><meta property="og:updated_time" content="2018-07-02T10:32:14 +02:00" /><meta property="article:published_time" content="2018-07-02T10:32:14 +02:00" /><meta property="article:tag" content="M&#233;xico" /><link rel="alternate" media="handheld" href="https://m.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html" />
-<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html" />
-<meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@europapress" /><meta name="twitter:url" content="https://www.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html" /><meta name="twitter:title" content="Vaquita marina, historia de extinci&#243;n que no debe repetirse" /><meta name="twitter:description" content="La desaparici&#243;n paulatina de la vaquita marina, el &#250;nico cet&#225;ceo end&#233;mico de M&#233;xico, ha generado alarmar y programas gubernamentales para su salvaci&#243;n que,..." /><meta name="twitter:image" content="https://img.europapress.es/fotoweb/fotonoticia_20180702103214_800.jpg" /><meta name="twitter:image:width" content="800" /><meta name="twitter:image:height" content="400" />
-<script type="application/ld+json">
-{
-   "@context": "https://schema.org",
-   "@type": "NewsArticle",
-   "inLanguage": "es",
-   "mainEntityOfPage":{
-      "@type": "WebPage",
-      "@id": "https://www.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html"
-},
-   "author":{
-      "@type": "Organization",
-      "name": "Notimerica"
-},
-   "publisher":{
-      "@type": "Organization",
-      "name": "Notimerica",
-   "logo":{
-      "@type": "ImageObject",
-      "url": "https://s01.europapress.net/imagenes/estaticos/amp-logo/logo-notimerica.png",
-      "width": "600",
-      "height": "60"
-}},
-   "headline": "Vaquita marina, historia de extinción que no debe repetirse",
-   "description": "La desaparici&#243;n paulatina de la vaquita marina, el &#250;nico cet&#225;ceo end&#233;mico de M&#233;xico, ha generado alarmar y programas gubernamentales para su salvaci&#243;n que,...",
-   "url": "https://www.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html",
-   "image": {
-      "@type": "ImageObject",
-      "url": "https://img.europapress.es/fotoweb/fotonoticia_20180702103214_800.jpg",
-      "height": 400,
-      "width": 800
-},
-   "dateCreated": "2018-07-02T10:32:14 +02:00",
-   "datePublished": "2018-07-02T10:32:14 +02:00",
-   "dateModified": "2018-07-02T10:32:14 +02:00",
-   "articleBody": "
-   CIUDAD DE MÉXICO, 2 (Notimérica)
-
-   La desaparición paulatina de la vaquita marina, el único cetáceo endémico de México, ha generado alarmar y programas gubernamentales para su salvación que, sin embargo, no han conseguido frenar su extinción.
-
-   Tal y como recoge el Foro Consultivo y Científico Tecnológico de México, en 1993 la población registrada de vaquitas marinas alcanzaba 567 sujetos, mientras que para 2008 quedaban 245 y en 2015 el número de redujo a 59. Actualmente, se estima que únicamente sobreviven 30.
-
-   El tema del peligro que corre la vaquita marina a causa de la pesca furtiva, que atrapa accidentalmente al cetáceo en sus redes, no es nuevo. Como se ha mencionado, esta problemática ha estado en la agenda de México más de una década y, sin embargo, las acciones no han probado ser eficaces.
-
-   Ahora, los museos Universum y De la Ballena y Ciencias del Mar, junto con la Dirección General de Divulgación de la Ciencia de la Universidad Nacional Autónoma de México (UNAM), han abierto hasta el 30 de septiembre una exposición para generar conciencia y salvar al único cetáceo endémico mexicano.
-
-   Durante la inauguración de la exposición, 'Vaquita Marina entre redes. Una historia que no debe repetirse', situada en el Museo de Ciencias Universum, el titular de la Dirección General de Divulgación de la Ciencia (DGDC) de la UNAM, César Domínguez, resumió el asunto en una frase: la probable extinción de la vaquita marina es nuestra culpa, y es nuestra responsabilidad salvarla.
-
-   \"Uno de los temas más importantes de la actualidad es la extinción de especies. En los últimos 4.000 millones de años, la Tierra ha experimentado 5 grandes extinciones que casi acaban con la vida en el planeta y esta siempre ha encontrado el camino de regreso\", ha puntualizado.
-
-   \"Hoy, la Tierra enfrenta la más grave de todas las extinciones masivas. Somos testigos y artífices de esta extinción ya que, a diferencia de las 5 anteriores, no está provocada por fenómenos naturales de magnitudes cataclísmicas sino por las actividades humanas\", ha indicado en palabras recogidas por el citado foro.
-
-   Los recursos para controlar a la enorme cantidad de pescadores ilegales son insuficientes. Y es que, incluso cuando los atrapan, la ley estipula solo prisión durante 48 horas. En 2017 se aprobó un decreto en el Diario Oficial de la Federación en el que se restringía de manera temporal la navegación, las actividades de pesca, el turismo náutico y cualquier otra actividad que pudiera desarrollarse en el área protegida de la vaquita marina. El periodo sólo duró del 11 de octubre al 17 de diciembre del año 2017.
-
-   En entrevista para el Foro Consultivo Científico y Tecnológico, el director del Museo de la Ballena y Ciencias del Mar, Diego Ruiz Sabio, puso las cosas en perspectiva: \"el problema es más complejo y va más más allá de la intervención gubernamental; es un asunto también de magnitudes: el área protegida de la vaquita marina se compone de 1841 kilómetros cuadrados, mientras que la Ciudad de México sólo cuenta con 1400. \"Es muy complejo poder detener a los pescadores en el mar, donde tienes frentes para entrar por todas partes\".
-
-   La situación ya alcanzó niveles críticos y los científicos buscan hacer un llamado de conciencia a la población al montar exposiciones como la que se inauguró ayer en Universum. Ahora sólo queda actuar, para salvar a nuestro cetáceo y a todas las especies más que sufren las consecuencias de nuestro uso desmedido de los recursos naturales.
-
-   La exposición estará abierta hasta el 30 de septiembre de este año, en la planta baja del edificio A del museo Universum y se divide en 4 secciones: Evolución de los cetáceos; Características biológicas de la Vaquita Marina; Las redes fantasmas, y Acciones de conservación, en una ambiente inmersivo, que recrea las singularidades del hábitat del cetáceo.
-",
-   "articleSection": "Sociedad"
-}
-</script>
-<script type="text/javascript">  window._taboola = window._taboola || [];  _taboola.push({article:'auto'});  !function (e, f, u, i) {    if (!document.getElementById(i)){      e.async = 1;      e.src = u;      e.id = i;      f.parentNode.insertBefore(e, f);    }  }(document.createElement('script'),  document.getElementsByTagName('script')[0],  '//cdn.taboola.com/libtrc/europapress-network/loader.js',  'tb_loader_script');</script><meta name="googlebot" content="index,follow" /><meta name="robots" content="index,follow" /></head>
-<body class="CuerpoResponsive">
-    
-<!-- Begin comScore Tag -->
-<script type="text/javascript">
-  var _comscore = _comscore || [];
-  _comscore.push({ c1: "2", c2: "13025493" });
-  (function() {
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-    el.parentNode.insertBefore(s, el);
-  })();
-</script>
-<noscript>
-  <img src="https://sb.scorecardresearch.com/p?c1=2&c2=13025493&cv=2.0&cj=1" />
-</noscript>
-<!-- End comScore Tag -->
-
-
-<script type="text/javascript">
-  var appInsights=window.appInsights||function(a){
-    function b(a){c[a]=function(){var b=arguments;c.queue.push(function(){c[a].apply(c,b)})}}var c={config:a},d=document,e=window;setTimeout(function(){var b=d.createElement("script");b.src=a.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js",d.getElementsByTagName("script")[0].parentNode.appendChild(b)});try{c.cookie=d.cookie}catch(a){}c.queue=[];for(var f=["Event","Exception","Metric","PageView","Trace","Dependency"];f.length;)b("track"+f.pop());if(b("setAuthenticatedUserContext"),b("clearAuthenticatedUserContext"),b("startTrackEvent"),b("stopTrackEvent"),b("startTrackPage"),b("stopTrackPage"),b("flush"),!a.disableExceptionTracking){f="onerror",b("_"+f);var g=e[f];e[f]=function(a,b,d,e,h){var i=g&&g(a,b,d,e,h);return!0!==i&&c["_"+f](a,b,d,e,h),i}}return c
-    }({samplingPercentage: 30,
-        instrumentationKey:"1835c7ff-6b1d-46fb-8766-c8365849fc3f"
-    });
-    
-  window.appInsights=appInsights,appInsights.queue&&0===appInsights.queue.length&&appInsights.trackPageView();
-</script>
-
-    <div class="notimerica-ultimahora" id="organizacion" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
-        <meta itemprop="url" content="https://www.notimerica.com" /><meta itemprop="name" content="Notimérica" />
-        <div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://s01.europapress.net/imagenes/estaticos/logosnuevos/logo-notimerica-xs.png" /><meta itemprop="width" content="85" /><meta itemprop="height" content="85" /></div>
-        <a itemprop="sameAs" rel="nofollow" class="HFTwitter" href="https://twitter.com/notimerica"></a>
-        <a itemprop="sameAs" rel="nofollow" class="HFFacebook" href="https://www.facebook.com/Notimerica"></a>
-        <a itemprop="sameAs" rel="nofollow" class="HFLinkedin" href="https://www.linkedin.com/company/europa-press"></a>
-    </div>
-    <div id="autor" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><meta itemprop="url" content="https://www.notimerica.com" /><meta itemprop="name" content="Notimérica" /></div>
-    
-    <div class="cargando-siguiente">
-        <div class="row">
-            <div class="twelve columns">
-            </div>
-        </div>
-        <div class="row">
-            <div class="twelve columns">
-                <h2 class="cargando-titulo"></h2>
-            </div>
-        </div>
-        <div class="row">
-            <div class="twelve columns">
-                <div class="container-boton-nulo">
-                    <span class="boton-social nulo responsive"></span>
-                    <span class="boton-social nulo responsive"></span>
-                    <span class="boton-social nulo responsive"></span>
-                    <span class="boton-social nulo responsive"></span>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="twelve columns">
-                <div class="cargando-contenedor">
-                    <img src="" class="cargando-imagen" />
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="twelve columns">
-                <div class="container-placeholder">
-                    <div class="linePlaceholder linePlaceholder--thick"></div>
-                    <div class="linePlaceholder linePlaceholder--thick"></div>
-                    <div class="linePlaceholder linePlaceholder--thick linePlaceholder--truncated"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-
-<div id="masterMenu" class="master ">
-    
-    <div id="navegacionFixed" class="navegacionFixed">
-        <div class="row">
-            <div class="menu-horizontal-superior twelve columns">
-                <div id="acciones-menu" class="acciones-menu ">
-                    <div id="ctl00_NavegacionFixed_menuBuscador" class="contenedor-menu-acciones">
-                        <span id="icono-menu" class="icon-menu button-ico"></span>
-                        <form id="formulario-buscador-estrechado">
-                            <div class="centrar-formulario">
-                                <input type="text" id="texto-buscador-estrechado" placeholder="Buscar" disabled>
-                                <span id="icono-buscador-estrechado" class="icon-search icono-buscador-estrechado"></span>
-                                <input type="hidden" id="hdnIdiomaBusqueda" value="1" />
-                            </div>
-                        </form>
-                    </div>
-                </div>
-                
-
-                <div id="ctl00_NavegacionFixed_logoep" class="logo-cabecera notimerica">
-                    <a href="https://www.notimerica.com" title="Notimérica | Noticias sobre América">
-                                                                <span class="logo-dominio-texto primera">noti</span><span class="logo-dominio-texto segunda">mérica</span>                                                                
-                                                              </a>
-                    
-                </div>
-                <div class="utiles">
-
-                    
-
-                    <div id="ctl00_NavegacionFixed_linkAbonados" class="accesos-menu">
-                        <!--<p><a>Suscribirse</a> |</p> -->
-                        <span class="icon-user"></span>
-                        
-                        <p id="ctl00_NavegacionFixed_AbonadosEP"><a href="https://www.europapress.es/abonados/login.aspx" title="Abonados">Abonados</a></p>
-                        
-                    </div>
-                    <div class="social-menu">
-                        <a target="_blank" href="https://www.facebook.com/Notimerica" title="Síguenos en Facebook" rel="nofollow"><span class="icon-facebook social-icon"></span></a>
-                        <a target="_blank" href="https://twitter.com/notimerica" title="Síguenos en Twitter" rel="nofollow"><span class="icon-twitter social-icon"></span></a>
-                        <a target="_blank" href="https://www.youtube.com/user/europapress" title="Síguenos en Youtube" rel="nofollow"><span class="icon-youtube social-icon"></span></a>
-                        
-                    </div>
-
-                    
-                </div>
-                
-
-            </div>
-
-        </div>
-    </div>
-
-    <div id="menu-completo" class="menu-completo oculto">
-        
-
-<div id="menu-lateral" class="no-visible"></div>
-
-
-
-    <script type="text/javascript">
-        var altura = window.innerHeight;
-        var cargarMenuJson = function cargarMenu() {
-            var jsonFile = getJsonFile();
-            getJSON(jsonFile, function (err, json) {
-                if (err !== null) {
-                    console.log('Error al cargar el menú ' + err);
-                } else {
-                    var ulMenuLateral = document.createElement("ul");
-                    ulMenuLateral.className = "lista-menu-completo";
-                    for (var i in json) {
-                        var menuItem = document.createElement("li");
-                        menuItem.setAttribute("itemprop", "name");
-                        menuItem.className = "menuItemPrincipal";
-                        var enlace = document.createElement("a");
-                        enlace.setAttribute("itemprop", "url");
-                        switch (json[i].tipo) {
-                            case "home":
-                                menuItem.classList.add(json[i].cssAdicional);
-                                menuItem.classList.add("europapressMenu");
-                                enlace.href = location.protocol + "//" + window.location.hostname;
-                                enlace.setAttribute("title", json[i].titulo);
-                                var extraClass = "";
-                                if (window.location.hostname.startsWith("m.")) {
-                                    extraClass = "movil";
-                                }
-                                enlace.innerHTML = json[i].ep1 + " <h4 class='rojo " + extraClass + "'>" + json[i].ep2 + "</h4>";
-                                menuItem.appendChild(enlace);
-                                ulMenuLateral.appendChild(menuItem);
-                                break;
-                            case "abonados":
-                                menuItem.classList.add(json[i].cssAdicional);
-                                enlace.href = json[i].url;
-                                enlace.setAttribute("title", json[i].titulo);
-                                enlace.innerHTML = json[i].titulo;
-                                menuItem.appendChild(enlace);
-                                ulMenuLateral.appendChild(menuItem);
-                                break;
-                            case "buscadormovil":
-                                if (window.location.hostname.startsWith("m.")) {
-                                    menuItem.classList.add(json[i].cssAdicional);
-                                    var formBuscador = document.createElement("form");
-                                    formBuscador.id = "formulario-buscador-estrechado";
-                                    var inputBuscador = document.createElement("input");
-                                    inputBuscador.id = "texto-buscador-estrechado";
-                                    inputBuscador.setAttribute("type", "text");
-                                    inputBuscador.setAttribute("placeholder", json[i].titulo);
-                                    inputBuscador.setAttribute("required", "");
-                                    inputBuscador.setAttribute("itemportal", json[i].portalId);
-                                    inputBuscador.setAttribute("canalid", json[i].canalId);
-                                    var iconoBuscador = document.createElement("span");
-                                    iconoBuscador.id = "icono-buscador-estrechado";
-                                    iconoBuscador.className = "icon-search icono-buscador-estrechado";
-                                    iconoBuscador.setAttribute("onclick", "buscar()");
-                                    formBuscador.appendChild(inputBuscador);
-                                    formBuscador.appendChild(iconoBuscador);
-                                    menuItem.appendChild(formBuscador);
-                                    ulMenuLateral.appendChild(menuItem);
-                                }
-                                break;
-                            case "dominioexterno":
-                                if (json[i].hasOwnProperty('cssAdicional')) {
-                                    menuItem.classList.add(json[i].cssAdicional);
-                                }
-                                var dominio = "www.";
-                                if (window.location.hostname.startsWith("m.")) {
-                                    dominio = "m.";
-                                }
-                                enlace.href = location.protocol + "//" + dominio + json[i].url;
-                                enlace.setAttribute("title", json[i].titulo);
-                                enlace.setAttribute("rel", "nofollow");
-                                if (json[i].hasOwnProperty('bullet')) {
-                                    enlace.innerHTML = "<span class='bullet'>" + json[i].titulo + "</span>";
-                                } else {
-                                    enlace.innerHTML = json[i].titulo;
-                                }
-                                menuItem.appendChild(enlace);
-                                ulMenuLateral.appendChild(menuItem);
-                                break;
-                            case "webexterna":
-                                enlace.href = json[i].url;
-                                enlace.setAttribute("title", json[i].titulo);
-                                enlace.setAttribute("rel", "nofollow");
-                                enlace.innerHTML = json[i].titulo;
-                                menuItem.appendChild(enlace);
-                                ulMenuLateral.appendChild(menuItem);
-                                break;
-                            case "desplegable":
-                                menuItem.classList.add("acordeon");
-                                var span = document.createElement("span");
-                                span.innerHTML = json[i].titulo;
-                                var ul = document.createElement("ul");
-                                ul.className = "sub-secciones";
-                                var jsonHijos = json[i].hijos;
-                                for (var j in jsonHijos) {
-                                    var menuItem2 = document.createElement("li");
-                                    menuItem2.setAttribute("itemprop", "name");
-                                    menuItem2.className = "menuItemSecundario";
-                                    menuItem2.classList.add("noacordeon");
-                                    var enlace2 = document.createElement("a");
-                                    enlace2.setAttribute("itemprop", "url");
-                                    enlace2.href = location.protocol + "//" + window.location.hostname + jsonHijos[j].url;
-                                    enlace2.setAttribute("title", jsonHijos[j].titulo);
-                                    enlace2.innerHTML = jsonHijos[j].titulo;
-                                    menuItem2.appendChild(enlace2);
-                                    ul.appendChild(menuItem2);
-                                }
-                                menuItem.appendChild(span);
-                                ulMenuLateral.appendChild(menuItem);
-                                ulMenuLateral.appendChild(ul);
-                                break;
-                            default:
-                                if (json[i].hasOwnProperty('nomobile') && window.location.hostname.startsWith("m.")) {
-                                    break;
-                                }
-                                if (json[i].hasOwnProperty('cssAdicional')) {
-                                    menuItem.classList.add(json[i].cssAdicional);
-                                }
-                                enlace.href = location.protocol + "//" + window.location.hostname + json[i].url;
-                                enlace.setAttribute("title", json[i].titulo);
-                                if (json[i].hasOwnProperty('bullet')) {
-                                    enlace.innerHTML = "<span class='bullet'>" + json[i].titulo + "</span>";
-                                } else {
-                                    enlace.innerHTML = json[i].titulo;
-                                }
-                                menuItem.appendChild(enlace);
-                                ulMenuLateral.appendChild(menuItem);
-                        }
-                    }
-                    var divMenuLateral = document.getElementById("menu-lateral");
-                    var navMenuLateral = document.createElement("nav");
-                    navMenuLateral.id = "menu";
-                    navMenuLateral.className = "nav";
-                    navMenuLateral.setAttribute("itemscope", "");
-                    navMenuLateral.setAttribute("itemtype", "https://schema.org/SiteNavigationElement");
-                    navMenuLateral.style.maxHeight = parseInt(document.documentElement.clientHeight) - 40 + "px";
-                    altura -= 60;
-                    ulMenuLateral.style.height = altura + 'px';
-                    navMenuLateral.appendChild(ulMenuLateral);
-                    divMenuLateral.appendChild(navMenuLateral);
-                    var itemsAcordeon = document.getElementsByClassName("acordeon");
-                    for (var k = 0; k < itemsAcordeon.length; k++) {
-                        itemsAcordeon[k].onclick = function () {
-                            this.classList.toggle("active");
-                            this.nextElementSibling.classList.toggle("show");
-                        };
-                    }
-                    defer(function () {
-                        $("#formulario-buscador-estrechado").submit(function () {
-                            buscar();
-                            return false;
-                        });
-                    });
-                }
-            });
-        };
-        var getJSON = function (url, callback) {
-            var xhr = new XMLHttpRequest();
-            xhr.open('GET', url, true);
-            xhr.responseType = 'json';
-            xhr.onload = function () {
-                var status = xhr.status;
-                if (status === 200) {
-                    callback(null, xhr.response);
-                } else {
-                    callback(status, xhr.response);
-                }
-            };
-            xhr.send();
-        };
-
-        function getJsonFile() {
-            var jsonName = "/menus/MenuEP.json";
-            var url = window.location.pathname;
-            var nombreHost = window.location.host;
-            var objUrl = new URL(document.URL);
-            var canalid = objUrl.searchParams.get("ch");
-            if (window.location.hostname.startsWith("m.")) {
-                if (url.startsWith("/ciencia/") || canalid === "298") {
-                    jsonName = "/menus/ciencia.json";
-                } else if (url.startsWith("/desconecta/") || canalid === "901") {
-                    jsonName = "/menus/desconecta.json";
-                } else if (url.startsWith("/epsocial/") || canalid === "313") {
-                    jsonName = "/menus/epsocial.json";
-                } else if (url.startsWith("/economia/") || canalid === "136") {
-                    jsonName = "/menus/mercadofinanciero.json";
-                } else if (url.startsWith("/portaltic/") || canalid === "564") {
-                    jsonName = "/menus/portaltic.json";
-                } else if (url.startsWith("/turismo/") || canalid === "679") {
-                    jsonName = "/menus/turismo.json";
-                }
-            }
-
-            if (url.startsWith("/chance/") || canalid === "549") {
-                jsonName = "/menus/chance.json";
-            } else if (nombreHost.includes("notimerica.com") || canalid === "527") {
-                jsonName = "/menus/notimerica.json";
-            } else if (nombreHost.includes("hacerfamilia.com") || canalid === "861") {
-                jsonName = "/menus/hacerfamilia.json";
-            } else if (nombreHost.includes("aldia.cat")) {
-                jsonName = "/menus/aldia.json";
-            } else if (nombreHost.includes("culturaocio.com") || canalid === "777") {
-                jsonName = "/menus/culturaocio.json";
-            } else if (nombreHost.includes("infosalus.com") || canalid === "74") {
-                jsonName = "/menus/infosalus.json";
-            } else if (nombreHost.includes("epagrama.es") || canalid === "1094") {
-                jsonName = "/menus/epagrama.json";
-            }
-            return jsonName;
-        }
-
-        function buscar() {
-            var inputTexto = document.getElementById('texto-buscador-estrechado');
-            if (inputTexto.value.length > 0) {
-                window.location.href = ['/buscador.aspx?buscar=', inputTexto.value, '&buscarCodificado=', encode64(inputTexto.value), '&portal=', inputTexto.getAttribute("itemportal"), "&ch=", inputTexto.getAttribute("canalid"), '&mostrar=false&btn=true'].join("");
-            }
-            return false;
-        }
-
-
-     
-
-
-        function defer(method) {
-            if (window.jQuery) {
-                method();
-            } else {
-                setTimeout(function () {
-                    defer(method);
-                }, 50);
-            }
-        }
-    </script>
-
-
-
-    </div>
-
-    <div id="background"></div>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Taza (Chiricahua leader) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Taza_(Chiricahua_leader)","wgTitle":"Taza (Chiricahua leader)","wgCurRevisionId":817373194,"wgRevisionId":817373194,"wgArticleId":3701774,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using infobox military person with unknown parameters","All articles with self-published sources","Articles with self-published sources from December 2017","Find a Grave template with ID same as Wikidata","Year of birth uncertain","1840s births","1876 deaths","Apache people","Burials at the Congressional Cemetery","Chiricahua","Native American leaders","Deaths from pneumonia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Taza_(Chiricahua_leader)","wgRelevantArticleId":3701774,"wgRequestId":"XMPpAApAMFMAAAL0IAoAAAAM","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q4896706","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.1"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chief_Taza_at_CC_no_QR.JPG/1200px-Chief_Taza_at_CC_no_QR.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Taza_(Chiricahua_leader)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Taza_(Chiricahua_leader)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Taza_(Chiricahua_leader)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Taza_(Chiricahua_leader)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=qqx&amp;modules=html5shiv&amp;only=scripts&amp;skin=fallback&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Taza_Chiricahua_leader rootpage-Taza_Chiricahua_leader skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
 </div>
 
-<div id="subnavegacionFixed" class="subnavegacion-fixed">
-    <div id="contenidoSubnav" class="contenido">
-        <div class="social">
-            <div title="Compartir en Facebook" class="boton-social pequeño facebook posicion" onclick="AbrePopUpRedim('https://www.facebook.com/sharer.php?u=https://www.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html&', 450, 550); trackEventGAFull('DESKTOP_COMPARTIR_FACEBOOK_MENU_V165', 'click', '', 0);" target="_blank" rel="nofollow"><span class="icon-facebook icono-boton-social pequeño"></span></div>
-            <div title="Compartir en Twitter" class="boton-social pequeño twitter posicion" onclick="AbrePopUpRedim('https://twitter.com/share?text=Vaquita+marina%2c+historia+de+extinci%c3%b3n+que+no+debe+repetirse&via=notimerica&url=https://www.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html&', 450, 550); trackEventGAFull('DESKTOP_COMPARTIR_TWITTER_MENU_V165', 'click', '', 0);" target="_blank" rel="nofollow"><span class="icon-twitter icono-boton-social pequeño"></span></div>
-            <div title="Compartir en Menéame" class="boton-social pequeño meneame posicion" onclick="AbrePopUpRedim('https://meneame.net/login.php?return=/submit.php?url=https://www.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html&', 450, 550); trackEventGAFull('DESKTOP_COMPARTIR_MENEAME_MENU_V165', 'click', '', 0);" target="_blank" rel="nofollow"><span class="icon-meneame icono-boton-social pequeño"></span></div>
-            <div title="Compartir en Linkedin" class="boton-social pequeño linkedin posicion" onclick="AbrePopUpRedim('https://www.linkedin.com/cws/share?url=https://www.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html&', 450, 550); trackEventGAFull('DESKTOP_COMPARTIR_LINKEDIN_MENU_V165', 'click', '', 0);" target="_blank" rel="nofollow"><span class="icon-linkedin icono-boton-social pequeño"></span></div>
-            <div title="Mandar por Email" class="boton-social pequeño email posicion" onclick="window.location.href='mailto:?subject=Vaquita marina, historia de extinci&#243;n que no debe repetirsePost&body=https%3a%2f%2fwww.notimerica.com%2fsociedad%2fnoticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html'; return false;" trackEventGAFull('DESKTOP_COMPARTIR_EMAIL_MENU_V165', 'click', '', 0);" target="_blank" rel="nofollow"><span class="icon-email icono-boton-social pequeño"></span></div>
-            <div onclick="Resize();"  class="textresizer tool"><span class="icono-boton-social pequeño letraResize">A</span></div>
-            <div title="Imprimir" class="boton-social pequeño printer posicion" onclick="window.print(); trackEventGAFull('DESKTOP_COMPARTIR_IMPRIMIR_MENU_V165', 'click', '', 0);" rel="nofollow"><span class="icon-printer icono-boton-social pequeño"></span></div>
-        </div>
-    </div>
-</div>
-
-
-<div id="compartir-mini" Class="compartir-mini oculto">
-    <div id="cerrar-compartir-mini" class="cerrar-compartir-mini"><span Class="icon-close"></span></div>
-    <ul Class="social-contenedor center-block">
-    <li><div onclick="AbrePopUpRedim('https://meneame.net/login.php?return=/submit.php?url=https://www.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html&', 450, 550); trackEventGAFull('DESKTOP_COMPARTIR_MENEAME_MENU_RESPONSIVE', 'click', '', 0);" target="_blank" rel="nofollow"><span Class="icon-meneame boton-social"></span>Menéalo</div></li>
-    <li><div onclick="AbrePopUpRedim('https://www.facebook.com/sharer.php?u=https://www.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html&', 450, 550); trackEventGAFull('DESKTOP_COMPARTIR_FACEBOOK_MENU_RESPONSIVE', 'click', '', 0);" target="_blank" rel="nofollow"><span Class="icon-facebook boton-social"></span>Comparte en Facebook</div></li>
-    <li><div onclick="AbrePopUpRedim('https://twitter.com/share?text=Vaquita+marina%2c+historia+de+extinci%c3%b3n+que+no+debe+repetirse&via=notimerica&url=https://www.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html&', 450, 550); trackEventGAFull('DESKTOP_COMPARTIR_TWITTER_MENU_RESPONSIVE', 'click', '', 0);" target="_blank" rel="nofollow"><span Class="icon-twitter boton-social"></span>Comparte en Twitter</div></li>
-    <li><div onclick="AbrePopUpRedim('https://www.linkedin.com/cws/share?url=https://www.notimerica.com/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html&', 450, 550); trackEventGAFull('DESKTOP_COMPARTIR_LINKEDIN_MENU_RESPONSIVE', 'click', '', 0);" target="_blank" rel="nofollow"><span Class="icon-linkedin boton-social"></span>Comparte en Linkedin</div></li>
-    </ul>
-</div>
-<script type="text/javascript">
-    var itemsAcordeon = document.getElementsByClassName("acordeon"); var itemsAcordeonFocus = document.getElementsByClassName("acordeon focus"); var i; for (i = 0; i < itemsAcordeon.length; i++) { itemsAcordeon[i].onclick = function () { this.classList.toggle("active"); this.nextElementSibling.classList.toggle("show") } }
-    for (i = 0; i < itemsAcordeonFocus.length; i++) { itemsAcordeonFocus[i].onclick = function () { this.classList.toggle("active"); this.nextElementSibling.classList.toggle("show"); setTimeout(function () { if (document.getElementsByClassName("menuItemPrincipal acordeon focus active")[0]) { document.getElementsByClassName("menuItemPrincipal acordeon focus active")[0].scrollIntoView() } }, 200) } }
-    if (document.URL.toLowerCase() === "https://www.europapress.es/") {
-    document.onscroll = function () {
-        if (window.scrollY === 0) { document.getElementsByClassName("logo-cabecera")[0].style.display = "none"; jQuery("#ctl00_NavegacionFixed_menuportada").fadeIn() }
-        if (window.scrollY > 50) { document.getElementById("ctl00_NavegacionFixed_menuportada").style.display = "none"; jQuery(".logo-cabecera").fadeIn() }
-    }
-    }
-    var textResizer = {
-        currIncrementMax: 9, currIncrementUnit: 2, currIncrementIndex: 0, init: function (myRoot, resizeableElementList, clickElement) { myRoot = myRoot || '#CuerpoNoticiav2'; resizeableElementList = resizeableElementList || 'p, li'; clickElement = clickElement || '.tool.textresizer'; this.root = $(myRoot); this.resizeableElements = $(resizeableElementList, this.root); $(clickElement).on('click', this, this.resize) }, resize: function (event) {
-            var currObj = event.data; if (currObj.currIncrementIndex === currObj.currIncrementMax) { currObj.currIncrementIndex = 0; currObj.currIncrementUnit = (currObj.currIncrementUnit === 2) ? -2 : 2 }
-            currObj.currIncrementIndex = currObj.currIncrementIndex + 1; currObj.resizeableElements.each(function () { var elm = $(this); var currSize = parseFloat(elm.css('font-size'), 5); var result = currSize + currObj.currIncrementUnit; elm.css('font-size', result) })
-        }
-    }; var entro = 0; function Resize() { if (entro === 0) { textResizer.init(); entro = 1 } }
-    if (document.URL.toLowerCase() === "https://www.hacerfamilia.com/") {
-    document.onscroll = function () {
-        if (window.scrollY === 0) { jQuery(".logo-cabecera .img-hacerfamilia").fadeOut() }
-        if (window.scrollY > 50) { jQuery(".logo-cabecera .img-hacerfamilia").fadeIn() }
-    }
-    }
-</script>
-
-
-    <form method="post" action="/sociedad/noticia-vaquita-marina-historia-extincion-no-debe-repetirse-20180702103214.html" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="EO9tj5R6PpACUGIStkj/KaGsPeAfFEpnRuF9+3IXAg6ucajsoaI8LzTM2VUKXvrmpdJ58uUXz/S3KkWaANKZBjvA0f4=" />
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AA38F69C" />
-
-  
-        
-        
-        
-    
-     
-
-        <div id="PublicidadSuperior" class="Canvas">
-            <div id="BannerCabecera" class="publi">
-                
-    <div  id='div-gpt-ad-1483461443104-0'>
-   <script type='text/javascript'>
-      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1483461443104-0'); });
-   </script>
-</div>
-<div  id='div-gpt-ad-1483461662175-0'>
-   <script type='text/javascript'>
-      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1483461662175-0'); });
-   </script>
-</div>
-
-
-            </div>
-            &nbsp;
-        </div>
-        
-        
-<div id="Cabecera" class="nivel1 responsive">
-    
-            
-            
-        
-    
-<div class="container center-content-container"><div class="BreadCrumb row"><a class="BreadCrumbNotimerica" href="https://www.notimerica.com/">   <span class="logo-dominio-texto primera">noti</span><span class="logo-dominio-texto segunda">mérica</span></a><span class="separador">/</span><a class="BreadCrumbDescripcion" href="https://www.notimerica.com/sociedad/">sociedad</a></div></div>
-
-
-
-</div>
-
-        <div class="full-page-width-noticia">
-            
-    
-
-            <div class="container center-content-container">
-                <div class="row">
-                    
-
-                </div>
-                
-
-
-                
-    
-
-
-
-                
-    
-
-                <div class="row flex">
-                    
-    <div class="twelve columns titularContainer">
-        <h1 itemprop="headline" Class="titular">Vaquita marina, historia de extinci&#243;n que no debe repetirse</h1>
-        
-    </div>
-
-                </div>
-                <div class="row flex">
-                    
-                    
-                    <div class="eight columns columnadoble ColumnaPrincipal">
-                        
-    
-
-
-
-<div id="NoticiaPrincipal"> <!-- google_ad_section_start -->
-
-<!-- © 2019 Europa Press. Está expresamente prohibida la redistribución y la redifusión de todo o parte de los contenidos de esta web sin su previo y expreso consentimiento. -->
-
-<!-- inicio multimedia -->
-<div class="full644">
-<!-- inicio foto --><div class="schema_foto" itemscope=" itemtype="https://schema.org/ImageObject">
-<picture><img src="https://img.europapress.es/fotoweb/fotonoticia_20180702103214_640.jpg" border="0" alt="VAQUITA MARINA" title="Vaquita marina, historia de extinci&#243;n que no debe repetirse" itemprop="image" /><div class="captionv2"><figcaption>GREENPEACE</figcaption></div></picture>
-</div><!-- fin foto -->
-
-</div>
-<!-- fin multimedia -->
-
-<div class="NormalTextoNoticia" id="CuerpoNoticiav2" itemprop="articleBody"><!--inicio FechaNoticia--><div class="FechaPublicacionNoticia">Publicado 02/07/2018 10:32:14<abbr title="Central European Time">CET</abbr></div><!--fin FechaNoticia-->
-<p>&nbsp;&nbsp;&nbsp;CIUDAD DE MÉXICO, 2 Jul. (Notimérica) - </p><p itemprop="description">&nbsp;&nbsp;&nbsp;<strong>La desaparición paulatina de la vaquita marina, el único cetáceo endémico de México, ha generado alarmar y programas gubernamentales para su salvación que, sin embargo, no han conseguido frenar su extinción</strong>.</p><p>&nbsp;&nbsp;&nbsp;Tal y como recoge el Foro Consultivo y Científico Tecnológico de México, en 1993 la población registrada de vaquitas marinas alcanzaba 567 sujetos, mientras que para 2008 quedaban 245 y en 2015 el número de redujo a 59. <strong>Actualmente, se estima que únicamente sobreviven 30</strong>.</p><p>&nbsp;&nbsp;&nbsp;El tema del peligro que corre la vaquita marina a causa de la pesca furtiva, que atrapa accidentalmente al cetáceo en sus redes, no es nuevo. <strong>Como se ha mencionado, esta problemática ha estado en la agenda de México más de una década y, sin embargo, las acciones no han probado ser eficaces.</strong></p><p>&nbsp;&nbsp;&nbsp;Ahora, los museos Universum y De la Ballena y Ciencias del Mar, junto con la Dirección General de Divulgación de la Ciencia de la Universidad Nacional Autónoma de México (UNAM), <strong>han abierto hasta el 30 de septiembre una exposición para generar conciencia y salvar al único cetáceo endémico mexicano.</strong></p><div id="intextsmartclip"></div><p>&nbsp;&nbsp;&nbsp;Durante la inauguración de la exposición, <strong>'Vaquita Marina entre redes. Una historia que no debe repetirse'</strong>, situada en el Museo de Ciencias Universum, el titular de la Dirección General de Divulgación de la Ciencia (DGDC) de la UNAM, César Domínguez, resumió el asunto en una frase: la probable extinción de la vaquita marina es nuestra culpa, y es nuestra responsabilidad salvarla.</p><p>&nbsp;&nbsp;&nbsp;<strong>"Uno de los temas más importantes de la actualidad es la extinción de especies. En los últimos 4.000 millones de años, la Tierra ha experimentado 5 grandes extinciones que casi acaban con la vida en el planeta y esta siempre ha encontrado el camino de regreso</strong>", ha puntualizado.</p><p>&nbsp;&nbsp;&nbsp;"<strong>Hoy, la Tierra enfrenta la más grave de todas las extinciones masivas. Somos testigos y artífices de esta extinción ya que, a diferencia de las 5 anteriores, no está provocada por fenómenos naturales de magnitudes cataclísmicas sino por las actividades humanas</strong>", ha indicado en palabras recogidas por el citado foro.</p><p>&nbsp;&nbsp;&nbsp;Los recursos para controlar a la enorme cantidad de pescadores ilegales son insuficientes. Y es que, incluso cuando los atrapan, la ley estipula solo prisión durante 48 horas. <strong>En 2017 se aprobó un decreto en el Diario Oficial de la Federación en el que se restringía de manera temporal la navegación</strong>, las actividades de pesca, el turismo náutico y cualquier otra actividad que pudiera desarrollarse en el área protegida de la vaquita marina. El periodo sólo duró del 11 de octubre al 17 de diciembre del año 2017.</p><p>&nbsp;&nbsp;&nbsp;En entrevista para el Foro Consultivo Científico y Tecnológico, el director del Museo de la Ballena y Ciencias del Mar, Diego Ruiz Sabio, puso las cosas en perspectiva: "el problema es más complejo y va más más allá de la intervención gubernamental; es un asunto también de magnitudes: el área protegida de la vaquita marina se compone de 1841 kilómetros cuadrados, mientras que la Ciudad de México sólo cuenta con 1400. <strong>"Es muy complejo poder detener a los pescadores en el mar, donde tienes frentes para entrar por todas partes".</strong></p><p>&nbsp;&nbsp;&nbsp;La situación ya alcanzó niveles críticos y los científicos buscan hacer un llamado de conciencia a la población al montar exposiciones como la que se inauguró ayer en Universum. <strong>Ahora sólo queda actuar, para salvar a nuestro cetáceo y a todas las especies más que sufren las consecuencias de nuestro uso desmedido de los recursos naturales</strong>.</p><p>&nbsp;&nbsp;&nbsp;La exposición estará abierta hasta el 30 de septiembre de este año, en la planta baja del edificio A del museo Universum y se divide en 4 secciones: Evolución de los cetáceos; Características biológicas de la Vaquita Marina; Las redes fantasmas, y Acciones de conservación, en una ambiente inmersivo, que recrea las singularidades del hábitat del cetáceo.</p></div><!-- Inicio entidades -->
-<div id="divEntidadesNoticiav2">
-    <h3 class="titEntidades">Para leer m&aacute;s</h3>
-    <ul id="entidadesNoticiav2" class="entidadesNoticiav2  notimerica">
-        <li>
-            <a href="https://www.notimerica.com/mexico/" onclick="trackEventGA('EntidadesNoticia', 'click');">M&#233;xico</a>
-        </li>
-    </ul>
-</div>
-<!-- Fin entidades -->
-
-<!-- © 2019 Europa Press. Está expresamente prohibida la redistribución y la redifusión de todo o parte de los contenidos de esta web sin su previo y expreso consentimiento. -->
-<!-- google_ad_section_end -->
-
- <div class="noddus-content-card" data-url="https://noddus.com/content_card?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwbGFjZW1lbnRfaWQiOjEyMDl9.04ZUTrn9ZCCf88KqR0xk17CfL11Glc3deJyRjMwYkE4" data-clickmacro="PLEASE_ENTER_ESCAPED_CLICK_MACRO_HERE" data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwbGFjZW1lbnRfaWQiOjEyMDl9.04ZUTrn9ZCCf88KqR0xk17CfL11Glc3deJyRjMwYkE4"       fbtype="null" ></div>       <script type="text/javascript">         var el = document.getElementsByClassName('noddus-content-card')[0];         el.setAttribute('data-url', el.getAttribute('data-url') );       </script>       <script type="text/javascript" src="https://noddus.com/javascripts/card_loader.js?ord=PLEASE_ENTER_CACHEBUSTER_MACRO_HERE"></script><div class="js-destino" ></div>
-            <div Class="js-origen2" data-destino=".js-destino2" style="width:100%">
-                 <div id="taboola-below-article-thumbnails"></div>
-                 <script type="text/javascript">
-                    window._taboola = window._taboola || [];
-                    _taboola.push({
-                         mode:'alternating-thumbnails-a',
-                         container: 'taboola-below-article-thumbnails',
-                         placement: 'Below Article Thumbnails',
-                         target_type: 'mix'
-                        });
-                </script>
-             </div></div>
-    
-    <div class="rss"></div>
-
-                        
-    
-
-                        
-                    </div>
-                    <div class="four columns columna3" style="">
-                        
-                        <div id="colLateral">
-                            
-    <div  id='div-gpt-ad-1483461443105-1'>
-   <script type='text/javascript'>
-      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1483461443105-1'); });
-   </script>
-</div>
-
-
-                            
-    <div id="ctl00_ContenidoCentral3_ctl00_uhcontenedor" class="UltimaHoraScroll latam">
-    <div>
-        <div id="uhlabel">
-            <a href="/noticias-notimerica/" id="ctl00_ContenidoCentral3_ctl00_enlace_cabecera" title="Ultimas Noticias" onclick="trackEventGAFull(&#39;EP_ULTIMASNOTICIAS_portada&#39;, &#39;click&#39;, &#39;&#39;, 0)">Últimas noticias / <span class="uhlabel-seccion">Notimérica</span></a>
-
-        </div>
-    </div>
-    <div id="ListaUltimasNoticiasCol" class="content">
-        
-    </div>
-    <div class="closing">&nbsp;</div>
-</div>
-
-
-<script type="text/javascript">
-
-    getJSON('https://www.notimerica.com/ws/NOTICIAS_CANAL_JSON.ashx?servicio=LTLS&notipoinfo=COR&modocanal=0',
-        function (err, json) {
-            if (err !== null) {
-                console.log('Error al cargar ultima hora ' + err);
-            } else {
-
-                if (json !== null) {
-                    var ultimasNoticias = "<ul>";
-
-                    for (var i in json) {
-
-                        ultimasNoticias += "<li class='enlacenoticia'>";
-                        ultimasNoticias += "<span class='bullet_seccion latam'></span>";
-                        ultimasNoticias += "<div class='enlacenoticia_info'>";
-                        ultimasNoticias += json[i].DescripcionCanal;
-                        ultimasNoticias += "<a href='" + json[i].Link + "'  ><p class='enlacenoticia_titular'>" + json[i].Titular + "</p></a>";
-                        ultimasNoticias += "</div></li>";
-
-                    }
-
-                    ultimasNoticias += "</ul>";
-
-                    document.getElementById("ListaUltimasNoticiasCol").innerHTML = ultimasNoticias;
-
-                }
-
-            }
-        });
-</script>
-
-<div  id='div-gpt-ad-1483461443106-2'>
-   <script type='text/javascript'>
-      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1483461443106-2'); });
-   </script>
-</div>
-<div class="moduloMasleidas masleido_notimerica"><div class="CabeceraMasleido"><h3>Lo más leído</h3></div>
-<div class="tabMasLeidas-container">
-<ul class="tabsMasLeidasPortal">
-<li class="tabMasLeidasPortal tabMasLeidasPortal-activa"style="width:100%" onclick="trackEventGA('MasLeidas_Portal', 'click')" data-id="MasLeidasPortal_3_561_5"><a href="#">Sociedad</a></li>
-</ul>
-<div><div id="PortadaLateralFoto3" class="PortadaLateralFoto mCustomScrollbar"><ol id="ListaMasLeidas MasLeidas_0"><li class="masleidas"><span>1</span><a href="https://www.notimerica.com/sociedad/noticia-google-homenajea-doodle-seiichi-miyake-inventor-ayudo-mundo-discapacidad-visual-20190318090949.html" onclick="trackEventGAFull('MasLeidas_1_Sociedad', 'click', '', 0);"><p class="masleidastexto extrawidth">Google homenajea en su 'doodle' a Seiichi Miyake, el inventor que ayudó al mundo de la discapacidad visual</p></a></li>
-<li class="masleidas"><span>2</span><a href="https://www.notimerica.com/sociedad/noticia-21-marzo-dia-mundial-sindrome-down-celebra-hoy-20190321012934.html" onclick="trackEventGAFull('MasLeidas_2_Sociedad', 'click', '', 0);"><p class="masleidastexto extrawidth">21 de marzo: Día Mundial del Síndrome de Down, ¿por qué se celebra hoy?</p></a></li>
-<li class="masleidas"><span>3</span><a href="https://www.notimerica.com/sociedad/noticia-19-marzo-dia-hombre-colombia-motivo-celebra-hoy-20190319011433.html" onclick="trackEventGAFull('MasLeidas_3_Sociedad', 'click', '', 0);"><p class="masleidastexto extrawidth">19 de marzo: Día del Hombre en Colombia, ¿por qué motivo se celebra hoy?</p></a></li>
-<li class="masleidas"><span>4</span><a href="https://www.notimerica.com/sociedad/noticia-filtran-video-shakira-actriz-1994-ella-misma-quiso-hacer-desaparecer-internet-20190322143853.html" onclick="trackEventGAFull('MasLeidas_4_Sociedad', 'click', '', 0);"><p class="masleidastexto extrawidth">Filtran un vídeo de Shakira como actriz en 1994 que ella misma quiso hacer desaparecer de Internet</p></a></li>
-<li class="masleidas"><span>5</span><a href="https://www.notimerica.com/sociedad/noticia-hallan-muerto-disparo-perito-redacto-informe-avalaba-hipotesis-asesinato-nisman-20190318184617.html" onclick="trackEventGAFull('MasLeidas_5_Sociedad', 'click', '', 0);"><p class="masleidastexto extrawidth">Hallan muerto de un disparo al perito que redactó el informe que avalaba la hipótesis del asesinato de Nisman</p></a></li>
-</ol></div></div><ul class="tabsMasLeidas"><li class="tabMasLeidas tabMasLeidas-activa" onclick="trackEventGA('MasLeidas_Hoy', 'click')" data-id="MasLeidas_0"><a href="#">Hoy</a></li><li class="tabMasLeidas" onclick="trackEventGA('MasLeidas_UnaSemana', 'click')" data-id="MasLeidas_7"><a href="#">Una semana</a></li><li class="tabMasLeidas" onclick="trackEventGA('MasLeidas_UnMes', 'click')" data-id="MasLeidas_30"><a href="#">Un mes</a></li></ul>
-</div></div><div  style='margin:0.5em 0 0.5em 0;'  id='div-gpt-id-Adman_notimerica_300x250'>
-   <script type='text/javascript'>
-      googletag.cmd.push(function() { googletag.display('div-gpt-id-Adman_notimerica_300x250'); });
-   </script>
-</div><div class="bannerBajoMasLeido"><div class="wrapper-sticky"><div  class='aire_v'  id='div-gpt-ad-1483461443107-3'>
-   <script type='text/javascript'>
-      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1483461443107-3'); });
-   </script>
-</div>
-</div></div>
-
-                            
-    
-
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-
-
-                    
-    
-    
-    
-
-
-
-                </div>
-            </div>
-        </div>
-    </form>
-
-
-    <footer id="footer" role="contentinfo" class="footer notimerica">
-        <div class="row">
-            <div class="twelve columns">
-                
-
-
-
-
-
-
-
-    <div id="ctl00_Pie_2014_DivLogoDominio" class="DivLogo">
-        <div class="pieEuropa">
-            
-            <a href="https://www.notimerica.com" id="ctl00_Pie_2014_Logo_Pie_Notimerica" title="Logo Pie Notimérica"><span class="logo-dominio-texto primera">noti</span><span class="logo-dominio-texto segunda">mérica</span></a>
-            
-            
-            
-        </div>
-    </div>
-    <div class="bloquePie container">
-        
-
-        <ul id="ctl00_Pie_2014_Pie_Notimerica">
-            <li><a href="https://www.notimerica.com/acercade.html" title="Acerca de notimerica.com">Acerca de notimerica.com</a></li>
-            <li><a href="https://www.notimerica.com/avisolegal.html" title="Aviso legal">Aviso legal</a></li>
-            <li><a href="https://www.notimerica.com/politica-cookies.html" title="Política de cookies">Política de cookies</a></li>
-            <li><a href="https://www.notimerica.com/politica-privacidad.html" title="Política de privacidad">Política de privacidad</a></li>
-            <li><a rel="nofollow" href="https://play.google.com/store/newsstand/news/Europa_Press?id=CAowubafCQ" title="Kiosko Google Play Notimerica">Kiosko Google Play</a></li>
-            <li>
-                
-            </li>
-        </ul>
-
-        
-
-        
-
-        
-
-        
-
-        
-
-    </div>
-
-                
-
-<p class="pieCopyright copyright-notimerica">
-    © 2019 Notimérica. Está expresamente prohibida la redistribución y la redifusión de todo
-    o parte de los contenidos de esta web sin su previo y expreso consentimiento.
+	<h1 id="firstHeading" class="firstHeading" lang="en">Taza (Chiricahua leader)</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em;width:25.5em;border-spacing:2px;"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:#C3D6EF;"><div style="display:inline" class="fn">Tah-ze</div></th></tr><tr><td colspan="2" style="text-align:center;border-bottom: 1px solid #aaa;; line-height: 1.5em"><a href="/wiki/File:Chief_Taza_at_CC_no_QR.JPG" class="image"><img alt="Chief Taza at CC no QR.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chief_Taza_at_CC_no_QR.JPG/220px-Chief_Taza_at_CC_no_QR.JPG" decoding="async" width="220" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chief_Taza_at_CC_no_QR.JPG/330px-Chief_Taza_at_CC_no_QR.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chief_Taza_at_CC_no_QR.JPG/440px-Chief_Taza_at_CC_no_QR.JPG 2x" data-file-width="3195" data-file-height="4261" /></a><div style="font-size: 100%">Grave of Taza</div></td></tr><tr><th scope="row" style="padding-right: 1em">Born</th><td>c. 1843<br />Chiricahua country</td></tr><tr><th scope="row" style="padding-right: 1em">Died</th><td><span style="display:none">(<span class="dday deathdate">1876-09-26</span>)</span>September 26, 1876<br /><a href="/wiki/Washington_D.C." class="mw-redirect" title="Washington D.C.">Washington D.C.</a></td></tr><tr><th scope="row" style="padding-right: 1em">Allegiance</th><td>Chiricahua Apache Indians</td></tr><tr><th scope="row" style="padding-right: 1em">Years&#160;of service</th><td>1860–1876</td></tr><tr><th scope="row" style="padding-right: 1em">Rank</th><td>Chief or Leader of Chiricahua Apaches</td></tr><tr><th scope="row" style="padding-right: 1em">Battles/wars</th><td><a href="/wiki/Apache_Wars" title="Apache Wars">Apache Wars</a></td></tr><tr><th scope="row" style="padding-right: 1em">Relations</th><td><a href="/wiki/Cochise" title="Cochise">Cochise</a> (father)</td></tr></tbody></table>
+<p><b>Taza</b> (also <i>Tazi; Tazhe; Tah-ze; Tahzi; Tahzay; Tazhay</i>) (c. 1843 – 26 September 1876) was the son of <a href="/wiki/Cochise" title="Cochise">Cochise</a>, leader of the Chihuicahui local group of the Chokonen and principal chief of the Chokonen band of the <a href="/wiki/Chiricahua_Apache" class="mw-redirect" title="Chiricahua Apache">Chiricahua Apache</a> and his principal wife <a href="/w/index.php?title=Dos-teh-seh&amp;action=edit&amp;redlink=1" class="new" title="Dos-teh-seh (page does not exist)">Dos-teh-seh</a> (“Something-at-the-campfire-already-cooked”), the daughter of <a href="/wiki/Mangus_Coloradas" class="mw-redirect" title="Mangus Coloradas">Mangus Coloradas</a>, leader of the Copper Mines and last leader of the Mimbreños local groups of the Chihenne band and principal chief of the Chihenne band of the Chiricahua Apache.<sup id="cite_ref-Thrapp1991_1-0" class="reference"><a href="#cite_note-Thrapp1991-1">&#91;1&#93;</a></sup>
 </p>
-
-
-            </div>
-        </div>
-    </footer>
-
-   
-    
-    
-
-    
-        <script type="text/javascript">
-            var t = '//des.smartclip.net/ads?type=dyn&plc=92978&sz=400x320&elementId=intextsmartclip';
-            t += '&ref=' + encodeURIComponent(window.top.document.URL);
-            t += '&rnd=' + Math.round(Math.random() * 1e8);
-            var s = document.createElement('script');
-            s.type = 'text/javascript';
-            s.src = t;
-            document.body.appendChild(s);</script>
-    
-
-    
-
-
-
-
-
-    <script type="text/javascript"> window._taboola = window._taboola || []; _taboola.push({flush: true});</script>
-    <script type="text/javascript">
-        var entra = true;
-        var usagent = navigator.userAgent.toLowerCase();
-
-        $(".bannerBajoMasLeido").stick_in_parent({ parent: $(".row.flex"), offset_top: 80, spacer: '.wrapper-sticky' });
-
-
-    </script>
-
-
-
-
-
-
-
-
-    
-
-    <!--Código HTML de política de cookies -->
-    
-    <!-- Fin del código de cookies -->
-
-
-
-    <!-- ad6 -->
-    <div  id='div-gpt-id-Footer_Publi'>
-   <script type='text/javascript'>
-      googletag.cmd.push(function() { googletag.display('div-gpt-id-Footer_Publi'); });
-   </script>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Chief_Taza"><span class="tocnumber">1</span> <span class="toctext">Chief Taza</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Legacy"><span class="tocnumber">2</span> <span class="toctext">Legacy</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
 </div>
 
-    <!-- ad6 -->
+<h2><span class="mw-headline" id="Chief_Taza">Chief Taza</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza_(Chiricahua_leader)&amp;action=edit&amp;section=1" title="Edit section: Chief Taza">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Taza was the older full brother of <a href="/wiki/Naiche" title="Naiche">Naiche</a> (Natchez). Taza succeeded his father Cochise as chief of the Chiricahuas when the latter died in 1874, two years after the Chiricahua Reservation was established by General Howard.<sup id="cite_ref-Sweeney2012_2-0" class="reference"><a href="#cite_note-Sweeney2012-2">&#91;2&#93;</a></sup> In 1876 the tribe was removed from the Chiricahua reservation to San Carlos, and in September of the same year Taza was one of a delegation of Apaches taken to Washington D.C. for a visit. He fell ill in Washington and died there of pneumonia on September 26, 1876, after only about two years as chief.<sup id="cite_ref-Cozzens2016_3-0" class="reference"><a href="#cite_note-Cozzens2016-3">&#91;3&#93;</a></sup>
+</p><p>He is buried in <a href="/wiki/Congressional_Cemetery" title="Congressional Cemetery">Congressional Cemetery</a> Washington D.C.<sup id="cite_ref-Miles2014_4-0" class="reference"><a href="#cite_note-Miles2014-4">&#91;4&#93;</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Verifiability#Self-published_sources" title="Wikipedia:Verifiability"><span title="The material near this tag may rely on a self-published source. (December 2017)">self-published source</span></a></i>&#93;</sup> Taza’s mother Dos-teh-seh, his brother Naiche, and his half-sisters Dash-den-zhoos and Naithlotonz (Naiche-dos), lived through the prisoner-of-war period and went to Mescalero.<sup id="cite_ref-Robinson2003_5-0" class="reference"><a href="#cite_note-Robinson2003-5">&#91;5&#93;</a></sup>
+</p><p>It is unknown if a portrait of Taza was ever made; an alleged "photograph" of Taza was actually made of Native American named George Noche in 1886<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza_(Chiricahua_leader)&amp;action=edit&amp;section=2" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/1954_in_film" title="1954 in film">1954</a> film <i><a href="/wiki/Taza,_Son_of_Cochise" title="Taza, Son of Cochise">Taza, Son of Cochise</a></i> was directed by <a href="/wiki/Douglas_Sirk" title="Douglas Sirk">Douglas Sirk</a> and stars <a href="/wiki/Rock_Hudson" title="Rock Hudson">Rock Hudson</a> as Taza.<sup id="cite_ref-LeonardTasker2014_8-0" class="reference"><a href="#cite_note-LeonardTasker2014-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza_(Chiricahua_leader)&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Thrapp1991-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Thrapp1991_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Thrapp, Dan L. (1 June 1991). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=iXP58ROs8mgC&amp;pg=PA291"><i>Encyclopedia of Frontier Biography: A-F</i></a>. U of Nebraska Press. p.&#160;291. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8032-9418-2" title="Special:BookSources/0-8032-9418-2"><bdi>0-8032-9418-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+of+Frontier+Biography%3A+A-F&amp;rft.pages=291&amp;rft.pub=U+of+Nebraska+Press&amp;rft.date=1991-06-01&amp;rft.isbn=0-8032-9418-2&amp;rft.aulast=Thrapp&amp;rft.aufirst=Dan+L.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DiXP58ROs8mgC%26pg%3DPA291&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza+%28Chiricahua+leader%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Sweeney2012-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sweeney2012_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Sweeney, Edwin R. (21 November 2012). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=MU-K3qxXSD4C&amp;pg=PA395"><i>Cochise: Chiricahua Apache Chief</i></a>. University of Oklahoma Press. p.&#160;395. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8061-7156-2" title="Special:BookSources/978-0-8061-7156-2"><bdi>978-0-8061-7156-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cochise%3A+Chiricahua+Apache+Chief&amp;rft.pages=395&amp;rft.pub=University+of+Oklahoma+Press&amp;rft.date=2012-11-21&amp;rft.isbn=978-0-8061-7156-2&amp;rft.aulast=Sweeney&amp;rft.aufirst=Edwin+R.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DMU-K3qxXSD4C%26pg%3DPA395&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza+%28Chiricahua+leader%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Cozzens2016-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cozzens2016_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Cozzens, Peter (25 October 2016). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=JdsiDQAAQBAJ&amp;pg=PA382"><i>The Earth Is Weeping: The Indian Wars for the American West, 1866-1891</i></a>. Knopf Doubleday Publishing Group. p.&#160;382. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-307-95804-4" title="Special:BookSources/978-0-307-95804-4"><bdi>978-0-307-95804-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Earth+Is+Weeping%3A+The+Indian+Wars+for+the+American+West%2C+1866-1891&amp;rft.pages=382&amp;rft.pub=Knopf+Doubleday+Publishing+Group&amp;rft.date=2016-10-25&amp;rft.isbn=978-0-307-95804-4&amp;rft.aulast=Cozzens&amp;rft.aufirst=Peter&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DJdsiDQAAQBAJ%26pg%3DPA382&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza+%28Chiricahua+leader%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Miles2014-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Miles2014_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Miles, Robert A. (16 January 2014). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=qoHPAgAAQBAJ&amp;pg=PT129"><i>A Growing Nation</i></a>. Xlibris Corporation. pp.&#160;129–130. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4836-3575-0" title="Special:BookSources/978-1-4836-3575-0"><bdi>978-1-4836-3575-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Growing+Nation&amp;rft.pages=129-130&amp;rft.pub=Xlibris+Corporation&amp;rft.date=2014-01-16&amp;rft.isbn=978-1-4836-3575-0&amp;rft.aulast=Miles&amp;rft.aufirst=Robert+A.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DqoHPAgAAQBAJ%26pg%3DPT129&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza+%28Chiricahua+leader%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Robinson2003-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Robinson2003_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Robinson, Sherry (January 2003). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=t8VIryIK7dMC&amp;pg=PA62"><i>Apache Voices: Their Stories of Survival as Told to Eve Ball</i></a>. UNM Press. p.&#160;62. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8263-2163-3" title="Special:BookSources/978-0-8263-2163-3"><bdi>978-0-8263-2163-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Apache+Voices%3A+Their+Stories+of+Survival+as+Told+to+Eve+Ball&amp;rft.pages=62&amp;rft.pub=UNM+Press&amp;rft.date=2003-01&amp;rft.isbn=978-0-8263-2163-3&amp;rft.aulast=Robinson&amp;rft.aufirst=Sherry&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dt8VIryIK7dMC%26pg%3DPA62&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza+%28Chiricahua+leader%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://indiancountrytodaymedianetwork.com/2016/10/12/really-legendary-cochise-166067">Indian Country Today Oct 12, 2016</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://collections.si.edu/search/results.htm?q=record_ID%3Asiris_arc_12634&amp;repo=DPLA">Smithsonian Institution Record website (reference only)</a></span>
+</li>
+<li id="cite_note-LeonardTasker2014-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-LeonardTasker2014_8-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Leonard, Suzanne; Tasker, Yvonne (20 November 2014). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=d0KLBQAAQBAJ&amp;pg=PT278"><i>Fifty Hollywood Directors</i></a>. Taylor &amp; Francis. p.&#160;278. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-317-59393-5" title="Special:BookSources/978-1-317-59393-5"><bdi>978-1-317-59393-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fifty+Hollywood+Directors&amp;rft.pages=278&amp;rft.pub=Taylor+%26+Francis&amp;rft.date=2014-11-20&amp;rft.isbn=978-1-317-59393-5&amp;rft.aulast=Leonard&amp;rft.aufirst=Suzanne&amp;rft.au=Tasker%2C+Yvonne&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dd0KLBQAAQBAJ%26pg%3DPT278&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza+%28Chiricahua+leader%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza_(Chiricahua_leader)&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.findagrave.com/memorial/1561">"Taza"</a>. <a href="/wiki/Find_a_Grave" title="Find a Grave">Find a Grave</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-05-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Taza&amp;rft.pub=Find+a+Grave&amp;rft_id=https%3A%2F%2Fwww.findagrave.com%2Fmemorial%2F1561&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza+%28Chiricahua+leader%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20190427053040
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.300 seconds
+Real time usage: 0.413 seconds
+Preprocessor visited node count: 1143/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 20435/2097152 bytes
+Template argument size: 1309/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 21390/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.180/10.000 seconds
+Lua memory usage: 4.05 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  388.318      1 -total
+ 34.84%  135.302      1 Template:Infobox_military_person
+ 34.31%  133.248      6 Template:Cite_book
+ 30.42%  118.135      1 Template:Infobox
+ 16.99%   65.962      3 Template:Br_separated_entries
+ 14.70%   57.069      1 Template:Self-published_inline
+ 13.75%   53.398      1 Template:Death_date
+ 13.00%   50.492      1 Template:Fix
+ 11.18%   43.419      1 Template:Find_a_Grave
+  8.56%   33.222      1 Template:Category_handler
+-->
 
-    <!-- Inboard Teads -->
-    
-    <!-- Inboard Teads -->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3701774-0!canonical and timestamp 20190427053040 and revision id 817373194
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Taza_(Chiricahua_leader)&amp;oldid=817373194">https://en.wikipedia.org/w/index.php?title=Taza_(Chiricahua_leader)&amp;oldid=817373194</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1840s_births" title="Category:1840s births">1840s births</a></li><li><a href="/wiki/Category:1876_deaths" title="Category:1876 deaths">1876 deaths</a></li><li><a href="/wiki/Category:Apache_people" title="Category:Apache people">Apache people</a></li><li><a href="/wiki/Category:Burials_at_the_Congressional_Cemetery" title="Category:Burials at the Congressional Cemetery">Burials at the Congressional Cemetery</a></li><li><a href="/wiki/Category:Chiricahua" title="Category:Chiricahua">Chiricahua</a></li><li><a href="/wiki/Category:Native_American_leaders" title="Category:Native American leaders">Native American leaders</a></li><li><a href="/wiki/Category:Deaths_from_pneumonia" title="Category:Deaths from pneumonia">Deaths from pneumonia</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_infobox_military_person_with_unknown_parameters" title="Category:Pages using infobox military person with unknown parameters">Pages using infobox military person with unknown parameters</a></li><li><a href="/wiki/Category:All_articles_with_self-published_sources" title="Category:All articles with self-published sources">All articles with self-published sources</a></li><li><a href="/wiki/Category:Articles_with_self-published_sources_from_December_2017" title="Category:Articles with self-published sources from December 2017">Articles with self-published sources from December 2017</a></li><li><a href="/wiki/Category:Find_a_Grave_template_with_ID_same_as_Wikidata" title="Category:Find a Grave template with ID same as Wikidata">Find a Grave template with ID same as Wikidata</a></li><li><a href="/wiki/Category:Year_of_birth_uncertain" title="Category:Year of birth uncertain">Year of birth uncertain</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
 
-   
-    <!-- Facebook Pixel Code -->
-    <script type="text/javascript">
-        !function (f, b, e, v, n, t, s) {
-            if (f.fbq) return; n = f.fbq = function () {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            }; if (!f._fbq) f._fbq = n;
-            n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
-            t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
-        }(window,
-            document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Taza+%28Chiricahua+leader%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Taza+%28Chiricahua+leader%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Taza_(Chiricahua_leader)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Taza_(Chiricahua_leader)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Taza_(Chiricahua_leader)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Taza_(Chiricahua_leader)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Taza_(Chiricahua_leader)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Taza_(Chiricahua_leader)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Taza_(Chiricahua_leader)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Taza_(Chiricahua_leader)&amp;oldid=817373194" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Taza_(Chiricahua_leader)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4896706" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Taza_%28Chiricahua_leader%29&amp;id=817373194" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Taza+%28Chiricahua+leader%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Taza+%28Chiricahua+leader%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Taza_(Chiricahua_leader)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Taza_(cabdill_apatxe)" title="Taza (cabdill apatxe) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Taza_(chef_chiricahua)" title="Taza (chef chiricahua) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Taza_(apa%C4%8Diai)" title="Taza (apačiai) – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Taza_(intiaanip%C3%A4%C3%A4llikk%C3%B6)" title="Taza (intiaanipäällikkö) – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4896706#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 December 2017, at 23:45<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Taza_(Chiricahua_leader)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
 
-        fbq('init', '1748569405419693');
-        fbq('track', "PageView");</script>
-    <noscript>
-        <img height="1" width="1" style="display: none" src="https://www.facebook.com/tr?id=1748569405419693&ev=PageView&noscript=1" />
-    </noscript>
-    <!-- End Facebook Pixel Code -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"0.413","ppvisitednodes":{"value":1143,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":20435,"limit":2097152},"templateargumentsize":{"value":1309,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21390,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  388.318      1 -total"," 34.84%  135.302      1 Template:Infobox_military_person"," 34.31%  133.248      6 Template:Cite_book"," 30.42%  118.135      1 Template:Infobox"," 16.99%   65.962      3 Template:Br_separated_entries"," 14.70%   57.069      1 Template:Self-published_inline"," 13.75%   53.398      1 Template:Death_date"," 13.00%   50.492      1 Template:Fix"," 11.18%   43.419      1 Template:Find_a_Grave","  8.56%   33.222      1 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.180","limit":"10.000"},"limitreport-memusage":{"value":4245071,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20190427053040","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Taza (Chiricahua leader)","url":"https:\/\/en.wikipedia.org\/wiki\/Taza_(Chiricahua_leader)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4896706","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4896706","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-12T22:05:41Z","dateModified":"2017-12-27T23:45:55Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6b\/Chief_Taza_at_CC_no_QR.JPG","headline":"Apache chief"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":529,"wgHostname":"mw1248"});});</script>
 </body>
 </html>

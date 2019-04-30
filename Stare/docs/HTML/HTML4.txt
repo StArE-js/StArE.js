@@ -1,345 +1,553 @@
 <!DOCTYPE html>
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<html class="client-nojs" lang="en" dir="ltr">
 <head>
-    <!-- Basic Page Needs
-    	================================================== -->
-    	<meta charset="utf-8">
-    	<title>La Vaquita Supermercados</title>
-    	<meta name="description" content="Encuentra en todas nuestras sedes variedad y frescura con la mejor calidad en carnes, frutas y verduras. Siempre con el precio más bajo en todo el mercado.">
-    	<meta name="keywords" content="supermercado, la vaquita">
-    	<meta name="author" content="">
-    <!-- Mobile Specific Metas
-    	================================================== -->
-    	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    	<meta http-equiv="x-ua-compatible" content="IE=9">
-    	<!-- Font Awesome -->
-    	<link href="stylesheets/fontawesome/css/font-awesome.css" rel="stylesheet">
-    	<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
-    <!--[if lt IE 9]>
-      <script src="js/html5shiv.js"></script>
-      <script src="js/respond.min.js"></script>
-  <![endif]-->
-  <!--headerIncludes-->
-    <!-- CSS
-    	================================================== -->
-    	<link rel="stylesheet" href="stylesheets/menu.css">
-    	<link rel="stylesheet" href="stylesheets/flat-ui-slider.css">
-    	<link rel="stylesheet" href="stylesheets/base.css">
-    	<link rel="stylesheet" href="stylesheets/skeleton.css">
-    	<link rel="stylesheet" href="stylesheets/landings.css">
-    	<link rel="stylesheet" href="stylesheets/main.css">
-    	<link rel="stylesheet" href="stylesheets/landings_layouts.css">
-    	<link rel="stylesheet" href="stylesheets/box.css">
-        <link rel="stylesheet" href="stylesheets/pixicon.css">
-    	<link href="assets/css/animations.min.css" rel="stylesheet" type="text/css" media="all" />
+<meta charset="UTF-8"/>
+<title>Taza - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Taza","wgTitle":"Taza","wgCurRevisionId":880226899,"wgRevisionId":880226899,"wgArticleId":1923972,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Arabic-language sources (ar)","CS1 French-language sources (fr)","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","CS1 maint: Extra text: authors list","Articles with short description","Coordinates on Wikidata","Biosphere reserves of Morocco","Populated places in Taza Province","Cities in Morocco","Provincial capitals in Morocco"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Taza","wgRelevantArticleId":1923972,"wgRequestId":"XMeAMApAICIAALwEBmwAAABA","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCoordinates":{"lat":34.216666666667,"lon":-4.0166666666667},"wgWikibaseItemId":"Q574469","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.1"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Taza_-_Maroc.jpg/1200px-Taza_-_Maroc.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Taza"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Taza&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Taza&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Taza"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=qqx&amp;modules=html5shiv&amp;only=scripts&amp;skin=fallback&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Taza rootpage-Taza skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-    <!-- Favicons
-    	================================================== -->
-    	<link rel="shortcut icon" href="images/favicon.ico">
-    	<link rel="apple-touch-icon" href="images/favicon-32x32.png">
-    	<link rel="apple-touch-icon" sizes="32x32" href="images/favicon-32x32.png">
-    	<link rel="apple-touch-icon" sizes="192x192" href="images/android-chrome-192x192.png">
+	<h1 id="firstHeading" class="firstHeading" lang="en">Taza</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the Apache Indian, see <a href="/wiki/Chief_Taza" class="mw-redirect" title="Chief Taza">Chief Taza</a>. For the  national park in Algeria, see <a href="/wiki/Taza_National_Park" title="Taza National Park">Taza National Park</a>.</div>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Place in Fès-Meknès, Morocco</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div style="display:inline" class="fn org">Taza</div><br /><div class="nickname" style="font-weight:normal;display:inline;">تازة<br />ⵜⴰⵣⴰ</div></th></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><div style="background-color:transparent;border-collapse:collapse;border:0px solid black;width:275px;display:table;margin-left: auto; margin-right: auto;"><div style="display:table-row"><div style="display:table-cell;border-top:0;padding:2px 0 0 2px"><div style="display:table;background-color:transparent;border-collapse:collapse"><div style="display:table-row"><div style="display:table-cell;border-top:0;padding:0 2px 2px 0"><a href="/wiki/File:Taza_-_Maroc.jpg" class="image"><img alt="Taza - Maroc.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Taza_-_Maroc.jpg/275px-Taza_-_Maroc.jpg" decoding="async" width="275" height="184" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Taza_-_Maroc.jpg/413px-Taza_-_Maroc.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Taza_-_Maroc.jpg/550px-Taza_-_Maroc.jpg 2x" data-file-width="2560" data-file-height="1712" /></a></div></div></div><div style="display:table;background-color:transparent;border-collapse:collapse"><div style="display:table-row"><div style="display:table-cell;border-top:0;padding:0 2px 2px 0"><a href="/wiki/File:Photo-Taza.jpg" class="image"><img alt="Photo-Taza.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Photo-Taza.jpg/136px-Photo-Taza.jpg" decoding="async" width="136" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Photo-Taza.jpg/204px-Photo-Taza.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Photo-Taza.jpg/272px-Photo-Taza.jpg 2x" data-file-width="1286" data-file-height="878" /></a></div><div style="display:table-cell;border-top:0;padding:0 2px 2px 0"><a href="/wiki/File:Taza_town.jpg" class="image"><img alt="Taza town.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Taza_town.jpg/136px-Taza_town.jpg" decoding="async" width="136" height="102" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Taza_town.jpg/204px-Taza_town.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Taza_town.jpg/272px-Taza_town.jpg 2x" data-file-width="1600" data-file-height="1200" /></a></div></div></div><div style="display:table;background-color:transparent;border-collapse:collapse"><div style="display:table-row"><div style="display:table-cell;border-top:0;padding:0 2px 2px 0"><a href="/wiki/File:Rass_El_Ma.jpg" class="image"><img alt="Rass El Ma.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rass_El_Ma.jpg/275px-Rass_El_Ma.jpg" decoding="async" width="275" height="155" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rass_El_Ma.jpg/413px-Rass_El_Ma.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rass_El_Ma.jpg/550px-Rass_El_Ma.jpg 2x" data-file-width="5312" data-file-height="2988" /></a></div></div></div></div></div></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><div class="center"><div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:250px;padding:0"><div style="position:relative;width:250px"><a href="/wiki/File:Morocco_location_map.svg" class="image" title="Taza is located in Morocco"><img alt="Taza is located in Morocco" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Morocco_location_map.svg/250px-Morocco_location_map.svg.png" decoding="async" width="250" height="203" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Morocco_location_map.svg/375px-Morocco_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Morocco_location_map.svg/500px-Morocco_location_map.svg.png 2x" data-file-width="1223" data-file-height="995" /></a><div style="position:absolute;top:22.715%;left:73.614%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Taza" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Taza" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:4px;left:-3em;text-align:center"><div style="display:inline;padding:1px">Taza</div></div></div></div><div></div></div></div></div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Taza&amp;params=34_13_N_4_1_W_region:MA_type:city(148456)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">34°13′N</span> <span class="longitude">4°1′W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">34.217°N 4.017°W</span><span style="display:none">&#xfeff; / <span class="geo">34.217; -4.017</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Taza&amp;params=34_13_N_4_1_W_region:MA_type:city(148456)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">34°13′N</span> <span class="longitude">4°1′W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">34.217°N 4.017°W</span><span style="display:none">&#xfeff; / <span class="geo">34.217; -4.017</span></span></span></a></span></span></span></td></tr><tr class="mergedtoprow"><th scope="row">Country</th><td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Morocco" title="Morocco">Morocco</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Regions_of_Morocco" title="Regions of Morocco">Region</a></th><td><a href="/wiki/F%C3%A8s-Mekn%C3%A8s" title="Fès-Meknès">Fès-Meknès</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Provinces_of_Morocco" class="mw-redirect" title="Provinces of Morocco">Province</a></th><td><a href="/wiki/Taza_Province" title="Taza Province">Taza</a></td></tr><tr class="mergedtoprow"><th scope="row">Elevation<div style="font-weight:normal;display:inline;"><sup id="cite_ref-HKO_1-0" class="reference"><a href="#cite_note-HKO-1">&#91;1&#93;</a></sup></div></th><td>510&#160;m (1,670&#160;ft)</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population <div style="font-weight:normal;display:inline;">(2014)<sup id="cite_ref-census2014_2-0" class="reference"><a href="#cite_note-census2014-2">&#91;2&#93;</a></sup></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>148,456</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Rank</th><td><a href="/wiki/List_of_cities_in_Morocco" title="List of cities in Morocco">21st in Morocco</a></td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td><a href="/wiki/UTC%2B1" class="mw-redirect" title="UTC+1">UTC+1</a> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td></tr></tbody></table>
+<p><b>Taza</b> (<a href="/wiki/Berber_language" class="mw-redirect" title="Berber language">Berber</a>: ⵜⴰⵣⴰ, Taza, in <a href="/wiki/Arabic" title="Arabic">Arabic</a>: تازة) is a city in northern <a href="/wiki/Morocco" title="Morocco">Morocco</a>, which occupies the corridor between the <a href="/wiki/Rif" title="Rif">Rif</a> mountains and Middle Atlas mountains, about 120&#160;km east of <a href="/wiki/Fez,_Morocco" title="Fez, Morocco">Fez</a> and 210&#160;km west of <a href="/wiki/Oujda" title="Oujda">Oujda</a>. It recorded a population of 148,456 in the <a href="/wiki/2014_Moroccan_census" title="2014 Moroccan census">2014 Moroccan census</a><sup id="cite_ref-census2014_2-1" class="reference"><a href="#cite_note-census2014-2">&#91;2&#93;</a></sup> and is the capital of <a href="/wiki/Taza_Province" title="Taza Province">Taza Province</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Climate"><span class="tocnumber">3</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Sights"><span class="tocnumber">4</span> <span class="toctext">Sights</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Topology"><span class="tocnumber">5</span> <span class="toctext">Topology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108652392-1"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Historically Taza was known first as ' <i>Ribāt Taza رباط تازة '</i> , a military camp belongs to the <a href="/wiki/Fatimid" class="mw-redirect" title="Fatimid">Fatimid</a> state , was founded by the local governor <i>Mussa ibn aby Alaâfiya موسى بن أبي العافية </i> who was the leader of <a href="/wiki/Miknasa" title="Miknasa">Miknassa</a> tribe <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> too. Up to at least the early 20th century, Taza was considerable trading centre on the route between Fez and the Algerian frontier.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza&amp;action=edit&amp;section=2" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Taza is located in north-central Morocco, in the south of the <a href="/wiki/Rif" title="Rif">Rif</a> region right outside the mountain range on a narrow plain. The city is composed of two formerly separate towns built on separate terraces overlooking a mountain valley. The old-Taza town is at an elevation of 1,919 feet (585 m) above sea level and is surrounded by fortifications; the newer town, established by the French in 1920, is located in a fertile plain at an elevation of 1,460 feet (445 m). <a href="/wiki/Fossil" title="Fossil">Fossil</a> remains indicate that caves in the area were inhabited as early as the <a href="/wiki/Paleolithic_Period" class="mw-redirect" title="Paleolithic Period">Paleolithic Period</a>. One of the most important caves in Morocco, <a href="/w/index.php?title=Rhar_Chara&amp;action=edit&amp;redlink=1" class="new" title="Rhar Chara (page does not exist)">Rhar Chara</a>, is close to Taza. This cave is over 7.6 kilometres long.<sup id="cite_ref-gunn_5-0" class="reference"><a href="#cite_note-gunn-5">&#91;5&#93;</a></sup>
+</p><p>The city is located in a mountain pass known as the "Taza Gap", where the Rif mountains and the Middle-Atlas range come together. Through this pass successive waves of invaders moved westward onto the Atlantic coastal plains of northwestern Africa. Taza was first settled by <a href="/wiki/Miknasa" title="Miknasa">Miknasa</a> tribesmen, who gave it its name: <i>Miknasa Taza</i>, similar to <i>Miknasa al-Zeitoun</i> (present-day <a href="/wiki/Meknes" title="Meknes">Meknes</a>, another Miknasa settlement). The <a href="/wiki/Almoravid_dynasty" title="Almoravid dynasty">Almoravid</a> empire took over Taza in 1074. They were replaced by the <a href="/wiki/Almohad_dynasty" class="mw-redirect" title="Almohad dynasty">Almohad</a> empire in 1132. In 1248 the city was captured by the <a href="/wiki/Marinid_dynasty" title="Marinid dynasty">Marinids</a>. Although Taza barred the route of Turks from <a href="/wiki/Algiers" title="Algiers">Algiers</a> seeking conquest in what is now <a href="/wiki/Morocco" title="Morocco">Morocco</a>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> it fell to the French in 1914. The old town has barbican monuments, mosques, and a 14th-century <a href="/w/index.php?title=Mderasa&amp;action=edit&amp;redlink=1" class="new" title="Mderasa (page does not exist)">mderasa</a> (Coranic school). Population in 1982 stood at 77,216. Population now estimated about 300,000.
+</p>
+<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza&amp;action=edit&amp;section=3" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/K%C3%B6ppen-Geiger_climate_classification_system" class="mw-redirect" title="Köppen-Geiger climate classification system">Köppen-Geiger climate classification system</a> classifies its climate as <a href="/wiki/Hot-summer_Mediterranean_climate" class="mw-redirect" title="Hot-summer Mediterranean climate">hot-summer Mediterranean</a> (Csa).<sup id="cite_ref-Climate-Data.org_7-0" class="reference"><a href="#cite_note-Climate-Data.org-7">&#91;7&#93;</a></sup> Located along the Atlas Mountains, Taza has a seasonal climate, shifting from cool in winter to hot days in the summer months. Rainfall can reach up to 900&#160;mm per year.
+</p>
+<div>
+<table class="wikitable collapsible" style="width:100%; text-align:center; line-height: 1.2em; margin:auto;">
 
-          gtag('config', 'UA-108652392-1');
-        </script>
+<tbody><tr>
+<th colspan="14">Climate data for Taza, Morocco (1961-1990)
+</th></tr>
+<tr>
+<th scope="row">Month
+</th>
+<th scope="col">Jan
+</th>
+<th scope="col">Feb
+</th>
+<th scope="col">Mar
+</th>
+<th scope="col">Apr
+</th>
+<th scope="col">May
+</th>
+<th scope="col">Jun
+</th>
+<th scope="col">Jul
+</th>
+<th scope="col">Aug
+</th>
+<th scope="col">Sep
+</th>
+<th scope="col">Oct
+</th>
+<th scope="col">Nov
+</th>
+<th scope="col">Dec
+</th>
+<th scope="col" style="border-left-width:medium">Year
+</th></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average high °C (°F)
+</th>
+<td style="background: #FFBA76; color:#000000;">14.4<br />(57.9)
+</td>
+<td style="background: #FFAF60; color:#000000;">16.0<br />(60.8)
+</td>
+<td style="background: #FFA143; color:#000000;">18.1<br />(64.6)
+</td>
+<td style="background: #FF942A; color:#000000;">19.9<br />(67.8)
+</td>
+<td style="background: #FF7600; color:#000000;">24.3<br />(75.7)
+</td>
+<td style="background: #FF5300; color:#000000;">29.4<br />(84.9)
+</td>
+<td style="background: #FF2D00; color:#000000;">34.9<br />(94.8)
+</td>
+<td style="background: #FF2E00; color:#000000;">34.7<br />(94.5)
+</td>
+<td style="background: #FF4B00; color:#000000;">30.6<br />(87.1)
+</td>
+<td style="background: #FF7700; color:#000000;">24.2<br />(75.6)
+</td>
+<td style="background: #FF9E3E; color:#000000;">18.5<br />(65.3)
+</td>
+<td style="background: #FFB872; color:#000000;">14.7<br />(58.5)
+</td>
+<td style="background: #FF7D00; color:#000000; border-left-width:medium">23.3<br />(73.9)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Daily mean °C (°F)
+</th>
+<td style="background: #FFD9B4; color:#000000;">9.9<br />(49.8)
+</td>
+<td style="background: #FFD0A1; color:#000000;">11.3<br />(52.3)
+</td>
+<td style="background: #FFC489; color:#000000;">13.0<br />(55.4)
+</td>
+<td style="background: #FFB872; color:#000000;">14.7<br />(58.5)
+</td>
+<td style="background: #FF9F3F; color:#000000;">18.4<br />(65.1)
+</td>
+<td style="background: #FF8104; color:#000000;">22.7<br />(72.9)
+</td>
+<td style="background: #FF6200; color:#000000;">27.2<br />(81.0)
+</td>
+<td style="background: #FF6100; color:#000000;">27.3<br />(81.1)
+</td>
+<td style="background: #FF7700; color:#000000;">24.1<br />(75.4)
+</td>
+<td style="background: #FF9C39; color:#000000;">18.8<br />(65.8)
+</td>
+<td style="background: #FFBE7E; color:#000000;">13.8<br />(56.8)
+</td>
+<td style="background: #FFD6AD; color:#000000;">10.4<br />(50.7)
+</td>
+<td style="background: #FFA44A; color:#000000; border-left-width:medium">17.6<br />(63.7)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average low °C (°F)
+</th>
+<td style="background: #FFF8F2; color:#000000;">5.4<br />(41.7)
+</td>
+<td style="background: #FFF0E2; color:#000000;">6.6<br />(43.9)
+</td>
+<td style="background: #FFE7D0; color:#000000;">7.9<br />(46.2)
+</td>
+<td style="background: #FFDBB8; color:#000000;">9.6<br />(49.3)
+</td>
+<td style="background: #FFC892; color:#000000;">12.4<br />(54.3)
+</td>
+<td style="background: #FFAF5F; color:#000000;">16.1<br />(61.0)
+</td>
+<td style="background: #FF962E; color:#000000;">19.6<br />(67.3)
+</td>
+<td style="background: #FF942A; color:#000000;">19.9<br />(67.8)
+</td>
+<td style="background: #FFA54B; color:#000000;">17.5<br />(63.5)
+</td>
+<td style="background: #FFC184; color:#000000;">13.4<br />(56.1)
+</td>
+<td style="background: #FFDFBF; color:#000000;">9.1<br />(48.4)
+</td>
+<td style="background: #FFF3E8; color:#000000;">6.1<br />(43.0)
+</td>
+<td style="background: #FFCB97; color:#000000; border-left-width:medium">12.0<br />(53.6)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> mm (inches)
+</th>
+<td style="background: #5BFF5B; color:#000000;">109.7<br />(4.32)
+</td>
+<td style="background: #1EFF1E; color:#000000;">137.3<br />(5.41)
+</td>
+<td style="background: #78FF78; color:#000000;">90.4<br />(3.56)
+</td>
+<td style="background: #6DFF6D; color:#000000;">94.2<br />(3.71)
+</td>
+<td style="background: #AEFFAE; color:#000000;">53.8<br />(2.12)
+</td>
+<td style="background: #E2FFE2; color:#000000;">18.6<br />(0.73)
+</td>
+<td style="background: #F2FFF2; color:#000000;">8.3<br />(0.33)
+</td>
+<td style="background: #FBFFFB; color:#000000;">2.6<br />(0.10)
+</td>
+<td style="background: #E9FFE9; color:#000000;">14.0<br />(0.55)
+</td>
+<td style="background: #B7FFB7; color:#000000;">48.0<br />(1.89)
+</td>
+<td style="background: #5DFF5D; color:#000000;">105.1<br />(4.14)
+</td>
+<td style="background: #4EFF4E; color:#000000;">118.7<br />(4.67)
+</td>
+<td style="background: #99FF99; color:#000000; border-left-width:medium">800.7<br />(31.52)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average rainy days
+</th>
+<td style="background: #6C6CFF; color:#000000;">11.9
+</td>
+<td style="background: #4E4EFF; color:#FFFFFF;">13.0
+</td>
+<td style="background: #7A7AFF; color:#000000;">10.7
+</td>
+<td style="background: #6C6CFF; color:#000000;">11.5
+</td>
+<td style="background: #8F8FFF; color:#000000;">9.0
+</td>
+<td style="background: #C8C8FF; color:#000000;">4.3
+</td>
+<td style="background: #E8E8FF; color:#000000;">1.8
+</td>
+<td style="background: #EBEBFF; color:#000000;">1.6
+</td>
+<td style="background: #C9C9FF; color:#000000;">4.2
+</td>
+<td style="background: #9C9CFF; color:#000000;">8.0
+</td>
+<td style="background: #6E6EFF; color:#000000;">11.3
+</td>
+<td style="background: #6969FF; color:#000000;">12.1
+</td>
+<td style="background: #9696FF; color:#000000; border-left-width:medium">99.4
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Mean monthly <a href="/wiki/Sunshine_duration" title="Sunshine duration">sunshine hours</a>
+</th>
+<td style="background: #D5D500; color:#000000;">192.0
+</td>
+<td style="background: #D8D800; color:#000000;">186.3
+</td>
+<td style="background: #DEDE00; color:#000000;">230.2
+</td>
+<td style="background: #E3E300; color:#000000;">244.1
+</td>
+<td style="background: #ECEC07; color:#000000;">292.2
+</td>
+<td style="background: #F2F215; color:#000000;">307.7
+</td>
+<td style="background: #F9F925; color:#000000;">346.9
+</td>
+<td style="background: #F2F215; color:#000000;">318.6
+</td>
+<td style="background: #E9E900; color:#000000;">270.6
+</td>
+<td style="background: #DFDF00; color:#000000;">233.7
+</td>
+<td style="background: #D6D600; color:#000000;">188.3
+</td>
+<td style="background: #D4D400; color:#000000;">185.0
+</td>
+<td style="background: #E4E400; color:#000000; border-left-width:medium">2,995.6
+</td></tr>
+<tr>
+<td colspan="14" style="text-align:center;font-size:95%;">Source #1: NOAA<sup id="cite_ref-NOAA_8-0" class="reference"><a href="#cite_note-NOAA-8">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<td colspan="14" style="text-align:center;font-size:95%;">Source #2: <i>Climate-Data.org</i><sup id="cite_ref-Climate-Data.org_7-1" class="reference"><a href="#cite_note-Climate-Data.org-7">&#91;7&#93;</a></sup>
+</td></tr></tbody></table>
+</div>
+<h2><span class="mw-headline" id="Sights">Sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza&amp;action=edit&amp;section=4" title="Edit section: Sights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The old town's main thoroughfare is enlivened by the Grain Market and the <a href="/wiki/Souk" class="mw-redirect" title="Souk">Souks</a> where wickerwork, tapestries, jewelry, ... The road terminates at a square doubling as a parade ground which sports the Al-Andalous Mosque. The Mosque's minaret, constructed in the 14th century, is wider at the top than at its base.
+Bab el-Qebbour Street crosses the Kissaria (covered marketplace), then leads on to the Market Mosque where it meets up with Bab Jamaa gate, the main point of entry of Taza. Somewhat further south, across from Bab el-Rih, the Wind Gate, a bastion dating from the 16th century closes the ring around the <a href="/wiki/Kasbah" title="Kasbah">kasbah</a>. Taza's city walls, raised in the 12th century and frequently enlarged on later occasions were equipped with a Borj or fortified tower 26 metres (85&#160;ft) wide at the base by the  <a href="/wiki/Saadi_dynasty" title="Saadi dynasty">Saadi</a> <a href="/wiki/Ahmad_I_al-Mansur_Saadi" class="mw-redirect" title="Ahmad I al-Mansur Saadi">Ahmed el-Mansour</a> in the 16th century. The gate with  iron grate and the <a href="/wiki/Casemate" title="Casemate">casemates</a> with terraced roofs are clearly influenced by European military architecture of the time.
+</p>
+<h2><span class="mw-headline" id="Topology">Topology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza&amp;action=edit&amp;section=5" title="Edit section: Topology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The topology of the area has imposed a pattern of urban spread. Viewed from above, the city takes the form of a "T". It has its root in Taza high and stretches north to reach the bed of the Oued Larbaâ. Since the urban stretches east and west along the N6 between Fez and Oujda.
+</p><p>At the dawn of independence, the city consisted of the Medina High Taza, the European district occupying almost hill called "No Adrar Illouz. People usually pronounce Draâ louz. This area became the center of town, and finally the station area a few kilometers below.
+</p><p>During the following years (60s, 70s) districts have emerged, midway between downtown and the train station (Bit Goulem, Ourida, Bin-Jradi).
+</p><p>During the 80s, other districts make their appearance, especially north of the city (and Massira Al-Quds), extended and developed areas today. The goal of this extension was the <a href="/wiki/Slum_clearance" title="Slum clearance">slum clearance</a>. It was a success, since 1986 the city was declared a city without slums. The craze is such that sections like (Massira II) are villa style.
+</p><p>The 90s marked the beginning of the urbanization of the axis center - Taza above. These are buildings with 6 or 7 floors occupying a strategic content between public facilities (municipality, space, civil protection, hospital ibn baja, high school and college ...) and on the other hand, it is down the high rock a hundred yards. This area is also adjacent to the uptown-Qessou meddah, Friouato and Hay Shuhada (developed throughout the last three decades).
+</p><p>More recently this area continues to morph and promises a beautiful view from the heights of the city. The planning now also spread on the road to Fez for several kilometers to reach the intermittently R508 (about Tainast).
+</p><p>The development plan provides a direct link between Taza West (at the "white bridge") and Taza high.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Great_Mosque_of_Taza" title="Great Mosque of Taza">Great Mosque of Taza</a></li>
+<li><a href="/wiki/Bou_Hamara" class="mw-redirect" title="Bou Hamara">Bou Hamara</a> - early 20th century pretender to the throne of Morocco, based in Taza</li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-HKO-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-HKO_1-0">^</a></b></span> <span class="reference-text">
+  "Climatological Information for Taza, Morocco",
+  Hong Kong Observatory, 2003, web:
+  <a rel="nofollow" class="external text" href="http://www.hko.gov.hk/wxinfo/climat/world/eng/africa/mor_al/taza_e.htm">HKO-Taza</a>.</span>
+</li>
+<li id="cite_note-census2014-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-census2014_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-census2014_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://rgph2014.hcp.ma/file/166326/">"POPULATION LÉGALE DES RÉGIONS, PROVINCES, PRÉFECTURES, MUNICIPALITÉS, ARRONDISSEMENTS ET COMMUNES DU ROYAUME D'APRÈS LES RÉSULTATS DU RGPH 2014"</a> (in Arabic and French). <a href="/wiki/Haut_Commissariat_au_Plan" title="Haut Commissariat au Plan">High Commission for Planning, Morocco</a>. 8 April 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">29 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=POPULATION+L%C3%89GALE+DES+R%C3%89GIONS%2C+PROVINCES%2C+PR%C3%89FECTURES%2C+MUNICIPALIT%C3%89S%2C+ARRONDISSEMENTS+ET+COMMUNES+DU+ROYAUME+D%E2%80%99APR%C3%88S+LES+R%C3%89SULTATS+DU+RGPH+2014&amp;rft.pub=High+Commission+for+Planning%2C+Morocco&amp;rft.date=2015-04-08&amp;rft_id=http%3A%2F%2Frgph2014.hcp.ma%2Ffile%2F166326%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>History of the Arabs and the Berbers and Their Powerful Contemporaries by Ibn khaldūd تاريخ ابن خلدون</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=History+of+the+Arabs+and+the+Berbers+and+Their+Powerful+Contemporaries+by+Ibn+khald%C5%ABd+%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE+%D8%A7%D8%A8%D9%86+%D8%AE%D9%84%D8%AF%D9%88%D9%86&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><img alt="Wikisource" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" decoding="async" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">Meakin, James; Meakin, Kate (1911). <span class="cs1-ws-icon" title="Wikisource:1911 Encyclopædia Britannica/Morocco"><a class="external text" href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Morocco">"Morocco"&#160;</a></span>.  In Chisholm, Hugh (ed.). <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i>. <b>18</b> (11th ed.). <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>. p.&#160;854.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Morocco&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.pages=854&amp;rft.edition=11th&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1911&amp;rft.aulast=Meakin&amp;rft.aufirst=James&amp;rft.au=Meakin%2C+Kate&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-gunn-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-gunn_5-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Gunn, ed. by John (2003). <i>Encyclopedia of caves and karst science</i>. New York [u.a.]: Dearborn. p.&#160;26. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1579583997" title="Special:BookSources/1579583997"><bdi>1579583997</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+of+caves+and+karst+science&amp;rft.place=New+York+%5Bu.a.%5D&amp;rft.pages=26&amp;rft.pub=Dearborn&amp;rft.date=2003&amp;rft.isbn=1579583997&amp;rft.aulast=Gunn&amp;rft.aufirst=ed.+by+John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: Extra text: authors list (<a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.britannica.com/place/Taza">"Taza | Morocco"</a>. <i>Encyclopedia Britannica</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-05-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Encyclopedia+Britannica&amp;rft.atitle=Taza+%7C+Morocco&amp;rft_id=https%3A%2F%2Fwww.britannica.com%2Fplace%2FTaza&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Climate-Data.org-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Climate-Data.org_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Climate-Data.org_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://en.climate-data.org/location/763640/">"Climate: Taza تازة - Climate graph, Temperature graph, Climate table"</a>. Climate-Data.org<span class="reference-accessdate">. Retrieved <span class="nowrap">28 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Climate%3A+Taza+%D8%AA%D8%A7%D8%B2%D8%A9+-+Climate+graph%2C+Temperature+graph%2C+Climate+table&amp;rft.pub=Climate-Data.org&amp;rft_id=http%3A%2F%2Fen.climate-data.org%2Flocation%2F763640%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-NOAA-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-NOAA_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/RA-I/FM/60127.TXT">"Taza Climate Normals 1961–1990"</a>. <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 16,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Taza+Climate+Normals+1961%E2%80%931990&amp;rft.pub=National+Oceanic+and+Atmospheric+Administration&amp;rft_id=ftp%3A%2F%2Fftp.atdd.noaa.gov%2Fpub%2FGCOS%2FWMO-Normals%2FRA-I%2FFM%2F60127.TXT&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATaza" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taza&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/Taza#Q574469" class="extiw" title="wikivoyage:Taza">Taza</a></b></i>.</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.ville-taza.com">Taza online</a> in French</li>
+<li><a rel="nofollow" class="external text" href="http://www.tazekka.com">Parc national de Tazekka</a> in French</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Fès-Meknès_region" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:F%C3%A8s-Mekn%C3%A8s" title="Template:Fès-Meknès"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:F%C3%A8s-Mekn%C3%A8s" title="Template talk:Fès-Meknès"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:F%C3%A8s-Mekn%C3%A8s&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Fès-Meknès_region" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600" /></span>  <a href="/wiki/F%C3%A8s-Mekn%C3%A8s" title="Fès-Meknès">Fès-Meknès region</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div id="Capital:_Fes">Capital: <a href="/wiki/Fes" class="mw-redirect" title="Fes">Fes</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Provinces and<br /> prefectures</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boulemane_Province" title="Boulemane Province">Boulemane Province</a></li>
+<li><a href="/wiki/El_Hajeb_Province" title="El Hajeb Province">El Hajeb Province</a></li>
+<li><a href="/wiki/F%C3%A8s" class="mw-redirect" title="Fès">Fès Prefecture</a></li>
+<li><a href="/wiki/Ifrane_Province" title="Ifrane Province">Ifrane Province</a></li>
+<li><a href="/wiki/Mekn%C3%A8s_Prefecture" title="Meknès Prefecture">Meknès Prefecture</a></li>
+<li><a href="/wiki/Moulay_Yacoub_Province" title="Moulay Yacoub Province">Moulay Yacoub Province</a></li>
+<li><a href="/wiki/Sefrou_Province" title="Sefrou Province">Sefrou Province</a></li>
+<li><a href="/wiki/Taounate_Province" title="Taounate Province">Taounate Province</a></li>
+<li><a href="/wiki/Taza_Province" title="Taza Province">Taza Province</a></li></ul>
+</div></td><td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Fes_Meknes_region_locator_map.svg" class="image"><img alt="Fes Meknes region locator map.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Fes_Meknes_region_locator_map.svg/200px-Fes_Meknes_region_locator_map.svg.png" decoding="async" width="200" height="203" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Fes_Meknes_region_locator_map.svg/300px-Fes_Meknes_region_locator_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Fes_Meknes_region_locator_map.svg/400px-Fes_Meknes_region_locator_map.svg.png 2x" data-file-width="7887" data-file-height="7999" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Cities</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agourai" title="Agourai">Agourai</a></li>
+<li><a href="/wiki/Ahermoumou" title="Ahermoumou">Ahermoumou</a></li>
+<li><a href="/wiki/Ain_Aicha" title="Ain Aicha">Ain Aicha</a></li>
+<li><a href="/wiki/Ain_Cheggag" title="Ain Cheggag">Ain Cheggag</a></li>
+<li><a href="/wiki/Ain_Taoujdate" title="Ain Taoujdate">Ain Taoujdate</a></li>
+<li><a href="/wiki/Aknoul" title="Aknoul">Aknoul</a></li>
+<li><a href="/wiki/Azrou" title="Azrou">Azrou</a></li>
+<li><a href="/wiki/Bhalil" title="Bhalil">Bhalil</a></li>
+<li><a href="/wiki/Bouhouda" title="Bouhouda">Bouhouda</a></li>
+<li><a href="/wiki/Boulemane" title="Boulemane">Boulman</a></li>
+<li><a href="/wiki/El_Hajeb" title="El Hajeb">El Hajeb</a></li>
+<li><a href="/wiki/El_Menzel" title="El Menzel">El Menzel</a></li>
+<li><a href="/wiki/Fes" class="mw-redirect" title="Fes">Fes</a></li>
+<li><a href="/wiki/Guigou,_Morocco" title="Guigou, Morocco">Guigou</a></li>
+<li><a href="/wiki/Imouzzer_Kandar" title="Imouzzer Kandar">Imouzzer Kandar</a></li>
+<li><a href="/wiki/Imouzzer_Marmoucha" title="Imouzzer Marmoucha">Imouzzer Marmoucha</a></li>
+<li><a href="/wiki/Meknes" title="Meknes">Meknes</a></li>
+<li><a href="/wiki/Missour" title="Missour">Missour</a></li>
+<li><a href="/wiki/Mkansa,_Taounate_Province" title="Mkansa, Taounate Province">Mkansa</a></li>
+<li><a href="/wiki/Moulay_Idriss_Zerhoun" title="Moulay Idriss Zerhoun">Moulay Idriss Zerhoun</a></li>
+<li><a href="/wiki/Moulay_Yacoub" title="Moulay Yacoub">Moulay Yacoub</a></li>
+<li><a href="/wiki/Oued_Amlil" title="Oued Amlil">Oued Amlil</a></li>
+<li><a href="/wiki/Ouislane" title="Ouislane">Ouislane</a></li>
+<li><a href="/wiki/Outat_El_Haj" title="Outat El Haj">Outat El Haj</a></li>
+<li><a href="/wiki/Sabaa_Aiyoun" title="Sabaa Aiyoun">Sabaa Aiyoun</a></li>
+<li><a href="/wiki/Sebt_Jahjouh" title="Sebt Jahjouh">Sebt Jahjouh</a></li>
+<li><a href="/wiki/Sefrou" title="Sefrou">Sefrou</a></li>
+<li><a href="/wiki/Tahla,_Morocco" title="Tahla, Morocco">Tahla</a></li>
+<li><a class="mw-selflink selflink">Taza</a></li>
+<li><a href="/wiki/Toulal" title="Toulal">Toulal</a></li>
+<li><a href="/wiki/Tamedit" title="Tamedit">Tamedit</a></li>
+<li><a href="/wiki/Taounate" title="Taounate">Taounate</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20190429143220
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.428 seconds
+Real time usage: 0.613 seconds
+Preprocessor visited node count: 4369/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 66956/2097152 bytes
+Template argument size: 12509/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 21452/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.173/10.000 seconds
+Lua memory usage: 5.26 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  514.771      1 -total
+ 50.54%  260.154      1 Template:Infobox_settlement
+ 34.93%  179.797      1 Template:Infobox
+ 24.61%  126.690      1 Template:Reflist
+ 13.96%   71.863      3 Template:Cite_web
+ 11.31%   58.232      5 Template:Both
+ 10.70%   55.073      1 Template:Coord
+  8.75%   45.060      1 Template:About
+  6.74%   34.698      1 Template:Infobox_Weather
+  5.02%   25.852      1 Template:Wikivoyage
+-->
 
-    </head>
-    <body>
-    	<div id="page" class="page">
-    		<div class="pixfort_corporate_2" id="section_corporate_1">
-    			<div class="header_style">
-    				<div class="container">
-    					<div class="sixteen columns header_area">
-    						<div class="htext_style editContent">
-    						</div>
-    					</div>
-    				</div><!-- container -->
-    			</div>
-    			<div class="page_style pix_builder_bg">
-    				<div class="container">
-    					<div class="sixteen columns context_style">
-    						<div class="title_style">
-    							<span class="editContent">
-                                    <a href="#section_corporate_3"><div class="mouse-icon hidden-xs"><div class="scroll"></div></div></a>
-    							</span>
-    						</div>
-    						<div class="subtitle_style">
-    							<span class="editContent">
-    								<span class="pix_text">
-    								</span>
-    							</span>
-    						</div>
-    						<div class="contact_style">
-    							<div class="">
-    								<a href="#" class="">
-    								</a>
-    							</div>
-    						</div>
-    						<div class="note_st">
-    							<span class="editContent">
-    							</span>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1923972-0!canonical and timestamp 20190429143220 and revision id 880226899
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Taza&amp;oldid=880226899">https://en.wikipedia.org/w/index.php?title=Taza&amp;oldid=880226899</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Biosphere_reserves_of_Morocco" title="Category:Biosphere reserves of Morocco">Biosphere reserves of Morocco</a></li><li><a href="/wiki/Category:Populated_places_in_Taza_Province" title="Category:Populated places in Taza Province">Populated places in Taza Province</a></li><li><a href="/wiki/Category:Cities_in_Morocco" title="Category:Cities in Morocco">Cities in Morocco</a></li><li><a href="/wiki/Category:Provincial_capitals_in_Morocco" title="Category:Provincial capitals in Morocco">Provincial capitals in Morocco</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Arabic-language_sources_(ar)" title="Category:CS1 Arabic-language sources (ar)">CS1 Arabic-language sources (ar)</a></li><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">CS1 maint: Extra text: authors list</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
 
-    						</div>
-    					</div>
-    				</div><!-- container -->
-    			</div>
-    		</div>
-<div class="section_pointer" pix-name="22_corporate"></div>
-            <div class="pixfort_corporate_2" id="section_corporate_logo" style="display: block; ">
-                <div class="amazing_style pix_builder_bg" style="background-image: url(images/2_corporate/fondo.png); background-color: rgb(204, 0, 0); padding-top: 0px; padding-bottom: 60px; box-shadow: none; border-color: rgb(68, 68, 68); background-size: cover; background-attachment: scroll; background-repeat: repeat; outline-offset: -3px;">
-                    <div class="container">
-                        <div class="sixteen columns">
-                            <div class="gstyle">
-                                <div class="t1_style">
-                                     <img src="images/2_corporate/lavaquita2.png" alt="Supermercados La Vaquita">
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- container -->
-                </div>
-            </div>
-    		<div class="section_pointer" pix-name="2_corporate"></div><div class="pixfort_corporate_2" id="section_corporate_3">
-    			<div class="adv_st pix_builder_bg">
-    				<div class="container">
-    					<div class="sixteen columns">
-    						<div class="four columns  alpha">
-    							<img src="images/uploads/006-gift.png" alt="" style="border-radius: 0px; border-color: rgb(68, 68, 68); border-style: none; border-width: 1px; width: 120px; height: 120px;">
-    							<div class="head_style">
-    								<span class="editContent" style=""><span class="pix_text" rel="">Grandes Premios</span></span>
-    							</div>
-    							<div class="c_style">
-    								<span class="editContent" style="">Bonos de Mercado, Bonos para Amoblar tu Casa y 3 motos BWS son nuestros grandes premios</span>
-    							</div>
-    						</div>
-    						<div class="four columns  ">
-    							<img src="images/uploads/008-delivery-truck.png" alt="" style="border-radius: 0px; border-color: rgb(68, 68, 68); border-style: none; border-width: 1px; width: 120px; height: 120px;">
-    							<div class="head_style"><span class="editContent" style="">Domicilios</span></div>
-    							<div class="c_style">
-    								<span class="editContent" style=""><span class="pix_text" rel="">Disfruta de comprar desde la comodidad de tu casa en la línea única de domicilios <strong>4487068</strong></span></span>
-    							</div>
-    						</div>
-    						<div class="four columns  ">
-    							<img src="images/uploads/002-calendar.png" alt="" style="border-radius: 0px; border-color: rgb(68, 68, 68); border-style: none; border-width: 1px; width: 120px; height: 120px;">
-    							<div class="head_style"><span class="editContent" style=""><span class="pix_text">Días Especiales</span></span></div>
-    							<div class="c_style">
-    								<span class="editContent" style=""><span class="pix_text">Por nuestro aniversario tendremos una agenda increíble de eventos para vos</span></span>
-    							</div>
-    						</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Taza" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Taza" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Taza" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Taza" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Taza">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Taza&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Taza&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Taza" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Taza" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Taza&amp;oldid=880226899" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Taza&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q574469" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Taza&amp;id=880226899" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Taza">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Taza&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Taza&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Taza" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://en.wikivoyage.org/wiki/Taza" hreflang="en">Wikivoyage</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D8%B2%D8%A9" title="تازة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Taza_(Marroc)" title="Taza (Marroc) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Taza_(kapital_sa_lalawigan)" title="Taza (kapital sa lalawigan) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Taza" title="Taza – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Taza" title="Taza – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Taza_(Marruecos)" title="Taza (Marruecos) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Taza" title="Taza – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Taza" title="Taza – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D8%B2%D9%87_(%D9%85%D8%B1%D8%A7%DA%A9%D8%B4)" title="تازه (مراکش) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Taza" title="Taza – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Taza" title="Taza – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%AA%D7%90%D7%96%D7%94" title="תאזה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B7%D0%B0_%D2%9B%D0%B0%D0%BB%D0%B0%D1%81%D1%8B" title="Таза қаласы – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Taza" title="Taza – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Taza" title="Taza – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Taza_(Maroko)" title="Taza (Maroko) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Taza" title="Taza – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Taza" title="Taza – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B7%D0%B0" title="Таза – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Taza" title="Taza – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Taza" title="Taza – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Taza_(Merruk)" title="Taza (Merruk) – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Taza" title="Taza – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%AA%D8%A7%D8%B2%DB%81_(%D9%85%D8%B1%D8%A7%DA%A9%D8%B4)" title="تازہ (مراکش) – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%A1%94%E6%89%8E" title="塔扎 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q574469#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 26 January 2019, at 04:32<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Taza&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
 
-    						<div class="four columns  omega">
-    							<img src="images/uploads/003-tag.png" alt="" style="border-radius: 0px; border-color: rgb(68, 68, 68); border-style: none; border-width: 1px; width: 120px; height: 120px;">
-    							<div class="head_style"><span class="editContent" style=""><span class="pix_text">Descuentos</span></span></div>
-    							<div class="c_style">
-    								<span class="editContent" style=""><span class="pix_text">Siempre puedes encontrar los mejores precios con descuentos todos los días</span></span>
-    							</div>
-    						</div>
-    					</div>
-    				</div><!-- container -->
-    			</div>
-    		</div>
-    		<div class="section_pointer" pix-name="2_corporate"></div>
-            <div class="pixfort_corporate_2" id="section_corporate_4" style="display: none; ">
-    			<div class="amazing_style pix_builder_bg" style="background-image: none; background-color: rgb(204, 0, 0); padding-top: 0px; padding-bottom: 60px; box-shadow: none; border-color: rgb(68, 68, 68); background-size: cover; background-attachment: scroll; background-repeat: repeat; outline-offset: -3px;">
-    				<div class="container">
-    					<div class="sixteen columns">
-    						<div class="gstyle">
-    							<div class="t1_style">
-    								 <a href="/separata-caldas/" target="_blank" title="separata" style="text-decoration: none;">
-                                    <span class="editContent" style=""><span class="pix_text" style="color: rgb(255, 255, 255); font-size: 28px; background-color: rgba(0, 0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif;" ></span></span>
-                                    </a>
-    							</div>
-    							<div class="t2_style" style="">
-    								<span class="editContent" style="">
-    									<span class="pix_text" style="color: rgb(255, 255, 255); font-size: 20px; background-color: rgba(0, 0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif;" >Felíz día Mamá </span>
-    								</span>
-    							</div>
-    							<div class="t3_style">
-    								<span class="editContent" style="">
-    									<span class="pix_text" style="color: rgb(255, 255, 255); font-size: 16px; background-color: rgba(0, 0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif;" ></span>
-    								</span>
-    							</div>
-    						</div>
-    						<span>
-                                <!-- iframe style="width:100%; height:440px;" src="about:blank" frameborder="0" width="100%" height="440px" name="separata" allowfullscreen></iframe -->
-                                <-- iframe style="width:100%; height:640px;" src="http://e.issuu.com/embed.html#31543945/60696187" frameborder="0" width="100%" height="640px" name="separata" allowfullscreen></iframe -->
-                                <!-- iframe style="width:100%; height:440px;" width="100%" height="440" src="https://www.youtube-nocookie.com/embed/F0wJpDqDzgQ?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe -->
-    						</span>
-    					</div>
-    				</div><!-- container -->
-    			</div>
-    		</div>
-    		<div class="section_pointer" pix-name="2_corporate"></div><div class="pixfort_corporate_2" id="section_corporate_5">
-    			<div class="adv_style pix_builder_bg" style="outline-offset: -3px;">
-    				<div class="container">
-    					<div class="sixteen columns">
-    						<div class="L1_style">
-    							<span class="editContent" style=""><span class="pix_text">Sedes y Horarios</span></span>
-    						</div>
-    						<div class="L2_style">
-    							<span class="editContent" style=""><span class="pix_text">
-    								Lunes - Sábado 7:00 am a 9:00 pm - Domingos y festivos: 7:00 am a 8:00 pm
-    							</span></span>
-    						</div>
-    						<div class="four columns just_st alpha">
-    							<div class="h_style">
-    								<span class="editContent" style=""><span class="pix_text">Calasanz</span></span>
-    							</div>
-    							<div class="cc_style">
-    								<span class="editContent" style=""><span class="pix_text">Cra. 80 No. 49-05</span></span>
-    							</div>
-    						</div>
-    						<div class="four columns just_st ">
-    							<div class="h_style">
-    								<span class="editContent" style=""><span class="pix_text">Belén</span></span>
-    							</div>
-    							<div class="cc_style">
-    								<span class="editContent" style=""><span class="pix_text">Cra. 75 No. 21-04</span></span>
-    							</div>
-    						</div>
-    						<div class="four columns just_st ">
-    							<div class="h_style">
-    								<span class="editContent" style=""><span class="pix_text">Envigado</span></span>
-    							</div>
-    							<div class="cc_style">
-    								<span class="editContent" style=""><span class="pix_text">Calle 37 Sur No. 40-48</span></span>
-    							</div>
-    						</div>
-    						<div class="four columns just_st omega">
-    							<div class="h_style">
-    								<span class="editContent" style=""><span class="pix_text">Caldas</span></span>
-    							</div>
-    							<div class="cc_style">
-    								<span class="editContent" style=""><span class="pix_text">Cl. 130S No. 50-45</span></span>
-    							</div>
-    						</div>
-                            <div class="L1_style">
-                                <span class="editContent" style=""><span class="pix_text">&nbsp;&nbsp;&nbsp;</span></span>
-                            </div>
-                            <div class="L2_style">
-                                <span class="editContent" style=""><span class="pix_text">
-                                    Lunes - Sábado 8:00 am a 9:00 pm - Domingos y festivos: 8:00 am a 8:00 pm
-                                </span></span>
-                            </div>
-                            <div class="four columns just_st alpha">
-                                <div class="h_style">
-                                    <span class="editContent" style=""><span class="pix_text">La 33</span></span>
-                                </div>
-                                <div class="cc_style">
-                                    <span class="editContent" style=""><span class="pix_text">Cl. 33 No. 80A-36</span></span>
-                                </div>
-                            </div>
-                            <div class="four columns just_st ">
-                                <div class="h_style">
-                                    <span class="editContent" style=""><span class="pix_text">San Cristobal</span></span>
-                                </div>
-                                <div class="cc_style">
-                                    <span class="editContent" style=""><span class="pix_text">Cl. 63 No. 128-85</span></span>
-                                </div>
-                            </div>
-                            <div class="four columns just_st ">
-                                <div class="h_style">
-                                    <span class="editContent" style=""><span class="pix_text">Sabaneta</span></span>
-                                </div>
-                                <div class="cc_style">
-                                    <span class="editContent" style=""><span class="pix_text">Cra. 43A No. 63S-190</span></span>
-                                </div>
-                            </div>
-                            <div class="four columns just_st omega">
-                                <div class="h_style">
-                                    <span class="editContent" style=""><span class="pix_text">El Poblado</span></span>
-                                </div>
-                                <div class="cc_style">
-                                    <span class="editContent" style=""><span class="pix_text">Cl. 9S No. 29D-76</span></span>
-                                </div>
-                            </div>
-    					</div>
-    				</div><!-- container -->
-    			</div>
-    		</div>
-            <div class="big_padding pix_builder_bg dark event_bg" id="section_normal_4_1">
-            <div class="container">
-                <div class="sixteen columns center_text">
-                    <p class="normal_title editContent"><strong>Contáctenos</strong></p>
-                    <div>
-                    <p class="normal_text max_600 light_gray editContent">
-                        Puede escribirnos al correo electrónico <strong><a href="mailto:contactenos@vaquitaexpress.com" style="font-size:1.2em; color:white">contactenos@vaquitaexpress.com</a></strong>
-                    </p>
-                    <p class="normal_text max_600 light_gray editContent">
-                        Para una mejor atención hemos destinado un espacio de Peticiones, Quejas, Reclamos, Sugerencias y Felicitaciones
-                    </p>
-                    </div>
-                    <a href="pqrsf/" class="active_bg_open pix_button btn_normal btn_big  bold_text orange_bg " name="fff">
-                        <span>Ir a nuestro Formulario de PQRF</span>
-                    </a>
-                </div>
-           </div>
-        </div>
-    		<div class="section_pointer" pix-name="2_corporate"></div><div class="pixfort_corporate_2" id="section_corporate_9">
-    			<div class="contact_section pix_builder_bg">
-    				<div class="container">
-    					<div class="sixteen columns pix_inline_block">
-    						<div class="sixteen columns ">
-    							<div class="headtext_style"><span class="editContent" style=""><span class="pix_text">Nuestras Sedes</span></span></div>
-    							<p class="subtext_style editContent">Envigado, Belén, Calasanz y próximamente Caldas</p>
-    							<div class="plan">
-                                    <iframe src="https://snazzymaps.com/embed/23710" width="100%" height="380px" style="border:none;"></iframe>
-    							</div>
-    						</div>
-    					</div>
-    				</div><!-- container -->
-    			</div>
-    		</div>
-    		<div class="section_pointer" pix-name="2_corporate"></div><div class="pixfort_real_estate_4" id="section_real_estate_9">
-    			<div class="foot_st pix_builder_bg" style="outline-offset: -3px;">
-    				<div class="container ">
-    					<div class="seven columns alpha ">
-    						<span class="editContent" style=""><span class="pix_text"><span class="rights_st"> Todos los derechos reservados © 2017 La Vaquita</span></span></span>
-    					</div>
-    					<div class="nine columns omega ">
-    						<div class="socbuttons">
-    							<div class="soc_icons pix_builder_bg">
-    								<ul class="bottom-icons">
-    									<li><a class="pi pixicon-facebook2 normal_gray" href="https://www.facebook.com/supermercadoLaVaquita/"></a></li>
-    									<li><a class="pi pixicon-instagram normal_gray" href="https://www.instagram.com/supermercadolavaquita/"></a></li>
-    								</ul>
-    							</div>
-    							<div class="likes_st">
-    								<span class="editContent"><span class="pix_text">Comparte en nuestras redes</span></span>
-    							</div>
-    						</div>
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    		<div class="section_pointer" pix-name="4_real_estate"></div></div>
-
-<!-- JavaScript
-	================================================== -->
-	<script src="js-files/jquery-1.8.3.min.js" type="text/javascript"></script>
-	<script src="js-files/jquery.easing.1.3.js" type="text/javascript"></script>
-	<script type="text/javascript" src="js-files/jquery.common.min.js"></script>
-	<script src="js-files/ticker.js" type="text/javascript"></script>
-	<script src="js-files/custom1.js" type="text/javascript"></script>
-	<script src="assets/js/smoothscroll.min.js" type="text/javascript"></script>
-	<script src="assets/js/appear.min.js" type="text/javascript"></script>
-	<script src="js-files/jquery.ui.touch-punch.min.js"></script>
-	<script src="js-files/bootstrap.min.js"></script>
-	<script src="js-files/bootstrap-switch.js"></script>
-	<script src="js-files/custom3.js" type="text/javascript"></script>
-	<script src="assets/js/appear.min.js" type="text/javascript"></script>
-	<script src="assets/js/animations.js" type="text/javascript"></script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.428","walltime":"0.613","ppvisitednodes":{"value":4369,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":66956,"limit":2097152},"templateargumentsize":{"value":12509,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21452,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  514.771      1 -total"," 50.54%  260.154      1 Template:Infobox_settlement"," 34.93%  179.797      1 Template:Infobox"," 24.61%  126.690      1 Template:Reflist"," 13.96%   71.863      3 Template:Cite_web"," 11.31%   58.232      5 Template:Both"," 10.70%   55.073      1 Template:Coord","  8.75%   45.060      1 Template:About","  6.74%   34.698      1 Template:Infobox_Weather","  5.02%   25.852      1 Template:Wikivoyage"]},"scribunto":{"limitreport-timeusage":{"value":"0.173","limit":"10.000"},"limitreport-memusage":{"value":5517083,"limit":52428800}},"cachereport":{"origin":"mw1270","timestamp":"20190429143220","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":113,"wgHostname":"mw1332"});});</script>
 </body>
 </html>

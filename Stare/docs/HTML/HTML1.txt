@@ -1,1209 +1,345 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]><html class="ie ie6 lte8 lte7"><![endif]-->
-<!--[if IE 7]><html class="ie ie7 lte8 lte7"><![endif]-->
-<!--[if IE 8]><html class="ie ie8 lte8"><![endif]-->
-<!--[if IE 9]><html class="ie ie9 lte9"><![endif]-->
-<!--[if gt IE 9]><!--><html lang="en"><!--<![endif]-->
-<head>
-<title>Vaquita | Species | WWF</title>
-<meta charset="utf-8">
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"6990b25c83","applicationID":"3688396","transactionName":"cAteQhZdWFUGER1FSVYHWVMXHUdRDBQ=","queueTime":0,"applicationTime":18,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwMEVFZRGwAGXFlRDgc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(13),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(14),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(16)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(13),c=t(14),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,e])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(o="Safari",i=s[1])}e.exports={agent:o,version:i,match:r}},{}],13:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],14:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],15:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],16:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(14),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=m(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[g[n]];return d&&d.push([x,n,r,a]),a}}function p(t,e){w[t]=m(t).concat(e)}function h(t,e){var n=w[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return w[t]||[]}function v(t){return d[t]=d[t]||o(n)}function y(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var w={},g={},x={on:p,addEventListener:p,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:y,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(13),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+b.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+b.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-b.offset}var c=(new Date).getTime(),s=t("handle"),f=t(13),u=t("ee"),d=t(12),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,y=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var w=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},x=v&&y&&y[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:x,userAgent:d};t(9),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),s("mark",["firstbyte",c],null,"api");var E=0,O=t(15)},{}]},{},["loader",2,7]);</script>
-<meta name="robots" content="all">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta property="og:url" content="https://www.worldwildlife.org/species/vaquita">
-<meta property="og:image" content="http://assets.worldwildlife.org/photos/195/images/story_full_width/Vaquita_1_Thomas_A_Jefferson_20081019.jpg?1345566367">
-<meta property="og:image:width" content="5454">
-<meta property="og:image:height" content="3293">
-<meta property="og:title" content="Vaquita | Species | WWF">
-<meta property="og:site_name" content="World Wildlife Fund">
-<meta property="fb:app_id" content="643916752395762">
-<meta property="og:type" content="website">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:url" content="https://www.worldwildlife.org/species/vaquita">
-<meta name="twitter:image" content="http://assets.worldwildlife.org/photos/195/images/story_full_width/Vaquita_1_Thomas_A_Jefferson_20081019.jpg?1345566367">
-<meta name="twitter:title" content="Vaquita | Species | WWF">
-<meta name="twitter:site" content="@world_wildlife">
-<meta name="twitter:site:id" content="16029780">
-<meta name="description" content="Protect endangered species, including the vaquita porpoise, at World Wildlife Fund. Learn about the ways WWF works to conserve a future where people live in harmony with nature.">
-<meta property="og:description" content="Protect endangered species, including the vaquita porpoise, at World Wildlife Fund. Learn about the ways WWF works to conserve a future where people live in harmony with nature.">
-<meta name="twitter:description" content="Protect endangered species, including the vaquita porpoise, at World Wildlife Fund. Learn about the ways WWF works to conserve a future where people live in harmony with nature.">
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-W98N8C');</script>
-<!-- End Google Tag Manager -->
-<link rel="stylesheet" media="screen" href="/assets/application-bb956d78fd1a42aa6418d3b3084ed8a0ad2acb6fe71107558fc709d505609d8d.css"/>
-<link rel="stylesheet" media="print" href="/assets/print-ccca7115716d91eb933997daa41cad4cbd55b5326981ff99d2ead3aad093b9de.css"/>
-<meta name="csrf-param" content="authenticity_token"/>
-<meta name="csrf-token" content="Uta3+Cs93F9bcmYhyOE2hhMRjqk1jJ9xt+0XuFmNT2W6d7GWKZveUNoLIzElxnMNvmzUxA+uPVOIU39qWdCI/w=="/>
-<script src="/assets/header-f1d570a9c285cd89c446c121c3da1091e0382f69b5a570a45f0e594102a914de.js"></script>
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-<meta name="google-site-verification" content="5Xsbfjlv4FIZ6v_GWak8W3vx-haqUaMYureDmZY8QUU"/>
-<!-- Start Visual Website Optimizer Asynchronous Code -->
-<script type='text/javascript'>
-  var _vwo_code=(function(){
-    var account_id=23273,
-      settings_tolerance=2000,
-      library_tolerance=2500,
-      use_existing_jquery=false,
-      /* DO NOT EDIT BELOW THIS LINE */
-      f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script>
-<!-- End Visual Website Optimizer Asynchronous Code -->
-</head>
-<body data-features="carousel slider fixedNav onePageNav map cardGroup socialShareDynamic tooltips howToHelp">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W98N8C" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<script>
-		
-	</script>
-<div id="fb-root"></div>
-<div id="header">
-<div class="wrapper contain">
-<div class="group group-utility">
-<div class="contain">
-<div class="logo alt">
-<a data-track-event="Species Show|Upper Nav Click|Panda Logo" href="https://www.worldwildlife.org/">WWF</a>
-</div>
-<ul class="nav push-right">
-<li class="dropdown-control">
-<a data-track-event="Species Show|Upper Nav Click|About Us" href="https://www.worldwildlife.org:443/about">About Us</a>
-<div class="dropdown">
-<ul>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|About Us - History" href="https://www.worldwildlife.org:443/about/history">
-<span>History</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|About Us - Leadership" href="https://www.worldwildlife.org:443/about/leadership">
-<span>Leadership</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|About Us - Experts" href="https://www.worldwildlife.org:443/experts">
-<span>Experts</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|About Us - News &amp; Press" href="https://www.worldwildlife.org:443/about/news_press">
-<span>News &amp; Press</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|About Us - Financials" href="https://www.worldwildlife.org:443/about/financials">
-<span>Financials</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|About Us - Careers" href="https://www.worldwildlife.org:443/about/careers">
-<span>Careers</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|About Us - Contact" href="https://www.worldwildlife.org:443/about/contact">
-<span>Contact</span>
-</a>	</li>
-</ul>
-</div>
-</li>
-<li class="dropdown-control">
-<a data-track-event="Species Show|Upper Nav Click|How to Help" href="https://www.worldwildlife.org:443/how-to-help">How to Help</a>
-<div class="dropdown">
-<ul>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|How to Help - Take Action" href="https://support.worldwildlife.org/site/SPageServer?pagename=can_home">
-<span>Take Action</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|How to Help - Get Email" href="https://support.worldwildlife.org/site/SPageServer/?pagename=enews_signup">
-<span>Get Email</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|How to Help - Fundraise" href=" https://support.worldwildlife.org/site/SPageServer/?pagename=panda_nation_fundraising">
-<span>Fundraise</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|How to Help - Send Ecards" href="https://support.worldwildlife.org/site/SPageServer/?pagename=WWF_Free_Ecards">
-<span>Send Ecards</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|How to Help - Shop to Support" href="https://www.worldwildlife.org:443/pages/shop-to-support">
-<span>Shop to Support</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|How to Help - Travel with WWF" href="https://www.worldwildlife.org:443/travel">
-<span>Travel with WWF</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|How to Help - See Other Ways to Support WWF" href="https://www.worldwildlife.org:443/pages/ways-to-support-wwf">
-<span>See Other Ways to Support WWF</span>
-</a>	</li>
-</ul>
-</div>
-</li>
-<li>
-<form id="cse-search-box" class="header-search-form" action="https://www.worldwildlife.org/search" data-track-event="Species Show|Upper Nav Click|Search Submitted">
-<div class="form-inline">
-<input type="hidden" name="cx" value="003443374396369277624:v3nraqhmeyk"/>
-<input type="hidden" name="ie" value="UTF-8"/>
-<label for="q" class="screen-reader">Search</label>
-<input type="text" name="x" id="q" placeholder="Search"/>
-<button name="sa" type="submit"><span class="screen-reader">Search</span><i class="ico ico-search" aria-hidden="true">w</i></button>
-</div>
-</form>
-</li>
-<li class="dropdown-control">
-<a class="action action-primary" data-track-event="Species Show|Upper Nav Click|Donate" href="https://support.worldwildlife.org/site/SPageServer?pagename=main_monthly&amp;s_src=AWE1907OQ18299A01179RX">
-Donate
-</a>	<div class="dropdown">
-<ul>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Donate - Make a One-time Donation" href="https://support.worldwildlife.org/site/SPageServer?pagename=main_onetime&amp;s_src=AWE1907OQ18336A02939RX">
-<span>Make a One-time Donation</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Donate - Make a Monthly Donation" href="https://support.worldwildlife.org/site/SPageServer?pagename=main_monthly&amp;s_src=AWE1700OQ18336A01563RX">
-<span>Make a Monthly Donation</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Donate - Become a Paperless Member" href="https://support.worldwildlife.org/site/SPageServer?pagename=paperless_monthly&amp;s_src=AWM1700OQ18336A01560RX">
-<span>Become a Paperless Member</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Donate - Renew Your Membership" href="https://support.worldwildlife.org/site/SPageServer?pagename=main_renewal&amp;s_src=AWR1900OQ18336A03104RX">
-<span>Renew Your Membership</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Donate - Join as a Partner in Conservation" href="https://worldwildlife.org/pages/partners-in-conservation">
-<span>Join as a Partner in Conservation</span>
-</a>	</li>
-</ul>
-</div>
-</li>
-<li class="dropdown-control">
-<a class="action action-secondary" data-track-event="Species Show|Upper Nav Click|Adopt" href="https://gifts.worldwildlife.org/gift-center/Default.aspx?sc=AWY1906OQ18317A01179RX">
-Adopt
-</a>	<div class="dropdown">
-<ul>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Adopt - Adoptions" href="https://gifts.worldwildlife.org/gift-center/gifts/Species-Adoptions.aspx?sc=AWY1809OQ18335A02346RX">
-<span>Adoptions</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Adopt - Apparel" href="https://gifts.worldwildlife.org/gift-center/gifts/Apparel.aspx?sc=AWY1809OQ18335A02347RX">
-<span>Apparel</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Adopt - More Gifts" href="https://gifts.worldwildlife.org/gift-center/gifts/Gifts-and-Accessories.aspx?sc=AWY1809OQ18335A02348RX">
-<span>More Gifts</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Adopt - Snow Leopard Commercial" href="https://support.worldwildlife.org/site/Donation2?df_id=13594&amp;13594.donation=form1&amp;s_src=AWS1809OQ18335A02349RX">
-<span>Snow Leopard Commercial</span>
-</a>	</li>
-</ul>
-</div>
-</li>
-</ul>
-</div>
-</div>
-<div class="group group-primary">
-<div class="contain">
-<ul class="nav push-left">
-<li class="dropdown-control">
-<a data-track-event="Species Show|Upper Nav Click|Our Work" href="https://www.worldwildlife.org:443/initiatives">Our Work</a>
-<div class="dropdown">
-<div class="primary">
-<ul>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Our Work - Climate" href="https://www.worldwildlife.org:443/initiatives/climate">
-<span>Climate</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Our Work - Food" href="https://www.worldwildlife.org:443/initiatives/food">
-<span>Food</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Our Work - Forests" href="https://www.worldwildlife.org:443/initiatives/forests">
-<span>Forests</span>
-</a>	</li>
-</ul>
-<ul>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Our Work - Fresh Water" href="https://www.worldwildlife.org:443/initiatives/fresh-water">
-<span>Fresh Water</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Our Work - Oceans" href="https://www.worldwildlife.org:443/initiatives/oceans">
-<span>Oceans</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Our Work - Wildlife" href="https://www.worldwildlife.org:443/initiatives/wildlife-conservation">
-<span>Wildlife</span>
-</a>	</li>
-</ul>
-<a class="view-all" data-track-event="Species Show|Upper Nav Click|Our Work - View all conservation work" href="https://www.worldwildlife.org:443/initiatives">
-View all conservation work<i class="ico" aria-hidden="true">h</i>
-</a>	</div>
-<div class="secondary">
-<ul class="list-linked">
-<li><a data-track-event="Species Show|Upper Nav Click|Our Work - Business" href="https://www.worldwildlife.org/initiatives/transforming-business">Business</a></li>
-<li><a data-track-event="Species Show|Upper Nav Click|Our Work - Policy" href="https://www.worldwildlife.org:443/initiatives/influencing-policy">Policy</a></li>
-<li><a data-track-event="Species Show|Upper Nav Click|Our Work - Partnerships" href="https://www.worldwildlife.org:443/pages/partnerships">Partnerships</a></li>
-<li><a data-track-event="Species Show|Upper Nav Click|Our Work - Science" href="https://www.worldwildlife.org:443/initiatives/science">Science</a></li>
-</ul>
-</div>
-</div>
-</li>
-<li class="dropdown-control">
-<a data-track-event="Species Show|Upper Nav Click|Species" href="https://www.worldwildlife.org:443/species">Species</a>
-<div class="dropdown">
-<div class="primary">
-<ul>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Species - Giant Pandas" href="https://www.worldwildlife.org:443/species/giant-panda">
-<span>Giant Pandas</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Species - Tigers" href="https://www.worldwildlife.org:443/species/tiger">
-<span>Tigers</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Species - Elephants" href="https://www.worldwildlife.org:443/species/elephant">
-<span>Elephants</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Species - Gorillas" href="https://www.worldwildlife.org:443/species/gorilla">
-<span>Gorillas</span>
-</a>	</li>
-</ul>
-<ul>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Species - Sea Turtles" href="https://www.worldwildlife.org:443/species/sea-turtle">
-<span>Sea Turtles</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Species - Polar Bears" href="https://www.worldwildlife.org:443/species/polar-bear">
-<span>Polar Bears</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Species - Rhinos" href="https://www.worldwildlife.org:443/species/rhino">
-<span>Rhinos</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Species - Whales" href="https://www.worldwildlife.org:443/species/whale">
-<span>Whales</span>
-</a>	</li>
-</ul>
-<a class="view-all" data-track-event="Species Show|Upper Nav Click|Species - View species" href="https://www.worldwildlife.org:443/species">
-View species<i class="ico" aria-hidden="true">h</i>
-</a>	</div>
-<div class="secondary">
-<ul class="list-linked">
-<li><a data-track-event="Species Show|Upper Nav Click|Species - Animal Trivia Games" href="https://www.worldwildlife.org:443/pages/animal-trivia-games">Animal Trivia Games</a></li>
-<li><a data-track-event="Species Show|Upper Nav Click|Species - Symbolically Adopt an Animal" href="http://gifts.worldwildlife.org/gift-center/Default.aspx?sc=AWY1904OQ19068A02866RX">Symbolically Adopt an Animal</a></li>
-<li><a data-track-event="Species Show|Upper Nav Click|Species - Endangered Species" href="https://www.worldwildlife.org:443/species/directory?sort=extinction_status&amp;direction=desc">Endangered Species</a></li>
-<li><a data-track-event="Species Show|Upper Nav Click|Species - Teaching Resources" href="https://www.worldwildlife.org:443/teaching-resources/">Teaching Resources</a></li>
-</ul>
-</div>
-</div>
-</li>
-<li class="dropdown-control">
-<a data-track-event="Species Show|Upper Nav Click|Places" href="https://www.worldwildlife.org:443/places">Places</a>
-<div class="dropdown">
-<div class="primary">
-<ul>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Places - Amazon" href="https://www.worldwildlife.org:443/places/amazon">
-<span>Amazon</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Places - Arctic" href="https://www.worldwildlife.org:443/places/arctic">
-<span>Arctic</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Places - Borneo and Sumatra" href="https://www.worldwildlife.org:443/places/borneo-and-sumatra">
-<span>Borneo and Sumatra</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Places - Congo Basin" href="https://www.worldwildlife.org:443/places/congo-basin">
-<span>Congo Basin</span>
-</a>	</li>
-</ul>
-<ul>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Places - Coral Triangle" href="https://www.worldwildlife.org:443/places/coral-triangle">
-<span>Coral Triangle</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Places - Eastern Himalayas" href="https://www.worldwildlife.org:443/places/eastern-himalayas">
-<span>Eastern Himalayas</span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Places - The Galapagos " href="https://www.worldwildlife.org:443/places/the-galapagos">
-<span>The Galapagos </span>
-</a>	</li>
-<li>
-<a data-track-event="Species Show|Upper Nav Click|Places - Northern Great Plains" href="https://www.worldwildlife.org:443/places/northern-great-plains">
-<span>Northern Great Plains</span>
-</a>	</li>
-</ul>
-<a class="view-all" data-track-event="Species Show|Upper Nav Click|Places - View all WWF priority places" href="https://www.worldwildlife.org:443/places">
-View all WWF priority places<i class="ico" aria-hidden="true">h</i>
-</a>	</div>
-<div class="secondary">
-<ul class="list-linked">
-<li><a data-track-event="Species Show|Upper Nav Click|Places - Travel with WWF" href="https://www.worldwildlife.org:443/travel">Travel with WWF</a></li>
-<li><a data-track-event="Species Show|Upper Nav Click|Places - Habitats" href="https://www.worldwildlife.org:443/habitats">Habitats</a></li>
-<li><a data-track-event="Species Show|Upper Nav Click|Places - Our Work Conserving Places" href="https://www.worldwildlife.org:443/initiatives/conserving-places">Our Work Conserving Places</a></li>
-</ul>
-</div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div id="mobile-header">
-<div class="header wrapper">
-<a class="logo alt" data-track-event="Species Show|Upper Nav Click|Panda Logo" href="https://www.worldwildlife.org/">WWF</a>
-<a href="#" class="control control-expand" data-track-event="Species Show|Upper Nav Click|Toggle Dropdown Menu">
-<span class="screen-reader">Toggle Nav</span>
-<i class="ico open" aria-hidden="true">v</i>
-<i class="ico close" aria-hidden="true">k</i>
-</a>
-</div>
-<ul class="nav nav-permanent-actions">
-<li>
-<a class="action action-primary" data-track-event="Species Show|Upper Nav Click|Donate" href="https://support.worldwildlife.org/site/SPageServer?pagename=main_monthly&amp;s_src=AWE1907OQ18299A01179RX">
-Donate
-</a> </li>
-<li>
-<a class="action action-secondary" data-track-event="Species Show|Upper Nav Click|Adopt" href="https://gifts.worldwildlife.org/gift-center/Default.aspx?sc=AWY1906OQ18317A01179RX">
-Adopt
-</a> </li>
-</ul>
-<div class="dropdown">
-<ul class="nav">
-<li><a data-track-event="Species Show|Upper Nav Click|Small Nav - Our Work" href="https://www.worldwildlife.org:443/initiatives">Our Work</a></li>
-<li><a data-track-event="Species Show|Upper Nav Click|Small Nav - Species" href="https://www.worldwildlife.org:443/species">Species</a></li>
-<li><a data-track-event="Species Show|Upper Nav Click|Small Nav - Places" href="https://www.worldwildlife.org:443/places">Places</a></li>
-<li><a data-track-event="Species Show|Upper Nav Click|Small Nav - About Us" href="https://www.worldwildlife.org:443/about">About Us</a></li>
-<li><a data-track-event="Species Show|Upper Nav Click|Small Nav - How to Help" href="https://www.worldwildlife.org:443/how-to-help">How to Help</a></li>
-</ul>
-<ul class="nav">
-<li>
-<a class="action action-primary" data-track-event="Species Show|Upper Nav Click|Donate" href="https://support.worldwildlife.org/site/SPageServer?pagename=main_monthly&amp;s_src=AWE1907OQ18299A01179RX">
-Donate
-</a> </li>
-<li>
-<a class="action action-secondary" data-track-event="Species Show|Upper Nav Click|Adopt" href="https://gifts.worldwildlife.org/gift-center/Default.aspx?sc=AWY1906OQ18317A01179RX">
-Adopt
-</a> </li>
-</ul>
-<form action="https://www.worldwildlife.org/search" id="cse-search-box" data-track-event="Species Show|Upper Nav Click|Search Submitted">
-<div class="form-inline">
-<input type="hidden" name="cx" value="003443374396369277624:v3nraqhmeyk"/>
-<input type="hidden" name="ie" value="UTF-8"/>
-<label for="mobile-q" class="screen-reader">Search</label>
-<input type="text" name="x" id="mobile-q" placeholder="Search"/>
-<button name="sa" type="submit"><span class="screen-reader">Submit</span><i class="ico ico-search" aria-hidden="true">w</i></button>
-</div>
-</form>
-</div>
-</div>
-<!--[if lt IE 9]>
-  <style>
-    .ie-old-browser-notification #box {
-      background-color:#f6f5f2;
-      padding: 10px;
-      margin: 15px;
-    }
-    .ie-old-browser-notification #text {
-      max-width: 230px;
-      float: left;
-    }
-    .ie-old-browser-notification .content {
-      padding-top: 20px;
-    }
-  </style>
+<html lang="en" class="no-js not-logged-in client-root">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <div class = "wrapper gutter-vert-in ie-old-browser-notification">
-    <div id = "box">
-      <button class="push-right close"><i class="ico" aria-hidden="true">k</i></button>
-      <div class = "content">
-        <div id = "text">
-          <h2 class = "gutter-vert-in">Sorry! Our website may not look great in your internet browser.</h2>
-          <p class = "gutter-bottom-2">For the best experience, please follow the links below to update your preferred internet browser.</p>
-        </div>
-        <ul class="row card-group gutter-bottom-4" id = "list">
-          <li class = "card span2">
-            <a href = "https://www.google.com/chrome/">
-              <div class = "figure"><img src="/assets/structure/unique/chrome_logo.png" alt = "google chrome logo"></div>
-              <div class = "content">
-                <strong class = "name">Google Chrome</strong>
-              </div>
-            </a>
-          </li>
-          <li class = "card span2">
-            <a href = "https://www.mozilla.org/en-US/firefox/new/?utm_source=firefox-com&utm_medium=referral">
-              <div class = "figure"><img src="/assets/structure/unique/firefox-logo.png" alt = "mozilla firefox logo"></div>
-              <div class = "content">
-                <strong class = "name">Mozilla Firefox</strong>
-              </div>
-            </a>
-          </li>
-          <li class = "card span2">
-            <a href="https://www.apple.com/safari/">
-              <div class = "figure"><img src="/assets/structure/unique/safarilogo.jpg" alt = "safari logo"></div>
-              <div class = "content">
-                <strong class = "name">Safari</strong>
-              </div>
-            </a>
-          </li>
-          <li class = "card span2">
-            <a href="https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads">
-              <div class = "figure"><img src="/assets/structure/unique/ie.png" alt = "internet explorer logo"></div>
-              <div class = "content">
-                <strong class = "name">Internet Explorer</strong>
-              </div>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  <![endif]-->
-<div id="content">
-<div class="section row-parent hero-container " id="top">
-<div class="wrapper row-parent breadcrumbs-hero break-hide">
-<ol class="breadcrumbs">
-<li>
-<a data-track-event="Species Show|Breadcrumb Click|Dolphins and Porpoises" href="/species/dolphins-and-porpoises">
-<i class="ico" aria-hidden="true">x</i> Dolphins and Porpoises
-</a> </li>
-<li class="current">Vaquita</li>
-</ol>
-</div>
-<h1 class="screen-reader">Vaquita</h1>
-<div class="hero">
-<div class="figure" data-attribution="Thomas A. Jefferson ">
-<div data-picture data-alt="Vaquita 1 Thomas A Jefferson 20081019">
-<div data-src="https://c402277.ssl.cf1.rackcdn.com/photos/195/images/hero_full/Vaquita_1_Thomas_A_Jefferson_20081019.jpg?1345566367"></div>
-<div data-src="https://c402277.ssl.cf1.rackcdn.com/photos/195/images/hero_small/Vaquita_1_Thomas_A_Jefferson_20081019.jpg?1345566367" data-media="(max-width: 640px)"></div>
-<noscript>
-<img class="centered" alt="Vaquita 1 Thomas A Jefferson 20081019" src="https://c402277.ssl.cf1.rackcdn.com/photos/195/images/hero_small/Vaquita_1_Thomas_A_Jefferson_20081019.jpg?1345566367"/>
-</noscript>
-</div>
-</div>
-</div>
-<div class="wrapper row-parent breadcrumbs-hero break-show">
-<ol class="breadcrumbs">
-<li>
-<a href="/species/dolphins-and-porpoises">
-<i class="ico" aria-hidden="true">x</i> Dolphins and Porpoises
-</a> </li>
-<li class="current">Vaquita</li>
-</ol>
-</div>
-</div>
-<div class="section shaded-dark nav-fixed-container">
-<div class="nav-fixed nav-fixed-full">
-<div class="wrapper">
-<div class="nav-fixed-page-title">Vaquita</div>
-<div class="nav-fixed-content">
-<div class="fixed-nav-progress-bar"></div>
-<ul class="nav-horiz" id="one-page-nav">
-<li class="nav-fixed-top current"><a data-track-event="Species Show|Sticky Navigation Click|Top" href="#top">Top</a></li>
-<li><a href="#overview" data-track-event="Species Show|Sticky Navigation Click|Facts">Facts</a></li>
-<li><a href="#why-they-matter" data-track-event="Species Show|Sticky Navigation Click|Why They Matter">Why They Matter</a></li>
-<li><a href="#threats" data-track-event="Species Show|Sticky Navigation Click|Threats">Threats</a></li>
-<li><a href="#what-wwf-is-doing" data-track-event="Species Show|Sticky Navigation Click|What WWF is Doing">What WWF is Doing</a></li>
-<li><a href="#how-you-can-help" data-track-event="Species Show|Sticky Navigation Click|How You Can Help">How You Can Help</a></li>
-</ul>
-</div>
-<div class="nav-fixed-promo-link">
-<a class="external" data-track-event="Species Show|Sticky Navigation Click|Call to Action - Adopt a Dolphin" href="https://gifts.worldwildlife.org/gift-center/gifts/Species-Adoptions/Dolphin.aspx?sc=AWY1800OQ18317A01909RX">
-Adopt a Dolphin
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="section section-top-level" id="overview">
-<div class="section-inner shaded-light-checked section-inner-padded">
-<h2 class="hdr-primary hdr-primary-shaded-light-checked"><span>Facts</span></h2>
-<div class="wrapper">
-<div class="lead gutter-bottom-6 medium-add-gutter wysiwyg">
-</div>
-</div>
-<div class="wrapper section-pop">
-<div class="row section-pop-inner gutter-bottom-in-6">
-<div class="span6 push-right medium-break gutter-top-in-3 gutter-horiz-in gutter-bottom-in-2">
-<ul class="list-data list-stats list-items">
-<li class="highlight">
-<i class="wwf status" aria-hidden="true">CR</i>
-<strong class="hdr">Status</strong>
-<div class="container">
-Critically Endangered
-</div>
-</li>
-<li>
-<i class="ico" aria-hidden="true">a</i>
-<strong class="hdr">Population</strong>
-<div class="container">
-30 individuals
-</div>
-</li>
-<li>
-<i class="ico" aria-hidden="true">b</i>
-<strong class="hdr">Scientific Name</strong>
-<div class="container">
-<em>Phocoena sinus</em>
-</div>
-</li>
-<li>
-<i class="ico" aria-hidden="true">c</i>
-<strong class="hdr">Height</strong>
-<div class="container">
-Up to 5 feet
-</div>
-</li>
-<li>
-<i class="ico" aria-hidden="true">d</i>
-<strong class="hdr">Weight</strong>
-<div class="container">
-Up to 120 pounds
-</div>
-</li>
-<li>
-<i class="ico" aria-hidden="true">e</i>
-<strong class="hdr">Habitats</strong>
-<div class="container">
-Marine (only in the northern Gulf of California)
-</div>
-</li>
-</ul>
-<div class="gutter-bottom-fixed-2">
-<div class="map-container frame">
-<div id="map" data-kml="http://assets.worldwildlife.org/species_versions/1627/kml_files/original/Phocoena_sinus.kmz?1510344144" data-track-map="Species Show|Map Marker Click"></div>
-</div>
-<p>Map data provided by<a href="http://www.iucnredlist.org" target="_blank" rel="noopener noreferrer"> IUCN</a>.</p>
-</div>
-</div>
-<div class="gutter-top-in-4 gutter-bottom-in-2 gutter-horiz-in">
-<div class="wysiwyg lead">
-<p>Vaquita, the world&rsquo;s most rare marine mammal, is on the edge of extinction. This little porpoise wasn't discovered until 1958 and a little over half a century later, we are on the brink of losing them forever. Vaquita are often caught and drowned in gillnets used by illegal fishing operations in marine protected areas within Mexico's Gulf of California. The population has dropped drastically in the last few years.<br/><br/>The vaquita has a large dark ring around its eyes and dark patches on its lips that form a thin line from the mouth to the pectoral fins. Its dorsal surface is dark gray, sides pale gray and ventral surface white with long, light gray markings. Newborn vaquita have darker coloration and a wide gray fringe of color that runs from the head to the dorsal flukes, passing through the dorsal and pectoral fins. They are most often found close to shore in the Gulf's shallow waters, although they quickly swim away if a boat approaches.</p>
-<p>&nbsp;</p>
-</div>
-<ul class="list-inline list-share gutter-bottom-2 gutter-top-in-1 gutter-bottom-in-1 social-sharing">
-<li>
-<div class="fb-share-button" data-layout="button_count" data-href="https://www.worldwildlife.org/species/vaquita"></div>
-</li>
-<li id="twitter-button--share">
-<a href="https://twitter.com/tweet" class="twitter-share-button" data-lang=en data-count="horizontal">Tweet</a>
-</li>
-<li>
-<a href="http://wwf.worldwildlife.org/site/TellAFriend?page=https://www.worldwildlife.org/species/vaquita" class="tellfriend" data-track-event="Species Show|Social Share Click|Tell A Friend"> <i class="ico taf-link" aria-hidden="true">F</i></a>
-</li>
-</ul>
-<ul class="list-data list-spaced">
-<li>
-<strong class="hdr">Places</strong>
-<div class="lead">
-<a data-track-event="Species Show|Related Text Link Click|Places - Gulf of California" href="/places/gulf-of-california">Gulf of California</a>
-</div>
-</li>
-<li>
-<strong class="hdr">Habitats</strong>
-<div class="lead">
-<a data-track-event="Species Show|Related Text Link Click|Habitats - Ocean Habitat" href="/habitats/ocean-habitat">Ocean Habitat</a>
-</div>
-</li>
-</ul>
-</div>
-<div class="clearing">
-<a class="btn btn-simple btn-push-left" data-track-event="Species Show|Browse Photos &amp; Videos" href="/media?species_id=vaquita">Browse Photos &amp; Videos <i class="ico" aria-hidden="true">h</i></a>
-</div>
-</div>
-</div>
-</div>
-<div class="shaded-light ">
-<div class="wrapper">
-<div class="row gutter-top-in-4 gutter-bottom-in-4">
-<div class="span8 gutter-horiz-in gutter-top-in-3">
-<h3 class="h2-sub"><a data-track-event="Species Show|Featured Story Click|/stories/celebrating-the-biggest-conservation-wins-of-2017" href="/stories/celebrating-the-biggest-conservation-wins-of-2017">Celebrating the biggest conservation wins of 2017</a></h3>
-<div class="wysiwyg lead">
-<p>As 2017 comes to a close, we&rsquo;re taking a moment to highlight some of our biggest conservation successes of the year. And we couldn&rsquo;t have done it without your support.</p>
-</div>
-<div class="btn-group">
-<a class="btn btn-simple" data-track-event="Species Show|Featured Story Click|/stories/celebrating-the-biggest-conservation-wins-of-2017" href="/stories/celebrating-the-biggest-conservation-wins-of-2017">Continue Reading <i class='ico' aria-hidden='true'>h</i></a>
-<a class="btn btn-simple btn-unstyled" data-track-event="Species Show|More Stories Click" href="/stories?species_id=vaquita">More Stories <i class='ico' aria-hidden='true'>h</i></a>
-</div>
-</div>
-<div class="span4">
-<div class="figure">
-<img alt="Myanmar Elephant Restricted Campaign" data-attribution="Christy Williams/WWF" src="https://c402277.ssl.cf1.rackcdn.com/photos/14167/images/featured_story/Christy_Williams_20101129_69_.jpg?1502386058"/>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="section section-top-level" id="why-they-matter">
-<div class="container">
-<div class="section-inner shaded-light-pattern section-inner-padded">
-<h2 class="hdr-primary hdr-primary-shaded-light-pattern"><span>Why They Matter</span></h2>
-<div class="row-parent">
-<div class="wrapper">
-<div class="slider" data-track-slider="Species Show|Large Slider">
-<ul class="items">
-<li class="item current">
-<div class="figure" data-attribution="Thomas A. Jefferson ">
-<div data-picture data-alt="Vaquita">
-<div data-src="https://c402277.ssl.cf1.rackcdn.com/photos/196/images/story_full_width/Vaquita_3_Thomas_A_Jefferson_1913.jpg?1345516469"></div>
-<div data-src="https://c402277.ssl.cf1.rackcdn.com/photos/196/images/carousel_small/Vaquita_3_Thomas_A_Jefferson_1913.jpg?1345516469" data-media="(max-width: 640px)"></div>
-<noscript>
-<img class="centered" alt="Vaquita" src="https://c402277.ssl.cf1.rackcdn.com/photos/196/images/carousel_small/Vaquita_3_Thomas_A_Jefferson_1913.jpg?1345516469"/>
-</noscript>
-</div>
-</div>
-<div class="description shaded-pop">
-<h3 class="hdr hdr-important hdr-centered"></h3>
-<p>The vaquita is the most endangered cetacean in the world. With as few as 30 left, the species will become extinct without a fully enforced gillnet ban throughout their entire range. WWF urgently working to ensure they can live and thrive in their natural habitat.</p>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="section section-top-level" id="threats">
-<div class="section-inner section-inner-padded shaded-dark-pattern">
-<h2 class="hdr-primary hdr-primary-dark-pattern"><span>Threats</span></h2>
-<div class="wrapper">
-<ul class="list-row-flex list-row-details list-row-extinction-details contain gutter-bottom-5 gutter-bottom-in-1">
-<li class="break-gutter-bottom-small">
-<strong class="hdr">Population</strong>
-30 individuals
-</li>
-<li class="break-gutter-bottom-small">
-<div class="push-left break-gutter-bottom-small">
-<strong class="hdr">Extinction Risk</strong>
-Critically Endangered
-</div>
-<ol class="push-left list-row-flex list-extinction-risk break-gutter-bottom-small contain tooltips">
-<li class="tooltip-control ">
-<abbr>EX</abbr>
-<div class="tooltip">
-<strong class="title">Extinct</strong>
-<div class="content">
-<p>No reasonable doubt that the last individual has died</p>
-</div>
-</div>
-</li>
-<li class="tooltip-control ">
-<abbr>EW</abbr>
-<div class="tooltip">
-<strong class="title">Extinct in the Wild</strong>
-<div class="content">
-<p>Known only to survive in cultivation, in captivity or as a naturalised population</p>
-</div>
-</div>
-</li>
-<li class="tooltip-control current">
-<abbr>CR</abbr>
-<div class="tooltip">
-<strong class="title">Critically Endangered</strong>
-<div class="content">
-<p>Facing an extremely high risk of extinction in the Wild</p>
-</div>
-</div>
-</li>
-<li class="tooltip-control ">
-<abbr>EN</abbr>
-<div class="tooltip">
-<strong class="title">Endangered</strong>
-<div class="content">
-<p>Facing a high risk of extinction in the Wild</p>
-</div>
-</div>
-</li>
-<li class="tooltip-control ">
-<abbr>VU</abbr>
-<div class="tooltip">
-<strong class="title">Vulnerable</strong>
-<div class="content">
-<p>Facing a high risk of extinction in the Wild</p>
-</div>
-</div>
-</li>
-<li class="tooltip-control ">
-<abbr>NT</abbr>
-<div class="tooltip">
-<strong class="title">Near Threatened</strong>
-<div class="content">
-<p>Likely to qualify for a threatened category in the near future</p>
-</div>
-</div>
-</li>
-<li class="tooltip-control ">
-<abbr>LC</abbr>
-<div class="tooltip">
-<strong class="title">Least Concern</strong>
-<div class="content">
-<p>Does not qualify for Critically Endangered, Endangered, Vulnerable, or Near Threatened</p>
-</div>
-</div>
-</li>
-</ol>
-</li>
-</ul>
-<div class="figure shaded-pop">
-<img alt="fishing boat" data-attribution="Gustavo Ybarra / WWF-Canon" src="https://c402277.ssl.cf1.rackcdn.com/photos/3839/images/story_full_width/fishing_boat_107854.jpg?1364320558"/>
-<div class="caption"><p>A fishing boat in the Gulf of California.</p></div>
-</div>
-<div class="lead wysiwyg gutter-horiz-in gutter-top-3 gutter-bottom-3">
-<p>The vaquita will be extinct, possibly by 2018, if fishery bycatch is not eliminated immediately. Nearly one out of every five vaquita get entangled and drown in gillnets intended for other marine species like the totoaba, a critically endangered fish also found in the upper Gulf of California. Entanglement in gillnets set for totoaba was the primary cause that brought the vaquita to low levels by the mid-1970s. Totoaba were overfished by the mid-1970s and were listed as endangered by Mexico in 1975, and by the US in 1979. <br/><br/>Today, international trade in totoaba is banned under CITES but high demand from China for its swim bladder has led to a corresponding boom in illegal totoaba fishing in the past few years. Thousands of swim bladders are dried and smuggled out of Mexico, often through the United States. Fishermen receive around $4,000 for each pound of totoaba swim bladder, equivalent to half a year&rsquo;s income from legal fishing activities. It is this illegal trade that is currently driving the precipitous decline in vaquita numbers.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="section section-top-level" id="what-wwf-is-doing">
-<div class="section-inner section-inner-padded ">
-<h2 class="hdr-primary "><span>What WWF Is Doing</span></h2>
-<div class="wrapper">
-<div class="lead wysiwyg gutter-horiz-in gutter-top-3 gutter-bottom-3">
-</div>
-<div class="row lead gutter-bottom-4">
-<div class="span4 gutter-left-fixed-in-2 push-right gutter-bottom-fixed-2">
-<div class="item-highlight gutter-left-fixed-2 gutter-horiz-in gutter-top-in-3 gutter-bottom-in-4 break-gutter-bottom shaded-light">
-<h3 class="hdr hdr-important hdr-centered">&#39;Ghost Net&#39; Retrieval and Acoustic Monitoring</h3>
-<div class="wysiwyg">
-<p>WWF&rsquo;s goal is to achieve a gillnet-free Upper Gulf of California where wild vaquita can thrive. In order to protect&nbsp;the vaquita&rsquo;s native habitat, we closely collaborate with partners to support:</p>
-<ul>
-<li><strong>The retrieval of lost or abandoned illegal&nbsp;&ldquo;ghost&rdquo; gillnets</strong>,&nbsp;which continue to entangle and kill vaquitas and other marine species, and providing technology to improve and increase effectiveness of current retrieval methods. From October 2016 to July 2017 alone, this initiative retrieved more than 400 nets from vaquita habitat and we will continue to search for more, given continued illegal fishing.</li>
-<li>WWF has&nbsp;long collaborated on&nbsp;<strong>acoustic monitoring</strong>, to help estimate the vaquita population. WWF will continue to support acoustic monitoring of the population, as it provides crucial information for the design and implementation of effective conservation measures.</li>
-</ul>
-</div>
-</div>
-</div>
-<h3 class="hdr-important">International cooperation to boost vaquita-safe fishing</h3>
-<div class="gutter-bottom-fixed-2 wysiwyg">
-<p>In July 2016, President Barack Obama and President Enrique Pe&ntilde;a Nieto of Mexico announced billateral collaboration measures to protect the vaquita. As a follow up to this meeting and to the recommendations CIRVA presented in its vaquita report,&nbsp;Mexico's National Institute of Fisheries (INAPESCA) and WWF Mexico established an international committee of experts to further develop and urgently implement vaquita-safe fishing technologies.</p>
-<p>The experts committee will advise the Mexican government on improving fishing techniques not harmful to vaquita, including those that INAPESCA and WWF Mexico have together developed over the last years.</p>
-<p>This independent committee has been charged with improving existing vaquita-safe fishing technologies (such as the small trawl to catch shrimp and traps and other gear for fish) to substitute gillnets which will be permanently prohibited starting September in the Upper Gulf of California, the only place on Earth where the vaquita exists.</p>
-<p>The committee is comprised of experts from Texas A&amp;M University, NOAA South East Fisheries Center, Swedish University of Agriculture Science, Technological University of Denmark, Canada's Fisheries and Marine Institute, New England Aquarium, FAO,&nbsp;INAPESCA and WWF.</p>
-<p>A protocol and guidelines to catch shrimp with vaquita-safe technology is expected to be ready soon.&nbsp;</p>
-</div>
-<h3 class="hdr-important">Saving the Last of the Vaquitas</h3>
-<div class="span4 gutter-horiz-in push-right gutter-bottom-fixed-2 break-gutter-bottom">
-<div class="figure">
-<img alt="Fin" src="https://c402277.ssl.cf1.rackcdn.com/photos/193/images/portrait_small/Vaquita_4_Thomas_A_Jefferson_2273.jpg?1345566338"/>
-</div>
-</div>
-<div class="gutter-bottom-fixed-2 wysiwyg">
-<p>WWF is on red alert after the most recent&nbsp;<a href="../../../../../stories/population-of-world-s-most-endangered-marine-mammal-drops-40-percent">report</a>&nbsp;from the International Committee for the Recovery of the Vaquita (CIRVA) estimated the vaquita population at&nbsp;no more than 30. In the past, WWF has helped study vaquitas and implement protective measures with the Mexican government and local partners. We have been working with Mexican scientists, government representatives, and other partners and collaborators to develop a long-term strategy for conservation of the species.</p>
-<p>We are now calling for urgent and immediate measures to save the last of the vaquitas.</p>
-<p>Based on expert recommendations, WWF calls on the Mexican government to strongly enforce a ban on gillnet fisheries throughout the entire range of the species starting in September 2014. We also ask that the US and China help stamp out the illegal trade in totoaba products and provide enforcement support to the Mexican government, without which vaquitas will go the way of the dodo.</p>
-<p>&nbsp;</p>
-<p><em>All vaquita photos on this page by Thomas A. Jefferson from the joint research project with the Marine Mammals Research and Conservation Coordination of the National Institute of Ecology of Mexico. Photo obtained under permit No. DR7488708 of SEMARNAT (Mexican National Commission of Protected Natural Areas).</em></p>
-</div>
-</div>
-<div class="gutter-bottom-4">
-<h3 class="hdr-secondary">
-<a data-track-event="Species Show|What WWF Is Doing Link Click|Heading Click - Publications" href="/publications?species_id=vaquita">Publications</a>
-</h3>
-<ul class="row">
-<li class="span3 gutter-bottom-2">
-<a class="block" data-track-event="Species Show|Download|Vanishing Vaquita:  Saving the World’s Most Endangered Marine Mammal" href="https://c402277.ssl.cf1.rackcdn.com/publications/1054/files/original/VAQUITA_HR_PRINT.pdf?1494867609">
-<span class="brochure">
-<img alt="Vanishing Vaquita:  Saving the World’s Most Endangered Marine Mammal Brochure" src="https://c402277.ssl.cf1.rackcdn.com/publications/1054/cover_images/small/int_044234.jpg?1494867608"/>
-</span>
-</a>
-<h4 class="h3">
-<a data-track-event="Species Show|What WWF Is Doing Link Click|Publications Link Click - Vanishing Vaquita:  Saving the World’s Most Endangered Marine Mammal" href="/publications/vanishing-vaquita-saving-the-world-s-most-endangered-marine-mammal">Vanishing Vaquita: Saving the World’s Most Endangered Marine Mammal</a>
-</h4>
-</li>
-<li class="span3 gutter-bottom-2">
-<a class="block" data-track-event="Species Show|Download|Report: 5th Meeting of the International Committee for the Recovery of the Vaquita (CIRVA) " href="https://c402277.ssl.cf1.rackcdn.com/publications/713/files/original/2014_Vaquita_Report_Fifth_Meeting_of_CIRVA.pdf?1408479198">
-<span class="brochure">
-<img alt="" src="/assets/content/report-green-blank-69f01b2bf5ab86eaaa3b9557c4aa6bdc680e607b971ad69b6cc44d8e1777c2ae.png"/>
-</span>
-</a>
-<h4 class="h3">
-<a data-track-event="Species Show|What WWF Is Doing Link Click|Publications Link Click - Report: 5th Meeting of the International Committee for the Recovery of the Vaquita (CIRVA) " href="/publications/report-5th-meeting-of-the-international-committee-for-the-recovery-of-the-vaquita-cirva">Report: 5th Meeting of the International Committee for the Recovery of the Vaquita (CIRVA) </a>
-</h4>
-</li>
-</ul>
-</div>
-<h3 class="hdr-secondary"><a data-track-event="Species Show|What WWF Is Doing Link Click|Heading Click - Experts" href="/experts?species_id=vaquita">Experts</a></h3>
-<div class="carousel container">
-<ul class="items list-data">
-<li class="span3-fixed">
-<a class="block contain" data-track-event="Species Show|What WWF Is Doing Link Click|Experts Link Click - #&lt;Person::ActiveRecord_AssociationRelation:0x00007f4b0c3dd958&gt;" href="/experts/leigh-henry">
-<img class="push-left gutter-right-fixed-2" alt="Leigh Henry" src="https://c402277.ssl.cf1.rackcdn.com/experts/142/headshots/associated_resource/DEB20547.jpg?1434384381"/>
-<strong class="hdr">Leigh Henry</strong>
-<em class="details base">Director, Wildlife Policy, Wildlife Conservation</em>
-</a>	</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="section section-top-level" id="how-you-can-help">
-<div class="section-inner section-inner-padded shaded-light-pattern">
-<h2 class="hdr-primary hdr-primary-shaded-light-pattern"><span>How You Can Help</span></h2>
-<div class="wrapper">
-<div class="lead wysiwyg gutter-horiz-in gutter-top-3 gutter-bottom-3">
-</div>
-<div class="row group-cta-items gutter-bottom-4">
-<a class="block span6 cta-item shaded-pop track-cta-items" data-track-event="Species Show|How You Can Help Panel Click|Left - Partnership - Bank of America Credit Card" data-track-cta-event="Species Show|How You Can Help Panel Display|Left - Partnership - Bank of America Credit Card" data-track-name="Support WWF" href="https://www.worldwildlife.org/partnerships/bank-of-america--9" data-c2a='{"slot":"Species Detail - Left","template":"portraits/call_to_action","page_type":"Species Show","locals":{"index":0,"card_background":"shaded-pop"}}'>
-<div class="row">
-<div class="content contain span6">
-<div class="padded">
-<h3 class="hdr hdr-quaternary">
-Support WWF
-</h3>
-<p>Show your love of the tiger with the WWF BankAmericard Cash Rewards Visa credit card. Bank of America will contribute $100 to WWF for each account opened and activated.</p>
-</div>
-</div>
-<div class="span6">
-<div data-alt="Support WWF" data-picture="">
-<div data-src="https://c402277.ssl.cf1.rackcdn.com/photos/16555/images/priority_species/bankofamerica-tigercard-web.jpg?1543514401"></div>
-<div data-src="https://c402277.ssl.cf1.rackcdn.com/photos/16555/images/priority_species_small/bankofamerica-tigercard-web.jpg?1543514401" data-media="(min-width: 641px)"></div>
-<noscript>
-<img src="https://c402277.ssl.cf1.rackcdn.com/photos/16555/images/priority_species_small/bankofamerica-tigercard-web.jpg?1543514401" alt="Bankofamerica tigercard web">
-</noscript>
-</div>
-</div>
-</div>
-</a>
-<a class="block span6 cta-item shaded-pop track-cta-items" data-track-event="Species Show|How You Can Help Panel Click|Right - Adopt an Animal - Generic" data-track-cta-event="Species Show|How You Can Help Panel Display|Right - Adopt an Animal - Generic" data-track-name="Adopt an Animal" href="http://gifts.worldwildlife.org/gift-center/default.aspx?sc=AWY1705OQ18316A01275RX" data-c2a='{"slot":"Species Detail - Right","template":"portraits/call_to_action","page_type":"Species Show","locals":{"index":1,"card_background":"shaded-pop"}}'>
-<div class="row">
-<div class="content contain span6">
-<div class="padded">
-<h3 class="hdr hdr-quaternary">
-Adopt an Animal
-</h3>
-<p>Make a symbolic animal adoption to help save some of the world's most endangered animals from extinction and support WWF's conservation efforts.</p>
-</div>
-</div>
-<div class="span6">
-<div data-alt="Adopt an Animal" data-picture="">
-<div data-src="https://c402277.ssl.cf1.rackcdn.com/photos/12824/images/priority_species/How-to-Help-elephant.jpg?1479930010"></div>
-<div data-src="https://c402277.ssl.cf1.rackcdn.com/photos/12824/images/priority_species_small/How-to-Help-elephant.jpg?1479930010" data-media="(min-width: 641px)"></div>
-<noscript>
-<img src="https://c402277.ssl.cf1.rackcdn.com/photos/12824/images/priority_species_small/How-to-Help-elephant.jpg?1479930010" alt="How to help elephant">
-</noscript>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="wrapper gutter-top-in-fixed-4 gutter-bottom-in-fixed-4" id="">
-<h3 class="hdr-secondary ">Related Species</h3>
-<div class="carousel circle-carousel  container">
-<ul class="items">
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Hector&#39;s Dolphin" href="/species/hector-s-dolphin">
-<img alt="Hector&#39;s Dolphin" src="https://c402277.ssl.cf1.rackcdn.com/photos/503/images/circle/Hectors_Dolphin_Hero_and_Circle_and_Why_they_Matter_Image_26578.jpg?1345573072"/>
-<strong class="name">Hector&#39;s Dolphin</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Yangtze Finless Porpoise" href="/species/yangtze-finless-porpoise">
-<img alt="Yangtze Finless Porpoise" src="https://c402277.ssl.cf1.rackcdn.com/photos/600/images/circle/yangtze_finless_porpoise_7.23.2012_image3_HI_105591.jpg?1367333455"/>
-<strong class="name">Yangtze Finless Porpoise</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Amazon River Dolphin" href="/species/amazon-river-dolphin">
-<img alt="Amazon River Dolphin (Pink Dolphin)" src="https://c402277.ssl.cf1.rackcdn.com/photos/787/images/circle/Amazon_River_Dolphin_7.25.2012_Circle_and_Hero_XL_257657.jpg?1470325710"/>
-<strong class="name">Amazon River Dolphin</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Ganges River Dolphin" href="/species/ganges-river-dolphin">
-<img alt="Ganges River Dolphin " src="https://c402277.ssl.cf1.rackcdn.com/photos/820/images/circle/Ganges_River_Dolphin_7.26.2012_hero_and_circle_HI_114110.jpg?1345531213"/>
-<strong class="name">Ganges River Dolphin</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Indus River Dolphin" href="/species/indus-river-dolphin">
-<img alt="Indus River dolphin pops out of water" src="https://c402277.ssl.cf1.rackcdn.com/photos/14861/images/circle/Indus_River_Dolphin.jpg?1513270520"/>
-<strong class="name">Indus River Dolphin</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Irrawaddy Dolphin" href="/species/irrawaddy-dolphin">
-<img alt="Irrawaddy dolphin breaching" src="https://c402277.ssl.cf1.rackcdn.com/photos/2715/images/circle/Mekong_Irrawaddy_Dolphin_breaching_%28c%29_WWF_Greater_Mekong.jpg?1421877230"/>
-<strong class="name">Irrawaddy Dolphin</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Sea Turtle" href="/species/sea-turtle">
-<img alt="Marine turtle" src="https://c402277.ssl.cf1.rackcdn.com/photos/54/images/circle/Marine_Turtle_Circle_image_HI_2425.jpg?1345513323"/>
-<strong class="name">Sea Turtle</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Whale Shark" href="/species/whale-shark">
-<img alt="Whale Shark" src="https://c402277.ssl.cf1.rackcdn.com/photos/158/images/circle/HI_30321why-matter.jpg?1345515597"/>
-<strong class="name">Whale Shark</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Dugong" href="/species/dugong">
-<img alt="Dugong" src="https://c402277.ssl.cf1.rackcdn.com/photos/328/images/circle/SCR_58128.jpg?1345519756"/>
-<strong class="name">Dugong</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Humphead Wrasse" href="/species/humphead-wrasse">
-<img alt="Napoleon Wrasse, also known as Maori or Humphead Wrasse in the Red Sea" src="https://c402277.ssl.cf1.rackcdn.com/photos/338/images/circle/Humphead_Wrasse_What_WWF_Is_Doing_114963.jpg?1345519830"/>
-<strong class="name">Humphead Wrasse</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Pacific Salmon" href="/species/pacific-salmon">
-<img alt="Swimming Pacific Salmon" src="https://c402277.ssl.cf1.rackcdn.com/photos/464/images/circle/SCR_112302.jpg?1345523309"/>
-<strong class="name">Pacific Salmon</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Dolphins and Porpoises" href="/species/dolphins-and-porpoises">
-<img alt="Dolphins and Porpoises" src="https://c402277.ssl.cf1.rackcdn.com/photos/525/images/circle/Dolphins_and_Porpoises_7.16.2012_Why_They_Matter_image_290285.jpg?1345573343"/>
-<strong class="name">Dolphins and Porpoises</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Whale" href="/species/whale">
-<img alt="Humpback Whale " src="https://c402277.ssl.cf1.rackcdn.com/photos/625/images/circle/Humpback_Whale_07.24.2012_Help.jpg?1345575363"/>
-<strong class="name">Whale</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Seals" href="/species/seals">
-<img alt="Seals on a rocky beach" src="https://c402277.ssl.cf1.rackcdn.com/photos/497/images/circle/Seals_Circle_Image_204726.jpg?1345572961"/>
-<strong class="name">Seals</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Sea Lions" href="/species/sea-lions">
-<img alt="Sea Lion" src="https://c402277.ssl.cf1.rackcdn.com/photos/564/images/circle/sea-lion-07162012-HI_112445.jpg?1345525901"/>
-<strong class="name">Sea Lions</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Marine Iguana" href="/species/marine-iguana">
-<img alt="Marine iguana on a sandy beach in the Galapagos Islands, Ecuador." src="https://c402277.ssl.cf1.rackcdn.com/photos/499/images/circle/SCR_114368.jpg?1345572991"/>
-<strong class="name">Marine Iguana</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Tuna" href="/species/tuna">
-<img alt="Tuna" src="https://c402277.ssl.cf1.rackcdn.com/photos/2235/images/circle/Tuna_circle_259239.jpg?1345654488"/>
-<strong class="name">Tuna</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Bluefin Tuna" href="/species/bluefin-tuna">
-<img alt="Atlantic bluefin tuna jumping out of water" src="https://c402277.ssl.cf1.rackcdn.com/photos/2552/images/circle/Bluefin_tuna_253467.jpg?1348259069"/>
-<strong class="name">Bluefin Tuna</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Sei Whale" href="/species/sei-whale">
-<img alt="Whale" src="https://c402277.ssl.cf1.rackcdn.com/photos/340/images/circle/HI_257682.jpg?1434400464"/>
-<strong class="name">Sei Whale</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Yellowfin Tuna" href="/species/yellowfin-tuna">
-<img alt="Yellowfin Tuna " src="https://c402277.ssl.cf1.rackcdn.com/photos/1480/images/circle/Yellowfin_Tuna_8.7.2012_Hero_and_Circle_XL_230606.jpg?1367331189"/>
-<strong class="name">Yellowfin Tuna</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Hawksbill Turtle" href="/species/hawksbill-turtle">
-<img alt="Hawksbill Turtle" src="https://c402277.ssl.cf1.rackcdn.com/photos/1619/images/circle/MID_225023-circle-hawksbill-turtle2.jpg?1345599181"/>
-<strong class="name">Hawksbill Turtle</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Skipjack Tuna" href="/species/skipjack-tuna">
-<img alt="skipjack tuna" src="https://c402277.ssl.cf1.rackcdn.com/photos/10249/images/circle/skipjack_tuna.jpg?1445951682"/>
-<strong class="name">Skipjack Tuna</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Great White Shark" href="/species/great-white-shark">
-<img alt="Great White Shark " src="https://c402277.ssl.cf1.rackcdn.com/photos/1087/images/circle/Species_Great_White_Shark_WWF_Carlos_Aguilera.jpg?1345585501"/>
-<strong class="name">Great White Shark</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Loggerhead Turtle" href="/species/loggerhead-turtle">
-<img alt="Loggerhead Turtle" src="https://c402277.ssl.cf1.rackcdn.com/photos/296/images/circle/MID_110648loggerhead-hero.jpg?1345519061"/>
-<strong class="name">Loggerhead Turtle</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Leatherback Turtle" href="/species/leatherback-turtle">
-<img alt="Leatherback turtle underwater in Indonesia" src="https://c402277.ssl.cf1.rackcdn.com/photos/316/images/circle/SCR_289416.jpg?1345519495"/>
-<strong class="name">Leatherback Turtle</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Green Turtle" href="/species/green-turtle">
-<img alt="Green turtle hatchling swimming in the shallows of the sea in Indonesia" src="https://c402277.ssl.cf1.rackcdn.com/photos/56/images/circle/Marine_Turtles_Why_They_Matter_image_%28c%29_Jurgen_Freund__WWF_Canon.jpg?1345513398"/>
-<strong class="name">Green Turtle</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Olive Ridley Turtle" href="/species/olive-ridley-turtle">
-<img alt="Turtle" src="https://c402277.ssl.cf1.rackcdn.com/photos/418/images/circle/HI_287332Circle.jpg?1345522102"/>
-<strong class="name">Olive Ridley Turtle</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Albacore Tuna" href="/species/albacore-tuna">
-<img alt="Albacore" src="https://c402277.ssl.cf1.rackcdn.com/photos/2348/images/circle/XL_287919.jpg?1346254239"/>
-<strong class="name">Albacore Tuna</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Bigeye Tuna" href="/species/bigeye-tuna">
-<img alt="school of bigeye tuna" src="https://c402277.ssl.cf1.rackcdn.com/photos/2546/images/circle/Bigeye_tuna_above_with_small_yellowfin_and_net_western_Pacific_Ocean_ISSF_2012.jpg?1348250583"/>
-<strong class="name">Bigeye Tuna</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - North Atlantic Right Whale" href="/species/north-atlantic-right-whale">
-<img alt="North Atlantic right whale off Grand Manan Island, Canada" src="https://c402277.ssl.cf1.rackcdn.com/photos/107/images/circle/HI_238350.jpg?1345564177"/>
-<strong class="name">North Atlantic Right Whale</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Blue Whale" href="/species/blue-whale">
-<img alt="Blue whale" src="https://c402277.ssl.cf1.rackcdn.com/photos/386/images/circle/MID_257828hero.jpg?1345521182"/>
-<strong class="name">Blue Whale</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Fin Whale" href="/species/fin-whale">
-<img alt="Fin Whale" src="https://c402277.ssl.cf1.rackcdn.com/photos/306/images/circle/Fin_Whale_Hero_and_Circle_Image_107654.jpg?1345519261"/>
-<strong class="name">Fin Whale</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Bowhead Whale" href="/species/bowhead-whale">
-<img alt="Bow head whale" src="https://c402277.ssl.cf1.rackcdn.com/photos/364/images/circle/XL_235565.jpg?1345520513"/>
-<strong class="name">Bowhead Whale</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Gray Whale" href="/species/gray-whale">
-<img alt="Gray Whale" src="https://c402277.ssl.cf1.rackcdn.com/photos/173/images/circle/WEB_8233gray-whale-circle.png?1345565730"/>
-<strong class="name">Gray Whale</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Galápagos Penguin" href="/species/galapagos-penguin">
-<img alt="Galápagos penguin" src="https://c402277.ssl.cf1.rackcdn.com/photos/494/images/circle/shutterstock_53932330.jpg?1345524123"/>
-<strong class="name">Galápagos Penguin</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Shark" href="/species/shark">
-<img alt="Porbeagle Shark" src="https://c402277.ssl.cf1.rackcdn.com/photos/2931/images/circle/GPN257609_porbeagle_shark.jpg?1353080911"/>
-<strong class="name">Shark</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Polar Bear" href="/species/polar-bear">
-<img alt="Polar Bear Image" src="https://c402277.ssl.cf1.rackcdn.com/photos/284/images/circle/Polar_Bear_Circle_Image_228502.jpg?1345518782"/>
-<strong class="name">Polar Bear</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Narwhal" href="/species/narwhal">
-<img alt="Narwhal" src="https://c402277.ssl.cf1.rackcdn.com/photos/2979/images/circle/GPN232822_%28c%29_Paul_Nicklen_National_Geographic_Stock_WWF_Canada.jpg?1354044756"/>
-<strong class="name">Narwhal</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Beluga" href="/species/beluga">
-<img alt="beluga whale" src="https://c402277.ssl.cf1.rackcdn.com/photos/2939/images/circle/Beluga_224970.jpg?1353099096"/>
-<strong class="name">Beluga</strong>
-</a>	</li>
-<li class="item-circle">
-<a data-track-event="Species Show|Related Circles Click|Related Species - Giant Tortoise" href="/species/giant-tortoise">
-<img alt="Giant Tortoise" src="https://c402277.ssl.cf1.rackcdn.com/photos/490/images/circle/HI_203104Hero.jpg?1345524001"/>
-<strong class="name">Giant Tortoise</strong>
-</a>	</li>
-</ul>
-</div>
-</div>
-</div>
-<div id="footer">
-<div class="email-signup-login-footer shaded-dark gutter-vert-in">
-<div class="row wrapper">
-<div class="email-signup-footer span8">
-<p>Get the latest conservation news with WWF email.
-</p>
-<div class="email-signup-login-footer-input">
-<a href="https://support.worldwildlife.org/site/SPageServer/?pagename=enews_signup" class="btn-simple btn">Sign up</a>
-</div>
-</div>
-<div class="login-footer span4">
-<p>Already have a WWF account?
-</p>
-<div class="email-signup-login-footer-input"><a data-track-event="Species Show|Footer Click|Log In" href="https://support.worldwildlife.org/site/SPageServer?pagename=SupporterCenter" class="btn-simple btn vwo-test-footer-button">Log in</a>
-</div>
-</div>
-</div>
-</div>
-<div class="wrapper">
-<div class="contain gutter-horiz-in gutter-top-in-fixed-3 gutter-bottom-in-fixed-4">
-<span class="logo alt">WWF</span>
-<ul class="nav">
-<li><a data-track-event="Species Show|Footer Click|Careers" href="https://www.worldwildlife.org:443/about/careers">Careers</a></li>
-<li><a data-track-event="Species Show|Footer Click|Contact" href="https://www.worldwildlife.org:443/about/contact">Contact</a></li>
-<li><a data-track-event="Species Show|Footer Click|News &amp; Press" href="https://www.worldwildlife.org:443/about/news-press">News &amp; Press</a></li>
-<li><a data-track-event="Species Show|Footer Click|Privacy Policy / Your Privacy Rights" href="https://www.worldwildlife.org:443/pages/privacy-policy">Privacy Policy / Your Privacy Rights</a></li>
-<li><a data-track-event="Species Show|Footer Click|Site Terms" href="https://www.worldwildlife.org:443/pages/site-terms">Site Terms</a></li>
-<li><a data-track-event="Species Show|Footer Click|State Disclosures" href="https://www.worldwildlife.org:443/pages/state-disclosures">State Disclosures</a></li>
-<li><a data-track-event="Species Show|Footer Click|Help" href="https://help.worldwildlife.org/">Help</a></li>
-<li><a data-track-event="Species Show|Footer Click|Login" href="https://support.worldwildlife.org/site/SPageServer?pagename=SupporterCenter">Login</a></li>
-</ul>
-<p class="address">
-<strong>World Wildlife Fund</strong><br>
-1250 24th Street, N.W.<br>
-Washington, DC 20037
-</p>
-<ul class="nav nav-social">
-<li>
-<a href="https://www.facebook.com/worldwildlifefund" data-track-event="Species Show|Social Outbound Click - Footer|Facebook" data-social-cookie="facebook">
-<span class="screen-reader">Facebook</span>
-<i class="ico ico-facebook" aria-hidden="true">l</i>
-</a>
-</li>
-<li>
-<a href="https://twitter.com/world_wildlife" data-track-event="Species Show|Social Outbound Click - Footer|Twitter" data-social-cookie="twitter">
-<span class="screen-reader">Twitter</span>
-<i class="ico ico-twitter" aria-hidden="true">o</i>
-</a>
-</li>
-<li>
-<a href="https://instagram.com/World_Wildlife" data-track-event="Species Show|Social Outbound Click - Footer|Instagram" data-social-cookie="instagram">
-<span class="screen-reader">Instagram</span>
-<i class="ico ico-instagram" aria-hidden="true">B</i>
-</a>
-</li>
-<li>
-<a href="https://www.youtube.com/subscription_center?add_user=wwfus" data-track-event="Species Show|Social Outbound Click - Footer|YouTube" data-social-cookie="youtube">
-<span class="screen-reader">YouTube</span>
-<i class="ico ico-youtube" aria-hidden="true">r</i>
-</a>
-</li>
-<li>
-<a href="https://www.worldwildlife.org/pages/rss-feeds" data-track-event="Species Show|Footer Click|RSS Feeds">
-<span class="screen-reader">RSS Feeds</span>
-<i class="ico ico-rss" aria-hidden="true">I</i>
-</a>
-</li>
-</ul>
-<p class="copyright">&copy; 2019 World Wildlife Fund</p>
-</div>
-</div>
-</div>
-<script>
-		WWF = {
-			vars: { page_type: 'Species Show' }
-		};
-	</script>
-<script src="/assets/application-118642cfc56b38e85d4f13ef6a493d0de292625d1dc4443a2b682f7091c70cfa.js"></script>
-<script>
-		var markers = [{"lat":"30.88","lng":"-113.97","content":"Vaquita","link":"/species/vaquita"}]
-	</script>
-<!--[if lt IE 9]>
-  <script>
-    $(document).ready(function() {
-      $('.ie-old-browser-notification .close').on('click', function(){
-        $(this).closest('.ie-old-browser-notification').fadeOut('slow');
-      });
+        <title>
+Naomi Davis // Love Taza (@taza) • Instagram photos and videos
+</title>
+
+        
+        <meta name="robots" content="noimageindex, noarchive">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="theme-color" content="#000000">
+        <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover">
+        <link rel="manifest" href="/data/manifest.json">
+
+        <link rel="preload" href="/static/bundles/metro/Vendor.js/b1dbf1d576e1.js" as="script" type="text/javascript" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/metro/en_US.js/2ffcd085eb68.js" as="script" type="text/javascript" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/metro/ConsumerCommons.js/6430af7c7a19.js" as="script" type="text/javascript" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/metro/Consumer.js/9d19d01731c3.js" as="script" type="text/javascript" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/metro/ProfilePageContainer.js/939c635fc5e7.js" as="script" type="text/javascript" crossorigin="anonymous" />
+        
+        
+
+        <script type="text/javascript">
+        (function() {
+  var docElement = document.documentElement;
+  var classRE = new RegExp('(^|\\s)no-js(\\s|$)');
+  var className = docElement.className;
+  docElement.className = className.replace(classRE, '$1js$2');
+})();
+</script>
+        <script type="text/javascript">
+(function() {
+  if ('PerformanceObserver' in window && 'PerformancePaintTiming' in window) {
+    window.__bufferedPerformance = [];
+    var ob = new PerformanceObserver(function(e) {
+      window.__bufferedPerformance.push.apply(window.__bufferedPerformance,e.getEntries());
     });
-  </script>
-  <![endif]-->
-<div class="screen-reader" data-snippet-content="species-vaquita-javascript"></div>
-</body>
+    ob.observe({entryTypes:['paint']});
+  }
+
+  window.__bufferedErrors = [];
+  window.onerror = function(message, url, line, column, error) {
+    window.__bufferedErrors.push({
+      message: message,
+      url: url,
+      line: line,
+      column: column,
+      error: error
+    });
+    return false;
+  };
+  window.__initialData = {
+    pending: true,
+    waiting: []
+  };
+  function asyncFetchSharedData(extra) {
+    var sharedDataReq = new XMLHttpRequest();
+    sharedDataReq.onreadystatechange = function() {
+          if (sharedDataReq.readyState === 4) {
+            if(sharedDataReq.status === 200){
+              var sharedData = JSON.parse(sharedDataReq.responseText);
+              window.__initialDataLoaded(sharedData, extra);
+            }
+          }
+        }
+    sharedDataReq.open('GET', '/data/shared_data/', true);
+    sharedDataReq.send(null);
+  }
+  window.__initialDataLoadFromCache = function(sharedData) {
+    var extra = { entry_data: sharedData.entry_data };
+    try {
+      var cachedSharedData = localStorage.getItem("ig_sdc");
+      if (!cachedSharedData) {
+        throw new Error();
+      }
+      cachedSharedData = JSON.parse(cachedSharedData);
+      if (cachedSharedData.expiry < Date.now() || cachedSharedData.schemaVersion != sharedData.cache_schema_version) {
+        throw new Error();
+      }
+    } catch (ex) {
+      return asyncFetchSharedData(extra);
+    }
+    window.__initialDataLoaded(sharedData, cachedSharedData.data);
+  };
+
+  function notifyLoaded(item, data) {
+    item.pending = false;
+    item.data = data;
+    for (var i = 0;i < item.waiting.length; ++i) {
+      item.waiting[i].resolve(item.data);
+    }
+    item.waiting = [];
+  }
+  function notifyError(item, msg) {
+    item.pending = false;
+    item.error = new Error(msg);
+    for (var i = 0;i < item.waiting.length; ++i) {
+      item.waiting[i].reject(item.error);
+    }
+    item.waiting = [];
+  }
+  window.__initialDataLoaded = function(initialData, extraData) {
+    if (extraData) {
+      for (var key in extraData) {
+        initialData[key] = extraData[key];
+      }
+    }
+    notifyLoaded(window.__initialData, initialData);
+  };
+  window.__initialDataError = function(msg) {
+    notifyError(window.__initialData, msg);
+  };
+  window.__additionalData = {};
+  window.__pendingAdditionalData = function(paths) {
+    for (var i = 0;i < paths.length; ++i) {
+      window.__additionalData[paths[i]] = {
+        pending: true,
+        waiting: []
+      };
+    }
+  };
+  window.__additionalDataLoaded = function(path, data) {
+    if (path in window.__additionalData) {
+      notifyLoaded(window.__additionalData[path], data);
+    } else {
+      console.error('Unexpected additional data loaded "' + path + '"');
+    }
+  };
+  window.__additionalDataError = function(path, msg) {
+    if (path in window.__additionalData) {
+      notifyError(window.__additionalData[path], msg);
+    } else {
+      console.error('Unexpected additional data encountered an error "' + path + '": ' + msg);
+    }
+  };
+  
+})();
+</script><script type="text/javascript">
+
+/*
+ Copyright 2018 Google Inc. All Rights Reserved.
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+*/
+
+(function(){function g(a,c){b||(b=a,f=c,h.forEach(function(a){removeEventListener(a,l,e)}),m())}function m(){b&&f&&0<d.length&&(d.forEach(function(a){a(b,f)}),d=[])}function n(a,c){function k(){g(a,c);d()}function b(){d()}function d(){removeEventListener("pointerup",k,e);removeEventListener("pointercancel",b,e)}addEventListener("pointerup",k,e);addEventListener("pointercancel",b,e)}function l(a){if(a.cancelable){var c=performance.now(),b=a.timeStamp;b>c&&(c=+new Date);c-=b;"pointerdown"==a.type?n(c,
+a):g(c,a)}}var e={passive:!0,capture:!0},h=["click","mousedown","keydown","touchstart","pointerdown"],b,f,d=[];h.forEach(function(a){addEventListener(a,l,e)});window.perfMetrics=window.perfMetrics||{};window.perfMetrics.onFirstInputDelay=function(a){d.push(a);m()}})();
+</script>
+    
+                <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/images/ico/apple-touch-icon-76x76-precomposed.png/4272e394f5ad.png">
+                <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/images/ico/apple-touch-icon-120x120-precomposed.png/02ba5abf9861.png">
+                <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/images/ico/apple-touch-icon-152x152-precomposed.png/419a6f9c7454.png">
+                <link rel="apple-touch-icon-precomposed" sizes="167x167" href="/static/images/ico/apple-touch-icon-167x167-precomposed.png/a24e58112f06.png">
+                <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/static/images/ico/apple-touch-icon-180x180-precomposed.png/85a358fb3b7d.png">
+                
+                    <link rel="icon" sizes="192x192" href="/static/images/ico/favicon-192.png/68d99ba29cc8.png">
+                
+            
+            
+                    <link rel="mask-icon" href="/static/images/ico/favicon.svg/fc72dd4bfde8.svg" color="#262626">
+                  
+                  <link rel="shortcut icon" type="image/x-icon" href="/static/images/ico/favicon.ico/36b3ee2d91ed.ico">
+                
+            
+            
+            
+    
+        
+            <link rel="alternate" href="android-app://com.instagram.android/https/instagram.com/_u/taza/" />
+        
+        
+            <meta property="al:ios:app_name" content="Instagram" />
+            <meta property="al:ios:app_store_id" content="389801252" />
+            <meta property="al:ios:url" content="instagram://user?username=taza" />
+            <meta property="al:android:app_name" content="Instagram" />
+            <meta property="al:android:package" content="com.instagram.android" />
+            <meta property="al:android:url" content="https://www.instagram.com/_u/taza/" />
+        
+        <link rel="canonical" href="https://www.instagram.com/taza/?hl=en" />
+        <meta content="460.1k Followers, 108 Following, 5,572 Posts - See Instagram photos and videos from Naomi Davis // Love Taza (@taza)" name="description" />
+        
+            <meta property="og:type" content="profile" />
+            <meta property="og:image" content="https://instagram.fscl12-1.fna.fbcdn.net/vp/49cd1b1c2d06bf04fb550e7401e87e03/5D60D7C2/t51.2885-19/s150x150/52838473_2015323641898563_7981532073426944000_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net" />
+            <meta property="og:title" content="Naomi Davis // Love Taza (@taza) • Instagram photos and videos" />
+            <meta property="og:description" content="460.1k Followers, 108 Following, 5,572 Posts - See Instagram photos and videos from Naomi Davis // Love Taza (@taza)" />
+            <meta property="og:url" content="https://www.instagram.com/taza/" />
+        
+    
+
+            <script type="application/ld+json">
+                {"@context":"http:\/\/schema.org","@type":"Person","name":"Naomi Davis \/\/ Love Taza","alternateName":"@taza","description":"\ud83d\udccdraising my 5 little new yorkers in NYC\n\u2764\ufe0fmarried to @tiesandfries \n\ud83d\udc4b\ud83c\udffb\ud83d\udc8ctaza@lovetaza.com\n\u2600\ufe0f\ufe0f\ud83d\udc47\ud83c\udffbcelebrating family, motherhood &amp; life!","url":"http:\/\/www.lovetaza.com\/","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/taza\/?hl=en","interactionStatistic":{"@type":"InteractionCounter","interactionType":"http:\/\/schema.org\/FollowAction","userInteractionCount":"460165"}},"image":"https:\/\/www.instagram.com\/static\/images\/ico\/favicon-200.png\/ab6eff595bb1.png"}
+            </script>
+        
+    <link rel="alternate" href="https://www.instagram.com/taza/" hreflang="x-default" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=en" hreflang="en" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=fr" hreflang="fr" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=it" hreflang="it" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=de" hreflang="de" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es" hreflang="es" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=zh-cn" hreflang="zh-cn" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=zh-tw" hreflang="zh-tw" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=ja" hreflang="ja" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=ko" hreflang="ko" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=pt" hreflang="pt" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=pt-br" hreflang="pt-br" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=af" hreflang="af" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=cs" hreflang="cs" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=da" hreflang="da" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=el" hreflang="el" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=fi" hreflang="fi" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=hr" hreflang="hr" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=hu" hreflang="hu" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=id" hreflang="id" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=ms" hreflang="ms" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=nb" hreflang="nb" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=nl" hreflang="nl" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=pl" hreflang="pl" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=ru" hreflang="ru" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=sk" hreflang="sk" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=sv" hreflang="sv" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=th" hreflang="th" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=tl" hreflang="tl" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=tr" hreflang="tr" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=hi" hreflang="hi" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=bn" hreflang="bn" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=gu" hreflang="gu" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=kn" hreflang="kn" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=ml" hreflang="ml" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=mr" hreflang="mr" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=pa" hreflang="pa" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=ta" hreflang="ta" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=te" hreflang="te" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=ne" hreflang="ne" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=si" hreflang="si" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=ur" hreflang="ur" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=vi" hreflang="vi" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=bg" hreflang="bg" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=fr-ca" hreflang="fr-ca" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=ro" hreflang="ro" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=sr" hreflang="sr" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=uk" hreflang="uk" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=zh-hk" hreflang="zh-hk" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-sv" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-ec" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-pe" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-ve" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-co" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-bo" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-hn" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-pr" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-uy" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-ni" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-pa" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-cl" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-do" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-gt" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-ar" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-cu" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-cr" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-py" />
+<link rel="alternate" href="https://www.instagram.com/taza/?hl=es-la" hreflang="es-mx" />
+</head>
+    <body class="">
+        
+    <span id="react-root"><svg width="50" height="50" viewBox="0 0 50 50" style="position:absolute;top:50%;left:50%;margin:-25px 0 0 -25px;fill:#c7c7c7"><path d="M25 1c-6.52 0-7.34.03-9.9.14-2.55.12-4.3.53-5.82 1.12a11.76 11.76 0 0 0-4.25 2.77 11.76 11.76 0 0 0-2.77 4.25c-.6 1.52-1 3.27-1.12 5.82C1.03 17.66 1 18.48 1 25c0 6.5.03 7.33.14 9.88.12 2.56.53 4.3 1.12 5.83a11.76 11.76 0 0 0 2.77 4.25 11.76 11.76 0 0 0 4.25 2.77c1.52.59 3.27 1 5.82 1.11 2.56.12 3.38.14 9.9.14 6.5 0 7.33-.02 9.88-.14 2.56-.12 4.3-.52 5.83-1.11a11.76 11.76 0 0 0 4.25-2.77 11.76 11.76 0 0 0 2.77-4.25c.59-1.53 1-3.27 1.11-5.83.12-2.55.14-3.37.14-9.89 0-6.51-.02-7.33-.14-9.89-.12-2.55-.52-4.3-1.11-5.82a11.76 11.76 0 0 0-2.77-4.25 11.76 11.76 0 0 0-4.25-2.77c-1.53-.6-3.27-1-5.83-1.12A170.2 170.2 0 0 0 25 1zm0 4.32c6.4 0 7.16.03 9.69.14 2.34.11 3.6.5 4.45.83 1.12.43 1.92.95 2.76 1.8a7.43 7.43 0 0 1 1.8 2.75c.32.85.72 2.12.82 4.46.12 2.53.14 3.29.14 9.7 0 6.4-.02 7.16-.14 9.69-.1 2.34-.5 3.6-.82 4.45a7.43 7.43 0 0 1-1.8 2.76 7.43 7.43 0 0 1-2.76 1.8c-.84.32-2.11.72-4.45.82-2.53.12-3.3.14-9.7.14-6.4 0-7.16-.02-9.7-.14-2.33-.1-3.6-.5-4.45-.82a7.43 7.43 0 0 1-2.76-1.8 7.43 7.43 0 0 1-1.8-2.76c-.32-.84-.71-2.11-.82-4.45a166.5 166.5 0 0 1-.14-9.7c0-6.4.03-7.16.14-9.7.11-2.33.5-3.6.83-4.45a7.43 7.43 0 0 1 1.8-2.76 7.43 7.43 0 0 1 2.75-1.8c.85-.32 2.12-.71 4.46-.82 2.53-.11 3.29-.14 9.7-.14zm0 7.35a12.32 12.32 0 1 0 0 24.64 12.32 12.32 0 0 0 0-24.64zM25 33a8 8 0 1 1 0-16 8 8 0 0 1 0 16zm15.68-20.8a2.88 2.88 0 1 0-5.76 0 2.88 2.88 0 0 0 5.76 0z"/></svg></span>
+
+        
+
+
+        
+            <script type="text/javascript">window._sharedData = {"config":{"csrf_token":"u2Sda7pFyw98iU1aVpkntRUz6tl6LIPB","viewer":null,"viewerId":null},"country_code":"unknown","language_code":"en","locale":"en_US","entry_data":{"ProfilePage":[{"logging_page_id":"profilePage_719632","show_suggested_profiles":false,"graphql":{"user":{"biography":"\ud83d\udccdraising my 5 little new yorkers in NYC\n\u2764\ufe0fmarried to @tiesandfries \n\ud83d\udc4b\ud83c\udffb\ud83d\udc8ctaza@lovetaza.com\n\u2600\ufe0f\ufe0f\ud83d\udc47\ud83c\udffbcelebrating family, motherhood \u0026 life!","blocked_by_viewer":false,"country_block":false,"external_url":"http://www.lovetaza.com/","external_url_linkshimmed":"https://l.instagram.com/?u=http%3A%2F%2Fwww.lovetaza.com%2F\u0026e=ATMeozl-sjUMMOpqioedDoq0UiVDuHqr76XnBH1QWRTUrW0EWLvGj5D05wfi0yauhw2aNxoc","edge_followed_by":{"count":460165},"followed_by_viewer":false,"edge_follow":{"count":108},"follows_viewer":false,"full_name":"Naomi Davis // Love Taza","has_channel":false,"has_blocked_viewer":false,"highlight_reel_count":18,"has_requested_viewer":false,"id":"719632","is_business_account":false,"is_joined_recently":false,"business_category_name":null,"is_private":false,"is_verified":true,"edge_mutual_followed_by":{"count":0,"edges":[]},"profile_pic_url":"https://instagram.fscl12-1.fna.fbcdn.net/vp/49cd1b1c2d06bf04fb550e7401e87e03/5D60D7C2/t51.2885-19/s150x150/52838473_2015323641898563_7981532073426944000_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","profile_pic_url_hd":"https://instagram.fscl12-1.fna.fbcdn.net/vp/14a8370f0f8c049035b0dfbf98d68324/5D58E3BA/t51.2885-19/s320x320/52838473_2015323641898563_7981532073426944000_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","requested_by_viewer":false,"username":"taza","connected_fb_page":null,"edge_felix_video_timeline":{"count":1,"page_info":{"has_next_page":false,"end_cursor":null},"edges":[{"node":{"__typename":"GraphVideo","id":"1811343051090451314","edge_media_to_caption":{"edges":[{"node":{"text":"Obviously we've been listening to this song nonstop today. \ud83d\ude0f\ud83d\ude02\u2764\ufe0f"}}]},"shortcode":"BkjLuh2nlty","edge_media_to_comment":{"count":17},"comments_disabled":false,"taken_at_timestamp":1530149112,"dimensions":{"height":1333,"width":750},"display_url":"https://instagram.fscl12-1.fna.fbcdn.net/vp/b873323aecac6fc8f6edacd8623ee518/5CCA0D45/t51.2885-15/e15/35529611_1826168407678783_8212851822214250496_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","edge_liked_by":{"count":224},"edge_media_preview_like":{"count":224},"location":null,"gating_info":null,"media_preview":"ABcq07iNXh6n+E4zn09c1mW3CL/nvWrK6/ZgTgZVcfoeKxjcLF17Mc9uMnp6nHSoZaJgxIJztOfTJxz0696KbFNHktIdqnpuB7k+mef6UUajKR2nIDkqMckY5x6c56Yz1p821hkn5jwMjv8ATsOvPT8atSxNPGqxJtAbIJ4yP8/WgWZkbLE/QDt06nj+tMLrTt1K3lNMBGmM5/kKK1YI1jygxuQnuC3Pqcfh9KKnboDd9iVmEv3CN3XHY8dvQ/of1qqJGRyjZVh0PrVWAncv1/qa3XHGe4Bwe9WmQ0VJrqO3G6Y4Y9h1PvjtRXIOxdiWJJJPJ5NFAH//2Q==","owner":{"id":"719632","username":"taza"},"thumbnail_src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/4968617d7dce681a3480dce90394b26f/5CC9F930/t51.2885-15/e15/c0.280.720.720/s640x640/35529611_1826168407678783_8212851822214250496_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","thumbnail_resources":[{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/47f6103248dfc146a6001091837af885/5CC9CABE/t51.2885-15/e15/p150x150/35529611_1826168407678783_8212851822214250496_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":150,"config_height":266},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/17a95235112cfe531be645e747ccfa93/5CCAC738/t51.2885-15/e15/p240x240/35529611_1826168407678783_8212851822214250496_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":240,"config_height":426},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/454f626b03f76a78d65ea9bf4e450f46/5CCA3B06/t51.2885-15/e15/p320x320/35529611_1826168407678783_8212851822214250496_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":320,"config_height":568},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/d47400e1654af7add9e857d35e84e462/5CCADA01/t51.2885-15/e15/p480x480/35529611_1826168407678783_8212851822214250496_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":480,"config_height":853},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/c171af1352eb1a4afd99eb75ead22b2e/5CCA4F3D/t51.2885-15/e15/p640x640/35529611_1826168407678783_8212851822214250496_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":640,"config_height":1137}],"is_video":true,"encoding_status":null,"is_published":true,"product_type":"igtv","title":"school's out for summer!\ud83c\udfb6","video_duration":55.28,"video_view_count":41175}}]},"edge_owner_to_timeline_media":{"count":5572,"page_info":{"has_next_page":true,"end_cursor":"QVFEajRkalBCam14djJfUVI1S1UyclFiYmcwaEFVYTRxaHhjSEc1eFBEZkFrejh1V2RWT2FFV3E3QXpqTzF2UG9mZGQyZXpLS0dsa3RxWWJuWG1ZUGZZeg=="},"edges":[{"node":{"__typename":"GraphImage","id":"2032796914587984961","edge_media_to_caption":{"edges":[{"node":{"text":"Hey hey! Welcome to my face, new glasses!\ud83d\udc53What do you all think!?\ud83d\udc9b Always love a fun pair of frames but even more, appreciated learning so much last month about the health of my eyes with @TheVisionCouncil at their @vision.expo and then during my last eye exam. Sharing more from my exam on the blog today (including some practical tips my eye doctor shared that can benefit everyone) so head on over to read more and see all the photos! #sponsored #vision #eyeframes #newglasses #ontheblog"}}]},"shortcode":"Bw18gYKhuRB","edge_media_to_comment":{"count":74},"comments_disabled":false,"taken_at_timestamp":1556548297,"dimensions":{"height":1349,"width":1080},"display_url":"https://instagram.fscl12-1.fna.fbcdn.net/vp/fc469869fa786e0d9683a3bb8155adce/5D6D80C7/t51.2885-15/e35/57487930_412555786233042_2698012929576761349_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","edge_liked_by":{"count":9594},"edge_media_preview_like":{"count":9594},"location":{"id":"208424157","has_public_page":true,"name":"Upper West Side","slug":"upper-west-side"},"gating_info":null,"media_preview":"ACEqsxzJISQfvEEZ4zz2H+c96aSInBHGSP6VWFs8bbk+UJ03Hrgn/PvUoSR8bxj6c/y/D+dRYafctXF2AuwkBmHPtmqufn+g/mM54/rVN4iN3mcyZ7dTnpj/AAqeKKTaCR8yjnJGcYx65z7Ubj2L3FFVMvRU2Y+ZE62y4w5Mn16fpVkNtIA7/hTQCKSRMsvsf50T+FiW4NES2/jPX2/OiQBzhgMgZGcE/SniZMY3DOcdR69P/rUxkIYkDqAOlYpNSjby/wCD+BV7pic+lFGD70V1GZJuJ6mhz8px17UylfpTW4PYyZIsPt4+bnPetYSPjqazpv8AWj6VdHStZpWuZQ3ZJ5jepoqKisTU/9k=","owner":{"id":"719632","username":"taza"},"thumbnail_src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/d2f29487847f36b5ae1e068440348157/5D53AE5F/t51.2885-15/sh0.08/e35/c0.134.1080.1080a/s640x640/57487930_412555786233042_2698012929576761349_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","thumbnail_resources":[{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/8231a4ff7ee214bca04f4ac4c13ef56a/5D549994/t51.2885-15/e35/c0.134.1080.1080a/s150x150/57487930_412555786233042_2698012929576761349_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":150,"config_height":150},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/c7f79e70f1c5744b0c4ffd3a164b1bf4/5D5D24DE/t51.2885-15/e35/c0.134.1080.1080a/s240x240/57487930_412555786233042_2698012929576761349_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":240,"config_height":240},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/ed928ce61be9ca07c5eddfd09efe5035/5D5A8764/t51.2885-15/e35/c0.134.1080.1080a/s320x320/57487930_412555786233042_2698012929576761349_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":320,"config_height":320},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/7cd75a0569f5e944649466dbbe2e2ccd/5D623F3E/t51.2885-15/e35/c0.134.1080.1080a/s480x480/57487930_412555786233042_2698012929576761349_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":480,"config_height":480},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/d2f29487847f36b5ae1e068440348157/5D53AE5F/t51.2885-15/sh0.08/e35/c0.134.1080.1080a/s640x640/57487930_412555786233042_2698012929576761349_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":640,"config_height":640}],"is_video":false,"accessibility_caption":"Image may contain: 1 person, outdoor"}},{"node":{"__typename":"GraphImage","id":"2032225045891764122","edge_media_to_caption":{"edges":[{"node":{"text":"\u2614\ufe0f rainy Sunday in the city. We have luggage and dirty laundry from our trip sprawled out all over the apartment BUT we have fresh hot cornbread in the oven and BOTH BABIES ARE NAPPING AT THE SAME TIME RIGHT NOW \ud83c\udf89 so does that even matter?! #happysunday #nyc #nyclife"}}]},"shortcode":"Bwz6el8B8-a","edge_media_to_comment":{"count":147},"comments_disabled":false,"taken_at_timestamp":1556480125,"dimensions":{"height":1350,"width":1080},"display_url":"https://instagram.fscl12-1.fna.fbcdn.net/vp/73e25c1c6c03b0e6c456acaf0266893c/5D70F007/t51.2885-15/e35/58409281_319162235431560_410377882219595118_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","edge_liked_by":{"count":20456},"edge_media_preview_like":{"count":20456},"location":{"id":"212988663","has_public_page":true,"name":"New York, New York","slug":"new-york-new-york"},"gating_info":null,"media_preview":"ACEqizhR/n8q04Z1kAGcsAM1juRt24IIJyccH3H1qe1lKsCBwT0HXHrjrRqO5pyPsJbrgdKyfMMjE9z+v/1qkeSZnOBlOcnHQdPx5qNoZYwW28Dtnt/PijcCPB/yP/r0VD+I/M0U7EllbQoflcORztBPPt1wafHcCKQF+O2Pf+fFVVuIxJ8owOgJJAHvxk/hRIF8wlTvOCQTxg59O5Hp+NV6gavmLnaeMjOB7/5/CqKXJBYNkf19Pz9KU7gQWOSvBI71byqrlxlTis0lHbqafFvoZHHoPyFFaH+jf3X/ADoq7kFD7I0ahzySOnHf39cHP4U+FhuVMZO4c/jwf88Vf1T7ij/aP8qoQf6xPqP50boWxp3KiLBOADxSWsqTgwMPlxx7jv8AiOop2qf6of739DWba8SL/vCl0Kuan9nj+8fyorRopXHY/9k=","owner":{"id":"719632","username":"taza"},"thumbnail_src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/0e7dec54c77d4e39637fd33374b454dc/5D5E94A5/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/58409281_319162235431560_410377882219595118_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","thumbnail_resources":[{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/2a8a5f908b3544ed6bfedb50ff7a7e1e/5D576B41/t51.2885-15/e35/c0.135.1080.1080a/s150x150/58409281_319162235431560_410377882219595118_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":150,"config_height":150},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/068c56fc45fef530cf7172a08e85b596/5D7013F4/t51.2885-15/e35/c0.135.1080.1080a/s240x240/58409281_319162235431560_410377882219595118_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":240,"config_height":240},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/59ba397accda304b1e6ee2be400284d9/5D58EA4C/t51.2885-15/e35/c0.135.1080.1080a/s320x320/58409281_319162235431560_410377882219595118_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":320,"config_height":320},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/489d3156001844c70dba3b76c635350c/5D772910/t51.2885-15/e35/c0.135.1080.1080a/s480x480/58409281_319162235431560_410377882219595118_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":480,"config_height":480},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/0e7dec54c77d4e39637fd33374b454dc/5D5E94A5/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/58409281_319162235431560_410377882219595118_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":640,"config_height":640}],"is_video":false,"accessibility_caption":"Image may contain: 1 person, outdoor"}},{"node":{"__typename":"GraphImage","id":"2032052314210512660","edge_media_to_caption":{"edges":[{"node":{"text":"Arrived back home to nyc last night and this trip already feels like it happened years ago. It\u2019s funny how a long day of travel with little kids and babies can warp time like that.\ud83d\ude0eBut wow, Puerto Rico, you are a dream. I feel like a beach trip can sometimes feel two-sided with two babies who like to face plant in the sand, and hide more of it for later in every neck roll and wrinkle imaginable (HOW do they do it?!) but I\u2019d do this week from start to finish again right now if I could. It\u2019s a relax-but-also-stay-on-your-toes kinda vacation, but it\u2019s also in the sunshine with an ocean view and a (virgin) pi\u00f1a colada somewhere close by. So I\u2019m into it. And will hold it close always. \u2600\ufe0f\ud83c\udf34\ud83d\udca6\ud83c\udf3a\ud83c\uddf5\ud83c\uddf7\ud83d\udc9b"}}]},"shortcode":"BwzTNBBhy8U","edge_media_to_comment":{"count":46},"comments_disabled":false,"taken_at_timestamp":1556459534,"dimensions":{"height":1080,"width":1080},"display_url":"https://instagram.fscl12-1.fna.fbcdn.net/vp/f25e660d107584d2808fcddee27caa97/5D6A0985/t51.2885-15/e35/58409361_320549038640845_5967819318295712800_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","edge_liked_by":{"count":10524},"edge_media_preview_like":{"count":10524},"location":{"id":"289143502","has_public_page":true,"name":"Puerto Rico","slug":"puerto-rico"},"gating_info":null,"media_preview":"ACoqiRymARxUqOH9setUIwzYKZJ7Y/L8anG6M7TkkHlSuB7H14+macZuOj2M3G5c20hwOtVWeTqS3pjn/wDVTQ7M2B1PH19s1brPohcpadggz1+lR+cPSo3SROQM/wCfxz+fNOE02P8AVj/v2tS6sntp+I+VCxrMfuBvrjH+FTtHOTnnPsR/jV1nAPJ59O9DnanmdR2x3qed7qKsV7NbOTuZhhkz8ynHU56fjzThMqdI1PoecH6ZzUssxkBVR8jL9T68HvzTYbU4AbOD244z/I/QfjV81/iWnkL2dk3F6+aX6ireD+4B9D/9aj7QP7p/P/61SNYr0ViD71AbN/UfrVWg/wCmZt1F/SLVysbjCA7h0bPT8OhrO82aI/MvA+uPrkZrViGalas1Lp0Nra83Ur28gdBjj+R+h/8A1H2q0FA6U3HIHrmn1JdxM1XL4NWD0NVD1NNGbP/Z","owner":{"id":"719632","username":"taza"},"thumbnail_src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/0c3a1c26d1214612f53266f821cebca2/5D59A860/t51.2885-15/sh0.08/e35/s640x640/58409361_320549038640845_5967819318295712800_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","thumbnail_resources":[{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/f892271b8324f1f13a1b4108c3a9c0dd/5D6A69C7/t51.2885-15/e35/s150x150/58409361_320549038640845_5967819318295712800_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":150,"config_height":150},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/d7ee9b22e13a6c99443bf6beba55c609/5D61FE8D/t51.2885-15/e35/s240x240/58409361_320549038640845_5967819318295712800_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":240,"config_height":240},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/c5282e8e82912475a58fb7ed744ad0f9/5D73E137/t51.2885-15/e35/s320x320/58409361_320549038640845_5967819318295712800_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":320,"config_height":320},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/9cd4abd63369c25edfc2d523d08cb908/5D71896D/t51.2885-15/e35/s480x480/58409361_320549038640845_5967819318295712800_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":480,"config_height":480},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/0c3a1c26d1214612f53266f821cebca2/5D59A860/t51.2885-15/sh0.08/e35/s640x640/58409361_320549038640845_5967819318295712800_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":640,"config_height":640}],"is_video":false,"accessibility_caption":"Image may contain: 1 person, outdoor, water and nature"}},{"node":{"__typename":"GraphSidecar","id":"2031357490909947342","edge_media_to_caption":{"edges":[{"node":{"text":"7 smiles (and a smirk - I see you Conrad\ud83d\ude0f) Our family loved trading in our nyc subway train\ud83d\ude8a for a beach club golf cart this week.  Swipe left to see us loading up the minivan version of a golf cart\ud83d\ude05 Can we swap out all the cars in the city for electric golf carts?! #travelingwithkids #travel #familyselfie #puertorico"}}]},"shortcode":"Bww1OAZhCXO","edge_media_to_comment":{"count":44},"comments_disabled":false,"taken_at_timestamp":1556376705,"dimensions":{"height":1350,"width":1080},"display_url":"https://instagram.fscl12-1.fna.fbcdn.net/vp/3513e0725a171dc0af482c54fb2add8c/5D5C1085/t51.2885-15/e35/57899653_2314289415510542_1452213147417122798_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","edge_liked_by":{"count":12885},"edge_media_preview_like":{"count":12885},"location":{"id":"223104264","has_public_page":true,"name":"Dorado, Puerto Rico","slug":"dorado-puerto-rico"},"gating_info":null,"media_preview":null,"owner":{"id":"719632","username":"taza"},"thumbnail_src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/c066f37e750e0322e14c17043c795e8d/5D6C7292/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/57899653_2314289415510542_1452213147417122798_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","thumbnail_resources":[{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/ca655849da345bce5251d543da0b7e97/5D7039A2/t51.2885-15/e35/c0.135.1080.1080a/s150x150/57899653_2314289415510542_1452213147417122798_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":150,"config_height":150},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/4a58fd15dfafcaedd659f08790e14652/5D5F6FA4/t51.2885-15/e35/c0.135.1080.1080a/s240x240/57899653_2314289415510542_1452213147417122798_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":240,"config_height":240},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/0cbba80c653386baac3fbb9b76551639/5D50C3DA/t51.2885-15/e35/c0.135.1080.1080a/s320x320/57899653_2314289415510542_1452213147417122798_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":320,"config_height":320},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/1efc70e41729ca46e8eebbd506ddf816/5D6F859D/t51.2885-15/e35/c0.135.1080.1080a/s480x480/57899653_2314289415510542_1452213147417122798_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":480,"config_height":480},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/c066f37e750e0322e14c17043c795e8d/5D6C7292/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/57899653_2314289415510542_1452213147417122798_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":640,"config_height":640}],"is_video":false,"accessibility_caption":"Image may contain: 4 people, people sitting, hat and baby"}},{"node":{"__typename":"GraphImage","id":"2030792210039235880","edge_media_to_caption":{"edges":[{"node":{"text":"\ud83d\udc6f\u200d\u2640\ufe0f\ud83c\udf3a\ud83c\udf3a got to have a little swim just E and me while the boys played chess and the babies napped. Maybe only twenty minutes but felt so very special just the same. She reintroduced the back float to me (how is that so impossible now that I\u2019m older\ud83d\ude02\ud83e\udd26\ud83c\udffb\u200d\u2640\ufe0f)and we sang a lot of ME (hey TSwift!) while we floated since no one was around. Josh is currently covered from head to toe in clothing today hiding from all things\u2600\ufe0f\u2600\ufe0f\u2600\ufe0f but he did kindly come out of the shade to snap this photo of us, thank you @tiesandfries! #sunshine #travel #mommyandme #swimdate #puertorico #me #ts7"}}]},"shortcode":"Bwu0sFkBOUo","edge_media_to_comment":{"count":44},"comments_disabled":false,"taken_at_timestamp":1556309318,"dimensions":{"height":1349,"width":1080},"display_url":"https://instagram.fscl12-1.fna.fbcdn.net/vp/43fd6b6e07b71e2f00ee99a364e01436/5D7736AD/t51.2885-15/e35/58468436_430307517703278_6115592565488365803_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","edge_liked_by":{"count":14700},"edge_media_preview_like":{"count":14700},"location":{"id":"289143502","has_public_page":true,"name":"Puerto Rico","slug":"puerto-rico"},"gating_info":null,"media_preview":"ACEqpxoF4OMZxzwafMfKkGOAufp+H1pJbaUNzhtxPK/Xvxx7USW8ineEOAuDkhj/AJ5/TNSnYViaGdWkZyeCAAPT1/KmySukjZ9OB/n+lQrCxjBCHjknpx6Dv+GKWZGZsurKh6cDtj3x+P1qm76C5Q+0L6n8qKr+YfU/kKKmwzRmkdjgnp6cVHI7Nx0GOmahmdgPl68c1MoAjUnlu/8An+ddGidjC0mnLoCsVAGcc/n7VdAin4YDPYH+lUeWJX5cEd+oPb86jiBG4HnBxn8Oam6cuUqzUVP8DW+xxf3R+tFZ+760U+XzJ5/L8TQe2Eg2sAFHIA9e/wBaXyD0wuD149OlWaK5juv6ETQiThwrfVaRYfLG1cYHb9Pep6SgRHj2H+fwoqSigD//2Q==","owner":{"id":"719632","username":"taza"},"thumbnail_src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/42f2f8a6c0bf8cf275cf5b9d7de69148/5D76FB35/t51.2885-15/sh0.08/e35/c0.134.1080.1080a/s640x640/58468436_430307517703278_6115592565488365803_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","thumbnail_resources":[{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/0a308f79811f11eefc84992d33e86fbe/5D597EFE/t51.2885-15/e35/c0.134.1080.1080a/s150x150/58468436_430307517703278_6115592565488365803_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":150,"config_height":150},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/0c2d80dedc4a6f8fa5576845a479e68c/5D5CE1B4/t51.2885-15/e35/c0.134.1080.1080a/s240x240/58468436_430307517703278_6115592565488365803_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":240,"config_height":240},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/522defe5dfac8044ab3bf8d87b78eeb5/5D59F80E/t51.2885-15/e35/c0.134.1080.1080a/s320x320/58468436_430307517703278_6115592565488365803_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":320,"config_height":320},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/52fb486c7c2b9d24d877c24a47df6512/5D689354/t51.2885-15/e35/c0.134.1080.1080a/s480x480/58468436_430307517703278_6115592565488365803_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":480,"config_height":480},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/42f2f8a6c0bf8cf275cf5b9d7de69148/5D76FB35/t51.2885-15/sh0.08/e35/c0.134.1080.1080a/s640x640/58468436_430307517703278_6115592565488365803_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":640,"config_height":640}],"is_video":false,"accessibility_caption":"Image may contain: one or more people, pool and outdoor"}},{"node":{"__typename":"GraphVideo","id":"2030586799436728702","edge_media_to_caption":{"edges":[{"node":{"text":"\ud83d\udc6f\u200d\u2640\ufe0fTaking their morning barre work ever so seriously and making me so proud #dance #dance #dance (sorry about my obnoxious mom voice\ud83e\udd26\ud83c\udffb\u200d\u2640\ufe0f)"}}]},"shortcode":"BwuF--CBgl-","edge_media_to_comment":{"count":250},"comments_disabled":false,"taken_at_timestamp":1556285016,"dimensions":{"height":937,"width":750},"display_url":"https://instagram.fscl12-1.fna.fbcdn.net/vp/604226d5a631defd9e41fa04ddf58b22/5CCA4067/t51.2885-15/e35/56806712_338619477001934_1079441570253526349_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","edge_liked_by":{"count":17861},"edge_media_preview_like":{"count":17861},"location":{"id":"223104264","has_public_page":true,"name":"Dorado, Puerto Rico","slug":"dorado-puerto-rico"},"gating_info":null,"media_preview":"ACEqvpKWxkEZ6Z4/Q81NuxWZcztI20DEYGdxOPqOAT+GR74qj9q2NtUgLnqM5I69y2KVhpy6/wDBNyWTj2+uKrl178fX/HpUE0kcq7CwBz2PIP0HXg+v1qeJVRAmenr1NQaculxdw/vfrRR5a+g/KigViqbuFUwp4HAJXjjuo/rzz1qLyYrs+bzk8enTjJHqKzm3OdznJ/zwB2A9KvWp8pS2eM02y4dmkVooTG+1+CvJx7c/r/KtlDvAz+VUZP3khc8Zx+nFWo/5Uh7KyJdg9KKb5n0ooJKJjH6UzaUUjhgT0+lXB0NQP96kNDkIYe9PzVcHEhxx/wDqqw/T8v6UDE5optFID//Z","owner":{"id":"719632","username":"taza"},"thumbnail_src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/65658ad2500992e1302287b14e704533/5CCAC873/t51.2885-15/sh0.08/e35/c0.90.720.720a/s640x640/56806712_338619477001934_1079441570253526349_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","thumbnail_resources":[{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/1d8407dceec10562f2692879c3074a56/5CCAD4F9/t51.2885-15/e35/c0.90.720.720a/s150x150/56806712_338619477001934_1079441570253526349_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":150,"config_height":150},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/0caf9bfe351dfad2f32a4997a57b7f06/5CCA4973/t51.2885-15/e35/c0.90.720.720a/s240x240/56806712_338619477001934_1079441570253526349_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":240,"config_height":240},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/a15672bb4a207f4d1d676fccee4e28dd/5CC9EC49/t51.2885-15/e35/c0.90.720.720a/s320x320/56806712_338619477001934_1079441570253526349_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":320,"config_height":320},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/17a623571fda8ad4c7b6173b6dd15899/5CC9CA93/t51.2885-15/e35/c0.90.720.720a/s480x480/56806712_338619477001934_1079441570253526349_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":480,"config_height":480},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/65658ad2500992e1302287b14e704533/5CCAC873/t51.2885-15/sh0.08/e35/c0.90.720.720a/s640x640/56806712_338619477001934_1079441570253526349_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":640,"config_height":640}],"is_video":true,"video_view_count":122221}},{"node":{"__typename":"GraphSidecar","id":"2030202872268084117","edge_media_to_caption":{"edges":[{"node":{"text":"Baby girls first hike to a waterfall!\ud83d\udca6Swipe for some of my favorite photos from today\u2019s blog post.  This rain forest was full of such rich colors, with a legit rainbow that I\u2019m not finished talking about apparently. And considering I\u2019m the only one that left with a big bug bite on my ankle (I always forget to spray my stupid ankles and feet in these situations!), I consider this adventure a great success! Have I mentioned yet just how taken I am by this dreamy breathtakingly beautiful little island?! Also who is exhausted but staying up past midnight because new music is dropping in a few hours by YOU KNOW WHOOOOOOO\ud83d\ude34\ud83c\udf89\ud83d\ude4c\ud83c\udffb"}}]},"shortcode":"BwsusF_hFOV","edge_media_to_comment":{"count":80},"comments_disabled":false,"taken_at_timestamp":1556239063,"dimensions":{"height":1080,"width":1080},"display_url":"https://instagram.fscl12-1.fna.fbcdn.net/vp/cad5add408da4525c95708f89b50e567/5D5BD6E4/t51.2885-15/e35/56739407_1019742388220842_5111701098813842425_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","edge_liked_by":{"count":13252},"edge_media_preview_like":{"count":13252},"location":{"id":"216999263","has_public_page":true,"name":"El Yunque National Forest","slug":"el-yunque-national-forest"},"gating_info":null,"media_preview":null,"owner":{"id":"719632","username":"taza"},"thumbnail_src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/86c236d382c55cd94f32420acde54899/5D589F5E/t51.2885-15/sh0.08/e35/s640x640/56739407_1019742388220842_5111701098813842425_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","thumbnail_resources":[{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/81385f2ff1dd9cdb895fc14f0e343b09/5D77C9DB/t51.2885-15/e35/s150x150/56739407_1019742388220842_5111701098813842425_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":150,"config_height":150},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/e568c37c95c684113715accb3fab3dd7/5D5856DD/t51.2885-15/e35/s240x240/56739407_1019742388220842_5111701098813842425_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":240,"config_height":240},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/0db0eb70f7d98694a5413ce40ec73750/5D627BA3/t51.2885-15/e35/s320x320/56739407_1019742388220842_5111701098813842425_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":320,"config_height":320},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/ef969ac061221c47c8f29b5456eb60e8/5D581EE4/t51.2885-15/e35/s480x480/56739407_1019742388220842_5111701098813842425_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":480,"config_height":480},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/86c236d382c55cd94f32420acde54899/5D589F5E/t51.2885-15/sh0.08/e35/s640x640/56739407_1019742388220842_5111701098813842425_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":640,"config_height":640}],"is_video":false,"accessibility_caption":"Image may contain: 1 person, sitting and outdoor"}},{"node":{"__typename":"GraphImage","id":"2030012821953356639","edge_media_to_caption":{"edges":[{"node":{"text":"Everybody say RAINFOREST! \ud83c\udf34\ud83c\udf3f\ud83c\udf43\ud83d\udca6\ud83c\udf08 Seriously such an incredible day exploring this beautiful island. I posted more photos and words on my blog, link in profile! #elyunquerainforest #puertorico #familytravel #rainforest #familyphoto"}}]},"shortcode":"BwsDef2BKNf","edge_media_to_comment":{"count":79},"comments_disabled":false,"taken_at_timestamp":1556216408,"dimensions":{"height":1349,"width":1080},"display_url":"https://instagram.fscl12-1.fna.fbcdn.net/vp/dbf26ce5877741eef400ba02892fca04/5D5CD192/t51.2885-15/e35/56823631_2327723557498157_7958789915409814926_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","edge_liked_by":{"count":14693},"edge_media_preview_like":{"count":14693},"location":{"id":"216999263","has_public_page":true,"name":"El Yunque National Forest","slug":"el-yunque-national-forest"},"gating_info":null,"media_preview":"ACEqpBSFBbv/AJ/OkHJJ7jp7D1q5Knmd+nQetQSAjqMEkVmidiVmwhB9un+fSs9sA57Zq854qk3pWjESYHrRVbJoqLDuaRxGdzHI9fT6/wCNMY7zj1PHt/j+FO2FzjnH6Y7/AOf/ANVOSILjDcDjGe+fT2/P3oRdrkch4HtVVyCavTRuvyn6+p/l+VVCoH3geasgh2/Siptq+h/OikM0BhcnOMA4+vaoXcrwOu3I471ZHemEVKKvZfeNhkYAscjcf5DvUxfI5ANAA2mmDpVNtmYm1PQflRRRSuB//9k=","owner":{"id":"719632","username":"taza"},"thumbnail_src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/4d7b2953ed5cc226a5c7199d52e44519/5D5B6B9E/t51.2885-15/sh0.08/e35/c0.134.1080.1080/s640x640/56823631_2327723557498157_7958789915409814926_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","thumbnail_resources":[{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/1f8a00d11de80a75248c5874dba40d4a/5D629609/t51.2885-15/e35/c0.134.1080.1080/s150x150/56823631_2327723557498157_7958789915409814926_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":150,"config_height":150},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/faa2a186d5f07c8720b31b0eacd96d05/5D6E520F/t51.2885-15/e35/c0.134.1080.1080/s240x240/56823631_2327723557498157_7958789915409814926_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":240,"config_height":240},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/ff0e4c7ce26df934163a010b8d90315d/5D633271/t51.2885-15/e35/c0.134.1080.1080/s320x320/56823631_2327723557498157_7958789915409814926_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":320,"config_height":320},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/bba362be4f72623f83a7ddc4558654e8/5D649536/t51.2885-15/e35/c0.134.1080.1080/s480x480/56823631_2327723557498157_7958789915409814926_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":480,"config_height":480},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/4d7b2953ed5cc226a5c7199d52e44519/5D5B6B9E/t51.2885-15/sh0.08/e35/c0.134.1080.1080/s640x640/56823631_2327723557498157_7958789915409814926_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":640,"config_height":640}],"is_video":false,"accessibility_caption":"Image may contain: 6 people, people standing, outdoor, nature and water"}},{"node":{"__typename":"GraphImage","id":"2029875105722894665","edge_media_to_caption":{"edges":[{"node":{"text":"If you stood just right inside the waterfall, you could see an insane 360 degree rainbow \ud83c\udf08 circling the bottom of the fall and I hope I never forget it. We loved hiking up to Juan Diego falls in the Yunque National Forest. So much beauty everywhere you look! #elyunquerainforest #waterfall #puertorico #travel"}}]},"shortcode":"BwrkKdnBYlJ","edge_media_to_comment":{"count":70},"comments_disabled":false,"taken_at_timestamp":1556199990,"dimensions":{"height":1080,"width":1080},"display_url":"https://instagram.fscl12-1.fna.fbcdn.net/vp/2385925807ee7e387a5a55b73dd06269/5D6A1F78/t51.2885-15/e35/57488051_2352945378251768_3391343729422887339_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","edge_liked_by":{"count":12937},"edge_media_preview_like":{"count":12937},"location":{"id":"216999263","has_public_page":true,"name":"El Yunque National Forest","slug":"el-yunque-national-forest"},"gating_info":null,"media_preview":"ACoqzQCRgjio5Dk4q5JKU47Ht/n1qk5y2elQiSRen4VC1SqRg+v86iPpVCGGkpTSUFE+/PI59c0hJI5/Iio9oPSnFWPXJ96VgFU9qa1XFiCR5Y4Zs4BHYdwenXr+FVWHPNUIjzSU7A70u0UDJQinrVmFUQ5yR6jP/wBaqi1IKkm5pDymb94DjGMjp/iKa9vbHozA/hVamGi4rg9vGM4OfT/PSoPL/wBqntUZp3Hc/9k=","owner":{"id":"719632","username":"taza"},"thumbnail_src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/fd206b71d07e95b23cfcaac04b080b31/5D5663C2/t51.2885-15/sh0.08/e35/s640x640/57488051_2352945378251768_3391343729422887339_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","thumbnail_resources":[{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/76d53510505b0c46b3986f4795f9e682/5D729347/t51.2885-15/e35/s150x150/57488051_2352945378251768_3391343729422887339_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":150,"config_height":150},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/d4888949e858561b9cd87d532838da3a/5D631941/t51.2885-15/e35/s240x240/57488051_2352945378251768_3391343729422887339_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":240,"config_height":240},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/20de5d64d50004fcac10177e21c9634a/5D5DFA3F/t51.2885-15/e35/s320x320/57488051_2352945378251768_3391343729422887339_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":320,"config_height":320},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/36bbdd1220a053b93bb7e5f5371b109e/5D6D4F78/t51.2885-15/e35/s480x480/57488051_2352945378251768_3391343729422887339_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":480,"config_height":480},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/fd206b71d07e95b23cfcaac04b080b31/5D5663C2/t51.2885-15/sh0.08/e35/s640x640/57488051_2352945378251768_3391343729422887339_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":640,"config_height":640}],"is_video":false,"accessibility_caption":"Image may contain: one or more people, people standing, tree, outdoor, nature and water"}},{"node":{"__typename":"GraphImage","id":"2028409515669973290","edge_media_to_caption":{"edges":[{"node":{"text":"\ud83d\udc76\ud83c\udffc\ud83d\udc76\ud83c\udffc\ud83c\udfd6\u2600\ufe0f\ud83c\udf89\ud83d\udc95"}}]},"shortcode":"BwmW7Ugh-kq","edge_media_to_comment":{"count":113},"comments_disabled":false,"taken_at_timestamp":1556025279,"dimensions":{"height":1350,"width":1080},"display_url":"https://instagram.fscl12-1.fna.fbcdn.net/vp/56d4b8dd9687f9421e6fb17c6553c914/5D76DA24/t51.2885-15/e35/56816160_322608538419392_4205323398740154793_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","edge_liked_by":{"count":16385},"edge_media_preview_like":{"count":16385},"location":{"id":"289143502","has_public_page":true,"name":"Puerto Rico","slug":"puerto-rico"},"gating_info":null,"media_preview":"ACEqrHrk0hFaRWADHXnrkdPSmyeS3IGOe3p6V1cy7HDyPuilEzKcrnJ445q/BEzZ35A7+tOSSNSTyQeg44pvmE9yB7VD16GsbR3d/L+mO+yR/wB40Ubk/wBr9KKnUr3SLauKGjUAHsT6VAWIqzIQEGT0yPxqbmyhcBGmCe3SnKlVhKGX1watxuCOaGxuDja6sG2in5X1opXJsZZO6oZCzfKSeKfUbdayubptbaDdgB+taKkYwKoL0qylFySxn6UUyii4WP/Z","owner":{"id":"719632","username":"taza"},"thumbnail_src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/cb516ce50b80f93f8ee27ad01274ded9/5D525F28/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/56816160_322608538419392_4205323398740154793_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","thumbnail_resources":[{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/e1122576400bd2c4b9be4d7ea80b789b/5D7620E3/t51.2885-15/e35/c0.135.1080.1080a/s150x150/56816160_322608538419392_4205323398740154793_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":150,"config_height":150},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/e9139c14019a43de0dcb62510834003e/5D5B31A9/t51.2885-15/e35/c0.135.1080.1080a/s240x240/56816160_322608538419392_4205323398740154793_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":240,"config_height":240},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/c8fa128baabc7b670c0f51685546689f/5D667813/t51.2885-15/e35/c0.135.1080.1080a/s320x320/56816160_322608538419392_4205323398740154793_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":320,"config_height":320},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/ea98aee347f1bb30b7243e10915067e7/5D60CD49/t51.2885-15/e35/c0.135.1080.1080a/s480x480/56816160_322608538419392_4205323398740154793_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":480,"config_height":480},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/cb516ce50b80f93f8ee27ad01274ded9/5D525F28/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/56816160_322608538419392_4205323398740154793_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":640,"config_height":640}],"is_video":false,"accessibility_caption":"Image may contain: one or more people, cloud, sky, outdoor, nature and water"}},{"node":{"__typename":"GraphSidecar","id":"2028031422006555435","edge_media_to_caption":{"edges":[{"node":{"text":"Easter in #puertorico on the beach! \ud83c\udfd6 (swipe for videos at the end!) Glad the Easter bunny remembered to visit our hotel room Easter morning when we got back from breakfast because the hotel\u2019s hunt in the afternoon was mad chaos that ended in a 3 minute rainstorm \ud83d\ude02 Loved meeting the kind and warm people at church in Luquillo where we attended services in Spanish. Such a wonderful experience! Happy Easter! \ud83d\udc23 #eastersunday #easteregghunt #travel"}}]},"shortcode":"BwlA9VWB_Mr","edge_media_to_comment":{"count":128},"comments_disabled":false,"taken_at_timestamp":1555980206,"dimensions":{"height":1350,"width":1080},"display_url":"https://instagram.fscl12-1.fna.fbcdn.net/vp/490698950858321182d8c9d8cd99d0d7/5D726AC2/t51.2885-15/e35/56994188_859965507671311_7228171438668282938_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","edge_liked_by":{"count":16685},"edge_media_preview_like":{"count":16685},"location":{"id":"289143502","has_public_page":true,"name":"Puerto Rico","slug":"puerto-rico"},"gating_info":null,"media_preview":null,"owner":{"id":"719632","username":"taza"},"thumbnail_src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/8226838c8eb7edc1299404f7a097701a/5D57BECE/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/56994188_859965507671311_7228171438668282938_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","thumbnail_resources":[{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/c214a1d77978cc2425dbbe1b5f3f3635/5D575C05/t51.2885-15/e35/c0.135.1080.1080a/s150x150/56994188_859965507671311_7228171438668282938_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":150,"config_height":150},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/18998f6459179ee5cd4e890adc46d3f3/5D65D54F/t51.2885-15/e35/c0.135.1080.1080a/s240x240/56994188_859965507671311_7228171438668282938_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":240,"config_height":240},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/ad3d1b331e47e47999083cbd6fbf0986/5D66A0F5/t51.2885-15/e35/c0.135.1080.1080a/s320x320/56994188_859965507671311_7228171438668282938_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":320,"config_height":320},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/036d3e0125b749d1e03e04be7057b355/5D5D4EAF/t51.2885-15/e35/c0.135.1080.1080a/s480x480/56994188_859965507671311_7228171438668282938_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":480,"config_height":480},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/8226838c8eb7edc1299404f7a097701a/5D57BECE/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/56994188_859965507671311_7228171438668282938_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":640,"config_height":640}],"is_video":false,"accessibility_caption":"Image may contain: 2 people, tree, grass, outdoor and nature"}},{"node":{"__typename":"GraphSidecar","id":"2027823901811661385","edge_media_to_caption":{"edges":[{"node":{"text":"\ud83c\udfdd\u2600\ufe0f\ud83d\udc95 (swipe left) Puerto Rico, an absolute dream ... and the baby girls discovering sand for the first time\ud83d\ude02\ud83d\ude0e who knew it could be so beautiful and messy and ...delicious?!\ud83d\ude05\ud83e\udd26\ud83c\udffb\u200d\u2640\ufe0f\ud83d\ude1c #travel #puertorico #beachlife #sandeverywhere"}}]},"shortcode":"BwkRxhGh9pJ","edge_media_to_comment":{"count":183},"comments_disabled":false,"taken_at_timestamp":1555955468,"dimensions":{"height":1350,"width":1080},"display_url":"https://instagram.fscl12-1.fna.fbcdn.net/vp/8e716071ca6f5863119f531b3b17c2a2/5D6B6EA1/t51.2885-15/e35/57040249_423406511726202_3278763724578520214_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","edge_liked_by":{"count":21288},"edge_media_preview_like":{"count":21288},"location":{"id":"289143502","has_public_page":true,"name":"Puerto Rico","slug":"puerto-rico"},"gating_info":null,"media_preview":null,"owner":{"id":"719632","username":"taza"},"thumbnail_src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/8ae2ff6772a10865d80e5d7696a78a9c/5D634CAD/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/57040249_423406511726202_3278763724578520214_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","thumbnail_resources":[{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/112fd4121d3283d9356ced40b3752158/5D742F66/t51.2885-15/e35/c0.135.1080.1080a/s150x150/57040249_423406511726202_3278763724578520214_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":150,"config_height":150},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/4172ce9456978bbea6d0b924c4178fb6/5D70632C/t51.2885-15/e35/c0.135.1080.1080a/s240x240/57040249_423406511726202_3278763724578520214_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":240,"config_height":240},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/c2903f5c7063d12feb65c6eb5b4517f2/5D6A8E96/t51.2885-15/e35/c0.135.1080.1080a/s320x320/57040249_423406511726202_3278763724578520214_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":320,"config_height":320},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/b1bceaf6074117171ef49d013bbd751c/5D5194CC/t51.2885-15/e35/c0.135.1080.1080a/s480x480/57040249_423406511726202_3278763724578520214_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":480,"config_height":480},{"src":"https://instagram.fscl12-1.fna.fbcdn.net/vp/8ae2ff6772a10865d80e5d7696a78a9c/5D634CAD/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/57040249_423406511726202_3278763724578520214_n.jpg?_nc_ht=instagram.fscl12-1.fna.fbcdn.net","config_width":640,"config_height":640}],"is_video":false,"accessibility_caption":"Image may contain: one or more people, people sitting, cloud, hat, sky, child, outdoor and nature"}}]},"edge_saved_media":{"count":0,"page_info":{"has_next_page":false,"end_cursor":null},"edges":[]},"edge_media_collections":{"count":0,"page_info":{"has_next_page":false,"end_cursor":null},"edges":[]}}},"show_follow_dialog":false}]},"hostname":"www.instagram.com","deployment_stage":"c2","platform":"web","rhx_gis":"adf9ce39c932f9f1938f2505a820d1a7","nonce":"B6pYEStdJPmtX15R3ZS30A==","mid_pct":60.98279,"zero_data":{},"cache_schema_version":3,"server_checks":{},"knobs":{"acct:ntb":0,"cb":0,"captcha":0,"fr":0},"to_cache":{"gatekeepers":{"3":false,"4":true,"5":false,"6":false,"7":false,"8":false,"9":false,"10":false,"11":false,"12":false,"13":true,"14":true,"15":true,"16":true,"18":true,"19":false,"20":false,"21":false,"23":false,"24":false,"25":false,"26":true,"27":false,"28":false,"29":true},"qe":{"sdc":{"g":"","p":{}},"app_upsell":{"g":"test_iglite","p":{"has_iglite_new_content":"false","has_iglite_link":"true"}},"igl_app_upsell":{"g":"","p":{}},"notif":{"g":"","p":{}},"show_copy_link":{"g":"","p":{}},"p_edit":{"g":"","p":{}},"comment_ta":{"g":"","p":{}},"su":{"g":"","p":{}},"log_cont":{"g":"control_intent_d_42","p":{"has_contextual_d":"false"}},"onetaplogin":{"g":"default_opt_out","p":{"default_value":"false","during_reg":"true","storage_version":"one_tap_storage_version"}},"onetap":{"g":"control","p":{"has_checkbox":"false"}},"multireg_iter":{"g":"test_12_21","p":{"has_new_phone_form":"true"}},"felix":{"g":"","p":{}},"felix_clear_fb_cookie":{"g":"","p":{}},"felix_creation_duration_limits":{"g":"","p":{}},"felix_creation_fb_crossposting":{"g":"","p":{}},"felix_creation_fb_crossposting_v2":{"g":"","p":{}},"felix_creation_validation":{"g":"","p":{}},"mweb_topical_explore":{"g":"","p":{}},"web_hashtag":{"g":"","p":{}},"lite_rating":{"g":"","p":{}},"post_options":{"g":"","p":{}},"igtv_public_viewing":{"g":"","p":{}},"nux":{"g":"","p":{}},"iglmsr":{"g":"test","p":{"has_country_code_selector":"false"}},"igwsvl":{"g":"","p":{}},"iglcp":{"g":"control","p":{"has_login_prefill":"false"}},"iglscioi":{"g":"","p":{}},"wpn":{"g":"","p":{}},"iglcius":{"g":"","p":{}},"wfvu":{"g":"","p":{}},"wss2":{"g":"","p":{}},"sticker_tray":{"g":"","p":{}},"web_sentry":{"g":"","p":{}},"0":{"p":{},"qex":true},"2":{"p":{"0":false},"qex":true},"4":{"p":{"0":false},"qex":true},"5":{"p":{"0":false},"qex":true},"6":{"p":{"0":"12","1":true},"qex":true},"7":{"p":{"0":false},"qex":true},"8":{"p":{"0":false,"1":false,"2":false,"3":false,"4":false},"qex":true},"9":{"p":{"0":false,"1":true,"2":2000,"3":100,"4":25,"5":false},"qex":true},"10":{"p":{"0":false,"1":false,"2":false,"3":true,"4":false},"qex":true},"11":{"p":{"0":true},"qex":true},"12":{"p":{"0":5},"qex":true},"13":{"p":{"0":false},"qex":true},"14":{"p":{"0":false},"qex":true},"16":{"p":{"0":false},"qex":true},"17":{"p":{"0":false,"1":true},"qex":true},"18":{"p":{"0":false,"1":false},"qex":true},"19":{"p":{"0":true},"qex":true},"20":{"p":{"0":false},"qex":true},"21":{"p":{"0":true,"1":true},"qex":true},"22":{"p":{"0":false,"1":false,"2":8.0,"3":0.85,"4":0.95,"5":10.0},"qex":true},"23":{"p":{"0":true,"1":false},"qex":true},"24":{"p":{"0":true},"qex":true}},"probably_has_app":false,"cb":false},"rollout_hash":"c29a4a49ecf2","bundle_variant":"metro","is_canary":false};</script>
+<script type="text/javascript">window.__initialDataLoaded(window._sharedData);</script>
+<script type="text/javascript">var __BUNDLE_START_TIME__=this.nativePerformanceNow?nativePerformanceNow():Date.now(),__DEV__=false,process=this.process||{};process.env=process.env||{};process.env.NODE_ENV=process.env.NODE_ENV||"production";!(function(r){"use strict";function e(){return c=Object.create(null)}function t(r){var e=r,t=c[e];return t&&t.isInitialized?t.publicModule.exports:o(e,t)}function n(r){var e=r;if(c[e]&&c[e].importedDefault!==f)return c[e].importedDefault;var n=t(e),i=n&&n.__esModule?n.default:n;return c[e].importedDefault=i}function i(r){var e=r;if(c[e]&&c[e].importedAll!==f)return c[e].importedAll;var n,i=t(e);if(i&&i.__esModule)n=i;else{if(n={},i)for(var o in i)p.call(i,o)&&(n[o]=i[o]);n.default=i}return c[e].importedAll=n}function o(e,t){if(!s&&r.ErrorUtils){s=!0;var n;try{n=u(e,t)}catch(e){r.ErrorUtils.reportFatalError(e)}return s=!1,n}return u(e,t)}function l(r){return{segmentId:r>>>v,localId:r&h}}function u(e,o){if(!o&&g.length>0){var u=l(e),f=u.segmentId,p=u.localId,s=g[f];null!=s&&(s(p),o=c[e])}var v=r.nativeRequire;if(!o&&v){var h=l(e),I=h.segmentId;v(h.localId,I),o=c[e]}if(!o)throw a(e);if(o.hasError)throw d(e,o.error);o.isInitialized=!0;var _=o,w=_.factory,y=_.dependencyMap;try{var M=o.publicModule;if(M.id=e,m.length>0)for(var b=0;b<m.length;++b)m[b].cb(e,M);return w(r,t,n,i,M,M.exports,y),o.factory=void 0,o.dependencyMap=void 0,M.exports}catch(r){throw o.hasError=!0,o.error=r,o.isInitialized=!1,o.publicModule.exports=void 0,r}}function a(r){var e='Requiring unknown module "'+r+'".';return Error(e)}function d(r,e){var t=r;return Error('Requiring module "'+t+'", which threw an exception: '+e)}r.__r=t,r.__d=function(r,e,t){null==c[e]&&(c[e]={dependencyMap:t,factory:r,hasError:!1,importedAll:f,importedDefault:f,isInitialized:!1,publicModule:{exports:{}}})},r.__c=e,r.__registerSegment=function(r,e){g[r]=e};var c=e(),f={},p={}.hasOwnProperty;t.importDefault=n,t.importAll=i;var s=!1,v=16,h=65535;t.unpackModuleId=l,t.packModuleId=function(r){return(r.segmentId<<v)+r.localId};var m=[];t.registerHook=function(r){var e={cb:r};return m.push(e),{release:function(){for(var r=0;r<m.length;++r)if(m[r]===e){m.splice(r,1);break}}}};var g=[]})('undefined'!=typeof global?global:'undefined'!=typeof window?window:this);
+__s={"50":"/static/bundles/metro/AllTranslationMappings_af_ZA.js/5419ba175652.js","52":"/static/bundles/metro/AllTranslationMappings_cs_CZ.js/dceee322747b.js","54":"/static/bundles/metro/AllTranslationMappings_da_DK.js/4c1e5558291e.js","56":"/static/bundles/metro/AllTranslationMappings_de_DE.js/dab08a503d7c.js","58":"/static/bundles/metro/AllTranslationMappings_el_GR.js/c202e75cc868.js","60":"/static/bundles/metro/AllTranslationMappings_en_US.js/acf902053235.js","62":"/static/bundles/metro/AllTranslationMappings_es_ES.js/101a453f2c6f.js","64":"/static/bundles/metro/AllTranslationMappings_es_LA.js/f85c722683ba.js","66":"/static/bundles/metro/AllTranslationMappings_fi_FI.js/40ca032e016c.js","68":"/static/bundles/metro/AllTranslationMappings_fr_FR.js/3d6e70193575.js","70":"/static/bundles/metro/AllTranslationMappings_id_ID.js/350c77b0823a.js","72":"/static/bundles/metro/AllTranslationMappings_it_IT.js/1288cb9139d5.js","74":"/static/bundles/metro/AllTranslationMappings_ja_JP.js/30e2ce61d1ff.js","76":"/static/bundles/metro/AllTranslationMappings_ko_KR.js/e1b513247670.js","78":"/static/bundles/metro/AllTranslationMappings_ms_MY.js/5195864c4566.js","80":"/static/bundles/metro/AllTranslationMappings_nb_NO.js/b7b0f4f7b111.js","82":"/static/bundles/metro/AllTranslationMappings_nl_NL.js/4dd306fc26ff.js","84":"/static/bundles/metro/AllTranslationMappings_pl_PL.js/e3e4170c1322.js","86":"/static/bundles/metro/AllTranslationMappings_pt_BR.js/81c87ee23d13.js","88":"/static/bundles/metro/AllTranslationMappings_pt_PT.js/e562b4b49216.js","90":"/static/bundles/metro/AllTranslationMappings_ru_RU.js/b7e95d3ed008.js","92":"/static/bundles/metro/AllTranslationMappings_sv_SE.js/094656aa925c.js","94":"/static/bundles/metro/AllTranslationMappings_th_TH.js/e4221d10ce51.js","96":"/static/bundles/metro/AllTranslationMappings_tl_PH.js/fbcf18a14f0b.js","98":"/static/bundles/metro/AllTranslationMappings_tr_TR.js/31b0d03ac479.js","100":"/static/bundles/metro/AllTranslationMappings_zh_CN.js/597a2d7c3db0.js","102":"/static/bundles/metro/AllTranslationMappings_zh_TW.js/17c9e25e63c6.js","104":"/static/bundles/metro/AllTranslationMappings_bn_IN.js/fb5465382aa0.js","106":"/static/bundles/metro/AllTranslationMappings_gu_IN.js/2dba977157ac.js","108":"/static/bundles/metro/AllTranslationMappings_hi_IN.js/75b616db993e.js","110":"/static/bundles/metro/AllTranslationMappings_hr_HR.js/520bab4aed48.js","112":"/static/bundles/metro/AllTranslationMappings_hu_HU.js/d4e96a1cbf30.js","114":"/static/bundles/metro/AllTranslationMappings_kn_IN.js/0370f8c8a52e.js","116":"/static/bundles/metro/AllTranslationMappings_ml_IN.js/857eab58501c.js","118":"/static/bundles/metro/AllTranslationMappings_mr_IN.js/e4bd00338e1c.js","120":"/static/bundles/metro/AllTranslationMappings_ne_NP.js/a7dd3885dd91.js","122":"/static/bundles/metro/AllTranslationMappings_pa_IN.js/755fe52bf646.js","124":"/static/bundles/metro/AllTranslationMappings_si_LK.js/44f8d6fd7254.js","126":"/static/bundles/metro/AllTranslationMappings_sk_SK.js/107fb4169c6e.js","128":"/static/bundles/metro/AllTranslationMappings_ta_IN.js/b658971bf741.js","130":"/static/bundles/metro/AllTranslationMappings_te_IN.js/9b96c300a4c0.js","132":"/static/bundles/metro/AllTranslationMappings_vi_VN.js/5a33eefed6f1.js","134":"/static/bundles/metro/AllTranslationMappings_zh_HK.js/e81a1f7dea0b.js","136":"/static/bundles/metro/AllTranslationMappings_bg_BG.js/16c4e4a3325a.js","138":"/static/bundles/metro/AllTranslationMappings_fr_CA.js/cfbcfdff376c.js","140":"/static/bundles/metro/AllTranslationMappings_ro_RO.js/1a3d98a1034d.js","142":"/static/bundles/metro/AllTranslationMappings_sr_RS.js/dda374824a71.js","144":"/static/bundles/metro/AllTranslationMappings_uk_UA.js/6618253ecfbc.js","146":"/static/bundles/metro/MobileStoriesLoginPage.js/47f917fd44ef.js","147":"/static/bundles/metro/DesktopStoriesLoginPage.js/d91bc023e959.js","148":"/static/bundles/metro/DirectNewThread.js/4095db79260e.js","149":"/static/bundles/metro/DirectMQTT.js/f5414b97dc13.js","150":"/static/bundles/metro/MobileStoriesPage.js/e520bf4f8c91.js","151":"/static/bundles/metro/DesktopStoriesPage.js/c95342ce8e48.js","152":"/static/bundles/metro/ActivityFeedBox.js/debe1d49ffc1.js","153":"/static/bundles/metro/ActivityFeedPage.js/1388d45d4026.js","154":"/static/bundles/metro/AdsSettingsPage.js/4a5e08490aba.js","155":"/static/bundles/metro/DonateCheckoutPage.js/1761c4dfed82.js","156":"/static/bundles/metro/CameraPage.js/530335a4b4a2.js","157":"/static/bundles/metro/SettingsModules.js/5ddf0d44bd2c.js","158":"/static/bundles/metro/ContactHistoryPage.js/811bb1a16586.js","159":"/static/bundles/metro/AccessToolPage.js/40df94bc3dff.js","160":"/static/bundles/metro/AccessToolViewAllPage.js/af350d245490.js","161":"/static/bundles/metro/AccountPrivacyBugPage.js/02b3be962b29.js","162":"/static/bundles/metro/FirstPartyPlaintextPasswordLandingPage.js/8c8c790a4e58.js","163":"/static/bundles/metro/ThirdPartyPlaintextPasswordLandingPage.js/84bd0fc6600b.js","164":"/static/bundles/metro/PlaintextPasswordBugPage.js/ad4d1c202776.js","165":"/static/bundles/metro/PrivateAccountMadePublicBugPage.js/5a71de3b687f.js","166":"/static/bundles/metro/PublicAccountNotMadePrivateBugPage.js/595e2d9e6c11.js","167":"/static/bundles/metro/BlockedAccountsBugPage.js/7c95f8978f8f.js","168":"/static/bundles/metro/AndroidBetaPrivacyBugPage.js/4ad20390c419.js","169":"/static/bundles/metro/DataControlsSupportPage.js/4b5e9515ef34.js","170":"/static/bundles/metro/DataDownloadRequestPage.js/d76a2b8d334e.js","171":"/static/bundles/metro/DataDownloadRequestConfirmPage.js/446120d91c76.js","172":"/static/bundles/metro/CheckpointUnderageAppealPage.js/ff8577eeadb6.js","173":"/static/bundles/metro/AccountRecoveryLandingPage.js/cfbe67467f73.js","174":"/static/bundles/metro/ContactInvitesOptOutPage.js/9aadda57b335.js","175":"/static/bundles/metro/ParentalConsentPage.js/ff903f3e453b.js","176":"/static/bundles/metro/ParentalConsentNotParentPage.js/0afd9d635e0a.js","177":"/static/bundles/metro/TermsAcceptPage.js/3d72ae70c925.js","178":"/static/bundles/metro/TermsUnblockPage.js/f4e42061f316.js","179":"/static/bundles/metro/NewTermsConfirmPage.js/415bb3818d1a.js","180":"/static/bundles/metro/ContactInvitesOptOutStatusPage.js/331630ace461.js","181":"/static/bundles/metro/CreationModules.js/e1a50eda7340.js","182":"/static/bundles/metro/StoryCreationPage.js/70fa7e3b8ddd.js","183":"/static/bundles/metro/ExploreMediaPageContainer.js/72065927736a.js","185":"/static/bundles/metro/LikedByListContainer.js/9082816eea66.js","186":"/static/bundles/metro/CommentLikedByListContainer.js/498c3565a39f.js","187":"/static/bundles/metro/DiscoverMediaPageContainer.js/c0f7e08d5a5d.js","188":"/static/bundles/metro/DiscoverPeoplePageContainer.js/e935bc9a8af3.js","189":"/static/bundles/metro/EmailConfirmationPage.js/7705bc913631.js","190":"/static/bundles/metro/FBSignupPage.js/fcbf5b7b1654.js","191":"/static/bundles/metro/NewUserInterstitial.js/44f9ab7cce8e.js","192":"/static/bundles/metro/MultiStepSignupPage.js/bfc5a8de1b83.js","193":"/static/bundles/metro/FeedSidebarContainer.js/9a75b2a53ceb.js","194":"/static/bundles/metro/FeedPageContainer.js/b2ae5108b39b.js","195":"/static/bundles/metro/FollowListModal.js/35aafc09701a.js","196":"/static/bundles/metro/FollowListPage.js/5329b2aca925.js","197":"/static/bundles/metro/SimilarAccountsModal.js/e0d84afd1f7f.js","198":"/static/bundles/metro/SimilarAccountsPage.js/56601ce7816e.js","199":"/static/bundles/metro/LandingPage.js/1d07ea116e51.js","200":"/static/bundles/metro/LocationsDirectoryCountryPage.js/f331f59ae50b.js","201":"/static/bundles/metro/LocationsDirectoryCityPage.js/2ede4c47f4d9.js","202":"/static/bundles/metro/LocationPageContainer.js/9a2a5738503f.js","203":"/static/bundles/metro/LocationsDirectoryLandingPage.js/9fb084e381a7.js","204":"/static/bundles/metro/LoginAndSignupPage.js/ce247de8d46d.js","205":"/static/bundles/metro/ResetPasswordPageContainer.js/358cb164ac85.js","206":"/static/bundles/metro/MobileAllCommentsPage.js/298bc3b625bf.js","207":"/static/bundles/metro/MediaChainingPageContainer.js/8c3ecd2ca81d.js","208":"/static/bundles/metro/PostPageContainer.js/90d4e78a5f22.js","209":"/static/bundles/metro/ProfilesDirectoryLandingPage.js/92e896afd1b0.js","210":"/static/bundles/metro/HashtagsDirectoryLandingPage.js/cfc274523444.js","211":"/static/bundles/metro/SuggestedDirectoryLandingPage.js/874ec13a6614.js","212":"/static/bundles/metro/TagPageContainer.js/b5a53b07b463.js","213":"/static/bundles/metro/PhoneConfirmPage.js/2d0ff3699dd4.js","214":"/static/bundles/metro/ProfilePageContainer.js/939c635fc5e7.js","215":"/static/bundles/metro/HttpErrorPage.js/5cb40eff264c.js","216":"/static/bundles/metro/IGTVVideoDraftsPageContainer.js/9862a7338c86.js","217":"/static/bundles/metro/IGTVVideoUploadPageContainer.js/eee7734babaf.js","218":"/static/bundles/metro/OAuthPermissionsPage.js/b7756bc5e4f2.js","219":"/static/bundles/metro/MobileDirectPage.js/3bd4c2d23e7a.js","220":"/static/bundles/metro/OneTapUpsell.js/75e04f60cab6.js","221":"/static/bundles/metro/NametagLandingPage.js/b4b5d4fbaf39.js","222":"/static/bundles/metro/DebugInfoNub.js/c3f5dab68960.js","224":"/static/bundles/metro/Consumer.js/9d19d01731c3.js","225":"/static/bundles/metro/Challenge.js/0e30cae84472.js","226":"/static/bundles/metro/NotificationLandingPage.js/e041e96710e0.js","238":"/static/bundles/metro/EmbedAsyncLogger.js/2ed04dbe4b91.js","240":"/static/bundles/metro/EmbedRich.js/62dead386737.js"}</script>
+<script type="text/javascript" src="/static/bundles/metro/Polyfills.js/dec1968b6511.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/bundles/metro/Vendor.js/b1dbf1d576e1.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/bundles/metro/en_US.js/2ffcd085eb68.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/bundles/metro/ConsumerCommons.js/6430af7c7a19.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/bundles/metro/Consumer.js/9d19d01731c3.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/bundles/metro/ProfilePageContainer.js/939c635fc5e7.js" crossorigin="anonymous" charset="utf-8" async=""></script>
+
+            
+        
+
+        <script type="text/javascript">
+(function(){
+  function normalizeError(err) {
+    var errorInfo = err.error || {};
+    var getConfigProp = function(propName, defaultValueIfNotTruthy) {
+      var propValue = window._sharedData && window._sharedData[propName];
+      return propValue ? propValue : defaultValueIfNotTruthy;
+    };
+    return {
+      line: err.line || errorInfo.message || 0,
+      column: err.column || 0,
+      name: 'InitError',
+      message: err.message || errorInfo.message || '',
+      script: errorInfo.script || '',
+      stack: errorInfo.stackTrace || errorInfo.stack || '',
+      timestamp: Date.now(),
+      ref: window.location.href,
+      deployment_stage: getConfigProp('deployment_stage', ''),
+      is_canary: getConfigProp('is_canary', false),
+      rollout_hash: getConfigProp('rollout_hash', ''),
+      is_prerelease: window.__PRERELEASE__ || false,
+      bundle_variant: getConfigProp('bundle_variant', null),
+      request_url: err.url || window.location.href,
+      response_status_code: errorInfo.statusCode || 0
+    }
+  }
+  window.addEventListener('load', function(){
+    if (window.__bufferedErrors && window.__bufferedErrors.length) {
+      if (window.caches && window.caches.keys && window.caches.delete) {
+        window.caches.keys().then(function(keys) {
+          keys.forEach(function(key) {
+            window.caches.delete(key)
+          })
+        })
+      }
+      window.__bufferedErrors.map(function(error) {
+        return normalizeError(error)
+      }).forEach(function(normalizedError) {
+        var request = new XMLHttpRequest();
+        request.open('POST', '/client_error/', true);
+        request.setRequestHeader('Content-Type', 'application/json; charset=utf-8');
+        request.send(JSON.stringify(normalizedError));
+      })
+    }
+  })
+}());
+</script>
+    </body>
 </html>

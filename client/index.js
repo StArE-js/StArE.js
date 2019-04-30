@@ -4,7 +4,7 @@ const bubbleChart = require('./scripts/bubbleChart.js').bubbleChart;
 const barChart = require('./scripts/barChart.js').barChart;
 
 var chart;
-var t= 500; //time to update data in ms.
+var t = 500; //time to update data in ms.
 
 //Bubble Chart
 const renderDataBubbleChart = () => {
@@ -68,7 +68,6 @@ const renderDataBarChart = () => {
     document.getElementById("chart").style.display = "none";
     document.getElementById("chart2").style.display = "block";
     document.getElementById("chart3").style.display = "none";
-
     document.getElementById("btn_1").innerText = "Bubble Chart";
     document.getElementById("btn_3").innerText = "Classic Text";
 
@@ -91,6 +90,9 @@ const updateDataBarChart=()=>{
     axios.default.get('http://localhost:3000/update').then(
         response => {
             json = response.data;
+            //Eliminar Axis Viejos y rehacerlos:
+            d3.select('#chart2').selectAll("#yAxis").remove()
+            d3.select('#chart2').selectAll("#xAxis").remove()
             d3.select('#chart2').datum(json).call(chart);
             console.log('updating...');
         },
@@ -138,20 +140,20 @@ axios.default.get('http://localhost:3000/ejemplo?whoRules=Devy+fandub').then( //
 );
 */
 const sendQueryEcosia= () =>{
-  var q= document.getElementById("SearchBox").value;
-  var p=0;
-  if(q!=""){
-      axios.default.get('http://localhost:3000/ecosia?q=' + q + '&p='+p).then(
-          response => {
-              json =JSON.stringify( response.data);
-              console.log(json);
-              document.getElementById("searchResults").innerHTML=json;
-              document.getElementById("searchResults").style.display = "block";
-          },
-          error => console.error(error)
-      )
-  };
-  console.log(q);
+    var q= document.getElementById("SearchBox").value;
+    var p=0;
+    if(q!=""){
+        axios.default.get('http://localhost:3000/ecosia?q=' + q + '&p='+p).then(
+            response => {
+                json =JSON.stringify( response.data);
+                console.log(json);
+                document.getElementById("searchResults").innerHTML=json;
+                document.getElementById("searchResults").style.display = "block";
+            },
+            error => console.error(error)
+        )
+    };
+    console.log(q);
 };
 
 const sendQueryGoogle= () => {

@@ -29,6 +29,7 @@ app.get('/update', function(req, res){
 });
 
 app.get('/ecosia', function(req, res){
+    stare.reset();
     const q= req.param('q');
     const p= req.param('p');
     ecosia.scrap(q, p).then(
@@ -48,6 +49,7 @@ app.get('/ecosia', function(req, res){
 
 
 app.get('/google', function(req, res){
+    stare.reset();
     const q = req.param('q');
     const apiKey = 'AIzaSyCmGpofWrPxQT-KrJnoArXaas0zOADXikA';
     const cx = '010212477578150644501:wtqrloafnss';

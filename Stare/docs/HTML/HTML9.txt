@@ -1,704 +1,535 @@
 
+
+
 <!DOCTYPE html>
+
 <html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#">
+
 <head>
-<link rel="stylesheet" type="text/css" href="/assets-fw/css/main.css">
-<title>México prepara estrategia para salvar a la vaquita marina</title>
-<meta content="FayerWayer" name="author">
-<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
-<meta content="width=device-width, initial-scale=1.0" name="viewport">
+  
 <meta charset="UTF-8">
-<link href="/assets-fw/img/apple-touch-icon.png" rel="apple-touch-icon" sizes="114x114">
-<link href="/assets-fw/img/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
-<link href="/assets-fw/img/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
-<link href="/assets-fw/manifest.json" rel="manifest">
-<meta content="#FF5227" name="theme-color">
-<meta property="fb:pages" content="6054184526" />
-<script type="text/javascript">
-      dataLayer = [{
-          'article_id': '384999',
-          'page_title': decodeURIComponent("M%C3%A9xico%20prepara%20estrategia%20para%20salvar%20a%20la%20vaquita%20marina".replace(/&#34;/g,'"')),
-          'pub_date': '2019/01/28%2014:49:13',
-          'pub_date_simple': '2019/01/28%2014:49:13',
-          'pub_date_GMT': '2019/01/28%2017:49:13',
-          'upd_date': '2019/01/28%2016:18:50',
-          'upd_date_GMT': '2019/01/28%2013:18:50',
-          'generateddate': '2019/01/28%2014:49:15',
-          'main_zone': 'fw',
-          'agency': 'fw',
-          'autor_name': 'York%20Perry',
-          'owner_market': 'fw',
-          'current_market': 'fw',
-          'byline': '',
-          'channel_name': 'politica',
-          'sub_channel_names': 'politica',
-          'all_channel_names': 'politica',
-          'pub_type': 'normal',
-          'content_type': 'article',
-          'canonical_link': 'https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina',
-          'current_link': 'https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina',
-          'countryCdn' : 'CL'
-      }];
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Home &#8902; TaZa Design</title>
+<link rel="pingback" href="http://www.taza.co/xmlrpc.php">
+<!-- This site is optimized with the Yoast SEO plugin v10.0.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.taza.co/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home &#8902; TaZa Design" />
+<meta property="og:url" content="http://www.taza.co/" />
+<meta property="og:site_name" content="TaZa Design" />
+<meta property="og:image" content="http://www.taza.co/wp-content/uploads/2017/03/1taza-purple-smoothies-window-copy-1024x772.jpg" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="772" />
+<meta property="og:image:alt" content="Unbreakable glasses for my accident-prone kid" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"WebSite","@id":"http://www.taza.co/#website","url":"http://www.taza.co/","name":"TaZa Design","potentialAction":{"@type":"SearchAction","target":"http://www.taza.co/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
 
-  </script>
-<script>
-	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-			 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-			 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-			 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-			 })(window,document,'script','dataLayer','GTM-MQTRQ4Z');
-	</script>
-<script>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="TaZa Design &raquo; Feed" href="http://www.taza.co/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TaZa Design &raquo; Comments Feed" href="http://www.taza.co/comments/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.4.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.4.2';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-60707745-1';
 
-				var mainCategory =  "politica";
-				var allCategories =  "politica";
-				var fechaMarca =  "2019-01-28T14:49:13-03:00";
-				var idPost = "384999";
-				var tipoPost = "article";
-				/* queue */
-				function capitalizeFirstLetter(string) {
-				    return string.charAt(0).toUpperCase() + string.slice(1);
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-60707745-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
 				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
 
-	     var googletag = googletag || {};
-	     googletag.cmd = googletag.cmd || [];
-			 
-			 	var shortname= "fayerwayer";
-				var bottomShortname = "fayerwayerbz";
-			 
-
-	     window.__ad_site = 'BZ_'+capitalizeFirstLetter(shortname);
-
-	    // window.__ad_slug = 'politica';
-var slices = window.location.href.split("/");
-var size=slices.length;window.__ad_slug=slices[size-2];
-console.log(window.__ad_slug);
-			 if(window.__ad_slug == "www.fayerwayer.com"){
-				 window.__ad_slug = "";
-			 }
-	     window.__ad_channel = 'politica';
-	     window.__ad_pagetype = 'article';
-	     window.__ad_keyword = 'extinci&oacute;n,M&eacute;xico,Vaquita marina'.replace(/,\s+/g,",");
-	     window.__disqus_shortname = shortname;
-			 
-			         
-			         
-			 
-			 
-			 
-			 
-			 window.__ad_native = 'false';
-			 
-			 
-			 window.__ad_safety = 'false';
-			 
-
-	     window.__site = 'fayerwayer'
-	     window.__crossposted_sites = [["belelu","https:\/\/www.belelu.com"],["bolido","https:\/\/www.bolido.com"],["fayerwayer","https:\/\/www.fayerwayer.com"],["niubie","https:\/\/www.niubie.com"],["saborizante","https:\/\/www.saborizante.com"],["sabrosia","https:\/\/www.sabrosia.com"],["veoverde","https:\/\/www.veoverde.com"],["wayerless","https:\/\/www.wayerless.com"]];
-
-
-	     /* we have to expose jquery as $ cause ads creatives assume jquery is always available as $ :( */
-	     function exposeJqueryAsAliasBecauseReasons(){
-	       setTimeout(function(){
-	         if(window.jQuery){
-	           window.$ = jQuery.noConflict(false);
-	         }else{
-	           exposeJqueryAsAliasBecauseReasons()
-	         }
-	       }, 10);
-	     }
-
-	     exposeJqueryAsAliasBecauseReasons()
-
-	     /*
-	     * this does not need docu :D
-	     */
-	     window.onDomLoaded = function(fn){
-	       jQuery(document).ready(function(){
-	         typeof fn === 'function' && fn()
-	       })
-	     }
-
-	     /*
-	     *  displaySlotIf
-	     *  evaluates if a slot display call should
-	     *  be made or not based on device
-	     *  @devices: string|array
-	     *  @slotID: string
-	     */
-	     window.displaySlotIf = function(devices, slotID){
-	       var currentDevice = 'mobile';
-	       var called = false;
-
-	       function displayCall(id){
-	         googletag.cmd.push(function() { googletag.display(id); });
-	       }
-
-	       if(window.innerWidth >= 768){
-	         currentDevice = 'tablet';
-	       }
-
-	       if(window.innerWidth > 1024){
-	         currentDevice = 'desktop';
-	       }
-
-
-	       if(typeof devices === 'string'){
-	         if(currentDevice.indexOf(devices) !== -1){
-	           displayCall(slotID);
-	           called = true;
-	         }
-	       }
-
-	       if(typeof devices === 'object' && devices.length){
-	         devices.forEach(function(device){
-	           if(currentDevice.indexOf(device) !== -1 && !called){
-	             displayCall(slotID);
-	             called = true;
-	           }
-	         })
-	       }
-
-	       return called;
-	     }
-	</script>
-<link rel="canonical" href="https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina/" />
-
-<meta property="article:tag" content="extinción" />
-<meta property="article:tag" content="México" />
-<meta property="article:tag" content="Vaquita marina" />
-<meta name="description" content="La Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT) arma un programa para proteger a la vaquita marina y otras especies del Golfo de California.">
-<meta content="noodp" name="robots">
-<link href="https://www.fayerwayer.com/" rel="https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina/">
-<meta content="es_ES" property="og:locale">
-<meta content="website" property="og:type">
-<meta property="og:title" content="México prepara estrategia para salvar a la vaquita marina" />
-<meta property="og:description" content="La Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT) arma un programa para proteger a la vaquita marina y otras especies del Golfo de California." />
-<meta content="https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina/" property="og:url">
-<meta property="og:site_name" content="FayerWayer" />
-<meta content="summary_large_image" name="twitter:card">
-<meta name="twitter:description" content="La Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT) arma un programa para proteger a la vaquita marina y otras especies del Golfo de California." />
-<meta name="twitter:title" content="México prepara estrategia para salvar a la vaquita marina" />
-
-<meta property="og:image" content="https://media.metrolatam.com/2019/01/28/vaquitamarina-4db76cf4a351e38367365941456d99d8-1200x800.jpg" />
-<meta property="og:image:secure_url" content="https://media.metrolatam.com/2019/01/28/vaquitamarina-4db76cf4a351e38367365941456d99d8-1200x800.jpg" />
-<meta property="og:image:type" content="image/jpeg" />
-<meta property="og:image:width" content="1200" />
-<meta property="og:image:height" content="800" />
-<meta name="twitter:image" content="https://media.metrolatam.com/2019/01/28/vaquitamarina-4db76cf4a351e38367365941456d99d8-1200x800.jpg" />
-<link rel="amphtml" href="https://www.fayerwayer.com/metroamp/2019/01/mexico-salvar-vaquita-marina/">
-<script type='application/ld+json'>
-	{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.fayerwayer.com\/","name":"FayerWayer","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.fayerwayer.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}
-	</script>
-<link href='//www.googletagservices.com' rel='dns-prefetch'>
-<link href='//s.w.org' rel='dns-prefetch'>
-
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.taza.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='pibfi_pinterest_style-css'  href='http://www.taza.co/wp-content/plugins/pinterest-pin-it-button-for-images/ppibfi_pinterest.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://www.taza.co/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='http://www.taza.co/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.11.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.taza.co/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.3' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='sc-frontend-style-css'  href='http://www.taza.co/wp-content/plugins/shortcodes-indep/css/frontend-style.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='x-fa-icon-classes-css'  href='http://www.taza.co/wp-content/plugins/cornerstone/assets/dist/css/site/fa-icon-classes.css?ver=3.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='x-stack-css'  href='http://www.taza.co/wp-content/themes/x/framework/dist/css/site/stacks/integrity-light.css?ver=6.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='x-cranium-migration-css'  href='http://www.taza.co/wp-content/themes/x/framework/legacy/cranium/dist/css/site/integrity-light.css?ver=6.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-basic-css'  href='http://www.taza.co/wp-content/plugins/mailchimp-for-wp/assets/css/form-basic.min.css?ver=4.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-css'  href='http://www.taza.co/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min.css?ver=3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-font-awesome-all-css'  href='http://www.taza.co/wp-content/plugins/ubermenu/assets/fontawesome/css/all.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.taza.co/wp-content/plugins/jetpack/css/jetpack.css?ver=7.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.taza.co/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.taza.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.taza.co/wp-content/plugins/pinterest-pin-it-button-for-images/ppibfi_pinterest.js?ver=5.1.1'></script>
 <script type='text/javascript'>
-	  (function() {
-	    var useSSL = 'https:' == document.location.protocol;
-	    var src = (useSSL ? 'https:' : 'http:') +
-	        '//www.googletagservices.com/tag/js/gpt.js';
-	    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-	  })();
-	</script>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"[]","home_url":"http:\/\/www.taza.co","hash_tracking":"false"};
+/* ]]> */
 </script>
-<script src='/assets-fw/js/jquery.js' type='text/javascript'>
-	</script>
-<script src='/assets-fw/js/jquery-migrate.min.js?ver=1.4.1' type='text/javascript'>
-	</script>
-<script src='/assets-fw/js/advertising.js' type='text/javascript'>
-	</script>
-<link href='//www.google-analytics.com' rel='dns-prefetch'>
-<link href='//www.googletagmanager.com' rel='dns-prefetch'>
-<link href="//fonts.googleapis.com/css?family=Lato:700,400,300" rel="prefetch">
-<script>
-	function getQueryString(a,b){var c=b?b:window.location.href,d=new RegExp("[?&]"+a+"=([^&#]*)","i"),e=d.exec(c);return e?e[1]:null}
-	</script>
-<script type="text/javascript" src="//cmp.smartadserver.mgr.consensu.org/stub.js"></script>
-<script type="application/javascript" src="//ced.sascdn.com/tag/2276/smart.js" async></script>
-<script>
-  window.cmpLang = {
-    "es": {
-        "footerTitle": "Tu privacidad es importante para nosotros.",
-        "footerLogoUrl": "",
-        "footerDescription": "Nosotros y nuestros sitios asociados utilizamos cookies para personalizar nuestro contenido y crear experiencias más valiosas para ti. Podemos recopilar información no confidencial sobre su uso.  Tú puedes aceptar completamente el uso de esta tecnología, o bien, administrar tu configuración para controlar qué información se recopila y procesa.  Para más información sobre nuestras Políticas de Datos, visite nuestra Declaración de Privacidad.",
-        "footerManageBtnText": "Configurar preferencias",
-        "footerAcceptAllBtnText": "Aceptar",
-        "modalTitle": "Tu privacidad es importante para nosotros.",
-        "modalDescription": "Nosotros y nuestros sitios asociados utilizamos cookies para personalizar nuestro contenido y crear experiencias más valiosas para ti. Podemos recopilar información no confidencial sobre su uso.  Tú puedes aceptar completamente el uso de esta tecnología, o bien, administrar tu configuración para controlar qué información se recopila y procesa.  Para más información sobre nuestras Políticas de Datos, visite nuestra Declaración de Privacidad.",
-        "modalPurposeTitle": "Autorizo ",
-        "modalVendorTitle": "Para los siguientes sitios asociados",
-        "modalSaveBtnText": "Guardar",
-        "modalAcceptAllBtnText": "Aceptar todo",
-        "modalRejectAllBtnText": "Rechazar todo"
-    },
-   "en": {
-       "footerTitle": "Your privacy is important to us",
-       "footerLogoUrl": "",
-       "footerDescription": "We and our partners use cookies to personalize your content and create more valuable experiences for you. We may collect non-sensitive information about your usage. You can consent to the use of this technology or manage your settings to fully control what information is being collected and processed. For more information on our data policies, please visit our Privacy Statement.",
-       "footerManageBtnText": "Manage my choices",
-       "footerAcceptAllBtnText": "Accept",
-       "modalTitle": "Your privacy is important to us",
-       "modalDescription": "We and our partners use cookies to personalize your content and create more valuable experiences for you. We may collect non-sensitive information about your usage. You can consent to the use of this technology or manage your settings to fully control what information is being collected and processed. For more information on our data policies, please visit our Privacy Statement.",
-       "modalPurposeTitle": "You authorize",
-       "modalVendorTitle": "For the following partners",
-       "modalSaveBtnText": "Save",
-       "modalAcceptAllBtnText": "Accept all",
-       "modalRejectAllBtnText": "Reject all"
-   },
-   "fr": {
-       "footerTitle": "Votre vie privée est importante pour nous",
-       "footerLogoUrl": "",
-       "footerDescription": "Nous et nos partenaires utilisons des cookies pour personnaliser votre contenu et créer des expériences plus précieuses pour vous. Nous pouvons collecter des informations non sensibles sur votre utilisation. Vous pouvez consentir à l'utilisation de cette technologie ou gérer vos paramètres pour contrôler entièrement les informations collectées et traitées. Pour plus d'informations sur nos politiques de données, s'il vous plaît visitez notre Déclaration de confidentialité.",
-       "footerManageBtnText": "Gérer mes choix",
-       "footerAcceptAllBtnText": "Accepter",
-       "modalTitle": "Votre vie privée est importante pour nous",
-       "modalDescription": "Nous et nos partenaires utilisons des cookies pour personnaliser votre contenu et créer des expériences plus précieuses pour vous. Nous pouvons collecter des informations non sensibles sur votre utilisation. Vous pouvez consentir à l'utilisation de cette technologie ou gérer vos paramètres pour contrôler entièrement les informations collectées et traitées. Pour plus d'informations sur nos politiques de données, s'il vous plaît visitez notre Déclaration de confidentialité.",
-       "modalPurposeTitle": "Vous autorisez",
-       "modalVendorTitle": "Pour les partenaires suivants",
-       "modalSaveBtnText": "Sauvegarder",
-       "modalAcceptAllBtnText": "Tout accepter",
-       "modalRejectAllBtnText": "Tout rejeter"
-   }
- }
+<script type='text/javascript' src='http://www.taza.co/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.4.2'></script>
+<script type='text/javascript' src='http://www.taza.co/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.3'></script>
+<script type='text/javascript' src='http://www.taza.co/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.3'></script>
+<script type='text/javascript' src='http://www.taza.co/wp-content/plugins/cornerstone/assets/dist/js/site/cs-head.js?ver=3.5.4'></script>
+<link rel='https://api.w.org/' href='http://www.taza.co/wp-json/' />
+<link rel='shortlink' href='https://wp.me/P8vo9S-7H' />
+<link rel="alternate" type="application/json+oembed" href="http://www.taza.co/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.taza.co%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.taza.co/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.taza.co%2F&#038;format=xml" />
+<style id="ubermenu-custom-generated-css">
+/** Font Awesome 4 Compatibility **/
+.fa{font-style:normal;font-variant:normal;font-weight:normal;font-family:FontAwesome;}
+
+/** UberMenu Custom Menu Styles (Customizer) **/
+/* main */
+ .ubermenu-main.ubermenu-transition-fade .ubermenu-item .ubermenu-submenu-drop { margin-top:0; }
+
+
+/* Status: Loaded from Transient */
+
+</style><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.taza.co/?wordfence_lh=1&hid=45F27D7AF619F919BAC558F3AF3B9DD5');
 </script>
-</head>
-<body class="homepage" data-country="fw">
-<input type="hidden" value="QUERY_STRING=&pais=CL" />
-<div class="main-article" data-id="384999"></div>
-<div id='ad_skin'>
-<script>
-		googletag.cmd.push(function() { googletag.display('ad_skin'); });
-		</script>
-</div>
-<div id='ad_layer'>
-<script>
-		googletag.cmd.push(function() { googletag.display('ad_layer'); });
-		</script>
-</div>
-<div id='ad_teads'>
-<script>
-		googletag.cmd.push(function() { googletag.display('ad_teads'); });
-		</script>
-</div>
-<div id='ad_footer'>
-<script>
-		displaySlotIf(['desktop', 'tablet', 'mobile'], 'ad_footer');
-		</script>
-</div>
-<canvas id="gameCanvas" style="background-color:black;display:none;margin:0 auto;"></canvas>
-<section class="ads ads-header-big">
-<div class="container">
-<a class="close-ads-header-big" href="javascript:void(0);"><i class="fa fa-times-circle"></i></a>
-<div id='ad_header'>
-<script>
-      googletag.cmd.push(function() { googletag.display('ad_header'); });
-      </script>
-</div>
-</div>
-</section>
-<section class="bz-network only-desktop">
-<div class="container">
-<nav class="social only-desktop">
-<ul>
-<li>
-Síguenos
-</li>
-<li>
-<a href="https://twitter.com/fayerwayer" target="_blank"><i class="fa fa-twitter"></i></a>
-</li>
-<li>
-<a href="https://facebook.com/fayerwayer" target="_blank"><i class="fa fa-facebook"></i></a>
-</li>
-<li>
-<a href="https://instagram.com/fayerwayeroficial/" target="_blank"><i class="fa fa-instagram"></i></a>
-</li>
-<li>
-<a href="https://youtube.com/user/fayerwayer" target="_blank"><i class="fa fa-youtube-play"></i></a>
-</li>
-<li>
-<a href="https://feeds.feedburner.com/fayerwayer" target="_blank"><i class="fa fa-rss"></i></a>
-</li>
-</ul>
-</nav>
-<nav class="our-network only-desktop">
-<ul>
-<li>Nuestra Red :</li>
-<li>
-<a class="l-publimetro" href="http://www.publimetro.cl/cl/" target="_blank" title="Publimetro">Publimetro</a>
-</li>
-<li><a class="l-nuevamujer" href="http://www.nuevamujer.com/" target="_blank" title="Nueva Mujer">Nueva Mujer</a></li><li><a class="l-ign" href="http://latam.ign.com" target="_blank" title="IGN">IGN</a></li><li><a class="l-salvajes" href="http://www.salvajes.com" target="_blank" title="Salvajes">Salvajes</a></li>
-<li>
-<a class="l-zonainmobiliaria" href="http://www.zonainmobiliaria.com" target="_blank" title="Zona Inmobiliaria">Zona Inmobiliaria</a>
-</li>
-</ul>
-</div>
-</section>
-<section class="ads ads-desktop ads-header">
-<div id='ad_top'>
-<script>
-    googletag.cmd.push(function() { googletag.display('ad_top'); });
-    </script>
-</div>
-</section>
-<section class="ads ads-desktop ads-pre-header">
-<div id='ad_push'>
-<script>
-    googletag.cmd.push(function() { googletag.display('ad_push'); });
-    </script>
-</div>
-</section>
-<header class="container">
-<div class="container block">
-<div class="left parent">
-<a class="brand child" href="/"><img alt="FayerWayer" src="/assets-fw/img/logo.png"></a> <button class="button-menu child only-mobile" id="mobile-menu"><i class="fa fa-bars"></i></button>
-<ul class="menu"><li><a href="/category/moviles/" title="Móviles">Móviles</a></li><li><a href="/category/videojuegos/" title="Videojuegos">Videojuegos</a></li><li><a href="/category/ciencia/" title="Ciencia">Ciencia</a></li><li><a href="/category/internet/" title="Internet">Internet</a></li><li><a href="/category/hardware/" title="Hardware">Hardware</a></li><li><a href="/category/entretencion/" title="Entretenimiento">Entretenimiento</a></li></ul>
-</div>
-<div class="right">
-<button class="button-search only-desktop" id="search-button"><i class="fa fa-search"></i></button>
-<form action="/" class="search-desktop" method="get" role="search" style="display:none;">
-<input class="search-input" name="s" placeholder="Ingresa tu búsqueda" type="search">
-</form>
-<button class="button-search-mobile only-mobile" id="button-search-mobile"><i class="fa fa-search"></i></button>
-</div>
-</div>
-</header>
-<section class="menu-mobile-search container">
-<a class="overlay close-overlay-search-mobile" href="javascript:void(0);" rel="nofollow"></a>
-<form action="/" class="mobile-searchform" method="get" role="search">
-<input class="search-input" name="s" placeholder="Ingresa tu búsqueda" type="search"> <a class="close-overlay-search-mobile" href="javascript:void(0)" rel="nofollow"><i class="fa fa-close"></i></a>
-</form>
-</section>
-<section class="menu-mobile">
-<div class="content">
-<nav>
-<ul class="menu"><li><a href="/category/moviles/" title="Móviles">Móviles</a></li><li><a href="/category/videojuegos/" title="Videojuegos">Videojuegos</a></li><li><a href="/category/ciencia/" title="Ciencia">Ciencia</a></li><li><a href="/category/internet/" title="Internet">Internet</a></li><li><a href="/category/hardware/" title="Hardware">Hardware</a></li><li><a href="/category/entretencion/" title="Entretenimiento">Entretenimiento</a></li></ul>
-<ul>
-<li>
-<a class="network-menu js-menu-mobile-network" href="javascript:void(0);">Más de nuestra red</a>
-<ul class="network submenu">
-<li><a class="l-nuevamujer" href="http://www.nuevamujer.com/" target="_blank" title="Nueva Mujer">Nueva Mujer</a></li><li><a class="l-ign" href="http://latam.ign.com" target="_blank" title="IGN">IGN</a></li><li><a class="l-salvajes" href="http://www.salvajes.com" target="_blank" title="Salvajes">Salvajes</a></li>
-</ul>
-</li>
-</ul>
-</nav>
-<section class="followus">
-<div class="brand"><img onerror="this.src='/assets-fw/img/logo-footer.png';this.onerror=null;" src="/assets-fw/img/logo-footer.svg"></div>
-<div class="tagline">
-<p>Dosis diarias de tecnología en español.™</p>
-</div>
-<div class="title">
-Síguenos
-</div>
-<ul>
-<li>
-<a href="https://twitter.com/fayerwayer" target="_blank"><i class="fa fa-twitter"></i></a>
-</li>
-<li>
-<a href="https://facebook.com/fayerwayer" target="_blank"><i class="fa fa-facebook"></i></a>
-</li>
-<li>
-<a href="https://instagram.com/fayerwayeroficial/" target="_blank"><i class="fa fa-instagram"></i></a>
-</li>
-<li>
-<a href="https://youtube.com/user/fayerwayer" target="_blank"><i class="fa fa-youtube-play"></i></a>
-</li>
-<li>
-<a href="https://feeds.feedburner.com/fayerwayer" target="_blank"><i class="fa fa-rss"></i></a>
-</li>
-</ul>
-</section>
-<footer>
-<div class="container mobile-footer">
-<div class="metro">
-<a href="#"><img onerror="this.src='/assets-fw/img/logo-metro.png'; this.onerror=null;" src="/assets-fw/img/logo-metro.svg"></a>
-<p>FayerWayer es una marca registrada de Betazeta Networks S.A., Publimetro S.A., Metro International S.A. by-nc-sa (cc) 2017. Algunos derechos reservados. El contenido de este sitio está licenciado bajo CreativeCommons.</p>
-</div>
-<div class="contact">
-<img alt="Betazeta" src="/assets-fw/img/logo-betazeta.svg">
-<p>Contacto Editorial: <a href="/cdn-cgi/l/email-protection#8ee8eff7ebfcf9eff7ebfcceecebfaeff4ebfaefa0ede1e3" target="_blank"><span class="__cf_email__" data-cfemail="3d5b5c44584f4a5c44584f7d5f58495c4758495c135e5250">[email&#160;protected]</span></a></p>
-<p>Contacto Comercial: <a href="/cdn-cgi/l/email-protection#dfb7b0b3be9fbdbaabbea5baabbef1bcb0b2" target="_blank"><span class="__cf_email__" data-cfemail="3d5552515c7d5f58495c4758495c135e5250">[email&#160;protected]</span></a></p>
-</div>
-</div>
-</footer>
-</div>
-<div class="close-box">
-<a href="javascript:void(0);" id="close-menu-mobile"></a>
-</div>
-</section>
-<main class="single clear">
-<div id="skin-branding">
-<div class="container js-skin-content-wrapper clear">
-<section class="body-post clear">
-<div data-io-article-url="https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina/">
-<article class="single-post">
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><meta property="og:site_name" content="TaZa Design"><meta property="og:title" content="Home"><meta property="og:description" content="Fun products for wine, water, cocktail and juice lovers."><meta property="og:image" content="https://i0.wp.com/www.taza.co/wp-content/uploads/2017/03/1taza-purple-smoothies-window-copy.jpg?fit=2122%2C1599"><meta property="og:url" content="http://www.taza.co/"><meta property="og:type" content="article"><meta name="generator" content="Powered by Slider Revolution 5.4.8.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+<style id="x-generated-css">a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.x-breadcrumb-wrap a:hover,.widget ul li a:hover,.widget ol li a:hover,.widget.widget_text ul li a,.widget.widget_text ol li a,.widget_nav_menu .current-menu-item > a,.x-accordion-heading .x-accordion-toggle:hover,.x-comment-author a:hover,.x-comment-time:hover,.x-recent-posts a:hover .h-recent-posts{color:hsl(0,0%,0%);}a:hover,.widget.widget_text ul li a:hover,.widget.widget_text ol li a:hover,.x-twitter-widget ul li a:hover{color:hsl(185,71%,60%);}.rev_slider_wrapper,a.x-img-thumbnail:hover,.x-slider-container.below,.page-template-template-blank-3-php .x-slider-container.above,.page-template-template-blank-6-php .x-slider-container.above{border-color:hsl(0,0%,0%);}.entry-thumb:before,.x-pagination span.current,.flex-direction-nav a,.flex-control-nav a:hover,.flex-control-nav a.flex-active,.mejs-time-current,.x-dropcap,.x-skill-bar .bar,.x-pricing-column.featured h2,.h-comments-title small,.x-entry-share .x-share:hover,.x-highlight,.x-recent-posts .x-recent-posts-img:after{background-color:hsl(0,0%,0%);}.x-nav-tabs > .active > a,.x-nav-tabs > .active > a:hover{box-shadow:inset 0 3px 0 0 hsl(0,0%,0%);}.x-main{width:69.536945%;}.x-sidebar{width:25.536945%;}.x-comment-author,.x-comment-time,.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.widget_calendar #wp-calendar caption,.widget.widget_rss li .rsswidget{font-family:"Source Sans Pro",sans-serif;font-weight:400;}.p-landmark-sub,.p-meta,input,button,select,textarea{font-family:"Open Sans",sans-serif;}.widget ul li a,.widget ol li a,.x-comment-time{color:#848484;}.widget_text ol li a,.widget_text ul li a{color:hsl(0,0%,0%);}.widget_text ol li a:hover,.widget_text ul li a:hover{color:hsl(185,71%,60%);}.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.widget_calendar #wp-calendar th,.p-landmark-sub strong,.widget_tag_cloud .tagcloud a:hover,.widget_tag_cloud .tagcloud a:active,.entry-footer a:hover,.entry-footer a:active,.x-breadcrumbs .current,.x-comment-author,.x-comment-author a{color:#272727;}.widget_calendar #wp-calendar th{border-color:#272727;}.h-feature-headline span i{background-color:#272727;}@media (max-width:979px){}html{font-size:16px;}@media (min-width:480px){html{font-size:16px;}}@media (min-width:767px){html{font-size:16px;}}@media (min-width:979px){html{font-size:16px;}}@media (min-width:1200px){html{font-size:16px;}}body{font-style:normal;font-weight:400;color:#848484;background:hsl(0,0%,100%) url(//theme.co/media/bg-integrity-1.png) center top repeat;}.w-b{font-weight:400 !important;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:"Source Sans Pro",sans-serif;font-style:normal;font-weight:400;}h1,.h1{letter-spacing:-0.017em;}h2,.h2{letter-spacing:-0.023em;}h3,.h3{letter-spacing:-0.029em;}h4,.h4{letter-spacing:-0.039em;}h5,.h5{letter-spacing:-0.044em;}h6,.h6{letter-spacing:-0.067em;}.w-h{font-weight:400 !important;}.x-container.width{width:88%;}.x-container.max{max-width:1200px;}.x-main.full{float:none;display:block;width:auto;}@media (max-width:979px){.x-main.full,.x-main.left,.x-main.right,.x-sidebar.left,.x-sidebar.right{float:none;display:block;width:auto !important;}}.entry-header,.entry-content{font-size:1.125rem;}body,input,button,select,textarea{font-family:"Open Sans",sans-serif;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a,blockquote{color:#272727;}.cfc-h-tx{color:#272727 !important;}.cfc-h-bd{border-color:#272727 !important;}.cfc-h-bg{background-color:#272727 !important;}.cfc-b-tx{color:#848484 !important;}.cfc-b-bd{border-color:#848484 !important;}.cfc-b-bg{background-color:#848484 !important;}.x-btn,.button,[type="submit"]{color:#fff;border-color:#ac1100;background-color:#ce4e41;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);border-radius:0.25em;}.x-btn:hover,.button:hover,[type="submit"]:hover{color:#fff;border-color:#600900;background-color:#ef2201;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);}.x-btn.x-btn-real,.x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);}.x-btn.x-btn-real{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real:hover{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-flat,.x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}.x-btn.x-btn-transparent,.x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;}.h-widget:before,.x-flickr-widget .h-widget:before,.x-dribbble-widget .h-widget:before{position:relative;font-weight:normal;font-style:normal;line-height:1;text-decoration:inherit;-webkit-font-smoothing:antialiased;speak:none;}.h-widget:before{padding-right:0.4em;font-family:"fontawesome";}.x-flickr-widget .h-widget:before,.x-dribbble-widget .h-widget:before{top:0.025em;padding-right:0.35em;font-family:"foundationsocial";font-size:0.785em;}.widget_archive .h-widget:before{content:"\f303";top:-0.045em;font-size:0.925em;}.widget_calendar .h-widget:before{content:"\f073";top:-0.0825em;font-size:0.85em;}.widget_categories .h-widget:before,.widget_product_categories .h-widget:before{content:"\f02e";font-size:0.95em;}.widget_nav_menu .h-widget:before,.widget_layered_nav .h-widget:before{content:"\f0c9";}.widget_meta .h-widget:before{content:"\f0fe";top:-0.065em;font-size:0.895em;}.widget_pages .h-widget:before{font-family:"FontAwesomeOutline";content:"\f15c";top:-0.065em;font-size:0.85em;}.widget_recent_reviews .h-widget:before,.widget_recent_comments .h-widget:before{content:"\f086";top:-0.065em;font-size:0.895em;}.widget_recent_entries .h-widget:before{content:"\f02d";top:-0.045em;font-size:0.875em;}.widget_rss .h-widget:before{content:"\f09e";padding-right:0.2em;}.widget_search .h-widget:before,.widget_product_search .h-widget:before{content:"\f0a4";top:-0.075em;font-size:0.85em;}.widget_tag_cloud .h-widget:before,.widget_product_tag_cloud .h-widget:before{content:"\f02c";font-size:0.925em;}.widget_text .h-widget:before{content:"\f054";padding-right:0.4em;font-size:0.925em;}.x-dribbble-widget .h-widget:before{content:"\f009";}.x-flickr-widget .h-widget:before{content:"\f010";padding-right:0.35em;}.widget_best_sellers .h-widget:before{content:"\f091";top:-0.0975em;font-size:0.815em;}.widget_shopping_cart .h-widget:before{content:"\f07a";top:-0.05em;font-size:0.945em;}.widget_products .h-widget:before{content:"\f0f2";top:-0.05em;font-size:0.945em;}.widget_featured_products .h-widget:before{content:"\f0a3";}.widget_layered_nav_filters .h-widget:before{content:"\f046";top:1px;}.widget_onsale .h-widget:before{content:"\f02b";font-size:0.925em;}.widget_price_filter .h-widget:before{content:"\f0d6";font-size:1.025em;}.widget_random_products .h-widget:before{content:"\f074";font-size:0.925em;}.widget_recently_viewed_products .h-widget:before{content:"\f06e";}.widget_recent_products .h-widget:before{content:"\f08d";top:-0.035em;font-size:0.9em;}.widget_top_rated_products .h-widget:before{content:"\f075";top:-0.145em;font-size:0.885em;}.x-topbar .p-info a:hover,.x-widgetbar .widget ul li a:hover{color:hsl(0,0%,0%);}.x-topbar .p-info,.x-topbar .p-info a,.x-navbar .desktop .x-nav > li > a,.x-navbar .desktop .sub-menu a,.x-navbar .mobile .x-nav li > a,.x-breadcrumb-wrap a,.x-breadcrumbs .delimiter{color:#272727;}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a,.x-navbar .desktop .sub-menu a:hover,.x-navbar .desktop .sub-menu .x-active > a,.x-navbar .desktop .sub-menu .current-menu-item > a,.x-navbar .desktop .x-nav .x-megamenu > .sub-menu > li > a,.x-navbar .mobile .x-nav li > a:hover,.x-navbar .mobile .x-nav .x-active > a,.x-navbar .mobile .x-nav .current-menu-item > a{color:#b7b7b7;}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a{box-shadow:inset 0 4px 0 0 hsl(0,0%,0%);}.x-navbar .desktop .x-nav > li > a{height:45px;padding-top:37px;}.x-navbar-fixed-top-active .x-navbar-wrap{margin-bottom:1px;}.x-navbar .desktop .x-nav > li ul{top:30px;;}@media (max-width:979px){.x-navbar-fixed-top-active .x-navbar-wrap{margin-bottom:0;}}body.x-navbar-fixed-top-active .x-navbar-wrap{height:45px;}.x-navbar-inner{min-height:45px;}.x-brand{margin-top:5px;font-family:"Lato",sans-serif;font-size:38px;font-style:normal;font-weight:100;letter-spacing:-0.079em;text-transform:uppercase;color:#272727;}.x-brand:hover,.x-brand:focus{color:#272727;}.x-brand img{width:37.5px;}.x-navbar .x-nav-wrap .x-nav > li > a{font-family:"Source Sans Pro",sans-serif;font-style:normal;font-weight:400;letter-spacing:0.182em;text-transform:uppercase;}.x-navbar .desktop .x-nav > li > a{font-size:11px;}.x-navbar .desktop .x-nav > li > a:not(.x-btn-navbar-woocommerce){padding-left:16px;padding-right:16px;}.x-navbar .desktop .x-nav > li > a > span{margin-right:-0.182em;}.x-btn-navbar{margin-top:19px;}.x-btn-navbar,.x-btn-navbar.collapsed{font-size:24px;}@media (max-width:979px){body.x-navbar-fixed-top-active .x-navbar-wrap{height:auto;}.x-widgetbar{left:0;right:0;}}.e477-1.x-section,.e477-2.x-section,.e477-3.x-section,.e477-4.x-section,.e477-5.x-section,.e477-6.x-section,.e477-7.x-section,.e477-8.x-section,.e477-9.x-section {margin:0em;padding:45px 0px 45px 0px;background-color:transparent;z-index:1;}.x-topbar p.p-info {float:right;}.x-slider-container.below{border:none;}</style><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i|Source+Sans+Pro:400|Lato:100&#038;subset=latin,latin-ext" type="text/css" media="all" data-x-google-fonts /></head>
 
+<body class="home page-template page-template-template-blank-4 page-template-template-blank-4-php page page-id-477 x-integrity x-integrity-light x-full-width-layout-active x-content-sidebar-active x-post-meta-disabled x-navbar-fixed-top-active x-v6_2_5 cornerstone-v3_5_4">
 
-<div class="top">
-<div class="thumbnail">
-<img alt="México prepara estrategia para salvar a la vaquita marina" src="https://media.metrolatam.com/2019/01/28/vaquitamarina-4db76cf4a351e38367365941456d99d8-1200x600.jpg">
-</div>
-<div class="gradient"></div>
-<div class="title-top">
-<h3>
-<a href="/category/politica" title="Pol&iacute;tica" rel="tag">Pol&iacute;tica</a>
-</h3>
-<h1>México prepara estrategia para salvar a la vaquita marina</h1>
-<div class="author-date">
-<p class="author">
-<span>por</span>
-<a href="https://www.fayerwayer.com/author/8913/" rel="author" title="Posts by York Perry">York Perry</a>
-</p>
-<p class="date js-bz-moment-calendar" data-timestamp="1548697753000">2019/01/28</p> 
-</div>
-</div>
-</div>
-<div class="content-post">
-<div class="author-box">
-<div class="left">
-<a href="/author/8913/" rel="nofollow"><img alt='' class='avatar avatar-65 photo' height='65' src='https://media.metrolatam.com/profile/8913-128x128.jpg?nocache' width='65'></a>
-</div>
-<div class="right">
-<span>por</span> <a href="/author/8913/" rel="author" title="Posts by York Perry">York Perry</a>
+  <div id="x-root" class="x-root">
 
-</div>
-</div>
-<div class="description">
-<h2>¿Gracias Leonardo DiCaprio?</h2>
-</div>
-<div class="share">
-<div class="counter-share">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
-                  jQuery(function($){
-                           $.ajax({
-                             
-                             url: 'https://graph.facebook.com/?id=https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina',
-                             
-                             success: function(data) {
-                                 $('.share-number div').html(data.share.share_count);
-                             }
-                           });
-                         });
-                  </script>
-<div class="share-number">
-<div class="number"></div><span>Compartidos</span>
-</div>
-</div>
-<ul class="share-buttons">
-<li>
-<a class="facebook popup-link" href="https://www.facebook.com/sharer/sharer.php?u=https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina&t=México prepara estrategia para salvar a la vaquita marina" target="_blank" title="Share on Facebook"><i aria-hidden="true" class="fa fa-facebook fa-2x"></i></a>
-</li>
-<li>
-<a class="twitter popup-link" href="https://twitter.com/intent/tweet?source=https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina&text=México prepara estrategia para salvar a la vaquita marina-%20https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina" target="_blank" title="Tweet"><i aria-hidden="true" class="fa fa-twitter fa-2x"></i></a>
-</li>
-<li class="only-desktop">
-<a class="googleplus popup-link" href="https://plus.google.com/share?url=https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina" target="_blank" title="Share on Google+"><i aria-hidden="true" class="fa fa-google-plus fa-2x"></i></a>
-</li>
-<li class="only-desktop">
-<a class="pinterest popup-link" href="https://pinterest.com/pin/create/button/?url=https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina&description=México prepara estrategia para salvar a la vaquita marina" target="_blank" title="Pin it"><i aria-hidden="true" class="fa fa-pinterest fa-2x"></i></a>
-</li>
-<li class="whatsapp only-mobile">
-<a data-action="share/whatsapp/share" href="whatsapp://send?text=México prepara estrategia para salvar a la vaquita marina%20-%20https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina" rel="nofollow"><i aria-hidden="true" class="fa fa-whatsapp fa-2x"></i></a>
-</li>
-<li class="telegram only-mobile">
-<a href="https://telegram.me/share/url?url=https://www.fayerwayer.com/2019/01/mexico-salvar-vaquita-marina&text=México prepara estrategia para salvar a la vaquita marina" title="Telegram"><i aria-hidden="true" class="fa fa-telegram fa-2x"></i></a>
-</li>
+    
+    <div id="top" class="site">
+
+    
+  
+  <header class="masthead masthead-inline" role="banner">
+    
+    
+
+  <div class="x-navbar-wrap">
+    <div class="x-navbar">
+      <div class="x-navbar-inner">
+        <div class="x-container max width">
+          
+<h1 class="visually-hidden">TaZa Design</h1>
+<a href="http://www.taza.co/" class="x-brand img" title="Fun products for wine, water, cocktail and juice lovers.">
+  <img src="//www.taza.co/wp-content/uploads/2016/06/TaZa-Logo-New-Color-small-e1466038536414.jpeg" alt="Fun products for wine, water, cocktail and juice lovers."></a>          
+<!-- UberMenu [Configuration:main] [Theme Loc:primary] [Integration:api] -->
+<a class="ubermenu-responsive-toggle ubermenu-responsive-toggle-main ubermenu-skin-none ubermenu-loc-primary ubermenu-responsive-toggle-content-align-left ubermenu-responsive-toggle-align-full " data-ubermenu-target="ubermenu-main-3-primary-2"><i class="fas fa-bars"></i>Menu</a><nav id="ubermenu-main-3-primary-2" class="ubermenu ubermenu-nojs ubermenu-main ubermenu-menu-3 ubermenu-loc-primary ubermenu-responsive ubermenu-responsive-default ubermenu-responsive-collapse ubermenu-horizontal ubermenu-transition-shift ubermenu-trigger-hover_intent ubermenu-skin-none  ubermenu-bar-align-right ubermenu-items-align-auto ubermenu-bound ubermenu-disable-submenu-scroll ubermenu-sub-indicators ubermenu-retractors-responsive ubermenu-submenu-indicator-closes"><ul id="ubermenu-nav-main-3-primary" class="ubermenu-nav"><li id="menu-item-597" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-597 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.taza.co/products/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">PRODUCTS</span></a></li><li id="menu-item-598" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-598 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.taza.co/blog/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">BLOG</span></a></li><li id="menu-item-2285" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-2285 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.taza.co/press/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">PRESS</span></a></li><li id="menu-item-599" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-599 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.taza.co/contact/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">CONTACT</span></a></li></ul></nav>
+<!-- End UberMenu -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+    
+  </header>
+
+  
+    <div class="x-slider-container below">
+
+      
+      
+      
+<div id="rev_slider_2_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.4.8.3 auto mode -->
+	<div id="rev_slider_2_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.8.3">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-10" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-link="/pop-top-automatic-bottle-opener/"   data-thumb="http://i2.wp.com/www.taza.co/wp-content/uploads/2017/09/Slider-4-PTT-rev.jpg?fit=1600%2C540"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://i2.wp.com/www.taza.co/wp-content/uploads/2017/09/Slider-4-PTT-rev.jpg?fit=1600%2C540"  alt="Pop the Top Beer Bottle Opener" title="Pop the Top Beer Bottle Opener"  width="1600" height="540" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-3" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-link="/unbreakable-wine-glasses/"   data-thumb="http://i0.wp.com/www.taza.co/wp-content/uploads/2017/09/Slider-2-rev.jpg?fit=1600%2C540"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://i0.wp.com/www.taza.co/wp-content/uploads/2017/09/Slider-2-rev.jpg?fit=1600%2C540"  alt="Autumn Wine glasses" title="Autumn Wine glasses"  width="1600" height="540" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-11" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-link="/stainless-steel-straws/"   data-thumb="http://i0.wp.com/www.taza.co/wp-content/uploads/2017/09/Slider-5-Straw-rev.jpg?fit=1600%2C540"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://i0.wp.com/www.taza.co/wp-content/uploads/2017/09/Slider-5-Straw-rev.jpg?fit=1600%2C540"  alt="Stainless Steel straws" title="Stainless Steel straws"  width="1600" height="540" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-12" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-link="/unbreakable-wine-glasses/"   data-thumb="http://i1.wp.com/www.taza.co/wp-content/uploads/2017/09/Slider-6-Stemmed-revised.jpg?fit=1600%2C540"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://i1.wp.com/www.taza.co/wp-content/uploads/2017/09/Slider-6-Stemmed-revised.jpg?fit=1600%2C540"  alt="Stemmed plastic wine glasses" title="Stemmed plastic wine glasses"  width="1600" height="540" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-5" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-link="/unbreakable-wine-glasses/"   data-thumb="http://i1.wp.com/www.taza.co/wp-content/uploads/2017/09/Slider-3-rev.jpg?fit=1600%2C540"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://i1.wp.com/www.taza.co/wp-content/uploads/2017/09/Slider-3-rev.jpg?fit=1600%2C540"  alt="Slider stemmless wine glasses" title="Slider stemmless wine glasses"  width="1600" height="540" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
 </ul>
-</div>
-<div class="content-note">
-<div id='ad_hcodemedia'>
-<script>
-              		googletag.cmd.push(function() { googletag.display('ad_hcodemedia'); });
-              		</script>
-</div>
-<p>La <strong>Vaquita Marina</strong><a href="https://www.fayerwayer.com/2018/05/adios-vaquita-marina-mexico-no-salvarla/"> tenía sus días contados en México</a> a la mitad de 2018. Sin embargo han surgido <a href="https://www.publimetro.com.mx/mx/noticias/2018/10/17/vaquita-marina-esperanza-salvarse-la-extincion.html">algunos milagrosos giros inesperados</a>; con los que es posible aún salvar la especie.</p>
-<p>La situación por desgracia es extremadamente complicada. Ya que luego de una serie de embargos los pescadores furtivos han vuelto a las andadas. Con <strong><a href="https://www.am.com.mx/2019/01/12/viral/un-grupo-de-cuidadores-de-la-vaquita-marina-fueron-atacados-por-pescadores-por-lo-que-tuvieron-que-alejarse-de-la-zona-pero-continuaran-con-la-vigilancia-538670">acciones agresivas</a></strong> donde incluso han llegado a atacar a los cuidadores de la vaquita marina.</p>
-<a href="https://media.metrolatam.com/2019/01/28/vaquitamarinabg-f74a0a4deba0be0782c9ace2bbf75313.jpg" target="_blank" class="fluid-width-image-wrapper"><img class="aligncenter size-large wp-image-790126" alt="Vaquita Marina" title="Vaquita Marina" src="https://media.metrolatam.com/2019/01/28/vaquitamarinabg-f74a0a4deba0be0782c9ace2bbf75313.jpg"></a>
-<p>En razón de ello la<strong> Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT)</strong> y la <strong>Secretaría de Agricultura y Desarrollo Rural (SADER)</strong>; acaban de anunciar que pondrán en marcha un programa integral de atención que buscará solucionar este conflicto.</p>
-<p>Según señala en <strong><a href="https://www.gob.mx/semarnat/prensa/el-gobierno-de-mexico-a-traves-de-semarnat-y-sader-pondra-en-marcha-programa-integral-para-la-sustentabilidad-pesquera-en-el-alto-golfo-de-california">un comunicado oficial de la SEMARNAT</a></strong>; el programa buscará mejorar la protección de la biodiversidad y elevar las condiciones de vida de las comunidades costeras de la región.</p>
-<blockquote><p>El plan establecerá <strong>metas y acciones de corto, mediano y largo plazo,</strong> como el fortalecimiento de prácticas de pesca sustentable; y otras actividades económicas rentables y consistentes con la preservación de la biodiversidad.</p>
-<p>Además de la actualización de los <strong>esquemas de vigilancia y protección a la vaquita marina</strong> y de fortalecimiento del combate a la pesca furtiva y al tráfico ilegal de Totoaba.</p></blockquote>
-<p>Para esta nueva estrategia la vaquita marina es un elemento preponderante, pero no el único. Ya que buscará centrarse en <strong>toda la biodiversidad</strong> de la zona. La red de tráfico construida en torno a la pesca furtiva de la Totoaba habría sido detonante principal de los problemas en la región.</p>
-<p>De modo que todo se enfocará a restablecer la dinámica social y económica de la región. Aunque las líneas de acción concretas aún están por definirse.</p>
-<p>Esto curiosamente coincide con el estreno de <strong><a href="https://www.fayerwayer.com/2019/01/sea-of-shadows-carlos-loret-documental/">Sea of Shadows.</a></strong> Un documental producido por Leonardo DiCaprio; en donde se denuncia esta red criminal que ha puesto al borde del exterminio a la vaquita marina.</p>
-</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+if (setREVStartSize!==undefined) setREVStartSize(
+	{c: '#rev_slider_2_1', responsiveLevels: [1240,1024,1024,1024], gridwidth: [1366,1366,1366,1366], gridheight: [600,605,605,605], sliderLayout: 'auto'});
+			
+var revapi2,
+	tpj;	
+(function() {			
+	if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded",onLoad); else onLoad();	
+	function onLoad() {				
+		if (tpj===undefined) { tpj = jQuery; if("off" == "on") tpj.noConflict();}
+	if(tpj("#rev_slider_2_1").revolution == undefined){
+		revslider_showDoubleJqueryError("#rev_slider_2_1");
+	}else{
+		revapi2 = tpj("#rev_slider_2_1").show().revolution({
+			sliderType:"standard",
+			jsFileLocation:"//www.taza.co/wp-content/plugins/revslider/public/assets/js/",
+			sliderLayout:"auto",
+			dottedOverlay:"none",
+			delay:5000,
+			navigation: {
+				keyboardNavigation:"off",
+				keyboard_direction: "horizontal",
+				mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+				onHoverStop:"off",
+				bullets: {
+					enable:true,
+					hide_onmobile:false,
+					style:"",
+					hide_onleave:false,
+					direction:"horizontal",
+					h_align:"center",
+					v_align:"bottom",
+					h_offset:0,
+					v_offset:20,
+					space:5,
+					tmp:'<span class="tp-bullet-image"></span><span class="tp-bullet-title"></span>'
+				}
+			},
+			responsiveLevels:[1240,1024,1024,1024],
+			visibilityLevels:[1240,1024,1024,1024],
+			gridwidth:[1366,1366,1366,1366],
+			gridheight:[600,605,605,605],
+			lazyType:"none",
+			shadow:0,
+			spinner:"spinner0",
+			stopLoop:"off",
+			stopAfterLoops:-1,
+			stopAtSlide:-1,
+			shuffle:"off",
+			autoHeight:"off",
+			disableProgressBar:"on",
+			hideThumbsOnMobile:"off",
+			hideSliderAtLimit:0,
+			hideCaptionAtLimit:0,
+			hideAllCaptionAtLilmit:0,
+			debugMode:false,
+			fallbacks: {
+				simplifyAll:"off",
+				nextSlideOnWindowFocus:"off",
+				disableFocusListener:false,
+			}
+		});
+	}; /* END OF revapi call */
+	
+ }; /* END OF ON LOAD FUNCTION */
+}()); /* END OF WRAPPING FUNCTION */
+</script>
+		</div><!-- END REVOLUTION SLIDER -->
+    </div>
 
-<div class="tags">
-<h2>
-<ul>
-<div class="wrap-article tags-box" tg new-tag="true">
-<ul class="list-tags">
-<li><a href="/tag/extincion" title="extinción">extinción</a></li>
-<li><a href="/tag/mexico" title="México">México</a></li>
-<li><a href="/tag/vaquita-marina" title="Vaquita marina">Vaquita marina</a></li>
-</ul>
-</div>
+    
 
-</ul>
-</h2>
-</div>
-</div>
-</article>
-</div>
-<div class="related-posts">
-<h2 class="title-cat"><strong>Noticias</strong> Relacionadas</h2>
-<div class="related-slider js-related-slider inactive">
+  <div class="x-main full" role="main">
 
-</div>
-</div>
-<div class="comments">
-<button class="show-comments">Cargar comentarios <i aria-hidden="true" class="fa fa-comments-o"></i></button>
-<div id="disqus_thread"></div>
-</div>
-</section>
-<aside>
-<div class="ads ads-desktop hide-mobile">
-<div id='ad_300x250_1'>
-<script>
-            displaySlotIf(['desktop', 'tablet'], 'ad_300x250_1');
-            </script>
-</div>
-</div>
-<section class="posts-lists recents">
-<div class="title-cat">
-<strong>Noticias</strong> recientes
-</div>
-<div class="items-list">
-
-</div>
-</section>
-<div class="ads ads-desktop">
-<div id='ad_300x250_2'>
-<script>
-            displaySlotIf('desktop', 'ad_300x250_2');
-            </script>
-</div>
-</div>
-<section class="posts-lists most-read">
-<div class="title-cat">
-Lo más visto
-</div>
-<div class="items-list js-most-read-items js-most-read-mobile js-most-read-desktop">
-
-</div>
-</section>
-<div class="ads ads-desktop">
-<div id='ad_300x250_3'>
-<script>
-            displaySlotIf('desktop', 'ad_300x250_3');
-            </script>
-</div>
-</div>
-</aside>
-</div>
-</div>
-</main>
-<section class="ads ads-pre-footer">
-<div class="container">
-<div id='ad_bottom'>
-<script>
-      displaySlotIf(['desktop', 'tablet', 'mobile'], 'ad_bottom');
-      </script>
-</div>
-</div>
-</section>
-<footer>
-<div class="container metro-world">
-<ul class="horizontal-list">
-<li><h5>Metro en el mundo</h5></li><li><a href="https://www.publimetro.cl/cl/" target="_blank" title="Chile">Chile</a></li><li><a href="https://www.publimetro.co/co/" target="_blank" title="Colombia">Colombia</a></li><li><a href="https://www.metroecuador.com.ec/ec/" target="_blank" title="Ecuador">Ecuador</a></li><li><a href="https://www.publinews.gt/gt/" target="_blank" title="Guatemala">Guatemala</a></li><li><a href="https://www.publimetro.com.mx/mx/" target="_blank" title="México">México</a></li><li><a href="https://www.metro.pr/pr/" target="_blank" title="Puerto Rico">Puerto Rico</a></li><li><a href="https://www.metrord.do/do/" target="_blank" title="República Dominicana">República Dominicana</a></li><li><a href="https://www.metrojornal.com.br/" target="_blank" title="Brasil">Brasil</a></li>
-</ul>
-</div>
-<div class="container">
-<div class="column">
-<div class="brand"><img onerror="this.src='/assets-fw/img/logo-footer.png';this.onerror=null;" src="/assets-fw/img/logo-footer.svg"></div>
-<div class="tagline">
-<p>Dosis diarias de tecnología en español.™</p>
-</div>
-<div class="social">
-<h2>Síguenos</h2>
-<ul>
-<li>
-<a href="https://twitter.com/fayerwayer" target="_blank"><i class="fa fa-twitter"></i></a>
-</li>
-<li>
-<a href="https://facebook.com/fayerwayer" target="_blank"><i class="fa fa-facebook"></i></a>
-</li>
-<li>
-<a href="https://instagram.com/fayerwayeroficial/" target="_blank"><i class="fa fa-instagram"></i></a>
-</li>
-<li>
-<a href="https://youtube.com/user/fayerwayer" target="_blank"><i class="fa fa-youtube-play"></i></a>
-</li>
-<li>
-<a href="https://feeds.feedburner.com/fayerwayer" target="_blank"><i class="fa fa-rss"></i></a>
-</li>
-</ul>
-</div>
-</div>
-<div class="column">
-<div class="contact">
-<img alt="Betazeta" src="/assets-fw/img/logo-betazeta.svg">
-<p>Contacto Editorial: <a href="/cdn-cgi/l/email-protection#8aecebf3eff8fdebf3eff8cae8effeebf0effeeba4e9e5e7" target="_blank"><span class="__cf_email__" data-cfemail="c1a7a0b8a4b3b6a0b8a4b381a3a4b5a0bba4b5a0efa2aeac">[email&#160;protected]</span></a></p>
-<p>Contacto Comercial: <a href="/cdn-cgi/l/email-protection#6b0304070a2b090e1f0a110e1f0a45080406" target="_blank"><span class="__cf_email__" data-cfemail="7f1710131e3f1d1a0b1e051a0b1e511c1012">[email&#160;protected]</span></a></p>
-</div>
-</div>
-<div class="column">
-<div class="publimetro">
-<img onerror="this.src='/assets-fw/img/logo-metro.png'; this.onerror=null;" src="/assets-fw/img/logo-metro.svg">
-<p>FayerWayer es una marca registrada de Betazeta Networks S.A., Publimetro S.A., Metro International S.A. by-nc-sa (cc) 2019. Algunos derechos reservados. El contenido de este sitio está licenciado bajo CreativeCommons.</p>
-</div>
-</div>
-</div>
-</footer>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
-
+    
+      <article id="post-477" class="post-477 page type-page status-publish has-post-thumbnail hentry">
         
 
-       var disqus_shortname = bottomShortname;
+<div class="entry-content content">
 
-       (function () {
-           var nodes = document.getElementsByTagName('span');
-           for (var i = 0, url; i < nodes.length; i++) {
-               if (nodes[i].className.indexOf('dsq-postid') != -1 && nodes[i].parentNode.tagName == 'A') {
-                   nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
-                   url = nodes[i].parentNode.href.split('#', 1);
-                   if (url.length == 1) { url = url[0]; }
-                   else { url = url[1]; }
-                   nodes[i].parentNode.href = url + '#disqus_thread';
-               }
-           }
-           var s = document.createElement('script');
-           s.async = true;
-           s.type = 'text/javascript';
-           s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-           (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-       }());
-       //
+
+  <div id="cs-content" class="cs-content" ><div id="x-section-1" class="x-section" style="margin: 0px;padding: 45px 0px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-3" style="padding: 0px;" ><a  class="x-img x-img-link x-img-none"  href="/unbreakable-wine-glasses/"     data-options="thumbnail: 'https://i2.wp.com/www.taza.co/wp-content/uploads/2016/11/set-2-option1.jpg?w=742'"><img src="https://i2.wp.com/www.taza.co/wp-content/uploads/2016/11/set-2-option1.jpg?w=742"  data-recalc-dims="1"></a></div><div  class="x-column x-sm x-1-3" style="padding: 0px;" ><a  class="x-img x-img-link x-img-none"  href="/stainless-steel-straws/"     data-options="thumbnail: 'https://i2.wp.com/www.taza.co/wp-content/uploads/2016/11/set-2-option2.jpg?w=742'"><img src="https://i2.wp.com/www.taza.co/wp-content/uploads/2016/11/set-2-option2.jpg?w=742"  data-recalc-dims="1"></a></div><div  class="x-column x-sm x-1-3" style="padding: 0px;" ><a  class="x-img x-img-link x-img-none"  href="/pop-top-automatic-bottle-opener/"     data-options="thumbnail: 'https://i0.wp.com/www.taza.co/wp-content/uploads/2016/11/set-2-option3.jpg?w=742'"><img src="https://i0.wp.com/www.taza.co/wp-content/uploads/2016/11/set-2-option3.jpg?w=742"  data-recalc-dims="1"></a></div></div></div><div id="x-section-2" class="x-section" style="margin: 0px;padding: 0px; background-color: hsl(171, 45%, 68%);"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-1" style="padding: 0px;" ><div class="x-text cs-ta-center"  ><h3><span style="color: #ffffff;">Fun products for wine, water, cocktail and juice lovers.</span></h3>
+<h3></h3>
+</div></div></div></div><div id="x-section-3" class="x-section" style="margin: 0px;padding: 0px 0px 25px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm cs-ta-center x-1-1" style="padding: 0px;" ><h2  class="h-custom-headline cs-ta-center mts h1" ><span>TaZa Talk</span></h2><div class="x-text cs-ta-center mtn mbn"  ><p>Get inspired recipes, tips, and ideas for everything from the <br />perfect party to the best night in.</p>
+</div><div  class="x-recent-posts cf horizontal"  data-x-element="recent_posts" data-x-params="{&quot;fade&quot;:true}"  data-fade="true" ><a class="x-recent-post3 with-image" href="http://www.taza.co/5-easy-drinks-to-prepare-for-the-upcoming-festivals-and-parties/" title="Permalink to: &quot;5 Easy &#038; Impressive drinks to prepare for parties&quot;"><article id="post-2896" class="post-2896 post type-post status-publish format-standard has-post-thumbnail hentry category-entertaining category-party-ideas"><div class="entry-wrap"><div class="x-recent-posts-img" style="background-image: url(https://i0.wp.com/www.taza.co/wp-content/uploads/2019/02/5-drinks-1.png?resize=862%2C482);"></div><div class="x-recent-posts-content"><h3 class="h-recent-posts">5 Easy &#038; Impressive drinks to prepare for parties</h3><span class="x-recent-posts-date">February 7, 2019</span></div></div></article></a><a class="x-recent-post3 with-image" href="http://www.taza.co/the-newest-breakfast-trend-cbd-smoothies/" title="Permalink to: &quot;The Newest Breakfast Trend: CBD Smoothies!&quot;"><article id="post-2880" class="post-2880 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized"><div class="entry-wrap"><div class="x-recent-posts-img" style="background-image: url(https://i2.wp.com/www.taza.co/wp-content/uploads/2018/10/Blog-Header_CBD-Smoothie-Recipes-2.jpg?resize=862%2C482);"></div><div class="x-recent-posts-content"><h3 class="h-recent-posts">The Newest Breakfast Trend: CBD Smoothies!</h3><span class="x-recent-posts-date">October 18, 2018</span></div></div></article></a><a class="x-recent-post3 with-image" href="http://www.taza.co/last-minute-stocking-stuffers-for-grownups/" title="Permalink to: &quot;Last Minute Stocking Stuffers for Grownups!&quot;"><article id="post-2828" class="post-2828 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-family tag-holidays"><div class="entry-wrap"><div class="x-recent-posts-img" style="background-image: url(https://i1.wp.com/www.taza.co/wp-content/uploads/2017/12/Last-Minute-Stocking-Stuffers-for-Grownups.png?resize=560%2C313);"></div><div class="x-recent-posts-content"><h3 class="h-recent-posts">Last Minute Stocking Stuffers for Grownups!</h3><span class="x-recent-posts-date">December 12, 2017</span></div></div></article></a></div><a  class="x-btn x-btn-global"  href="/blog"  target="_blank"   data-options="thumbnail: ''">MORE TAZA TALK</a></div></div></div><div id="x-section-4" class="x-section cs-ta-center" style="margin: 0px;padding: 0% 0px; background-color: hsl(96, 55%, 72%);"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-1" style="padding: 0px 15px 35px;" ><div class="x-text" style="color: #fff;"  ><h3>You Can Reduce Single-Use Plastic</h3>
+<p class="resp-p man">TaZa is committed to preserving the beauty of our Earth by <strong>reducing single-use plastics</strong>.<br />
+Can we really justify using a plastic cup for a total of 30 minutes only to have it remain as trash on earth for 500 years?<br />
+As a society, we need to be smarter than that.</p>
+</div><a  class="x-btn mtl x-btn-global"  href="/plastic/" title="Ways to reduce plastic" target="_blank"   data-options="thumbnail: ''">FIND OUT HOW</a></div></div></div><div id="x-section-5" class="x-section" style="margin: 0px;padding: 85px 0px;border-style: solid;border-width: 1px 0px;border-color: #e5e5e5; background-color: #87d2c7;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-4" style="padding: 0px;" ><div  class="x-counter" data-x-element="counter" data-x-params="{&quot;numEnd&quot;:80589,&quot;numSpeed&quot;:1500}"  style="color: hsl(0, 0%, 100%);"><div class="number-wrap w-h" style="color: #272727;"><span class="number">0</span></div><span class="text-below" style="color: hsl(0, 0%, 100%);">Glasses UN-BROKEN</span></div><hr  class="x-gap cs-hide-xl cs-hide-lg cs-hide-md" style="margin: 35px 0 0 0;"></div><div  class="x-column x-sm x-1-4" style="padding: 0px;" ><div  class="x-counter" data-x-element="counter" data-x-params="{&quot;numEnd&quot;:4000,&quot;numSpeed&quot;:1500}"  style="color: hsl(0, 0%, 100%);"><div class="number-wrap w-h" style="color: #272727;"><span class="number">0</span></div><span class="text-below" style="color: hsl(0, 0%, 100%);">Bottles Opened</span></div><hr  class="x-gap cs-hide-xl cs-hide-lg cs-hide-md" style="margin: 35px 0 0 0;"></div><div  class="x-column x-sm x-1-4" style="padding: 0px;" ><div  class="x-counter" data-x-element="counter" data-x-params="{&quot;numEnd&quot;:24000,&quot;numSpeed&quot;:1500}"  style="color: hsl(0, 0%, 100%);"><div class="number-wrap w-h" style="color: #272727;"><span class="number">0</span></div><span class="text-below" style="color: hsl(0, 0%, 100%);">Fun Smiles</span></div><hr  class="x-gap cs-hide-xl cs-hide-lg cs-hide-md" style="margin: 35px 0 0 0;"></div><div  class="x-column x-sm x-1-4" style="padding: 0px;" ><div  class="x-counter" data-x-element="counter" data-x-params="{&quot;numEnd&quot;:15002,&quot;numSpeed&quot;:1500}"  style="color: hsl(0, 0%, 100%);"><div class="number-wrap w-h" style="color: #272727;"><span class="number">0</span></div><span class="text-below" style="color: hsl(0, 0%, 100%);">Cheers!</span></div></div></div></div><div id="x-section-6" class="x-section" style="margin: 0px;padding: 0px 0px 25px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm cs-ta-center x-1-1" style="padding: 0px;" ><h5  class="h-custom-headline cs-ta-center h2 accent" ><span>MOUTHWATERING INSPIRATION</span></h5></div></div></div><div id="x-section-7" class="x-section" style="margin: 10px 0px 0px;padding: 0px 0px 00px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><a  class="x-img x-img-link x-img-none"  href="/unbreakable-wine-glasses/"     data-options="thumbnail: 'https://i2.wp.com/www.taza.co/wp-content/uploads/2016/07/Taza.jpg?w=742'"><img src="https://i2.wp.com/www.taza.co/wp-content/uploads/2016/07/Taza.jpg?w=742"  data-recalc-dims="1"></a></div><div  class="x-column x-sm x-1-2" style="padding: 0px;" ><a  class="x-img x-img-link x-img-none"  href="/stainless-steel-straws/"     data-options="thumbnail: 'https://i1.wp.com/www.taza.co/wp-content/uploads/2017/07/Dip-and-Sip-Main-Image-5.jpg?w=742'"><img src="https://i1.wp.com/www.taza.co/wp-content/uploads/2017/07/Dip-and-Sip-Main-Image-5.jpg?w=742"  data-recalc-dims="1"></a></div></div></div><div id="x-section-8" class="x-section" style="margin: 0px;padding: 0px 0px 15px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm mtn ptn x-1-1" style="padding: 0px;" ><div class="x-text cs-ta-center"  ><p>TaZa is a like-minded community of people who know how to have a good time. We are dedicated to <br />making your daily drink better with smart and friendly products. Ditch the drama and go for fun!</p>
+</div></div></div></div><div id="x-section-9" class="x-section" style="margin: 0px;padding: 5px 0px 45px; background-color: transparent;"  ><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-6" style="padding: 0px;" ><img  class="x-img x-img-none"  src="https://i0.wp.com/www.taza.co/wp-content/uploads/2016/07/1.jpg?w=742"  data-recalc-dims="1"></div><div  class="x-column x-sm x-1-6" style="padding: 0px;" ><img  class="x-img x-img-none"  src="https://i2.wp.com/www.taza.co/wp-content/uploads/2016/07/2.jpg?w=742"  data-recalc-dims="1"></div><div  class="x-column x-sm x-1-6" style="padding: 0px;" ><img  class="x-img x-img-none"  src="https://i1.wp.com/www.taza.co/wp-content/uploads/2016/07/3.jpg?w=742"  data-recalc-dims="1"></div><div  class="x-column x-sm x-1-6" style="padding: 0px;" ><img  class="x-img x-img-none"  src="https://i2.wp.com/www.taza.co/wp-content/uploads/2016/07/4.jpg?w=742"  data-recalc-dims="1"></div><div  class="x-column x-sm x-1-6" style="padding: 0px;" ><img  class="x-img x-img-none"  src="https://i0.wp.com/www.taza.co/wp-content/uploads/2016/07/5.jpg?w=742"  data-recalc-dims="1"></div><div  class="x-column x-sm x-1-6" style="padding: 0px;" ><img  class="x-img x-img-none"  src="https://i1.wp.com/www.taza.co/wp-content/uploads/2016/07/6.jpg?w=742"  data-recalc-dims="1"></div></div><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-6" style="padding: 0px;" ><img  class="x-img x-img-none"  src="https://i0.wp.com/www.taza.co/wp-content/uploads/2016/07/7.jpg?w=742"  data-recalc-dims="1"></div><div  class="x-column x-sm x-1-6" style="padding: 0px;" ><img  class="x-img x-img-none"  src="https://i2.wp.com/www.taza.co/wp-content/uploads/2016/07/8.jpg?w=742"  data-recalc-dims="1"></div><div  class="x-column x-sm x-1-6" style="padding: 0px;" ><img  class="x-img x-img-none"  src="https://i1.wp.com/www.taza.co/wp-content/uploads/2016/07/9.jpg?w=742"  data-recalc-dims="1"></div><div  class="x-column x-sm x-1-6" style="padding: 0px;" ><img  class="x-img x-img-none"  src="https://i0.wp.com/www.taza.co/wp-content/uploads/2016/07/10.jpg?w=742"  data-recalc-dims="1"></div><div  class="x-column x-sm x-1-6" style="padding: 0px;" ><img  class="x-img x-img-none"  src="https://i0.wp.com/www.taza.co/wp-content/uploads/2016/07/11.jpg?w=742"  data-recalc-dims="1"></div><div  class="x-column x-sm x-1-6" style="padding: 0px;" ><img  class="x-img x-img-none"  src="https://i1.wp.com/www.taza.co/wp-content/uploads/2016/07/12.jpg?w=742"  data-recalc-dims="1"></div></div></div><span id="x-responsive-text-1" data-x-element="responsive_text" data-x-params="{&quot;selector&quot;:&quot;.resp-h&quot;,&quot;compression&quot;:&quot;1.35&quot;,&quot;minFontSize&quot;:&quot;36px&quot;,&quot;maxFontSize&quot;:&quot;64px&quot;}" ></span><span id="x-responsive-text-2" data-x-element="responsive_text" data-x-params="{&quot;selector&quot;:&quot;.resp-p&quot;,&quot;compression&quot;:&quot;2.65&quot;,&quot;minFontSize&quot;:&quot;18px&quot;,&quot;maxFontSize&quot;:&quot;21px&quot;}" ></span><span id="x-responsive-text-3" data-x-element="responsive_text" data-x-params="{&quot;selector&quot;:&quot;.resp-h-timeline&quot;,&quot;compression&quot;:&quot;0.85&quot;,&quot;minFontSize&quot;:&quot;28px&quot;,&quot;maxFontSize&quot;:&quot;54px&quot;}" ></span><span id="x-responsive-text-4" data-x-element="responsive_text" data-x-params="{&quot;selector&quot;:&quot;.resp-p-timeline&quot;,&quot;compression&quot;:&quot;2.35&quot;,&quot;minFontSize&quot;:&quot;16px&quot;,&quot;maxFontSize&quot;:&quot;24px&quot;}" ></span></div>
+  
+
+</div>
+
+      </article>
+
+    
+  </div>
+
+
+
+  
+
+  
+    <footer class="x-colophon bottom" role="contentinfo">
+      <div class="x-container max width">
+
+                  
+<ul id="menu-footer-menu" class="x-nav"><li id="menu-item-562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-562"><a href="http://www.taza.co/wholesale/">Wholesale</a></li>
+<li id="menu-item-563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-563"><a href="http://www.taza.co/contact/">contact</a></li>
+<li id="menu-item-2521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2521"><a href="http://www.taza.co/plastic/">How to REDUCE Single-use PLASTIC</a></li>
+</ul>        
+                  <div class="x-social-global"><a href="http://www.facebook.com/ThinkTaza" class="facebook" title="Facebook" target="_blank"><i class="x-icon-facebook-square" data-x-icon-b="&#xf082;" aria-hidden="true"></i></a><a href="http://twitter.com/ThinkTaZa" class="twitter" title="Twitter" target="_blank"><i class="x-icon-twitter-square" data-x-icon-b="&#xf081;" aria-hidden="true"></i></a><a href="http://instagram.com/thinkTaZa" class="instagram" title="Instagram" target="_blank"><i class="x-icon-instagram" data-x-icon-b="&#xf16d;" aria-hidden="true"></i></a><a href="http://pinterest.com/ThinkTaZa" class="pinterest" title="Pinterest" target="_blank"><i class="x-icon-pinterest-square" data-x-icon-b="&#xf0d3;" aria-hidden="true"></i></a><a href="http://www.taza.co/feed/" class="rss" title="RSS" target="_blank"><i class="x-icon-rss-square" data-x-icon-s="&#xf143;" aria-hidden="true"></i></a></div>        
+                  <div class="x-colophon-content">
+            <p>POWERED BY  <a href="//taza.co/" >TAZA FUN</a></p>          </div>
+        
+      </div>
+    </footer>
+
+  
+
+    
+    </div> <!-- END .x-site -->
+
+    
+      <a class="x-scroll-top right fade" title="Back to Top">
+        <i class="x-icon-angle-up" data-x-icon-s="&#xf106;"></i>
+      </a>
+
+      <script>
+
+      jQuery(document).ready(function($) {
+
+        var windowObj            = $(window);
+        var body                 = $('body');
+        var bodyOffsetBottom     = windowObj.scrollBottom();             // 1
+        var bodyHeightAdjustment = body.height() - bodyOffsetBottom;     // 2
+        var bodyHeightAdjusted   = body.height() - bodyHeightAdjustment; // 3
+        var scrollTopAnchor      = $('.x-scroll-top');
+
+        function sizingUpdate(){
+          var bodyOffsetTop = windowObj.scrollTop();
+          if ( bodyOffsetTop > ( bodyHeightAdjusted * 0.25 ) ) {
+            scrollTopAnchor.addClass('in');
+          } else {
+            scrollTopAnchor.removeClass('in');
+          }
+        }
+
+        windowObj.bind('scroll', sizingUpdate).resize(sizingUpdate);
+        sizingUpdate();
+
+        scrollTopAnchor.click(function(){
+          $('html, body').animate({ scrollTop: 0 }, 850, 'xEaseInOutExpo');
+          return false;
+        });
+
+      });
+
+      </script>
+
+    
+  </div> <!-- END .x-root -->
+
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "http://www.taza.co/wp-admin/admin-ajax.php";
 </script>
-<script src="https://www.gstatic.com/firebasejs/4.6.2/firebase-app.js" type='text/javascript'></script>
-<script src="https://www.gstatic.com/firebasejs/4.6.2/firebase-auth.js" type='text/javascript'></script>
-<script src="https://www.gstatic.com/firebasejs/4.6.2/firebase-database.js" type='text/javascript'></script>
-<script src='/assets-fw/js/jquery.match-height.min.js' type='text/javascript'></script>
-<script src='/assets-fw/js/jquery.sticky.min.js?ver=1.1.0' type='text/javascript'></script>
-<script src='/assets-fw/js/slick.min.js?ver=1.4.1' type='text/javascript'></script>
-<script src='/assets-fw/js/jquery.scroll-to.min.js?ver=2.1.2' type='text/javascript'></script>
-<script src='/assets-fw/js/moment.min.js?ver=2.18.1' type='text/javascript'></script>
-<script src='/assets-fw/js/crossposted.js?ver=1.1.2' type='text/javascript'></script>
-<script src='/assets-fw/js/theme.js?ver=1.2.0' type='text/javascript'></script>
-<script src='/assets-fw/js/jquery.lazyload.min.js?ver=1.0' type='text/javascript'></script>
-<script src='/assets-fw/js/jquery.fitvids.min.js?ver=1.1' type='text/javascript'></script>
-<script src='/assets-fw/js/wp-embed.min.js?ver=4.7.4' type='text/javascript'></script>
-<script src='/assets-fw/js/mustache.js?ver=0.8.1' type='text/javascript'></script>
-<script src='/assets-fw/js/gallery.js?ver=1.1.0' type='text/javascript'></script>
-<script src='/assets-fw/js/single.js?ver=1.2.1' type='text/javascript'></script>
-<script src='https://s.imgur.com/min/embed.js' type='text/javascript'></script>
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<script src="https://www.gstatic.com/firebasejs/4.6.2/firebase-app.js" type='text/javascript'></script>
-<script src="https://www.gstatic.com/firebasejs/4.6.2/firebase-auth.js" type='text/javascript'></script>
-<script src="https://www.gstatic.com/firebasejs/4.6.2/firebase-database.js" type='text/javascript'></script>
+	<div style="display:none">
+	</div>
+			<script type="text/javascript">
+				function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+						jQuery(sliderID).show().html(errorMessage);
+				}
+			</script>
+			<script type='text/javascript' src='http://www.taza.co/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.taza.co\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.taza.co/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"1525621493.OTc1ODRkYQ==.NmYxNGY3NDk5MzAx.NDY5YWIxZDNkMDk4ZjEzN2VlODA=","font_method":"svg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.taza.co/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.11.3'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201918'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2019Apraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.taza.co/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.1.1'></script>
+<script type='text/javascript' src='http://www.taza.co/wp-content/plugins/cornerstone/assets/dist/js/site/cs-body.js?ver=3.5.4'></script>
+<script type='text/javascript' src='http://www.taza.co/wp-content/themes/x/framework/dist/js/site/x.js?ver=6.2.5'></script>
+<script type='text/javascript' src='http://www.taza.co/wp-includes/js/comment-reply.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ubermenu_data = {"remove_conflicts":"on","reposition_on_load":"off","intent_delay":"300","intent_interval":"100","intent_threshold":"7","scrollto_offset":"50","scrollto_duration":"1000","responsive_breakpoint":"959","accessible":"on","retractor_display_strategy":"responsive","touch_off_close":"on","submenu_indicator_close_mobile":"on","collapse_after_scroll":"on","v":"3.5","configurations":["main"],"ajax_url":"http:\/\/www.taza.co\/wp-admin\/admin-ajax.php","plugin_url":"http:\/\/www.taza.co\/wp-content\/plugins\/ubermenu\/","disable_mobile":"off","prefix_boost":"","aria_role_navigation":"off","aria_expanded":"off","aria_hidden":"off","aria_controls":"","aria_responsive_toggle":"off","icon_tag":"i","theme_locations":{"primary":"Primary Menu","footer":"Footer Menu"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.taza.co/wp-content/plugins/ubermenu/assets/js/ubermenu.min.js?ver=3.5'></script>
+<script type='text/javascript' src='http://www.taza.co/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201918.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.1.1',blog:'125691724',post:'477',tz:'0',srv:'www.taza.co'} ]);
+	_stq.push([ 'clickTrackerInit', '125691724', '477' ]);
+</script>
 
-<script src="https://www.gstatic.com/firebasejs/5.0.4/firebase-app.js"></script>
-<script src="https://www.gstatic.com/firebasejs/5.0.4/firebase-messaging.js"></script>
-<script src="/assets-fw/js/transversalSitios.js?v=1"></script>
 </body>
 </html>
