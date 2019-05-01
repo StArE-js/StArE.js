@@ -152,30 +152,60 @@ function barChart(){
 
 
 
-            // add the x Axis
-            svg.append("g")
-                .attr("id","xAxis")
-                .attr("transform", "translate("+ margin.left+"," + (height+10) + ")")
-                .call(d3.axisBottom(x))
-                .selectAll("text")
-                .attr("y", 10)
-                .attr("x", 9 )
-                .attr("dy", ".35em")
-                .attr("transform", "rotate(60)")
-                .style("text-anchor", "start");
+            // Create the points of the axis:
+            var x_axis= d3.axisBottom()
+                .scale(x);
+            var y_axis= d3.axisLeft()
+                .scale(y);
+            //If the axis aren't created:
+            if(d3.select("#yAxis").empty()){
+                //Add y axis
+                svg.append("g")
+                    .attr("id","xAxis")
+                    .attr("transform", "translate("+ margin.left+"," + (height+10) + ")")
+                    .call(x_axis)
+                    .selectAll("text")
+                    .attr("y", 10)
+                    .attr("x", 9 )
+                    .attr("dy", ".35em")
+                    .attr("transform", "rotate(60)")
+                    .style("text-anchor", "start");
 
-            // add the y Axis
+                // add x axis
+                svg.append("g")
+                    .attr("id","yAxis")
+                    .attr("transform", "translate("+ margin.left+",10)")
+                    .call(y_axis)
+                    .selectAll("text")
+                    .attr("y", 0)
+                    .attr("x", -margin.left)
+                    .attr("dy", ".35em")
+                    .attr("transform", "rotate(0)")
+                    .style("text-anchor", "start");
+            }else{
+                //actualizate y axis
+                svg.select("#yAxis")
+                    .transition()
+                    .call(y_axis)
+                    .selectAll("text")
+                    .attr("y", 0)
+                    .attr("x", -margin.left)
+                    .attr("dy", ".35em")
+                    .attr("transform", "rotate(0)")
+                    .style("text-anchor", "start");
 
-            svg.append("g")
-                .attr("id","yAxis")
-                .attr("transform", "translate("+ margin.left+",10)")
-                .call(d3.axisLeft(y))
-                .selectAll("text")
-                .attr("y", 0)
-                .attr("x", -margin.left)
-                .attr("dy", ".35em")
-                .attr("transform", "rotate(0)")
-                .style("text-anchor", "start");
+                //actualizate x axis
+                svg.select("xAxis")
+                    .transition()
+                    .call(x_axis)
+                    .selectAll("text")
+                    .attr("y", 10)
+                    .attr("x", 9 )
+                    .attr("dy", ".35em")
+                    .attr("transform", "rotate(60)")
+                    .style("text-anchor", "start");
+            }
+
 
 
 

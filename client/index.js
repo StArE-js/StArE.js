@@ -91,8 +91,8 @@ const updateDataBarChart=()=>{
         response => {
             json = response.data;
             //Eliminar Axis Viejos y rehacerlos:
-            d3.select('#chart2').selectAll("#yAxis").remove()
-            d3.select('#chart2').selectAll("#xAxis").remove()
+            //d3.select('#chart2').selectAll("#yAxis").remove()
+            //d3.select('#chart2').selectAll("#xAxis").remove()
             d3.select('#chart2').datum(json).call(chart);
             console.log('updating...');
         },
