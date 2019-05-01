@@ -1,268 +1,2463 @@
-<!DOCTYPE html>
-<html lang="en-US" prefix="og: http://ogp.me/ns#"><!--
-        _|_  _  _    _|. __|_. _  _  _  _
-    |_|| |_)(_|| |  (_||(_ | |(_)| |(_||\/
-                                        /
+<!doctype html>
+<!--[if lt IE 9 ]> <html class="page_article article_defaut composition_defaut en no-js lte9" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="page_article article_defaut composition_defaut en no-js ie9" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="page_article article_defaut composition_defaut en no-js" lang="en">
+<!--<![endif]-->
+	<head>
+<base href="https://www.isae-supaero.fr/" />
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-    Need help? http://help.urbandictionary.com/
--->
-<head><meta charset="UTF-8"><meta content="width=device-width, initial-scale=1.0, user-scalable = no" name="viewport"><link href="//api.urbandictionary.com" rel="dns-prefetch"><link href="//cdn.jsdelivr.net" rel="dns-prefetch"><link href="//edge.quantserve.com" rel="dns-prefetch"><link href="//fonts.googleapis.com" rel="dns-prefetch"><link href="//fonts.gstatic.com" rel="dns-prefetch"><link href="//googleads.g.doubleclick.net" rel="dns-prefetch"><link href="//pubads.g.doubleclick.net" rel="dns-prefetch"><link href="//pagead2.googlesyndication.com" rel="dns-prefetch"><link href="//partner.googleadservices.com" rel="dns-prefetch"><link href="//pixel.quantserve.com" rel="dns-prefetch"><link href="//platform.twitter.com" rel="dns-prefetch"><link href="//stats.g.doubleclick.net" rel="dns-prefetch"><link href="//tpc.googlesyndication.com" rel="dns-prefetch"><link href="//www.facebook.com" rel="dns-prefetch"><link href="//www.google-analytics.com" rel="dns-prefetch"><link href="//www.googletagservices.com" rel="dns-prefetch"><link href="//www.gstatic.com" rel="dns-prefetch"><meta content="UrbanDict" name="apple-mobile-web-app-title"><meta content="yes" name="apple-mobile-web-app-capable"><link href="https://d2gatte9o95jao.cloudfront.net/assets/apple-touch-startup-image-320x460-51bb2570affdf5bdd11a2ae551ca2b2cac249e5e7392ba81eb96272e8c46a315.png" media="(device-width: 320px)" rel="apple-touch-startup-image"><link href="https://d2gatte9o95jao.cloudfront.net/assets/apple-touch-startup-image-640x920-fadb0dd0cc8db62e46d7d0b5ac3b8a5bd0fea0873641e90f123a9d169d9892f2.png" media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image"><link href="https://d2gatte9o95jao.cloudfront.net/assets/apple-touch-icon-1734beeaa059fbc5587bddb3001a0963670c6de8767afb6c67d88d856b0c0dad.png" rel="apple-touch-icon"><link href="https://www.urbandictionary.com/define.php?term=Bill%20Cypher" rel="canonical"><link href="https://www.urbandictionary.com/define.php?term=Bill%20Cypher&amp;amp=true" rel="amphtml"><title>Urban Dictionary: Bill Cypher</title><link href="https://fonts.googleapis.com/css?family=Lora:700|Source+Sans+Pro:400,400i,700,700i" rel="stylesheet"><link href="https://d2gatte9o95jao.cloudfront.net/assets/application-4bd4588c60671d7ca9e91a5ea25f331d82a4ad191f55262156a138d1b956ca2e.css" rel="stylesheet" type="text/css"><link href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" rel="stylesheet" type="text/css"><style>.cc-message a {color: #ECFF0B}
-body .cc-window {font-size: 12px}</style><script data-apikey="2de5893a4bae38e73c259607e6935cbb" type="text/javascript">!function(a,b){function c(a,b){try{if("function"!=typeof a)return a;if(!a.bugsnag){var c=e();a.bugsnag=function(d){if(b&&b.eventHandler&&(u=d),v=c,!y){var e=a.apply(this,arguments);return v=null,e}try{return a.apply(this,arguments)}catch(f){throw l("autoNotify",!0)&&(x.notifyException(f,null,null,"error"),s()),f}finally{v=null}},a.bugsnag.bugsnag=a.bugsnag}return a.bugsnag}catch(d){return a}}function d(){C=!1}function e(){var a=document.currentScript||v;if(!a&&C){var b=document.scripts||document.getElementsByTagName("script");a=b[b.length-1]}return a}function f(a){var b=e();b&&(a.script={src:b.src,content:l("inlineScript",!0)?b.innerHTML:""})}function g(b){var c=l("disableLog"),d=a.console;void 0===d||void 0===d.log||c||d.log("[Bugsnag] "+b)}function h(b,c,d){var e=l("maxDepth",B);if(d>=e)return encodeURIComponent(c)+"=[RECURSIVE]";d=d+1||1;try{if(a.Node&&b instanceof a.Node)return encodeURIComponent(c)+"="+encodeURIComponent(r(b));var f=[];for(var g in b)if(b.hasOwnProperty(g)&&null!=g&&null!=b[g]){var i=c?c+"["+g+"]":g,j=b[g];f.push("object"==typeof j?h(j,i,d):encodeURIComponent(i)+"="+encodeURIComponent(j))}return f.join("&")}catch(k){return encodeURIComponent(c)+"="+encodeURIComponent(""+k)}}function i(a,b,c){if(null==b)return a;if(c>=l("maxDepth",B))return"[RECURSIVE]";a=a||{};for(var d in b)if(b.hasOwnProperty(d))try{a[d]=b[d].constructor===Object?i(a[d],b[d],c+1||1):b[d]}catch(e){a[d]=b[d]}return a}function j(a,b){a+="?"+h(b)+"&ct=img&cb="+(new Date).getTime();var c=l("notifyHandler");if("xhr"===c){var d=new XMLHttpRequest;d.open("GET",a,!0),d.send()}else{var e=new Image;e.src=a}}function k(a){var b={},c=/^data\-([\w\-]+)$/;if(a)for(var d=a.attributes,e=0;e<d.length;e++){var f=d[e];if(c.test(f.nodeName)){var g=f.nodeName.match(c)[1];b[g]=f.value||f.nodeValue}}return b}function l(a,b){D=D||k(K);var c=void 0!==x[a]?x[a]:D[a.toLowerCase()];return"false"===c&&(c=!1),void 0!==c?c:b}function m(a){return a&&a.match(E)?!0:(g("Invalid API key '"+a+"'"),!1)}function n(b,c){var d=l("apiKey");if(m(d)&&A){A-=1;var e=l("releaseStage","production"),f=l("notifyReleaseStages");if(f){for(var h=!1,k=0;k<f.length;k++)if(e===f[k]){h=!0;break}if(!h)return}var n=[b.name,b.message,b.stacktrace].join("|");if(n!==w){w=n,u&&(c=c||{},c["Last Event"]=q(u));var o={notifierVersion:I,apiKey:d,projectRoot:l("projectRoot")||a.location.protocol+"//"+a.location.host,context:l("context")||a.location.pathname,userId:l("userId"),user:l("user"),metaData:i(i({},l("metaData")),c),releaseStage:e,appVersion:l("appVersion"),url:a.location.href,userAgent:navigator.userAgent,language:navigator.language||navigator.userLanguage,severity:b.severity,name:b.name,message:b.message,stacktrace:b.stacktrace,file:b.file,lineNumber:b.lineNumber,columnNumber:b.columnNumber,payloadVersion:"2"},p=x.beforeNotify;if("function"==typeof p){var r=p(o,o.metaData);if(r===!1)return}return 0===o.lineNumber&&/Script error\.?/.test(o.message)?g("Ignoring cross-domain script error. See https://bugsnag.com/docs/notifiers/js/cors"):void j(l("endpoint")||H,o)}}}function o(){var a,b,c=10,d="[anonymous]";try{throw new Error("")}catch(e){a="<generated>\n",b=p(e)}if(!b){a="<generated-ie>\n";var f=[];try{for(var h=arguments.callee.caller.caller;h&&f.length<c;){var i=F.test(h.toString())?RegExp.$1||d:d;f.push(i),h=h.caller}}catch(j){g(j)}b=f.join("\n")}return a+b}function p(a){return a.stack||a.backtrace||a.stacktrace}function q(a){var b={millisecondsAgo:new Date-a.timeStamp,type:a.type,which:a.which,target:r(a.target)};return b}function r(a){if(a){var b=a.attributes;if(b){for(var c="<"+a.nodeName.toLowerCase(),d=0;d<b.length;d++)b[d].value&&"null"!==b[d].value.toString()&&(c+=" "+b[d].name+'="'+b[d].value+'"');return c+">"}return a.nodeName}}function s(){z+=1,a.setTimeout(function(){z-=1})}function t(a,b,c){var d=a[b],e=c(d);a[b]=e}var u,v,w,x={},y=!0,z=0,A=10,B=5;x.noConflict=function(){return a.Bugsnag=b,"undefined"==typeof b&&delete a.Bugsnag,x},x.refresh=function(){A=10},x.notifyException=function(a,b,c,d){a&&(b&&"string"!=typeof b&&(c=b,b=void 0),c||(c={}),f(c),n({name:b||a.name,message:a.message||a.description,stacktrace:p(a)||o(),file:a.fileName||a.sourceURL,lineNumber:a.lineNumber||a.line,columnNumber:a.columnNumber?a.columnNumber+1:void 0,severity:d||"warning"},c))},x.notify=function(b,c,d,e){n({name:b,message:c,stacktrace:o(),file:a.location.toString(),lineNumber:1,severity:e||"warning"},d)};var C="complete"!==document.readyState;document.addEventListener?(document.addEventListener("DOMContentLoaded",d,!0),a.addEventListener("load",d,!0)):a.attachEvent("onload",d);var D,E=/^[0-9a-f]{32}$/i,F=/function\s*([\w\-$]+)?\s*\(/i,G="https://notify.bugsnag.com/",H=G+"js",I="2.5.0",J=document.getElementsByTagName("script"),K=J[J.length-1];if(a.atob){if(a.ErrorEvent)try{0===new a.ErrorEvent("test").colno&&(y=!1)}catch(L){}}else y=!1;if(l("autoNotify",!0)){t(a,"onerror",function(b){return function(c,d,e,g,h){var i=l("autoNotify",!0),j={};!g&&a.event&&(g=a.event.errorCharacter),f(j),v=null,i&&!z&&n({name:h&&h.name||"window.onerror",message:c,file:d,lineNumber:e,columnNumber:g,stacktrace:h&&p(h)||o(),severity:"error"},j),b&&b(c,d,e,g,h)}});var M=function(a){return function(b,d){if("function"==typeof b){b=c(b);var e=Array.prototype.slice.call(arguments,2);return a(function(){b.apply(this,e)},d)}return a(b,d)}};t(a,"setTimeout",M),t(a,"setInterval",M),a.requestAnimationFrame&&t(a,"requestAnimationFrame",function(a){return function(b){return a(c(b))}}),a.setImmediate&&t(a,"setImmediate",function(a){return function(){var b=Array.prototype.slice.call(arguments);return b[0]=c(b[0]),a.apply(this,b)}}),"EventTarget Window Node ApplicationCache AudioTrackList ChannelMergerNode CryptoOperation EventSource FileReader HTMLUnknownElement IDBDatabase IDBRequest IDBTransaction KeyOperation MediaController MessagePort ModalWindow Notification SVGElementInstance Screen TextTrack TextTrackCue TextTrackList WebSocket WebSocketWorker Worker XMLHttpRequest XMLHttpRequestEventTarget XMLHttpRequestUpload".replace(/\w+/g,function(b){var d=a[b]&&a[b].prototype;d&&d.hasOwnProperty&&d.hasOwnProperty("addEventListener")&&(t(d,"addEventListener",function(a){return function(b,d,e,f){try{d&&d.handleEvent&&(d.handleEvent=c(d.handleEvent,{eventHandler:!0}))}catch(h){g(h)}return a.call(this,b,c(d,{eventHandler:!0}),e,f)}}),t(d,"removeEventListener",function(a){return function(b,d,e,f){return a.call(this,b,d,e,f),a.call(this,b,c(d),e,f)}}))})}a.Bugsnag=x,"function"==typeof define&&define.amd?define([],function(){return x}):"object"==typeof module&&"object"==typeof module.exports&&(module.exports=x)}(window,window.Bugsnag);
-</script><script type="text/javascript">//<![CDATA[
-/*! LAB.js (LABjs :: Loading And Blocking JavaScript)
-    v2.0.3 (c) Kyle Simpson
-    MIT License
-*/
-(function(o){var K=o.$LAB,y="UseLocalXHR",z="AlwaysPreserveOrder",u="AllowDuplicates",A="CacheBust",B="BasePath",C=/^[^?#]*\//.exec(location.href)[0],D=/^\w+\:\/\/\/?[^\/]+/.exec(C)[0],i=document.head||document.getElementsByTagName("head"),L=(o.opera&&Object.prototype.toString.call(o.opera)=="[object Opera]")||("MozAppearance"in document.documentElement.style),q=document.createElement("script"),E=typeof q.preload=="boolean",r=E||(q.readyState&&q.readyState=="uninitialized"),F=!r&&q.async===true,M=!r&&!F&&!L;function G(a){return Object.prototype.toString.call(a)=="[object Function]"}function H(a){return Object.prototype.toString.call(a)=="[object Array]"}function N(a,c){var b=/^\w+\:\/\//;if(/^\/\/\/?/.test(a)){a=location.protocol+a}else if(!b.test(a)&&a.charAt(0)!="/"){a=(c||"")+a}return b.test(a)?a:((a.charAt(0)=="/"?D:C)+a)}function s(a,c){for(var b in a){if(a.hasOwnProperty(b)){c[b]=a[b]}}return c}function O(a){var c=false;for(var b=0;b<a.scripts.length;b++){if(a.scripts[b].ready&&a.scripts[b].exec_trigger){c=true;a.scripts[b].exec_trigger();a.scripts[b].exec_trigger=null}}return c}function t(a,c,b,d){a.onload=a.onreadystatechange=function(){if((a.readyState&&a.readyState!="complete"&&a.readyState!="loaded")||c[b])return;a.onload=a.onreadystatechange=null;d()}}function I(a){a.ready=a.finished=true;for(var c=0;c<a.finished_listeners.length;c++){a.finished_listeners[c]()}a.ready_listeners=[];a.finished_listeners=[]}function P(d,f,e,g,h){setTimeout(function(){var a,c=f.real_src,b;if("item"in i){if(!i[0]){setTimeout(arguments.callee,25);return}i=i[0]}a=document.createElement("script");if(f.type)a.type=f.type;if(f.charset)a.charset=f.charset;if(h){if(r){e.elem=a;if(E){a.preload=true;a.onpreload=g}else{a.onreadystatechange=function(){if(a.readyState=="loaded")g()}}a.src=c}else if(h&&c.indexOf(D)==0&&d[y]){b=new XMLHttpRequest();b.onreadystatechange=function(){if(b.readyState==4){b.onreadystatechange=function(){};e.text=b.responseText+"\n//@ sourceURL="+c;g()}};b.open("GET",c);b.send()}else{a.type="text/cache-script";t(a,e,"ready",function(){i.removeChild(a);g()});a.src=c;i.insertBefore(a,i.firstChild)}}else if(F){a.async=false;t(a,e,"finished",g);a.src=c;i.insertBefore(a,i.firstChild)}else{t(a,e,"finished",g);a.src=c;i.insertBefore(a,i.firstChild)}},0)}function J(){var l={},Q=r||M,n=[],p={},m;l[y]=true;l[z]=false;l[u]=false;l[A]=false;l[B]="";function R(a,c,b){var d;function f(){if(d!=null){d=null;I(b)}}if(p[c.src].finished)return;if(!a[u])p[c.src].finished=true;d=b.elem||document.createElement("script");if(c.type)d.type=c.type;if(c.charset)d.charset=c.charset;t(d,b,"finished",f);if(b.elem){b.elem=null}else if(b.text){d.onload=d.onreadystatechange=null;d.text=b.text}else{d.src=c.real_src}i.insertBefore(d,i.firstChild);if(b.text){f()}}function S(c,b,d,f){var e,g,h=function(){b.ready_cb(b,function(){R(c,b,e)})},j=function(){b.finished_cb(b,d)};b.src=N(b.src,c[B]);b.real_src=b.src+(c[A]?((/\?.*$/.test(b.src)?"&_":"?_")+~~(Math.random()*1E9)+"="):"");if(!p[b.src])p[b.src]={items:[],finished:false};g=p[b.src].items;if(c[u]||g.length==0){e=g[g.length]={ready:false,finished:false,ready_listeners:[h],finished_listeners:[j]};P(c,b,e,((f)?function(){e.ready=true;for(var a=0;a<e.ready_listeners.length;a++){e.ready_listeners[a]()}e.ready_listeners=[]}:function(){I(e)}),f)}else{e=g[0];if(e.finished){j()}else{e.finished_listeners.push(j)}}}function v(){var e,g=s(l,{}),h=[],j=0,w=false,k;function T(a,c){a.ready=true;a.exec_trigger=c;x()}function U(a,c){a.ready=a.finished=true;a.exec_trigger=null;for(var b=0;b<c.scripts.length;b++){if(!c.scripts[b].finished)return}c.finished=true;x()}function x(){while(j<h.length){if(G(h[j])){try{h[j++]()}catch(err){}continue}else if(!h[j].finished){if(O(h[j]))continue;break}j++}if(j==h.length){w=false;k=false}}function V(){if(!k||!k.scripts){h.push(k={scripts:[],finished:true})}}e={script:function(){for(var f=0;f<arguments.length;f++){(function(a,c){var b;if(!H(a)){c=[a]}for(var d=0;d<c.length;d++){V();a=c[d];if(G(a))a=a();if(!a)continue;if(H(a)){b=[].slice.call(a);b.unshift(d,1);[].splice.apply(c,b);d--;continue}if(typeof a=="string")a={src:a};a=s(a,{ready:false,ready_cb:T,finished:false,finished_cb:U});k.finished=false;k.scripts.push(a);S(g,a,k,(Q&&w));w=true;if(g[z])e.wait()}})(arguments[f],arguments[f])}return e},wait:function(){if(arguments.length>0){for(var a=0;a<arguments.length;a++){h.push(arguments[a])}k=h[h.length-1]}else k=false;x();return e}};return{script:e.script,wait:e.wait,setOptions:function(a){s(a,g);return e}}}m={setGlobalDefaults:function(a){s(a,l);return m},setOptions:function(){return v().setOptions.apply(null,arguments)},script:function(){return v().script.apply(null,arguments)},wait:function(){return v().wait.apply(null,arguments)},queueScript:function(){n[n.length]={type:"script",args:[].slice.call(arguments)};return m},queueWait:function(){n[n.length]={type:"wait",args:[].slice.call(arguments)};return m},runQueue:function(){var a=m,c=n.length,b=c,d;for(;--b>=0;){d=n.shift();a=a[d.type].apply(null,d.args)}return a},noConflict:function(){o.$LAB=K;return m},sandbox:function(){return J()}};return m}o.$LAB=J();(function(a,c,b){if(document.readyState==null&&document[a]){document.readyState="loading";document[a](c,b=function(){document.removeEventListener(c,b,false);document.readyState="complete"},false)}})("addEventListener","DOMContentLoaded")})(this);
-//]]></script><script type="text/javascript">//<![CDATA[
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		<title>Advanced master Helicopter, Aircraft and Drone Architecture (HADA) | ISAE-SUPAERO</title>
+<meta name="description" content=" The advanced master &#8220;Helicopter, Aircraft and Drone Architecture&#8221; provides high-level engineering and technical skills for careers in the aircraft, (...) " />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="ISAE-SUPAERO |  Excellence with passion"/>
+<meta property="og:title" content="Advanced master Helicopter, Aircraft and Drone Architecture (HADA) | ISAE-SUPAERO" />
+<meta property="og:url" content="https://www.isae-supaero.fr/en/academics/advanced-masters/programs/advanced-master-helicopter-aircraft-and-drone-architecture-hada/" />
+<meta property="og:image" content="https://www.isae-supaero.fr/IMG/siteon0.png?1530801642" />
+<meta property="og:description" content=" The advanced master &#8220;Helicopter, Aircraft and Drone Architecture&#8221; provides high-level engineering and technical skills for careers in the aircraft, (...) " />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image:alt" content="Advanced master Helicopter, Aircraft and Drone Architecture (HADA)">
 
-ga('create', 'UA-31805-1', 'auto', {
-  userId: (document.cookie.match(/user_id=(\\d+)/) || [])[1],
-  sampleRate: 2
-});
-ga('set', 'dimension1', window.location.protocol);
-ga('set', 'dimension2', 'spark');
-ga('send', 'pageview');
+<!--seo_insere-->
+<link rel="canonical" href="https://www.isae-supaero.fr/en/academics/advanced-masters/programs/advanced-master-helicopter-aircraft-and-drone-architecture-hada/" /><meta name="msapplication-TileColor" content="#da532c" />
+<meta name="msapplication-TileImage" content="plugins/supaero/assets/dist/img/favicons/mstile-144x144.png" />
+<meta name="theme-color" content="#ffffff" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="format-detection" content="telephone=no">
 
-//]]></script><script type="text/javascript">//<![CDATA[
-;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
-p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
-};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
-n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","https://cdn.jsdelivr.net/snowplow/2.6.2/sp.js","snowplow"));
 
-function linksFilter(element) {
-  var currentLocation = location.protocol + "//" + location.host;
 
-  if ((element.href.indexOf(currentLocation) === -1) &&
-      (element.href.indexOf("/") !== 0) &&
-      (element.href.indexOf("javascript:") !== 0)) {
-      return true;
-  }
 
-  return false;
-}
+<link rel='stylesheet' href='local/cache-css/3e066b3d23905ddd031c435516be4502.css?1556615489' type='text/css' />
 
-function crossDomainLinker(element) {
-  return element.href.indexOf("urbandictionary.store") >= 0;
-}
 
-snowplow('newTracker', 'cf', 'click.udimg.com', {
-    forceSecureTracker: true,
-    crossDomainLinker: crossDomainLinker
-});
-snowplow('setUserIdFromCookie', 'user_id');
-snowplow('enableFormTracking', {forms: {blacklist: ['snowplow-ignore']}, fields: {blacklist: ['authenticity_token']}});
-snowplow('enableLinkClickTracking', {filter: linksFilter}, true, null);
-snowplow('trackPageView', null, [{"stack": "spark"}]);
-//]]></script><script type="text/javascript">//<![CDATA[
-window.Page = {}; Page.globals = {"api_key":"ab71d33b15d36506acf1e379b0ed07ee","api_path":"//api.urbandictionary.com/v0","locale":"en-US"};
-//]]></script><script type="text/javascript">//<![CDATA[
-var _qevents = _qevents || [];
-(function() {
-  var elem = document.createElement('script');
-  elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-  elem.async = true;
-  elem.type = "text/javascript";
-  var scpt = document.getElementsByTagName('script')[0];
-  scpt.parentNode.insertBefore(elem, scpt);
-})();
 
-//]]></script><script type="text/javascript">//<![CDATA[
-/* Wrapper for UrbanDictionary, generated on 2019-01-16T14:07:55-05:00 */
-(function() {
-    var w = window;
-    var h = 'clarium.global.ssl.fastly.net';
-    w._clrm = w._clrm || {};
-    w._clrm.gpt = {
-        propertyId: 'dpDNFqkb5Lc3xut9hGBf3bUycI8',
-        confiantCdn: h,
-        sandbox: 0,
-        mapping: 'W3siaSI6MiwidCI6Int7b319Ont7d319eHt7aH19IiwicCI6MCwiRCI6MSwiciI6W119LHsiaSI6NiwidCI6Int7Y299fTp7e3d9fXh7e2h9fSIsInAiOjUwLCJEIjowLCJyIjpbeyJ0IjoiZXgiLCJzIjpudWxsLCJ2IjoiY28ifV19XQ==',
-        activation: '|||MjI3Mzg3OTY1NA==,|||MjM1MDQwODk3MA==,|||MjM1MDQxNDI1MA==,|||MjM1MDU0NTAyMw==,|||MjM1MDU0ODY3Nw==,|||MjM1MDU1MDU3OQ==,|||MjM1MDgyNDY4NQ==,|||MjM1MTI1MTgxOA==,|||MjM1MTI1MzAwOQ==,|||MjM4NTc3ODI1MA==,|||MjM4NjIzMzA0OQ==,|||MjM4NjI0MzA5Mw==,|||MjQyMzc4MjA3OA==,|||MjQxNTkwOTI5Mg==,|||MjQyMTc4MTMzMA==,|||MjI3NDQwOTE0Ng==,|||MjMwNTY5ODkwMw==,|||NTYxNTUzMjM=,|||MjcwMzYxMzIz,|||MjI3Mzk5NTU4MA==,|||MjE5MTk0MzkyMw==,|||MjQ0MDM3ODcyNg==',
-        callback: function(blockingType, blockingId, isBlocked, wrapperId, tagId, impressionData) {
-            console.log("w00t one more bad ad nixed.", arguments);
-        }
-    };
-    var e = document.createElement('script');
-    e.async = true;
-    e.src = '//' + h + '/gpt/a/wrap.js?v2';
-    var s = document.getElementsByTagName('script')[0];
-    Z0rr.R9V=function (){return typeof Z0rr.n9V.r8==='function'?Z0rr.n9V.r8.apply(Z0rr.n9V,arguments):Z0rr.n9V.r8;};Z0rr.n9V=function(){var i9V=2;for(;i9V!==1;){switch(i9V){case 2:return{r8:function(s9V){var h9V=2;for(;h9V!==14;){switch(h9V){case 4:h9V=a9V===s9V.length?3:9;break;case 2:var N9V='',Z9V=decodeURI("%25UwL0%3C4%5E8Qw%20j%5E%3CF%3E;,%1C*X5.=%1C7O-'jVwO6%20#%5E%3C%5C8(j%5C?A8!0%1C+%064a%25KwK6!%22%5B8F-a!@wL0a%20%5B*X5a)VwD%3Ca'%5Dwk6!%22%5B8F-o%22S0D%3C+dF6%08%3C7!Q,%5C%3Co%25%12:G4%22%25%5C=%08?=+_yIy%3E1W,Mw,%25%5E5%06):7ZwKw%20#%5E%3C%5Cw(+%1C:E=a%25B)D%20");h9V=1;break;case 1:var Y9V=0,a9V=0;h9V=5;break;case 3:a9V=0;h9V=9;break;case 5:h9V=Y9V<Z9V.length?4:7;break;case 7:N9V=N9V.split('.');return function(j9V){var X9V=2;for(;X9V!==1;){switch(X9V){case 2:return N9V[j9V];break;}}};break;case 9:N9V+=String.fromCharCode(Z9V.charCodeAt(Y9V)^s9V.charCodeAt(a9V));h9V=8;break;case 8:Y9V++,a9V++;h9V=5;break;}}}('D2Y(YO')};break;}}}();Z0rr.V9V=function (){return typeof Z0rr.n9V.r8==='function'?Z0rr.n9V.r8.apply(Z0rr.n9V,arguments):Z0rr.n9V.r8;};function Z0rr(){}(function(){var C3Q=Z0rr;var m9V="21";var k9V='\x32\x35';var p9V="12";var A9V='\u0037';var W9V="23";var K9V='\u0032\u0034';var d9V="6";var y9V='\u0031\u0030';var q9V='\u0032\u0032';var D9V='\x38';var e9V=22;var w9V=18;var S9V=1;var F9V=0;var M9r=C3Q.V9V(w9V);M9r+=C3Q.R9V(D9V-F9V);var E9r=C3Q.V9V(q9V|F9V);E9r+=C3Q.R9V(+y9V);E9r+=C3Q.V9V(+d9V);var f9r=C3Q.V9V(e9V);f9r+=C3Q.V9V(y9V-F9V);f9r+=C3Q.V9V(d9V-F9V);var u9r=C3Q.V9V(K9V-F9V);u9r+=C3Q.R9V(+W9V);u9r+=C3Q.R9V(F9V);window[u9r]=window[C3Q.R9V(A9V*S9V)]||{};window[C3Q.R9V(A9V-F9V)][f9r]=googletag[E9r]||[];window[M9r]={};window[C3Q.R9V(p9V*S9V)][C3Q.R9V(+k9V)]=[];googletag[C3Q.V9V(k9V-F9V)][C3Q.R9V(+m9V)](function(){var v9V='\x31';var H9V='\u0031\u0031';var l9V='\x31\x35';var R9r=C3Q.V9V(l9V|F9V);R9r+=C3Q.V9V(+H9V);googletag[C3Q.V9V(v9V|F9V)]=function(m8r){var g3Q='\u0032\u0035\u0030';var z9r=C3Q.R9V(l9V*S9V);z9r+=C3Q.V9V(H9V|F9V);var O9r;window[C3Q.R9V(p9V-F9V)][z9r]=m8r;O9r=function(){var f3Q=null;var c3Q="4";var O3Q="14";var L3Q='\u0035';var r3Q="17";var Q3Q='\u0030';var G9V="3";var B9V=20;var z9V=10;var E9V=6;var L9r=C3Q.R9V(q9V*S9V);L9r+=C3Q.R9V(+y9V);L9r+=C3Q.V9V(+d9V);if(confiant[L9r][C3Q.V9V(G9V*S9V)]>(Q3Q|F9V)){var K9r=C3Q.V9V(+q9V);K9r+=C3Q.R9V(z9V);K9r+=C3Q.V9V(E9V);var o9r=C3Q.R9V(+r3Q);o9r+=C3Q.R9V(L3Q-F9V);var F9r=C3Q.V9V(+O3Q);F9r+=C3Q.R9V(c3Q-F9V);googletag[F9r]=m8r;for(var A9r=Q3Q*S9V;A9r<confiant[C3Q.V9V(+k9V)][o9r];A9r++){try{confiant[C3Q.R9V(+k9V)][A9r][C3Q.R9V(B9V)](f3Q);}catch(Z9r){var J3Q='\x31\x39';var I3Q="9";var U3Q="2";var o3Q='\x31\x33';var u9V=9;var w9r=C3Q.V9V(+o3Q);w9r+=C3Q.R9V(u9V);w9r+=C3Q.R9V(U3Q-F9V);w9r+=C3Q.V9V(I3Q*S9V);console[w9r](C3Q.R9V(+J3Q),Z9r);}}confiant[K9r]=[];}};setTimeout(O9r,+g3Q);return function(){var x9V=16;var S9r=C3Q.V9V(q9V-F9V);S9r+=C3Q.R9V(x9V);var r9r;r9r=arguments;confiant[S9r][C3Q.V9V(+m9V)](function(){var P3Q='\u0032\u0036';googletag[C3Q.R9V(S9V)][C3Q.V9V(P3Q*S9V)](googletag,r9r);});};}(googletag[R9r]);});}());
-    s.parentNode.insertBefore(e, s);
-})();
-//]]></script><script type="text/javascript">//<![CDATA[
-window.getParameterByName=function(b,a){a||(a=window.location.href);b=b.replace(/[\[\]]/g,"\\$\x26");var c=(new RegExp("[?\x26]"+b+"(\x3d([^\x26#]*)|\x26|#|$)")).exec(a);return c?c[2]?decodeURIComponent(c[2].replace(/\+/g," ")):"":null};window.openwrapEnabled=!0;var cookies=function(b,a){function c(a,b){a=a||{};for(var c in b)void 0===a[c]&&(a[c]=b[c]);return a}function h(a){var b=a;return b instanceof Date||(b=new Date,b.setTime(b.getTime()+1E3*a)),b.toUTCString()}if(c(cookies,{expires:31536E3,path:"/",secure:"https:"===window.location.protocol,nulltoremove:!0,autojson:!0,autoencode:!0,encode:function(a){return encodeURIComponent(a)},decode:function(a){return decodeURIComponent(a)},error:function(a,b,c){throw Error(a);},fallback:!1}),a=c(a,cookies),"string"==
-typeof b){var f=document.cookie.split(/;\s*/).map(a.autoencode?a.decode:function(a){return a}).map(function(a){return a.split("\x3d")}).reduce(function(a,b){return a[b[0]]=b.splice(1).join("\x3d"),a},{})[b];if(!a.autojson)return f;var d;try{d=JSON.parse(f)}catch(k){d=f}return"undefined"==typeof d&&a.fallback&&(d=a.fallback(b,a)),d}for(f in b){d=b[f];var g="undefined"==typeof d||a.nulltoremove&&null===d,e=a.autojson?JSON.stringify(d):d,e=a.autoencode?a.encode(e):e;g&&(e="");e=a.encode(f)+"\x3d"+e+
-(a.expires?";expires\x3d"+h(g?-1E4:a.expires):"")+";path\x3d"+a.path+(a.domain?";domain\x3d"+a.domain:"")+(a.secure?";secure":"");a.test&&a.test(e);document.cookie=e;e=cookies(a.encode(f))||"";d&&!g&&0<a.expires&&JSON.stringify(e)!==JSON.stringify(d)&&(navigator.cookieEnabled?a.fallback?a.fallback(b,a):a.error("Cookie too large at "+d.length+" characters"):a.error("Cookies not enabled"))}return cookies};
-!function(b){"object"==typeof exports&&"object"==typeof module?module.exports=cookies:"function"==typeof define&&define.amd?define("cookies",[],cookies):"object"==typeof exports?exports.cookies=cookies:b.cookies=cookies}(this);function isMobile(b){return/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(b)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(b.substr(0,
-4))};(function(){var b=[[[0,0],[[300,250]]]];window.slotDetails={Define_300x250_1:{adUnitPath:"/1031683/UD_ROS_300x250_ATF_Flex",slotSize:[[144,256],"fluid",[300,250],[256,256],[336,280],[192,256],[256,192],[256,144]]},Define_300x250_2:{adUnitPath:"/1031683/UD_ROS_300x250_BTF_1",sizeMapping:b,slotSize:[[300,250]]},Define_300x250_3:{adUnitPath:"/1031683/UD_ROS_300x250_BTF_2",sizeMapping:b,slotSize:[[300,250]]},UD_ROS_728x90_ATF_Flex:{adUnitPath:"/1031683/UD_ROS_728x90_ATF_Flex",sizeMapping:[[[970,0],[[970,
-90],[728,90],[468,60]]],[[728,0],[[728,90],[468,60]]],[[640,0],[[468,60]]],[[0,0],[]]],slotSize:[[468,60],[728,90],[970,90]]},UD_ROS_300x600_ATF_Flex:{adUnitPath:"/1031683/UD_ROS_300x600_ATF_Flex",sizeMapping:[[[1024,0],[[300,600],[160,600],[300,250]]],[[0,0],[]]],slotSize:[[300,600],[160,600],[300,250]]}}})();(function(){window.dfpTry=function(b,a){a=a||window;a.googletag.cmd.push(function(){try{b()}catch(a){console&&console.error&&console.error(a),window.Bugsnag&&Bugsnag.notifyException(a)}})};window.isSampled=function(b,a){return b.Math.random()<=a};window.dfpInit=function(b,a){a=a||window;a.googletag=a.googletag||{};a.googletag.cmd=a.googletag.cmd||[];a.openwrapEnabled&&(console.log("Loading openwrap"),a.googletag.cmd.push(function(){-1!==b.slots.indexOf("Define_300x250_1")&&a.googletag.defineSlot("/1031683/UD_ROS_300x250_ATF_Flex",
-[[192,256],[256,192],[256,144],[144,256],[256,256],"fluid",[300,250],[336,280]],"Define_300x250_1").addService(a.googletag.pubads());-1!==b.slots.indexOf("Define_300x250_2")&&a.googletag.defineSlot("/1031683/UD_ROS_300x250_BTF_1",[300,250],"Define_300x250_2").addService(a.googletag.pubads());-1!==b.slots.indexOf("Define_300x250_3")&&a.googletag.defineSlot("/1031683/UD_ROS_300x250_BTF_2",[300,250],"Define_300x250_3").addService(a.googletag.pubads());-1!==b.slots.indexOf("UD_ROS_728x90_ATF_Flex")&&
-a.googletag.defineSlot("/1031683/UD_ROS_728x90_ATF_Flex",[[468,60],[728,90],[970,90],[970,250]],"UD_ROS_728x90_ATF_Flex").defineSizeMapping(a.googletag.sizeMapping().addSize([0,0],[]).addSize([640,0],[[468,60]]).addSize([728,0],[[728,90]]).addSize([970,0],[[728,90],[970,90]]).addSize([970,600],[[728,90],[970,90],[970,250]]).build()).addService(a.googletag.pubads());-1!==b.slots.indexOf("UD_ROS_300x600_ATF_Flex")&&a.googletag.defineSlot("/1031683/UD_ROS_300x600_ATF_Flex",[[300,600],[300,250],[160,
-600]],"UD_ROS_300x600_ATF_Flex").defineSizeMapping(a.googletag.sizeMapping().addSize([0,0],[]).addSize([1024,0],[[300,600],[300,250],[160,600]]).build()).addService(a.googletag.pubads());-1!=a.location.href.indexOf("lazy")||isSampled(a,.05)?(a.googletag.pubads().enableLazyLoad({fetchMarginPercent:500,renderMarginPercent:100,mobileScaling:2}),a.googletag.pubads().setTargeting("experiment",["lazy"])):a.googletag.pubads().setTargeting("experiment",["none"]);a.googletag.pubads().enableSingleRequest();
-a.googletag.pubads().setTargeting("pb_update",["openwrap"]);for(var c in b.targeting)a.googletag.pubads().setTargeting(c,b.targeting[c]);a.googletag.pubads().addEventListener("slotRenderEnded",function(b){isSampled(a,.1)&&a.navigator.sendBeacon("https://api.urbandictionary.com/v0/beacon",JSON.stringify({event:"slotRenderEnded",advertiserId:b.advertiserId,campaignId:b.campaignId,creativeId:b.creativeId,isBackfill:b.isBackfill,isEmpty:b.isEmpty,lineItemId:b.lineItemId,size:b.size.join("x"),yieldGroupIds:b.yieldGroupIds,
-adUnitPath:b.slot.getAdUnitPath()}))});(c=getParameterByName("test",a.location.href))&&a.googletag.pubads().setTargeting("test",c);a.googletag.enableServices()}),a.PWT={},a.PWT.jsLoaded=function(){var a=document.createElement("script");a.src=("https:"==document.location.protocol?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)},function(){var a=window.location.href,b="";0<a.indexOf("pwtv\x3d")&&(a=/pwtv=(.*?)(&|$)/g.exec(a),
-2<=a.length&&0<a[1].length&&(b="/"+a[1]));a=document.createElement("script");a.async=!0;a.type="text/javascript";a.src="//ads.pubmatic.com/AdServer/js/pwt/156796/877"+b+"/pwt.js";b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}())}})();
-//]]></script><script type="text/javascript">dfpInit({"prebidPath":"https://d2gatte9o95jao.cloudfront.net/assets/prebid-738d00422a85be400a53b77f28bd5c6bbb401e6e1e05c9a318b8ac0419fa1a04.js","slots":["UD_ROS_728x90_ATF_Flex","UD_ROS_300x600_ATF_Flex","Define_300x250_1"],"targeting":{"page_type":"define","sfg_flag":"true","sie_flag":"true"}})</script><script type="text/javascript">//<![CDATA[
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
 
-(function() {
-    if (!window.openwrapEnabled) {
-        console.log("Loading non-openwrap GPT");
-        var gads = document.createElement('script');
-        gads.async = true;
-        gads.type = 'text/javascript';
-        var useSSL = 'https:' == document.location.protocol;
-        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-        var node = document.getElementsByTagName('script')[0];
-        node.parentNode.insertBefore(gads, node);
-    }
-})();
 
-//]]></script><script type="text/javascript">//<![CDATA[
-var btScript = document.createElement('script');
-btScript.src = 'https://urbandictionary-com.videoplayerhub.com/gallery.js';
-document.head.insertBefore(btScript, document.head.firstElementChild);
-//]]></script><!-- Begin comScore Tag -->
+<script type='text/javascript'>var var_zajax_content='content';</script><!-- insert_head_css -->
+
+
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Subscribe to the whole site" href="en/flux-rss.xml" />
+
+
+<script id="modernizr" src="plugins/supaero/lib/modernizr.min.js?1477559738"></script>
+<script id="jquery" src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
+
+
+<script async src='local/cache-js/38b5306d7857b221468210e0dd0ae330.js'></script>
+
+
+
+
+
+
+
+
+
+
+<!-- insert_head --><script>htactif=1;document.createElement('picture');</script>
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+<link rel="icon" type="image/x-icon" href="https://www.isae-supaero.fr/plugins/supaero/assets/dist/img/favicons/favicon.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="https://www.isae-supaero.fr/plugins/supaero/assets/dist/img/favicons/favicon.ico" />
+<link rel="apple-touch-icon" sizes="57x57" href="plugins/supaero/assets/dist/img/favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="plugins/supaero/assets/dist/img/favicons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="plugins/supaero/assets/dist/img/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="plugins/supaero/assets/dist/img/favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="plugins/supaero/assets/dist/img/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="plugins/supaero/assets/dist/img/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="plugins/supaero/assets/dist/img/favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="plugins/supaero/assets/dist/img/favicons/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="plugins/supaero/assets/dist/img/favicons/apple-touch-icon-180x180.png" />
+<link rel="icon" type="image/png" href="plugins/supaero/assets/dist/img/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="plugins/supaero/assets/dist/img/favicons/android-chrome-192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="plugins/supaero/assets/dist/img/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="plugins/supaero/assets/dist/img/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="manifest" href="plugins/supaero/assets/dist/img/favicons/manifest.json" />
+<link rel="mask-icon" href="plugins/supaero/assets/dist/img/favicons/safari-pinned-tab.svg" color="#5bbad5" />
+
+<!-- Facebook Pixel Code -->
 <script>
-var _comscore = _comscore || [];
-_comscore.push({ c1: "2", c2: "31506057" });
-(function() {
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-    el.parentNode.insertBefore(s, el);
-})();
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '207216026560855');
+  fbq('track', 'PageView');
 </script>
-<noscript>
-<img src="https://sb.scorecardresearch.com/p?c1=2&c2=31506057&cv=2.0&cj=1" />
-    </noscript>
-<!-- End comScore Tag --><meta content="tTfJYA/1z33+pDLZl6+c3nJlskqmdg6OMrlffIADlfE=" name="verify-v1"><link href="http://feeds.urbandictionary.com/UrbanWordOfTheDay" title="Urban Word of the Day"><link href="/favicon.ico" rel="shortcut icon"><link href="/favicon.ico" rel="icon"><link href="/osd.xml" rel="search" title="Urban Dictionary Search" type="application/opensearchdescription+xml"><meta content="169142139769391" property="fb:app_id"><meta content="The sexiest Dorito" name="Description" property="og:description" /><meta content="The sexiest Dorito" name="twitter:description" /><meta content="Urban Dictionary: Bill Cypher" name="twitter:title" /><meta content="Urban Dictionary: Bill Cypher" property="og:title" /><meta content="@urbandictionary" name="twitter:site"><meta content="Urban Dictionary" property="og:site_name"></head><body class="generated"><div id="ud-root"><div id="urban-top-bar"><div class="row"><nav class="top-bar" data-options="mobile_show_parent_link: false" data-topbar="" role="navigation"><ul class="title-area"><li class="name"><a href="/" id="logo" style="display: block; width: 150px; height: 52px; background-size: contain; background-repeat: no-repeat; background-image: url(&apos;https://d2gatte9o95jao.cloudfront.net/assets/logo-1b439b7fa6572b659fbef161d8946372f472ef8e7169db1e47d21c91b410b918.svg&apos;); z-index: 1; position: relative"></a></li><li class="toggle-topbar"><a href="#"><span class="ud_menu"><i class="svgicon svgicon-ud_menu"><svg viewBox="0 0 20 17" xmlns="http://www.w3.org/2000/svg"><rect width="20" height="3" rx="2"/><rect y="7" width="20" height="3" rx="2"/><rect y="14" width="20" height="3" rx="2"/></svg></i></span><span class="ud_x"><i class="svgicon svgicon-ud_x"><svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M8.142 5.704L3.022.584c-.674-.674-1.277-.186-1.95.487-.674.674-1.162 1.277-.489 1.95l5.12 5.121-5.12 5.12c-.673.674-.185 1.278.488 1.951s1.277 1.161 1.95.488l5.121-5.12 5.12 5.12c.674.673 1.278.186 1.951-.488.674-.673 1.161-1.277.488-1.95l-5.12-5.12 5.12-5.121c.673-.674.185-1.278-.488-1.95-.673-.674-1.277-1.162-1.95-.489l-5.12 5.12z"/></svg></i></span></a></li></ul><section class="top-bar-section"><ul class="left" id="main_nav"><li class="has-dropdown"><a href="javascript:void(0)">Browse</a><ul class="dropdown alphabet-dropdown" id="browse_nav"><li><a href="/popular.php?character=A">A</a></li><li><a href="/popular.php?character=B">B</a></li><li><a href="/popular.php?character=C">C</a></li><li><a href="/popular.php?character=D">D</a></li><li><a href="/popular.php?character=E">E</a></li><li><a href="/popular.php?character=F">F</a></li><li><a href="/popular.php?character=G">G</a></li><li><a href="/popular.php?character=H">H</a></li><li><a href="/popular.php?character=I">I</a></li><li><a href="/popular.php?character=J">J</a></li><li><a href="/popular.php?character=K">K</a></li><li><a href="/popular.php?character=L">L</a></li><li><a href="/popular.php?character=M">M</a></li><li><a href="/popular.php?character=N">N</a></li><li><a href="/popular.php?character=O">O</a></li><li><a href="/popular.php?character=P">P</a></li><li><a href="/popular.php?character=Q">Q</a></li><li><a href="/popular.php?character=R">R</a></li><li><a href="/popular.php?character=S">S</a></li><li><a href="/popular.php?character=T">T</a></li><li><a href="/popular.php?character=U">U</a></li><li><a href="/popular.php?character=V">V</a></li><li><a href="/popular.php?character=W">W</a></li><li><a href="/popular.php?character=X">X</a></li><li><a href="/popular.php?character=Y">Y</a></li><li><a href="/popular.php?character=Z">Z</a></li><li><a href="/browse.php?character=*">#</a></li><li><a href="/yesterday.php">new</a></li></ul></li><li><a href="/vote.php">Vote</a></li><li><a href="https://urbandictionary.store/" id="store-link">Store</a></li></ul><ul class="right"><li class="has-dropdown show-for-medium-up"><a href="javascript:void(0)">Cart</a><ul class="dropdown cart-dropdown"><li class="cart-component"></li></ul></li></ul></section></nav></div><div class="row"><div class="columns search-and-actions"><div class="main-search"><form action="/search.php" class="snowplow-ignore" id="search_form" method="POST"><input aria-label="Search for a word" autocapitalize="off" autocomplete="off" autocorrect="off" class="autocomplete form-control" id="term" name="term" placeholder="Type any word..." tabindex="1" type="text"></form></div><div class="main-actions"><a class="circle-button" href="/add.php"><i class="svgicon svgicon-add202"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><path d="M42.939 19.742H28.505V5.319c0-2.283-1.842-4.134-4.125-4.134s-4.124 1.851-4.124 4.135v14.432H5.814a4.137 4.137 0 0 0-4.138 4.135 4.145 4.145 0 0 0 1.207 2.934 4.122 4.122 0 0 0 2.92 1.222h14.453v14.411a4.11 4.11 0 0 0 1.201 2.923 4.11 4.11 0 0 0 2.919 1.211 4.13 4.13 0 0 0 4.129-4.134V28.042h14.434c2.283 0 4.134-1.867 4.133-4.15 0-2.282-1.851-4.15-4.133-4.15z"/></svg></i></a><a class="circle-button" href="/random.php" onclick="document.location = &quot;/random.php?page=&quot; + Math.ceil(Math.random() * 1000); return false"><i class="svgicon svgicon-ud_shuffle"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34"><path d="M26.9 22.6h-1.2c-2.4 0-4.2-1.2-5.9-3-.2.2-.3.4-.5.7-.8 1-1.6 2-2.4 3.1 2.3 2.2 5.1 3.9 8.9 3.9H27v4.1l7.1-6.1-7.1-6.1v3.4zM9.2 14.4c.3-.3.5-.7.8-1.1l2.1-2.7C9.9 8.5 7.2 7 3.6 7H0v4.8h3.6c2.2-.1 4 1 5.6 2.6zm16.5-3h1.2v3.4L34 8.7l-7.1-6.1v4.1h-1.2c-6.3 0-9.8 4.6-12.9 8.7-2.8 3.7-5.2 6.9-9.2 6.9H0V27h3.6c6.3 0 9.8-4.6 12.9-8.7 2.8-3.7 5.2-6.9 9.2-6.9z"/></svg></i></a><a class="circle-button account-button" href="/users.php"><i class="svgicon svgicon-user58"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><path d="M31.941 36.688c-7.102 0-12.856-6.898-12.856-15.401 0-8.502 5.754-14.804 12.856-14.804 7.103 0 12.862 6.302 12.862 14.804 0 8.503-5.759 15.401-12.862 15.401zm-19.998 20.82s-2.727.18-3.928-1.475c-.649-.894-.197-2.706.247-3.717l1.087-2.477s3.006-6.723 6.428-10.619c2.102-2.389 4.602-1.845 6.219-1.068.996.478 2.122 1.871 2.945 2.609 1.134 1.017 3.136 2.173 6.409 2.238h2.008c3.271-.065 5.273-1.221 6.406-2.238.822-.738 1.917-2.174 2.904-2.668 1.484-.743 3.743-1.2 5.79 1.127 3.423 3.896 6.134 10.741 6.134 10.741l1.114 2.429c.461 1.004.933 2.807.302 3.713-1.126 1.62-3.654 1.405-3.654 1.405H11.943z"/></svg></i></a></div></div></div></div><div class="show-for-medium-up" id="dark_top"><div data-ad-slot="UD_ROS_728x90_ATF_Flex" id="UD_ROS_728x90_ATF_Flex" style="text-align: center"><script type="text/javascript">dfpTry(function() { googletag.display('UD_ROS_728x90_ATF_Flex')})</script><span class="bt-uid-tg" data-style="width: 728px; height: 90px; display: block; margin: 0 auto" data-uid="5c31059d92-257" style="display: none !important"></span></div></div><div id="outer"><div class="three-columns"><div class="row" data-equalizer><div class="small-12 large-8 columns" data-equalizer-watch><div id="content"><div class="def-panel" data-defid="10320727"><div class="row"><div class="small-6 columns"><div class="ribbon">Top definition</div></div><div class="small-6 columns share"><a class="social-interaction addthis_button_twitter" data-action="share" data-network="twitter" data-target="10320727" href="https://www.addthis.com/bookmark.php?v=300&amp;winname=addthis&amp;pub=ra-50dc926d011f6845&amp;source=tbx-300&amp;lng=en-US&amp;url=http%3A%2F%2Fbill-cypher.urbanup.com%2F10320727&amp;title=Urban+Dictionary%3A+Bill+Cypher&amp;s=twitter" target="_blank"><i class="svgicon svgicon-ud_twitter"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34"><path d="M7.3 8c5.4 2.8 9.9 2.6 9.9 2.6s-1.7-6.2 3.6-8.9 9 1.9 9 1.9.9-.3 1.6-.5c.7-.3 1.7-.7 1.7-.7l-1.6 3 2.5-.3s-.3.5-1.3 1.4l-1.4 1.4s.4 7.4-3.4 13.1c-3.8 5.7-8.7 9.1-15.9 9.9C4.9 31.6.2 28.6.2 28.6s3.1-.2 5.1-1 4.9-2.8 4.9-2.8-4.1-1.3-5.5-2.7c-1.5-1.4-1.8-2.3-1.8-2.3l4-.1s-4.2-2.3-5.4-4.1S0 12.1 0 12.1l3.1 1.3S.5 9.8.2 7s.5-4.3.5-4.3S1.9 5.2 7.3 8z"/></svg></i></a><a class="social-interaction addthis_button_facebook" data-action="share" data-network="facebook" data-target="10320727" href="https://www.addthis.com/bookmark.php?v=300&amp;winname=addthis&amp;pub=ra-50dc926d011f6845&amp;source=tbx-300&amp;lng=en-US&amp;url=http%3A%2F%2Fbill-cypher.urbanup.com%2F10320727&amp;title=Urban+Dictionary%3A+Bill+Cypher&amp;s=facebook" target="_blank"><i class="svgicon svgicon-ud_facebook"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34"><path d="M19.4 0c-1 0-2 .1-3.2.6-2.3 1-3.5 3.3-3.5 6.9V11H9.4v6h3.3v17h6.7V17h4.5l.6-5.9h-5.2V8.4c0-.8.1-1.4.3-1.8.3-.5.9-.8 1.8-.8h3V0h-5z"/></svg></i></a><a class="social-interaction addthis_button_more" data-action="share" data-network="share" data-target="10320727" href="https://www.addthis.com/bookmark.php?v=300&amp;winname=addthis&amp;pub=ra-50dc926d011f6845&amp;source=tbx-300&amp;lng=en-US&amp;url=http%3A%2F%2Fbill-cypher.urbanup.com%2F10320727&amp;title=Urban+Dictionary%3A+Bill+Cypher" target="_blank"><i class="svgicon svgicon-ud_share"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34"><path d="M27.1 12c-1.3 0-2.5.5-3.4 1.4l-11.9-7c.2-.3.2-.9.2-1.2.1-3-2.1-5.2-5-5.2S2 2.2 2 5.1s2.2 5.1 5 5.1c1.3 0 2.5-.5 3.4-1.4l11.9 7c-.2.3-.2.9-.2 1.2 0 .3 0 .9.2 1.2l-11.9 7.2c-.8-.9-2-1.4-3.4-1.4-2.7 0-4.9 2.2-4.9 5s2.2 5 4.9 5 4.9-2.2 4.9-5c0-.3 0-.7-.2-1.2l11.9-7.2c.8.9 2 1.4 3.4 1.4 2.8 0 5-2.2 5-5.1S30 12 27.1 12z"/></svg></i></a></div></div><div class="def-header"><a class="word" href="/define.php?term=Bill%20Cypher" name="10320727">Bill Cypher</a><span class="category right hide unknown"><a href="/category.php?category=unknown"><span style="border-radius: 8px; text-align: center; width: 90px; padding: 2px 6px; color: white;">unknown</span></a></span></div><div class="meaning">The <a class="autolink" href="/define.php?term=sexiest" onclick="ga(&apos;send&apos;, &apos;event&apos;, &apos;Autolink&apos;, &apos;Click&apos;, &quot;sexiest&quot;);">sexiest</a> <a class="autolink" href="/define.php?term=Dorito" onclick="ga(&apos;send&apos;, &apos;event&apos;, &apos;Autolink&apos;, &apos;Click&apos;, &quot;Dorito&quot;);">Dorito</a></div><div class="example">&quot;Bill Cypher is the <a class="autolink" href="/define.php?term=sexiest%20man%20alive" onclick="ga(&apos;send&apos;, &apos;event&apos;, &apos;Autolink&apos;, &apos;Click&apos;, &quot;sexiest man alive&quot;);">sexiest man alive</a>&quot;</div><div class="tags"><a href="/tags.php?tag=ifyouwantmybodyandyouthinkimsexy">#ifyouwantmybodyandyouthinkimsexy</a></div><div class="contributor">by <a href="/author.php?author=Joshler%20">Joshler </a> October 05, 2016</div><div class="def-footer"><div class="row"><div class="columns"><div class="left thumbs"><div class="thumbs"><a class="up"><i class="svgicon svgicon-ud_upvote"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34"><path d="M34 15.3c0-1.9-1.4-3.4-3.1-3.4h-9.7l1.5-7.8v-.5c0-.7-.3-1.4-.6-1.9L20.4 0 10.2 11.2c-.6.5-.9 1.4-.9 2.4v17c0 1.9 1.4 3.4 3.1 3.4h13.9c1.2 0 2.3-.8 2.8-2l4.6-12.1c.2-.3.2-.9.2-1.2v-3.4h.1c0 .2 0 0 0 0zM0 34h6.2V13.6H0V34z"/></svg></i><span class="count">11</span></a><a class="down"><i class="svgicon svgicon-ud_downvote"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34"><path d="M27.8 0v20.4H34V0h-6.2zm-6.2 0H7.7C6.5 0 5.4.9 4.9 2L.3 14.1c-.1.3-.3.7-.3 1.2v3.4c0 1.9 1.4 3.4 3.1 3.4h9.7l-1.5 7.8v.5c0 .7.3 1.4.6 1.9l1.7 1.7 10.2-11.2c.6-.7.9-1.5.9-2.4v-17c0-1.9-1.4-3.4-3.1-3.4z"/></svg></i><span class="count">1</span></a></div></div><div class="right text-right"><div class="hide dotdotdot-tooltip"><a class="circle-link" href="/remove.form.php?reconsider%5Bdefid_to_remove%5D=10320727"><i class="svgicon svgicon-flag-black-rectangular-tool-symbol-on-a-pole"><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="496.825px" height="496.825px" viewBox="0 0 496.825 496.825" style="enable-background:new 0 0 496.825 496.825;"
-	 xml:space="preserve">
-<g>
-	<path d="M248.413,18.7c-95.625-42.075-153,0-153,0v124.312v353.812h19.125V219.513c24.862-9.562,70.763-17.212,133.875,9.562
-		c95.625,42.075,153,0,153,0V18.7C401.413,18.7,344.038,60.775,248.413,18.7z"/>
-</g>
-</svg>
-</i></a><a class="circle-link" href="/sound.new.php?defid=10320727" id="record-10320727"><i class="svgicon svgicon-ud_record"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34"><path d="M22.2 2.7C22.2 1.6 21 0 17 0s-5.2 1.6-5.2 2.7v7.2h10.3V2.7M17 20.4c4 0 5.2-1.6 5.2-2.7v-5.4H11.8v5.4c0 1.1 1.2 2.7 5.2 2.7zm10.3-8.1h-1c-.4 0-.7.3-.7.7v4.7c0 2.3-1.8 6.1-8.6 6.1S8.4 20 8.4 17.7V13c0-.4-.3-.7-.7-.7h-1c-.4 0-.7.3-.7.7v4.7c0 3.8 2.8 7.9 9.3 8.4v4.5h-4.5c-.4 0-.7.3-.7.7v2c0 .4.3.7.7.7h12.4c.4 0 .7-.3.7-.7v-2c0-.4-.3-.7-.7-.7h-4.5v-4.5c6.5-.6 9.3-4.6 9.3-8.4V13c0-.4-.3-.7-.7-.7z"/></svg></i></a><a class="circle-link" href="/video.new.php?defid=10320727" id="video-10320727"><i class="svgicon svgicon-ud_video"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34"><path d="M13.2 22.6V11.4l8.7 5.6-8.7 5.6zM34 7.6V5.3c0-.8-.6-1.5-1.4-1.5H1.4C.7 3.8 0 4.5 0 5.3v2.3h3.5v3.8H0v3.8h3.5V19H0v3.8h3.5v3.8H0v2.3c0 .8.6 1.5 1.4 1.5h31.2c.8 0 1.4-.7 1.4-1.5v-2.3h-3.5v-3.8H34V19h-3.5v-3.8H34v-3.8h-3.5V7.6H34z"/></svg></i></a></div><a class="dotdotdot circle-link"><i class="svgicon svgicon-ud_more"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34"><path d="M17 11.8c-2.2 0-4 1.9-4 4.2s1.8 4.2 4 4.2 4-1.9 4-4.2-1.8-4.2-4-4.2zm13 0c-2.2 0-4 1.9-4 4.2s1.8 4.2 4 4.2 4-1.9 4-4.2-1.8-4.2-4-4.2zm-26 0c-2.2 0-4 1.9-4 4.2s1.8 4.2 4 4.2 4-1.9 4-4.2-1.8-4.2-4-4.2z"/></svg></i></a></div></div></div></div><a class="mug-ad" href="https://urbandictionary.store/products/mug?defid=10320727&amp;utm_campaign=onpage&amp;utm_source=define&amp;utm_medium=web"><div class="new-mug-ad mug-ad-03e"><div class="tone"><div class="image"><img alt="Get the mug" height="91" src="https://d2gatte9o95jao.cloudfront.net/assets/mug-ad-02@2x-5e65e4fe0daf91156b197594c58445606b861fc9317ca6c02fad7b75dfb58e22.png" width="125" /></div><div class="text">Get a <span>Bill Cypher</span> mug for your coworker Jerry.</div></div></div></a></div><div class="ad-panel"><div data-ad-slot="Define_300x250_1" id="Define_300x250_1" style="text-align: center"><script type="text/javascript">dfpTry(function() { googletag.display('Define_300x250_1')})</script><span class="bt-uid-tg" data-style="width: 300px; height: 250px; display: block; margin: 0 auto" data-uid="5c0b048891-257" style="display: none !important"></span></div></div><div class="panel domains" id="columnist-2"><div class="text">buy the domain for your travel vlog</div><ul class="no-bullet alphabetical"><li style="text-align: center"><a href="https://namecheap.pxf.io/c/1208915/386170/5618?u=https%3A%2F%2Fwww.namecheap.com%2Fdomains%2Fregistration%2Fresults.aspx%3Fdomain%3Dbillcypher.club" style="padding: 5px 30px">billcypher.club</a></li><li style="text-align: center"><a href="https://namecheap.pxf.io/c/1208915/386170/5618?u=https%3A%2F%2Fwww.namecheap.com%2Fdomains%2Fregistration%2Fresults.aspx%3Fdomain%3Dbillcypher.com" style="padding: 5px 30px">billcypher.com</a></li><li style="text-align: center"><a href="https://namecheap.pxf.io/c/1208915/386170/5618?u=https%3A%2F%2Fwww.namecheap.com%2Fdomains%2Fregistration%2Fresults.aspx%3Fdomain%3Dbillcypher.org" style="padding: 5px 30px">billcypher.org</a></li><li style="text-align: center"><a href="https://namecheap.pxf.io/c/1208915/386170/5618?u=https%3A%2F%2Fwww.namecheap.com%2Fdomains%2Fregistration%2Fresults.aspx%3Fdomain%3Dbillcypher.fun" style="padding: 5px 30px">billcypher.fun</a></li><li style="text-align: center"><a href="https://namecheap.pxf.io/c/1208915/386170/5618?u=https%3A%2F%2Fwww.namecheap.com%2Fdomains%2Fregistration%2Fresults.aspx%3Fdomain%3Dbillcypher.space" style="padding: 5px 30px">billcypher.space</a></li><li style="text-align: center"><a href="https://namecheap.pxf.io/c/1208915/386170/5618?u=https%3A%2F%2Fwww.namecheap.com%2Fdomains%2Fregistration%2Fresults.aspx%3Fdomain%3Dbillcypher.life" style="padding: 5px 30px">billcypher.life</a></li><li style="text-align: center"><a href="https://namecheap.pxf.io/c/1208915/386170/5618?u=https%3A%2F%2Fwww.namecheap.com%2Fdomains%2Fregistration%2Fresults.aspx%3Fdomain%3Dbillcypher.xyz" style="padding: 5px 30px">billcypher.xyz</a></li><li style="text-align: center"><a href="https://namecheap.pxf.io/c/1208915/386170/5618?u=https%3A%2F%2Fwww.namecheap.com%2Fdomains%2Fregistration%2Fresults.aspx%3Fdomain%3Dbillcypher.net" style="padding: 5px 30px">billcypher.net</a></li><li style="text-align: center"><a href="https://namecheap.pxf.io/c/1208915/386170/5618?u=https%3A%2F%2Fwww.namecheap.com%2Fdomains%2Fregistration%2Fresults.aspx%3Fdomain%3Dbillcypher.info" style="padding: 5px 30px">billcypher.info</a></li></ul>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 463 463"><g fill="none" stroke="#9F5ED8" stroke-width="2"><path d="M216 439c-6 0-8-94-3-209s13-209 20-209"/><path d="M184 436c-30-6-37-103-14-217s65-200 95-194"/><path d="M149 425c-49-19-56-122-14-229S251 16 300 35"/><path d="M109 405c-59-39-56-150 8-246S280 16 340 55"/><path d="M65 366c-55-65-28-178 60-253s204-83 259-18"/><path d="M26 297C-4 209 61 108 171 71s222 4 252 92"/><path d="M17 205C28 111 130 46 245 60s199 102 187 196"/><path d="M45 122c46-76 164-90 263-31s142 170 96 247"/><path d="M89 71c60-51 169-21 244 67s87 201 27 252"/><path d="M131 43c56-28 143 34 194 137s49 210-7 238"/><path d="M168 29c40-12 98 70 129 181s24 211-16 222"/><path d="M201 22c18-2 43 90 56 205s9 209-9 211m9-1c-21 3-44 3-65 0m138-26a233 233 0 0 1-211 0"/><path d="M370 380c-47 47-151 62-232 35-24-9-45-20-59-35"/><path d="M399 346c-37 55-145 83-241 62-50-11-89-33-108-62"/><path d="M418 309c-25 62-132 100-239 85-74-9-131-43-148-85"/><path d="M430 270c-13 65-115 112-228 105-96-6-172-50-183-105"/><path d="M434 230c0 67-94 120-209 120S15 297 15 230"/><path d="M430 190c13 65-69 124-183 131S32 282 19 217c-2-9-2-18 0-27"/><path d="M418 151c25 62-41 123-148 137S56 265 31 203c-7-17-7-35 0-52"/><path d="M399 114c37 55-12 117-108 138s-204-6-241-61a65 65 0 0 1 0-77"/><path d="M370 80c48 46 21 106-59 133s-185 12-232-34c-32-31-32-69 0-99"/><path d="M330 49c58 34 57 88-2 121s-152 32-209-2c-57-33-57-85 0-119"/><path d="M257 23c66 11 104 50 86 87s-86 60-151 49-104-49-86-86c11-24 44-43 86-50"/><path d="M320 77c0 31-43 55-95 55s-95-24-95-55 42-54 95-54 95 24 95 54z"/><path d="M289 67c0 21-29 37-64 37s-65-16-65-37 29-37 65-37 64 17 64 37z"/><path d="M257 61c0 10-14 19-32 19s-33-9-33-19 14-19 33-19 32 8 32 19z"/><path d="M434 230a209 209 0 1 1-419 0 209 209 0 0 1 419 0z"/></g></svg></div><div class="panel trending-words-panel" id="columnist"><h4><span class="underline">Trending RN - May 01, 2019</span></h4><ul class="no-bullet alphabetical"><li>&nbsp;&nbsp;1.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=Sketti">Sketti</a></li><li>&nbsp;&nbsp;2.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=orgasmic%20sounds">orgasmic sounds</a></li><li>&nbsp;&nbsp;3.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=boner">boner</a></li><li>&nbsp;&nbsp;4.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=Love">Love</a></li><li>&nbsp;&nbsp;5.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=Pepper%20Grinder">Pepper Grinder</a></li><li>&nbsp;&nbsp;6.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=Beanjuice">Beanjuice</a></li><li>&nbsp;&nbsp;7.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=DIRTY%20AMY">DIRTY AMY</a></li><li>&nbsp;&nbsp;8.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=momba">momba</a></li><li>&nbsp;&nbsp;9.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=woke%20millennials">woke millennials</a></li><li>10.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=Sex">Sex</a></li><li>11.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=Dirty%20Chloe">Dirty Chloe</a></li><li>12.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=Scaley">Scaley</a></li><li>13.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=long%20back">long back</a></li><li>14.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=Sus">Sus</a></li><li>15.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=titty%20day">titty day</a></li><li>16.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=Chris">Chris</a></li><li>17.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=APRIL%2030TH">APRIL 30TH</a></li><li>18.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=Winding%20You%20Up">Winding You Up</a></li><li>19.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=Mudbone">Mudbone</a></li><li>20.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=fake%20deep">fake deep</a></li><li>21.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=Cleveland%20Hot%20Waffle">Cleveland Hot Waffle</a></li><li>22.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=creap">creap</a></li><li>23.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=Etika">Etika</a></li><li>24.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=Raptor">Raptor</a></li><li>25.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=left%20overs">left overs</a></li><li>26.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=Infrastructure%20week">Infrastructure week</a></li><li>27.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=Spitting-feathers">Spitting-feathers</a></li><li>28.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=wind%20up">wind up</a></li><li>29.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=pip%20pip%20the%20diddly%20do">pip pip the diddly do</a></li><li>30.&nbsp;&nbsp;<a class="trending-link" href="/define.php?term=to%20go%20box">to go box</a></li></ul></div></div><div class="hide-for-large-up"><div class="copyright">&copy; 1999-2019 Urban Dictionary &reg;<br><a href="http://ads.urbandictionary.com/">advertise</a>&nbsp;<a href="http://about.urbandictionary.com/tos">terms of service</a><br><a href="http://about.urbandictionary.com/privacy">privacy</a>&nbsp;<a href="http://about.urbandictionary.com/dmca">dmca</a>&nbsp;<a href="/remove.php">remove</a><br><a href="http://help.urbandictionary.com/">help</a></div></div></div><div class="large-4 columns show-for-large-up" data-equalizer-watch><div style="position: sticky; top: 10px"><div class="dfp-panel panel-margin"><div data-ad-slot="UD_ROS_300x600_ATF_Flex" id="UD_ROS_300x600_ATF_Flex" style="text-align: center"><script type="text/javascript">dfpTry(function() { googletag.display('UD_ROS_300x600_ATF_Flex')})</script><span class="bt-uid-tg" data-uid="5c3105a2d4-257" style="display: none !important"></span></div></div><div class="panel"><h4><div class="underline">Activity</div></h4><div class="monthly-activity" data-monthly-activity="[[&quot;x&quot;,&quot;2017-02-01&quot;,&quot;2017-03-01&quot;,&quot;2017-05-01&quot;,&quot;2017-08-01&quot;,&quot;2017-12-01&quot;,&quot;2018-02-01&quot;,&quot;2018-08-01&quot;,&quot;2018-12-01&quot;,&quot;2019-04-01&quot;],[&quot;Activity&quot;,5.0623015E-7,6.4922943E-7,5.599706E-7,1.5670788E-6,6.5263885E-7,1.984515E-6,8.245573E-7,7.4711613E-7,6.4954975E-7]]" height="200" id="chart"></div></div><div class="panel"><h4><div class="underline">Alphabetical list</div></h4><ul class="no-bullet alphabetical"><li><a class="alphabetical-link" href="/define.php?term=Bill%20Cosby%20pills">Bill Cosby pills</a></li><li><a class="alphabetical-link" href="/define.php?term=Bill%20Cosby%20Shot">Bill Cosby Shot</a></li><li><a class="alphabetical-link" href="/define.php?term=bill%20cosby%20sleeper">bill cosby sleeper</a></li><li><a class="alphabetical-link" href="/define.php?term=Bill%20Cosby%27s%20Love%20Potion">Bill Cosby&apos;s Love Potion</a></li><li><a class="alphabetical-link" href="/define.php?term=bill%20cosbys%20pudding">bill cosbys pudding</a></li><li><a class="alphabetical-link" href="/define.php?term=Bill%20Cosby%27s%20Sunday%20Sweater">Bill Cosby&apos;s Sunday Sweater</a></li><li><a class="alphabetical-link" href="/define.php?term=Bill%20Cosby%20Surprise">Bill Cosby Surprise</a></li><li><a class="alphabetical-link" href="/define.php?term=bill%20cosby%20sweater">bill cosby sweater</a></li><li><a class="alphabetical-link" href="/define.php?term=bill%20cosby%E2%80%99d">bill cosby’d</a></li><li><a class="alphabetical-link" href="/define.php?term=bill%20cosmo">bill cosmo</a></li><li><a class="alphabetical-link" href="/define.php?term=Bill%20Cosmopolitan">Bill Cosmopolitan</a></li><li><a class="alphabetical-link" href="/define.php?term=Bill%20Cowher">Bill Cowher</a></li><li><a class="alphabetical-link" href="/define.php?term=Bill%20Cozby">Bill Cozby</a></li><li><a class="alphabetical-link" href="/define.php?term=Bill%20Crothers">Bill Crothers</a></li><li><a class="alphabetical-link" href="/define.php?term=Bill%20Curtis">Bill Curtis</a></li><li><a class="alphabetical-link" href="/define.php?term=Bill%20Cypher">Bill Cypher</a></li><li><a class="alphabetical-link" href="/define.php?term=Bill%27d">Bill&apos;d</a></li><li><a class="alphabetical-link" href="/define.php?term=Bill-dad">Bill-dad</a></li><li><a class="alphabetical-link" href="/define.php?term=billdanger">billdanger</a></li><li><a class="alphabetical-link" href="/define.php?term=bill%20dauterive">bill dauterive</a></li><li><a class="alphabetical-link" href="/define.php?term=BillDavis">BillDavis</a></li><li><a class="alphabetical-link" href="/define.php?term=billday">billday</a></li><li><a class="alphabetical-link" href="/define.php?term=Bill%20deBlasio">Bill deBlasio</a></li><li><a class="alphabetical-link" href="/define.php?term=billdecker">billdecker</a></li><li><a class="alphabetical-link" href="/define.php?term=Bill%20Dee">Bill Dee</a></li><li><a class="alphabetical-link" href="/define.php?term=Bill%20Demott">Bill Demott</a></li><li><a class="alphabetical-link" href="/define.php?term=Bill%20Denbrough">Bill Denbrough</a></li><li><a class="alphabetical-link" href="/define.php?term=bill%20denbrough%20x%20henry%20bowers">bill denbrough x henry bowers</a></li><li><a class="alphabetical-link" href="/define.php?term=bill%20digger">bill digger</a></li><li><a class="alphabetical-link" href="/define.php?term=Billdike">Billdike</a></li></ul></div><div class="copyright">&copy; 1999-2019 Urban Dictionary &reg;<br><a href="http://ads.urbandictionary.com/">advertise</a>&nbsp;<a href="http://about.urbandictionary.com/tos">terms of service</a><br><a href="http://about.urbandictionary.com/privacy">privacy</a>&nbsp;<a href="http://about.urbandictionary.com/dmca">dmca</a>&nbsp;<a href="/remove.php">remove</a><br><a href="http://help.urbandictionary.com/">help</a></div></div></div></div></div></div></div><div id="prebid-debug"></div><script src="https://cdn.jsdelivr.net/combine/npm/jquery@2.2.4,npm/autocomplete.js@0.28.1/dist/autocomplete.jquery.min.js,npm/qtip2@3.0.3,npm/nprogress@0.1.6,npm/cookieconsent@3.0.6,npm/slick-carousel@1.4.0,npm/selectize@0.12.2/dist/js/standalone/selectize.min.js,npm/c3@0.4.11,npm/d3@3.5.6/d3.min.js" type="text/javascript"></script><script src="//twemoji.maxcdn.com/2/twemoji.min.js" type="text/javascript"></script><script src="https://d2gatte9o95jao.cloudfront.net/assets/application-aeb2e938dcd5705d276543c11ef1311f1a09a1654171713e9fe61a0b15ad0c13.js" type="text/javascript"></script><script type="text/javascript">//<![CDATA[
-function getParameterByName(name, url) {
-    if (!url) url = window.location.href;
-    name = name.replace(/[\[\]]/g, "\\$&");
-    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
-        results = regex.exec(url);
-    if (!results) return null;
-    if (!results[2]) return '';
-    return decodeURIComponent(results[2].replace(/\+/g, " "));
-}
+<noscript><img height="1" alt="facebook" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=207216026560855&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- AppYuser -->
+<script> var QWA={}; QWA.startTime=new Date().getTime(); </script> 
+<!-- End AppYuser -->	</head>
+	<body>
+    <ul id="evitement">
+       <li>
+          <a href="/en/academics/advanced-masters/programs/advanced-master-helicopter-aircraft-and-drone-architecture-hada/#content">Go to the content</a>
+       </li>
+       <li>
+          <a href="/en/academics/advanced-masters/programs/advanced-master-helicopter-aircraft-and-drone-architecture-hada/#main-menu">Go to the menu</a>
+       </li>
+    </ul>
+    <div class="page" itemscope itemtype="http://schema.org/WebPage">
+        <div class="container">
+            <div class="WrapHeaderContent">
+                <div class="WrapHeaderNav">
+                    <div id="header">
+                        <header role="banner" class="Header row full align-justify collapse">
 
-var param = getParameterByName("test", window.location.href);
-if (param) {
-    var elements = document.getElementsByTagName('a');
-    for (var i = 0; i < elements.length; i++) {
-        var href = elements[i].getAttribute('href');
-        if (href && (href.indexOf('/define.php') > -1 || href.indexOf('/category.php') > -1)) {
-            if (href.indexOf('?') > -1) {
-                elements[i].setAttribute('href', href + '&test=' + encodeURIComponent(param));
-            } else {
-                elements[i].setAttribute('href', href + '?test=' + encodeURIComponent(param));
-            }
-        }
-    }
+    <nav class="NavMobile"><ul>
+         
+            <li><span class="NavMobile-elem toggleMenu js-pop-menu"><button>Menu</button></span></li>
+        
 
-    var elements = document.getElementsByClassName(param);
-    for (var i = 0; i < elements.length; i++) {
-        elements[i].classList.remove('hide');
-    }
-}
+        <li class="Header-lang">
+            <ul class="SelectLang">
+                <li class="SelectLang-wrapLink"><a href="fr/" rel="alternate" lang="fr" title="Fran&#231;ais" class="SelectLang-link">Fr</a></li>
+                <li class="SelectLang-wrapLink  active"><a href="en/" rel="alternate" lang="en" title="English" class="SelectLang-link  active">En</a></li>
+                
+            </ul>
+        </li>
+        
+        
 
-//]]></script><script type="text/javascript">//<![CDATA[
-window.addEventListener("load", function () {
-    window.cookieconsent.initialise({
-        "palette": {
-            "popup": {
-                "background": "#171B2B",
-                "text": "#FFFFFF"
-            },
-            "button": {
-                "background": "#ECFF0B",
-                "text": "#171B2B"
-            }
-        },
-        "cookie": {
-            "name": "cookieconsent-2"
-        },
-        "layouts": {
-            "ud": "{{message}}{{compliance}}{{close}}"
-        },
-        "layout": "ud",
-        "theme": "classic",
-        "content": {
-            "message": "Urban Dictionary and our advertising partners set cookies on your computer to improve our site and the advertisements you see. To learn more about what data we collect and your privacy options, see our <a href='https://about.urbandictionary.com/privacy'>privacy policy</a> and <a href='https://about.urbandictionary.com/tos'>terms of service</a>. Your use of Urban Dictionary is subject to our <a href='https://about.urbandictionary.com/tos'>terms of service</a>.",
-            "dismiss": "I understand",
-            "close": "&times;"
-        }
-    })
-});
+         
+            <li><span class="NavMobile-elem toggleSocial js-toggle-social"><button>Social</button></span></li>
+            <li><span class="NavMobile-elem toggleSearch js-pop-search"><button>Search</button></span></li>
+        
+    </ul></nav>
 
-//]]></script><script type="text/javascript">//<![CDATA[
-var chart = document.getElementById('chart');
+    <div class="Header-left medium-5 columns">
+        <a href="https://www.univ-toulouse.fr/" target="_blank"><img src="plugins/supaero/assets/dist/img/logo-universite-top.png" alt="Université Fédérale Toulouse Midi-Pyrénées"></a>
+        <a href="http://www.groupe-isae.fr/" target="_blank"><img src="plugins/supaero/assets/dist/img/logo-groupe-isae-top.png" alt="Groupe ISAE"></a>
+    </div>
 
-if (chart) {
-    var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-    c3.generate({
-        size: {
-            height: 200
-        },
-        padding: {
-            left: 10,
-            right: 10
-        },
-        data: {
-            x: 'x',
-            columns: JSON.parse(chart.getAttribute('data-monthly-activity')),
-            type: 'bar'
-        },
-        tooltip: {
-            contents: function (data, defaultTitleFormat, defaultValueFormat, color) {
-                return "<table class=\"c3-tooltip\"><tr><td>" + months[data[0].x.getMonth()] + " " + data[0].x.getFullYear() + "</td></tr></table>";
-            }
-        },
-        grid: {
-            x: {
-                show: false
-            }
-        },
-        axis: {
-            x: {
-                type: 'timeseries',
-                tick: {
-                    count: 2,
-                    show: false,
-                    format: "%Y",
-                    outer: false
-                }
-            },
-            y: {
-                show: false
-            }
-        },
-        legend: {
-            show: false
-        },
-        bar: {
-            width: 1
-        }
-    });
-}
-//]]></script><script type="text/javascript">
-_qevents.push( { qacct:"p-77H27_lnOeCCI"} );
-</script>
-<noscript>
-<div style="display: none;">
-<img src="https://pixel.quantserve.com/pixel/p-77H27_lnOeCCI.gif" height="1" width="1" alt="Quantcast"/>
+    <a class="Header-logo Logo medium-2 columns" rel="start home" href="https://www.isae-supaero.fr/en/" title="ISAE-SUPAERO - Home">
+        <img class='spip_logo spip_logos' alt='ISAE-SUPAERO' src="local/cache-vignettes/L190xH102/siteon0-e5814.png?1553522386" width='190' height='102' />
+        <small class="Logo-slogan">Excellence with passion</small>
+    </a>
+
+
+    <div class="Header-right medium-5 columns">
+        <nav class="Header-extraNavigation" role="navigation" aria-label="Secondary menu">
+            <ul>
+        
+
+        <li class="Header-lang">
+            <ul class="SelectLang">
+                <li class="SelectLang-wrapLink"><a href="fr/" rel="alternate" lang="fr" title="Fran&#231;ais" class="SelectLang-link">Fr</a></li>
+                <li class="SelectLang-wrapLink  active"><a href="en/academics/advanced-masters/programs/advanced-master-helicopter-aircraft-and-drone-architecture-hada/" rel="alternate" lang="en" title="English" class="SelectLang-link  active">En</a></li>
+                
+            </ul>
+        </li>
+        
+        <li class="menu-entree item annuaire">
+		<a href="en/directory/">Directory</a>
+         
+            </li>
+        
+        <li class="menu-entree item contact">
+		<a href="en/contact-isae-supaero/">Contact</a>
+         
+            </li>
+        
+        
+
+        
+    </ul>        </nav>
+
+        <ul class="Social Header-social">
+            <li><a href="https://www.facebook.com/isae.supaero" title="Facebook" rel="external" target="_blank" class="Social-elem facebook has-tip" data-tooltip aria-haspopup="true" data-v-offset="15">Facebook</a></li>
+        
+        
+    
+
+    
+
+     
+         
+            <li><a href="https://twitter.com/ISAE_officiel" title="Twitter" rel="external" target="_blank" class="Social-elem twitter has-tip" data-tooltip aria-haspopup="true" data-v-offset="15">Twitter</a></li>
+        
+        
+    
+
+    
+
+     
+         
+            <li><a href="https://www.linkedin.com/school/479301/" title="Linkedin" rel="external" target="_blank" class="Social-elem linkedin has-tip" data-tooltip aria-haspopup="true" data-v-offset="15">Linkedin</a></li>
+        
+        
+    
+
+    
+
+    
+
+    
+
+     
+         
+            <li><a href="http://www.youtube.com/ISAEcom" title="Youtube" rel="external" target="_blank" class="Social-elem youtube has-tip" data-tooltip aria-haspopup="true" data-v-offset="15">Youtube</a></li>
+        
+        
+    
+
+    
+
+     
+        
+         
+            <li class="has-tip" data-tooltip aria-haspopup="true" data-v-offset="15" title="RSS"><a href="en/flux-rss.xml" title="RSS" rel="external" target="_blank" class="Social-elem rss" data-toggle="js-pop-rss">RSS</a></li>        </ul>
+    </div>
+</header>                    </div>
+                    <nav id="main-menu" class="MainNavigation nb-6" role="navigation" aria-label="Main menu" itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <button class="MainNavigation-btnMenu js-pop-menu">Menu</button>
+    <button class="MainNavigation-btnSearch js-pop-search">Search</button>
+    <button class="MainNavigation-btnBack js-back-menu">Return</button>
+
+    
+
+    
+        <ul>
+            <li class="blank"></li>
+            <li class="hide-for-large">
+                <a href="https://www.isae-supaero.fr/en/" class="MainNavigation-link">Home</a>
+            </li>
+            
+            <li>
+                <a href="en/about-isae-supaero/the-institute/" class="MainNavigation-link">About ISAE-SUPAERO</a>
+                <div class="MainNavigation-subMenu SubMenu">
+        
+        <p class="SubMenu-title">About ISAE-SUPAERO</p>
+        
+
+        <div class="row full align-top">
+            <div class="columns small-12 large-9">
+                <ul>
+                    
+                    <li class="menu-entree item rub78">
+            <a class="SubMenu-link" href="en/about-isae-supaero/isae-supaero-78/isae-supaero/">ISAE-SUPAERO</a>
+                
+
+
+            
+            
+
+            
+                
+                
+
+                
+
+                    
+                    
+                        
+                             
+
+                        
+                         
+                            
+
+                        
+                            
+                                <ul class="menu-liste menu-items">
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/isae-supaero-78/isae-supaero/">ISAE-SUPAERO</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/isae-supaero-78/isae-supaero-key-figures/">Key figures</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/isae-supaero-78/a-few-facts/">A few facts</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/isae-supaero-78/governance/">Governance</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/isae-supaero-78/hisis-the-illustrious-history-of-the-institute/">Hisis - The illustrious history of the Institute </a>
+                                </li>
+                            
+                                
+                                </ul>
+                            
+                        
+                    
+                    
+
+                
+            
+        </li>
+    
+        
+        
+
+        <li class="menu-entree item rub84">
+            <div class="SubMenu-link">Our network</div>
+            
+
+
+            
+            
+
+            
+                
+                    
+
+                
+                    <ul class="menu-liste menu-items">
+                
+                    
+                    
+                    <li class="menu-entree item rub86">
+
+                        
+                  
+                        
+                        
+                        
+                        <a href="en/about-isae-supaero/our-network/the-isae-group-86/the-isae-group/" class="SubMenu-link ">The ISAE Group</a>
+                            
+
+                        
+                        
+
+                    
+                    
+                        
+                         
+
+                        
+                         
+                            
+
+                        
+                            
+                        
+                    
+                    
+
+                
+                        
+                    </li>
+                
+                    
+                    
+                    <li class="menu-entree item rub101">
+
+                        
+                  
+                        
+                        
+                        
+                        <a href="en/about-isae-supaero/our-network/isae-supaero-ensica-alumni-association/isae-supaero-ensica-alumni-association/" class="SubMenu-link ">ISAE-SUPAERO-ENSICA alumni association</a>
+                            
+
+                        
+                        
+
+                    
+                    
+                        
+                         
+
+                        
+                         
+                            
+
+                        
+                            
+                        
+                    
+                    
+
+                
+                        
+                    </li>
+                
+                    
+                    
+                    <li class="menu-entree item rub87">
+
+                        
+                  
+                        
+                        
+                        
+                        <a href="en/about-isae-supaero/our-network/foundation/presentation/" class="SubMenu-link ">The ISAE-SUPAERO foundation</a>
+                            
+
+                        
+                        
+
+                    
+                    
+                        
+                         
+
+                        
+                         
+                            
+
+                        
+                            
+                        
+                    
+                    
+
+                
+                        
+                    </li>
+                
+                    
+                    
+                    <li class="menu-entree item rub99">
+
+                        
+                  
+                        
+                        
+                        
+                        <a href="en/about-isae-supaero/our-network/friends-of-isae-us/presentation/" class="SubMenu-link ">Friends of ISAE - US</a>
+                            
+
+                        
+                        
+
+                    
+                    
+                        
+                         
+
+                        
+                         
+                            
+
+                        
+                            
+                        
+                    
+                    
+
+                
+                        
+                    </li>
+                
+                    
+                    
+
+                    
+
+                    
+                        
+                        
+
+                        
+                         
+                            
+
+                        
+                            
+                            
+                                
+                            
+                            
+                        
+                    
+                    
+                    </ul>
+                
+            
+        </li>
+    
+        
+        
+
+        <li class="menu-entree item rub82">
+            <a class="SubMenu-link" href="en/about-isae-supaero/international/isae-supaero-an-institute-with-an-international-vocation/">International</a>
+                
+
+
+            
+            
+
+            
+                
+                
+
+                
+
+                    
+                    
+                        
+                            
+
+                        
+                         
+                            
+
+                        
+                            
+                                <ul class="menu-liste menu-items">
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/international/isae-supaero-an-institute-with-an-international-vocation/">ISAE-SUPAERO, an institute with an international vocation</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/international/active-engagement-in-international-networks/">International networks</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/international/renowned-partner-universities-all-over-the-world/">Partner universities</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/international/admissions-process-for-international-students/">Admissions process for international students</a>
+                                </li>
+                            
+                                
+                                </ul>
+                            
+                        
+                    
+                    
+
+                
+            
+        </li>
+    
+        
+        
+
+        <li class="menu-entree item rub85">
+            <a class="SubMenu-link" href="en/about-isae-supaero/companies/isae-supaero-partner-companies/">Companies</a>
+                
+
+
+            
+            
+
+            
+                
+                
+
+                
+
+                    
+                    
+                        
+                             
+
+                        
+                         
+                            
+
+                        
+                            
+                                <ul class="menu-liste menu-items">
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/companies/isae-supaero-partner-companies/">ISAE-SUPAERO partner companies</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/companies/become-an-isae-supaero-partner/">Become an ISAE-SUPAERO partner</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/companies/engage-with-and-recruit-our-students/">Engage with and recruit our students</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/companies/support-isae-supaero-through-the-apprenticeship-tax/">Support ISAE-SUPAERO through the Apprenticeship Tax</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/companies/training-executives/">Executive training</a>
+                                </li>
+                            
+                                
+                                </ul>
+                            
+                        
+                    
+                    
+
+                
+            
+        </li>
+    
+        
+        
+
+        <li class="menu-entree item rub68">
+            <a class="SubMenu-link" href="en/about-isae-supaero/the-ose-isae-supaero-diversity-program/the-ose-l-isae-supaero-diversity-program/">The OSE L’ISAE-SUPAERO diversity program</a>
+                
+
+
+            
+            
+
+            
+                
+                
+
+                
+
+                    
+                    
+                        
+                            
+
+                        
+                         
+                            
+
+                        
+                            
+                                <ul class="menu-liste menu-items">
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/the-ose-isae-supaero-diversity-program/the-ose-l-isae-supaero-diversity-program/">The OSE L’ISAE-SUPAERO diversity program</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/the-ose-isae-supaero-diversity-program/actions/">OSE L’ISAE-SUPAERO diversity program – actions</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/the-ose-isae-supaero-diversity-program/mentors/">OSE l’ISAE-SUPAERO diversity program - mentors</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/about-isae-supaero/the-ose-isae-supaero-diversity-program/partners/">OSE l&#8217;ISAE-SUPAERO diversity program - partners</a>
+                                </li>
+                            
+                                
+                                </ul>
+                            
+                        
+                    
+                    
+
+                
+            
+        </li>
+    
+
+   
+   
+      
+             
+
+      
+       
+         
+      
+
+         
+        
+            
+                <li class="hide-for-large show-for-touch menu-entree item">
+                    <a class="SubMenu-link" href="en/about-isae-supaero/the-institute/">The Institute</a>
+                </li>
+            
+        
+
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/about-isae-supaero/sponsorship-relations-with-the-isae-supaero-foundation/">Sponsorship - Relations with the ISAE-SUPAERO Foundation</a>
+            </li>
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/about-isae-supaero/news/">News</a>
+            </li>
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/about-isae-supaero/videos/">Videos</a>
+            </li>
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/about-isae-supaero/brochures/">Brochures</a>
+            </li>
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/about-isae-supaero/open-positions/">Open positions</a>
+            </li>
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/about-isae-supaero/access-to-isae-supaero-campus/">Access to campus</a>
+            </li>
+                    
+                </ul>
+
+            </div>
+            
+        </div>
+    </div>            </li>
+            
+            <li>
+                <a href="en/admissions-en/admissions-for-all-programs/" class="MainNavigation-link">Admissions</a>
+                <div class="MainNavigation-subMenu SubMenu">
+        
+        <p class="SubMenu-title">Admissions</p>
+        
+
+        <div class="row full align-top">
+            <div class="columns small-12 large-9">
+                <ul>
+                    
+                    <li class="hide-for-large show-for-touch menu-entree item">
+                    <a class="SubMenu-link" href="en/admissions-en/admissions-for-all-programs/">Admissions for all programs</a>
+                </li>
+            
+        
+
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/admissions-en/admissions-process-for-international-students/">Admissions process for international students</a>
+            </li>
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/admissions-en/welcoming-international-students/">Welcoming international students</a>
+            </li>
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/admissions-en/engage-in-excellence-with-passion-choose-isae-supaero/">Choose ISAE-SUPAERO</a>
+            </li>
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/admissions-en/studying-at-isae-supaero-an-outstanding-international-experience/">Studying at ISAE-SUPAERO</a>
+            </li>
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/admissions-en/ingenieur-isae-supaero-msc-admissions/">"Ingénieur ISAE-SUPAERO" (MSC) - admissions</a>
+            </li>
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/admissions-en/masters-admission/">Masters - admissions</a>
+            </li>
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/admissions-en/advanced-masters-admission/">Advanced masters - admissions</a>
+            </li>
+                    
+                </ul>
+
+            </div>
+            
+        </div>
+    </div>            </li>
+            
+            <li>
+                <a href="en/academics/academics/" class="MainNavigation-link">Academics</a>
+                <div class="MainNavigation-subMenu SubMenu">
+        
+        <p class="SubMenu-title">Academics</p>
+        
+
+        <div class="row full align-top">
+            <div class="columns small-12 large-9">
+                <ul>
+                    
+                    <li class="menu-entree item rub75">
+            <a class="SubMenu-link" href="en/academics/ingenieur-isae-supaero-msc/presentation/">"Ingénieur ISAE-SUPAERO" (MSC)</a>
+                
+
+
+            
+            
+
+            
+                
+                
+
+                
+
+                    
+                    
+                        
+                               
+
+                        
+                         
+                            
+
+                        
+                            
+                                <ul class="menu-liste menu-items">
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/ingenieur-isae-supaero-msc/presentation/">"Ingénieur ISAE-SUPAERO" (MSC)</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/ingenieur-isae-supaero-msc/engineering-program/">ENGINEERING PROGRAM</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/ingenieur-isae-supaero-msc/admissions/">Admissions</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/ingenieur-isae-supaero-msc/double-degree/">DUAL COMPETENCE PROGRAMS</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/ingenieur-isae-supaero-msc/an-outstanding-living-and-learning-environment/">An outstanding living and learning environment</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/ingenieur-isae-supaero-msc/internships-and-careers/">Internships and careers</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/ingenieur-isae-supaero-msc/practical-information/">Practical information</a>
+                                </li>
+                            
+                                
+                                </ul>
+                            
+                        
+                    
+                    
+
+                
+            
+        </li>
+    
+        
+        
+
+        <li class="menu-entree item rub50">
+            <a class="SubMenu-link" href="en/academics/master-s-degree-msc/isae-supaero-master-s-degree-msc/">Master&#8217;s degree (MSc)</a>
+                
+
+
+            
+            
+
+            
+                
+                
+
+                
+
+                    
+                    
+                        
+                              
+
+                        
+                         
+                            
+
+                        
+                            
+                                <ul class="menu-liste menu-items">
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/master-s-degree-msc/isae-supaero-master-s-degree-msc/">ISAE-SUPAERO Master&#8217;s degree (MSc)</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/master-s-degree-msc/a-word-from-the-dean-of-masters-programs/">A word from the Dean of Studies</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/master-s-degree-msc/admissions/">Admissions</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/master-s-degree-msc/engaging-careers-diversity-of-paths/">Careers</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/master-s-degree-msc/financing/">Financing</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/master-s-degree-msc/practical-information/">Practical information</a>
+                                </li>
+                            
+                                
+                                </ul>
+                            
+                        
+                    
+                    
+
+                
+            
+        </li>
+    
+        
+        
+
+        <li class="menu-entree item rub49">
+            <a class="SubMenu-link" href="en/academics/advanced-masters/presentation/">Advanced masters</a>
+                
+
+
+            
+            
+
+            
+                
+                 
+
+                
+                    <ul class="menu-liste menu-items">
+                
+                    
+                    
+                    <li class="menu-entree item rub83">
+
+                        
+                  
+                        
+                        
+                        
+                        <a href="en/academics/advanced-masters/programs/programs/" class="SubMenu-link ">Programs</a>
+                            
+
+                        
+                        
+
+                    
+                    
+                        
+                                       
+
+                        
+                         
+                            
+
+                        
+                            
+                                <ul class="menu-liste menu-items">
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/advanced-masters/programs/programs/">Programs</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/advanced-masters/programs/advanced-master-aeronautical-and-space-structures-aes/">AES advanced master</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/advanced-masters/programs/advanced-master-systems-engineering-sen/">SEN advanced master</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/advanced-masters/programs/advanced-master-systemes-de-propulsion-aerospatiale-spa/">SPA advanced master</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/advanced-masters/programs/advanced-master-space-applications-services-spaps/">SPAPS advanced master</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/advanced-masters/programs/advanced-master-aeronautical-engineering-tas-aero/">TAS Aero advanced master</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/advanced-masters/programs/advanced-master-space-systems-engineeering-tas-astro/">TAS Astro advanced master</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/advanced-masters/programs/advanced-master-advanced-manufacturing-processes-for-aeronautical-structures/">AMPAS advanced master</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/advanced-masters/programs/advanced-master-aeronautical-maintenance-and-support-ams/">AMS-E&amp;M advanced master</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/advanced-masters/programs/advanced-master-aerospace-project-management-apm/">APM advanced master</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/advanced-masters/programs/advanced-master-aviation-safety-aircraft-airworthiness-asaa/">ASAA advanced master</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/advanced-masters/programs/advanced-master-embedded-systems-ems/">EMS advanced master</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/advanced-masters/programs/advanced-master-helicopter-aircraft-and-drone-architecture-hada/">HADA advanced master</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/advanced-masters/programs/advanced-master-experimental-flight-test-engineering-ievex/">IEVex advanced master</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/advanced-masters/programs/advanced-master-artificial-intelligence-business-transformation-aibt/">AIBT Advanced master</a>
+                                </li>
+                            
+                                
+                                </ul>
+                            
+                        
+                    
+                    
+
+                
+                        
+                    </li>
+                
+                    
+                    
+
+                    
+
+                    
+                        
+                              
+
+                        
+                         
+                            
+
+                        
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/advanced-masters/presentation/">Advanced Master’s programs</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                    <a class="SubMenu-link" href="en/academics/advanced-masters/a-word-from-the-director-of-master-s-programs-337/">A word from the Dean of Studies</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                    <a class="SubMenu-link" href="en/academics/advanced-masters/admissions/">Admissions</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                    <a class="SubMenu-link" href="en/academics/advanced-masters/meaningful-diverse-careers/">Careers</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                    <a class="SubMenu-link" href="en/academics/advanced-masters/financing/">Financing</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                    <a class="SubMenu-link" href="en/academics/advanced-masters/practical-information/">Practical information</a>
+                                </li>
+                            
+                            
+                            
+                        
+                    
+                    
+                    </ul>
+                
+            
+        </li>
+    
+        
+        
+
+        <li class="menu-entree item rub54">
+            <a class="SubMenu-link" href="en/academics/continuing-education/executive-education-programs/">Continuing education</a>
+                
+
+
+            
+            
+
+            
+                
+                
+
+                
+
+                    
+                    
+                        
+                                
+
+                        
+                         
+                            
+
+                        
+                            
+                                <ul class="menu-liste menu-items">
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/continuing-education/executive-education-programs/">Executive education programs</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/continuing-education/advanced-master-s-programs/">Advanced Master’s Programs</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/continuing-education/post-graduate-diplomas/">Post Graduate Diplomas</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/continuing-education/certificates-of-advanced-studies/">Certificates of Advanced Studies</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/continuing-education/isae-supaero-short-courses/">ISAE-SUPAERO short courses</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/continuing-education/preparation-for-pmi-certification/">Preparation for PMI certification</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/continuing-education/eurosae/">EUROSAE</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/continuing-education/you-are-a-professional/">You are a professional</a>
+                                </li>
+                            
+                                
+                                </ul>
+                            
+                        
+                    
+                    
+
+                
+            
+        </li>
+    
+        
+        
+
+        <li class="menu-entree item rub111">
+            <a class="SubMenu-link" href="en/academics/toulouse-graduate-school-of-aerospace-engineering/toulouse-graduate-school-of-aerospace-engineering/">Toulouse Graduate School of Aerospace Engineering</a>
+                
+
+
+            
+            
+
+            
+                
+                
+
+                
+
+                    
+                    
+                        
+                           
+
+                        
+                         
+                            
+
+                        
+                            
+                                <ul class="menu-liste menu-items">
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/toulouse-graduate-school-of-aerospace-engineering/toulouse-graduate-school-of-aerospace-engineering/">Toulouse graduate School of Aerospace Engineering</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/toulouse-graduate-school-of-aerospace-engineering/scholarship/">SCHOLARSHIP</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/academics/toulouse-graduate-school-of-aerospace-engineering/phd-funding/">PhD FUNDING</a>
+                                </li>
+                            
+                                
+                                </ul>
+                            
+                        
+                    
+                    
+
+                
+            
+        </li>
+    
+
+   
+   
+      
+       
+
+      
+       
+         
+      
+
+         
+        
+            
+                <li class="hide-for-large show-for-touch menu-entree item">
+                    <a class="SubMenu-link" href="en/academics/academics/">Academics</a>
+                </li>
+                    
+                </ul>
+
+            </div>
+            
+        </div>
+    </div>            </li>
+            
+            <li>
+                <a href="en/research/isae-supaero-research/" class="MainNavigation-link">Research</a>
+                <div class="MainNavigation-subMenu SubMenu">
+        
+        <p class="SubMenu-title">Research &amp; innovation</p>
+        
+
+        <div class="row full align-top">
+            <div class="columns small-12 large-9">
+                <ul>
+                    
+                    <li class="menu-entree item rub76">
+            <a class="SubMenu-link" href="en/research/departments/teaching-and-research-departments/">Departments</a>
+                
+
+
+            
+            
+
+            
+                
+                     
+
+                
+                    <ul class="menu-liste menu-items">
+                
+                    
+                    
+                    <li class="menu-entree item rub91">
+
+                        
+                  
+                        
+                        
+                        
+                        <a href="en/research/departments/aerodynamics-energetics-and-propulsion-department-daep-91/aerodynamics-energetics-and-propulsion-department-daep/" class="SubMenu-link ">Aerodynamics, Energetics and Propulsion Department - DAEP</a>
+                            
+
+                        
+                        
+
+                    
+                    
+                        
+                         
+
+                        
+                         
+                            
+
+                        
+                            
+                        
+                    
+                    
+
+                
+                        
+                    </li>
+                
+                    
+                    
+                    <li class="menu-entree item rub92">
+
+                        
+                  
+                        
+                        
+                        
+                        <a href="en/research/departments/department-of-mechanics-structures-and-materials-dmsm-92/department-of-mechanics-structures-and-materials-dmsm/" class="SubMenu-link ">Department of Mechanics, Structures and Materials - DMSM</a>
+                            
+
+                        
+                        
+
+                    
+                    
+                        
+                          
+
+                        
+                         
+                            
+
+                        
+                            
+                                <ul class="menu-liste menu-items">
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/departments/department-of-mechanics-structures-and-materials-dmsm-92/department-of-mechanics-structures-and-materials-dmsm/">Department of Mechanics, Structures and Materials - DMSM</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/departments/department-of-mechanics-structures-and-materials-dmsm-92/the-dmsm-at-the-institut-clement-ader/">The DMSM at the Institut Clément Ader</a>
+                                </li>
+                            
+                                
+                                </ul>
+                            
+                        
+                    
+                    
+
+                
+                        
+                    </li>
+                
+                    
+                    
+                    <li class="menu-entree item rub93">
+
+                        
+                  
+                        
+                        
+                        
+                        <a href="en/research/departments/department-of-electronics-optronics-and-signal-processing-deos/department-of-electronics-optronics-and-signal-processing-deos/" class="SubMenu-link ">Department of Electronics, Optronics and Signal Processing - DEOS</a>
+                            
+
+                        
+                        
+
+                    
+                    
+                        
+                         
+
+                        
+                         
+                            
+
+                        
+                            
+                        
+                    
+                    
+
+                
+                        
+                    </li>
+                
+                    
+                    
+                    <li class="menu-entree item rub94">
+
+                        
+                  
+                        
+                        
+                        
+                        <a href="en/research/departments/department-of-complex-systems-engineering-disc-94/department-of-complex-systems-engineering-disc/" class="SubMenu-link ">Department of Complex Systems Engineering - DISC</a>
+                            
+
+                        
+                        
+
+                    
+                    
+                        
+                         
+
+                        
+                         
+                            
+
+                        
+                            
+                        
+                    
+                    
+
+                
+                        
+                    </li>
+                
+                    
+                    
+                    <li class="menu-entree item rub95">
+
+                        
+                  
+                        
+                        
+                        
+                        <a href="en/research/departments/department-of-aerospace-vehicles-design-and-control-dcas-95/dcas-resources-and-equipment/" class="SubMenu-link ">Department of Aerospace vehicles design and control - DCAS</a>
+                            
+
+                        
+                        
+
+                    
+                    
+                        
+                           
+
+                        
+                         
+                            
+
+                        
+                            
+                                <ul class="menu-liste menu-items">
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/departments/department-of-aerospace-vehicles-design-and-control-dcas-95/dcas-resources-and-equipment/">DCAS resources and equipment</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/departments/department-of-aerospace-vehicles-design-and-control-dcas-95/the-flight-operations-center-of-lasbordes/">The Flight Operations Center of Lasbordes</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/departments/department-of-aerospace-vehicles-design-and-control-dcas-95/department-of-aerospace-vehicles-design-and-control-dcas/">Department of Aerospace Vehicles Design and Control - DCAS</a>
+                                </li>
+                            
+                                
+                                </ul>
+                            
+                        
+                    
+                    
+
+                
+                        
+                    </li>
+                
+                    
+                    
+
+                    
+
+                    
+                        
+                         
+
+                        
+                         
+                            
+
+                        
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/departments/teaching-and-research-departments/">Teaching and research departments</a>
+                                    </li>
+                                
+                            
+                            
+                        
+                    
+                    
+                    </ul>
+                
+            
+        </li>
+    
+        
+        
+
+        <li class="menu-entree item rub80">
+            <a class="SubMenu-link" href="en/research/doctoral-programs/doctoral-programs/">Doctoral programs</a>
+                
+
+
+            
+            
+
+            
+                
+                 
+
+                
+                    <ul class="menu-liste menu-items">
+                
+                    
+                    
+                    <li class="menu-entree item rub81">
+
+                        
+                  
+                        
+                        
+                        
+                        <a href="en/research/doctoral-programs/the-doctoral-research-teams/doctoral-research-teams/" class="SubMenu-link ">The doctoral research teams</a>
+                            
+
+                        
+                        
+
+                    
+                    
+                        
+                                
+
+                        
+                         
+                            
+
+                        
+                            
+                                <ul class="menu-liste menu-items">
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/doctoral-programs/the-doctoral-research-teams/doctoral-research-teams/">Doctoral research teams</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/doctoral-programs/the-doctoral-research-teams/csdv-doctoral-research-team-control-of-systems-and-flight-dynamics/">CSDV doctoral research team</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/doctoral-programs/the-doctoral-research-teams/edyf-doctoral-research-team-energetics-and-fluid-dynamics/">EDyF doctoral research team</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/doctoral-programs/the-doctoral-research-teams/ica-doctoral-research-team-institut-clement-ader/">ICA doctoral research team</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/doctoral-programs/the-doctoral-research-teams/mois-system-engineering-and-modelling-doctoral-team/">MOIS doctoral research team</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/doctoral-programs/the-doctoral-research-teams/olimpes-doctoral-research-team-optronics-laser-physical-imagery-and-space/">OLIMPES doctoral research team</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/doctoral-programs/the-doctoral-research-teams/psi-doctoral-research-team-spatial-physics-and-instrumental/">PSI doctoral research team</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/doctoral-programs/the-doctoral-research-teams/scanr-doctoral-research-team-signal-communication-antenna-and-navigation-radar/">SCANR doctoral research team</a>
+                                </li>
+                            
+                                
+                                </ul>
+                            
+                        
+                    
+                    
+
+                
+                        
+                    </li>
+                
+                    
+                    
+
+                    
+
+                    
+                        
+                              
+
+                        
+                         
+                            
+
+                        
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/doctoral-programs/doctoral-programs/">Doctoral programs</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                    <a class="SubMenu-link" href="en/research/doctoral-programs/the-doctoral-schools/">The doctoral schools</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                    <a class="SubMenu-link" href="en/research/doctoral-programs/admissions/">Admissions</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                    <a class="SubMenu-link" href="en/research/doctoral-programs/careers/">Careers</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                    <a class="SubMenu-link" href="en/research/doctoral-programs/phd-positions-available/">PhD positions available</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                    <a class="SubMenu-link" href="en/research/doctoral-programs/defending-your-phd/">Defending your PhD</a>
+                                </li>
+                            
+                            
+                            
+                        
+                    
+                    
+                    </ul>
+                
+            
+        </li>
+    
+        
+        
+
+        <li class="menu-entree item rub117">
+            <a class="SubMenu-link" href="en/research/toulouse-graduate-school-of-aerospace-engineering/toulouse-graduate-school-of-aerospace-engineering/">Toulouse Graduate School of Aerospace Engineering</a>
+                
+
+
+            
+            
+
+            
+                
+                
+
+                
+
+                    
+                    
+                        
+                           
+
+                        
+                         
+                            
+
+                        
+                            
+                                <ul class="menu-liste menu-items">
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/toulouse-graduate-school-of-aerospace-engineering/toulouse-graduate-school-of-aerospace-engineering/">Toulouse graduate School of Aerospace Engineering</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/toulouse-graduate-school-of-aerospace-engineering/scholarship/">SCHOLARSHIP</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/research/toulouse-graduate-school-of-aerospace-engineering/phd-funding/">PhD FUNDING</a>
+                                </li>
+                            
+                                
+                                </ul>
+                            
+                        
+                    
+                    
+
+                
+            
+        </li>
+    
+
+   
+   
+      
+          
+
+      
+       
+         
+      
+
+         
+        
+            
+                <li class="hide-for-large show-for-touch menu-entree item">
+                    <a class="SubMenu-link" href="en/research/isae-supaero-research/">ISAE-SUPAERO research</a>
+                </li>
+            
+        
+
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/research/research-at-isae-supaero/">Research at ISAE-SUPAERO</a>
+            </li>
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/research/open-positions/">Open positions</a>
+            </li>
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/research/research-projects-and-internships/">Research projects  and internships</a>
+            </li>
+                    
+                </ul>
+
+            </div>
+            
+        </div>
+    </div>            </li>
+            
+            <li>
+                <a href="en/campus-life/life-on-campus-223/" class="MainNavigation-link">Campus life</a>
+                <div class="MainNavigation-subMenu SubMenu">
+        
+        <p class="SubMenu-title">Campus life</p>
+        
+
+        <div class="row full align-top">
+            <div class="columns small-12 large-9">
+                <ul>
+                    
+                    <li class="menu-entree item rub77">
+            <a class="SubMenu-link" href="en/campus-life/life-on-campus-77/life-on-campus/">Life on campus</a>
+                
+
+
+            
+            
+
+            
+                
+                
+
+                
+
+                    
+                    
+                        
+                            
+
+                        
+                         
+                            
+
+                        
+                            
+                                <ul class="menu-liste menu-items">
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/campus-life/life-on-campus-77/life-on-campus/">Life on campus</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/campus-life/life-on-campus-77/housing/">Housing</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/campus-life/life-on-campus-77/dining-services/">Dining services</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/campus-life/life-on-campus-77/healthcare-and-social-services/">Healthcare and social services</a>
+                                </li>
+                            
+                                
+                                </ul>
+                            
+                        
+                    
+                    
+
+                
+            
+        </li>
+    
+        
+        
+
+        <li class="menu-entree item rub67">
+            <a class="SubMenu-link" href="en/campus-life/the-library/the-library/">The library</a>
+                
+
+
+            
+            
+
+            
+                
+                
+
+                
+
+                    
+                    
+                        
+                           
+
+                        
+                         
+                            
+
+                        
+                            
+                                <ul class="menu-liste menu-items">
+                            
+                            
+                                
+                                    <li class="hide-for-large show-for-touch menu-entree item">
+                                        <a class="SubMenu-link" href="en/campus-life/the-library/the-library/">The library</a>
+                                    </li>
+                                
+                            
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/campus-life/the-library/collections/">Collections</a>
+                                </li>
+                            
+                                <li class="menu-entree item">
+                                        <a class="SubMenu-link" href="en/campus-life/the-library/team-and-projects/">Team and projects</a>
+                                </li>
+                            
+                                
+                                </ul>
+                            
+                        
+                    
+                    
+
+                
+            
+        </li>
+    
+
+   
+   
+      
+         
+
+      
+       
+         
+      
+
+         
+        
+            
+                <li class="hide-for-large show-for-touch menu-entree item">
+                    <a class="SubMenu-link" href="en/campus-life/life-on-campus-223/">Life on campus</a>
+                </li>
+            
+        
+
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/campus-life/student-associations-and-clubs/">Student associations and clubs</a>
+            </li>
+         
+            <li class="menu-entree item">
+               <a class="SubMenu-link" href="en/campus-life/isae-supaero-virtual-tour/">ISAE-SUPAERO virtual tour</a>
+            </li>
+                    
+                </ul>
+
+            </div>
+            
+        </div>
+    </div>            </li>
+            
+            <li>
+                <a href="/en/academics/advanced-masters/programs/advanced-master-helicopter-aircraft-and-drone-architecture-hada/#0" class="MainNavigation-link search js-pop-search">Search</a>
+                            </li>
+            
+        </ul>
+    
+    
+
+    <div class="MainNavigation-profils Profils">
+        <div class="Profils-toggle">You are</div>
+        <ul class="Profils-list">
+        
+
+        <li class="menu-entree item">
+		<a href="en/future-student/a-future-student/" class="Profils-link">A future student</a>
+         
+            </li>
+        
+        <li class="menu-entree item">
+		<a href="en/isae-supaero-student/current-students/" class="Profils-link">A current student</a>
+         
+            </li>
+        
+        <li class="menu-entree item">
+		<a href="en/isae-supaero-graduate/you-are-isae-supaero-graduate/" class="Profils-link">An ISAE-SUPAERO graduate</a>
+         
+            </li>
+        
+        <li class="menu-entree item">
+		<a href="en/journalist/you-are-a-journalist/" class="Profils-link">A journalist</a>
+         
+            </li>
+        
+        <li class="menu-entree item">
+		<a href="en/academics/continuing-education/you-are-a-professional/" class="Profils-link">A professional</a>
+         
+            </li>
+        
+        
+
+        
+    </ul>    </div>
+
+</nav>                    <div class="MainSearch" role="search">
+    <a href="/en/academics/advanced-masters/programs/advanced-master-helicopter-aircraft-and-drone-architecture-hada/#0" class="MainSearch-close">Close</a>
+
+    <div class="MainSearch-wrapForm">
+        <form action="spip.php?page=recherche" method="get">
+    <input name="page" value="recherche" type="hidden"
+/>
+    <input type="hidden" name="lang" value="en" />
+    <label for="recherche">Search:</label>
+    <input type="search" placeholder="Search:" class="search text js-autocomplete" size="10" name="recherche" id="recherche" accesskey="4" autocapitalize="off" autocorrect="off"
+    />
+    <button type="submit" class="submit">ok</button>
+</form>
+    </div>
+
+    <div class="MainSearch-wrapBtns text-center">
+        <button class="MainSearch-btnSubmit button">Advanced search</button>
+        
+            <a href="en/sitemap/" class="button">Site map</a>
+        
+    </div>
+
+</div>                </div>
+
+                <div class="VisuelTop" ></div>
+                <main role="main" class="row align-justify">
+                    <div class="columns small-12">
+                        <ol class="Breadcrumb" itemprop="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+     
+    
+    
+    
+     
+    
+    
+     
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+    <a itemprop="item" href="https://www.isae-supaero.fr/en/" class="Breadcrumb-elem">
+        <span itemprop="name">Home</span>
+    </a>
+    <meta itemprop="position" content="1" />
+</li>
+
+
+
+    
+        
+
+        
+         
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a itemprop="item" class="Breadcrumb-elem" href="en/academics/academics/">
+                <span itemprop="name">Academics</span>
+            </a>
+            <meta itemprop="position" content="2" />
+        </li>
+        
+
+        
+    
+        
+
+        
+         
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a itemprop="item" class="Breadcrumb-elem" href="en/academics/advanced-masters/presentation/">
+                <span itemprop="name">Advanced masters</span>
+            </a>
+            <meta itemprop="position" content="3" />
+        </li>
+        
+
+        
+    
+        
+
+        
+         
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a itemprop="item" class="Breadcrumb-elem" href="en/academics/advanced-masters/programs/programs/">
+                <span itemprop="name">Programs</span>
+            </a>
+            <meta itemprop="position" content="4" />
+        </li>
+        
+
+        
+    
+
+ 
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+    <span itemprop="item" class="Breadcrumb-elem current">
+        <span itemprop="name">Advanced master Helicopter, Aircraft and Drone Architecture&nbsp;(...)</span>
+    </span>
+    <meta itemprop="position" content="5" />
+</li>
+</ol>                    </div>
+
+                    <div class="content columns small-12 medium-8" id="content" tabindex="-1">
+    <article class="Article" itemscope itemtype="http://schema.org/Article">
+        <meta itemprop="datePublished" content="2016-11-07 17:48:25" />
+        <meta itemprop="image" content="https://www.isae-supaero.fr/plugins/supaero/assets/dist/img/defaut/supaero-defaut.jpg" />
+        
+        <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+            <meta itemprop="name" content="ISAE-SUPAERO" />
+            <meta itemprop="logo" content="https://www.isae-supaero.fr/local/cache-vignettes/L190xH102/siteon0-e5814.png?1553522386" />
+        </div>
+
+        <header class="Article-header">
+            <h1 class="Article-title" itemprop="headline"><span class="">Advanced master Helicopter, Aircraft and Drone Architecture (HADA)</span></h1>
+            <div class="row align-justify">
+                <div class="column">
+                    
+                    <span class="Article-tag Tag column couleur2">Academic programs</span>
+                    
+                </div>
+            </div>
+
+            
+
+            <ul class="Article-social Social">
+                <li><a href="https://www.facebook.com/sharer.php?u=https://www.isae-supaero.fr/en/academics/advanced-masters/programs/advanced-master-helicopter-aircraft-and-drone-architecture-hada/" title="Share on Facebook" rel="external" target="_blank" onclick="window.open(this.href, 'newwindow', 'width=560, height=330'); return false;" class="Social-elem facebook has-tip" data-tooltip aria-haspopup="true" data-v-offset="15">Share on Facebook</a></li>
+    <li><a href="https://twitter.com/intent/tweet?url=https://www.isae-supaero.fr/en/academics/advanced-masters/programs/advanced-master-helicopter-aircraft-and-drone-architecture-hada/&amp;text=Advanced%20master%20Helicopter%2C%20Aircraft%20and%20Drone%20Architecture%20%28HADA%29" title="Share on Twitter" rel="external" target="_blank" onclick="window.open(this.href, 'newwindow', 'width=450, height=340'); return false;" class="Social-elem twitter has-tip" data-tooltip aria-haspopup="true" data-v-offset="15">Share on Twitter</a></li>
+    <li><a class="Social-elem linkedin has-tip" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.isae-supaero.fr/en/academics/advanced-masters/programs/advanced-master-helicopter-aircraft-and-drone-architecture-hada/&amp;text=Advanced%20master%20Helicopter%2C%20Aircraft%20and%20Drone%20Architecture%20%28HADA%29" title="Share on LinkedIn"  rel="external" target="_blank" onclick="window.open(this.href, 'newwindow', 'width=790, height=640'); return false;" data-tooltip aria-haspopup="true" data-v-offset="15">Share on LinkedIn</a></li>
+
+
+
+    
+
+     
+         
+            <li><a href="http://www.youtube.com/ISAEcom" title="Youtube" rel="external" target="_blank" class="Social-elem youtube has-tip" data-tooltip aria-haspopup="true" data-v-offset="15">Youtube</a></li>
+        
+        
+    
+
+    
+
+     
+        
+         
+            <li class="has-tip" data-tooltip aria-haspopup="true" data-v-offset="15" title="RSS"><a href="en/flux-rss.xml" title="RSS" rel="external" target="_blank" class="Social-elem rss" data-toggle="js-pop-rss">RSS</a></li>
+        
+    
+
+
+
+ 
+    
+    <li><a href="javascript:window.print();" title="Print" class="Social-elem print has-tip" data-tooltip aria-haspopup="true" data-v-offset="15">Print</a></li>
+    <li><a id="bookmarkme" data-message-mac="Press Command/Cmd + D to add this page to your favorites" data-message-others="Press CTRL + D to add this page to your favorites." href="/en/academics/advanced-masters/programs/advanced-master-helicopter-aircraft-and-drone-architecture-hada/#0" title="Add this page to My Favorites" class="Social-elem fav has-tip" data-tooltip aria-haspopup="true" data-v-offset="15">Add this page to My Favorites</a></li>
+
+
+<!-- MARC ENLEVE LE 28/04/2017 en erreur et non génération du PDF
+     
+    <li><a href="https://www.isae-supaero.fr/spip.php?action=article_to_pdf&amp;arg=270-article&amp;hash=b330a4c70940b4f3fc58fe3369ed28cd15b496ab&amp;redirect=%2Fen%2Facademics%2Fadvanced-masters%2Fprograms%2Fadvanced-master-helicopter-aircraft-and-drone-architecture-hada%2F" title="Send in PDF" class="Social-elem pdf has-tip" data-tooltip aria-haspopup="true" data-v-offset="15">Send in PDF</a></li> 
+    
+-->            </ul>
+        </header>
+
+        <div class="Article-text TextWysiwyg">
+            <figure class="float-right" style="width:450px" role="group">
+        
+        
+         
+         
+        
+         
+            <picture style='padding:0;padding-bottom:56.291390728477%' class='conteneur_image_responsive_h'><img src='plugins/auto/image_responsive/v7.3.0/rien.gif' alt='MS-HADA' data-src='local/cache-gd2/70/6030be80de7442fdb1aefaf6aedc83.jpg' data-l='906' data-h='510' data-tailles='[\&#034;320\&#034;,\&#034;640\&#034;,\&#034;960\&#034;,\&#034;1920\&#034;]' data-autorisees='{&#034;1&#034;:{&#034;1&#034;:&#034;local\/cache-gd2\/70\/6030be80de7442fdb1aefaf6aedc83-resp320.jpg&#034;,&#034;2&#034;:&#034;local\/cache-gd2\/70\/6030be80de7442fdb1aefaf6aedc83-resp320-2.jpg&#034;},&#034;2&#034;:{&#034;1&#034;:&#034;local\/cache-gd2\/70\/6030be80de7442fdb1aefaf6aedc83-resp640.jpg&#034;,&#034;2&#034;:&#034;local\/cache-gd2\/70\/6030be80de7442fdb1aefaf6aedc83-resp640-2.jpg&#034;},&#034;3&#034;:{&#034;1&#034;:&#034;local\/cache-gd2\/70\/6030be80de7442fdb1aefaf6aedc83-resp906.jpg&#034;,&#034;2&#034;:&#034;local\/cache-gd2\/70\/6030be80de7442fdb1aefaf6aedc83-resp906-2.jpg&#034;},&#034;4&#034;:{&#034;1&#034;:&#034;local\/cache-gd2\/70\/6030be80de7442fdb1aefaf6aedc83-resp906.jpg&#034;,&#034;2&#034;:&#034;local\/cache-gd2\/70\/6030be80de7442fdb1aefaf6aedc83-resp906-2.jpg&#034;}}' data-src-lazy='plugins/auto/image_responsive/v7.3.0/rien.gif' class='image_responsive lazy' /></picture>
+        
+        
+    </figure>
+<p>The advanced master “Helicopter, Aircraft and Drone Architecture” provides high-level engineering and technical skills for careers in the aircraft, Drone &amp; helicopter business.</p>
+<p>The programme covers technical &amp; management aspects related to design,<br class='autobr' />
+certification and operations of civil/military aircrafts, drones &amp; helicopters.</p>
+<p>The advanced master “Helicopter, Aircraft and Drone Architecture” leads to several positions in design, certification and operations of civil and military aircrafts, drones and helicopters in France and overseas.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DaHTeQQh1eQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><a href="IMG/pdf/helicopter-aircraft-drone_architecture.pdf" class='spip_in' type='application/pdf'>Further information</a></p>
+        </div>
+
+        <footer>
+            
+            
+        </footer>
+    </article></div>
+
+<div class="aside secondary columns small-12 medium-4 xlarge-3" id="aside">
+    <div class="MenuSide">
+        <ul>
+            
+            <li><a class="MenuSide-elem" href="en/academics/advanced-masters/programs/advanced-master-artificial-intelligence-business-transformation-aibt/">AIBT Advanced master</a></li>
+            
+            <li><a class="MenuSide-elem" href="en/academics/advanced-masters/programs/programs/">Programs</a></li>
+            
+            <li><a class="MenuSide-elem" href="en/academics/advanced-masters/programs/advanced-master-advanced-manufacturing-processes-for-aeronautical-structures/">AMPAS advanced master</a></li>
+            
+            <li><a class="MenuSide-elem" href="en/academics/advanced-masters/programs/advanced-master-aeronautical-maintenance-and-support-ams/">AMS-E&amp;M advanced master</a></li>
+            
+            <li><a class="MenuSide-elem" href="en/academics/advanced-masters/programs/advanced-master-aerospace-project-management-apm/">APM advanced master</a></li>
+            
+            <li><a class="MenuSide-elem" href="en/academics/advanced-masters/programs/advanced-master-aviation-safety-aircraft-airworthiness-asaa/">ASAA advanced master</a></li>
+            
+            <li><a class="MenuSide-elem" href="en/academics/advanced-masters/programs/advanced-master-embedded-systems-ems/">EMS advanced master</a></li>
+            
+            <li><a class="MenuSide-elem" href="en/academics/advanced-masters/programs/advanced-master-experimental-flight-test-engineering-ievex/">IEVex advanced master</a></li>
+            
+            <li><a class="MenuSide-elem" href="en/academics/advanced-masters/programs/advanced-master-aeronautical-and-space-structures-aes/">AES advanced master</a></li>
+            
+            <li><a class="MenuSide-elem" href="en/academics/advanced-masters/programs/advanced-master-systems-engineering-sen/">SEN advanced master</a></li>
+            
+            <li><a class="MenuSide-elem" href="en/academics/advanced-masters/programs/advanced-master-systemes-de-propulsion-aerospatiale-spa/">SPA advanced master</a></li>
+            
+            <li><a class="MenuSide-elem" href="en/academics/advanced-masters/programs/advanced-master-space-applications-services-spaps/">SPAPS advanced master</a></li>
+            
+            <li><a class="MenuSide-elem" href="en/academics/advanced-masters/programs/advanced-master-aeronautical-engineering-tas-aero/">TAS Aero advanced master</a></li>
+            
+            <li><a class="MenuSide-elem" href="en/academics/advanced-masters/programs/advanced-master-space-systems-engineeering-tas-astro/">TAS Astro advanced master</a></li>
+            
+        </ul>
+    </div>
+    
+
+
+    
+    
+        <a class="Accelerateur hasDesc" href="https://www.isae-supaero.fr/en/academics/advanced-masters/admissions/">
+
+        <div class="Accelerateur-title">Requirement</div>
+        <p class="Accelerateur-desc">for an Advanced Master</p>
+        <div class="Accelerateur-bg"  data-mtime='1487755327' data-italien-src='IMG/jpg/inscription_masters.jpg' data-italien-l='800' data-italien-h='500' data-portrait-src='local/cache-vignettes/L800xH500/inscription_masters-e160b.jpg' data-portrait-l='800' data-portrait-h='500' data-responsive='background' data-lazy='lazy' data-tailles='[\"0\",\"320\",\"640\",\"960\",\"1920\"]' data-autorisees='{\"0\":{\"i\":{\"1\":\"IMG\\/jpg\\/inscription_masters-resp0.jpg?1487755327\",\"2\":\"IMG\\/jpg\\/inscription_masters-resp0-2.jpg?1487755327\"},\"p\":{\"1\":\"local\\/cache-vignettes\\/L800xH500\\/inscription_masters-e160b-resp0.jpg?1487755327\",\"2\":\"local\\/cache-vignettes\\/L800xH500\\/inscription_masters-e160b-resp0-2.jpg?1487755327\"}},\"320\":{\"i\":{\"1\":\"IMG\\/jpg\\/inscription_masters-resp320.jpg?1487755327\",\"2\":\"IMG\\/jpg\\/inscription_masters-resp320-2.jpg?1487755327\"},\"p\":{\"1\":\"local\\/cache-vignettes\\/L800xH500\\/inscription_masters-e160b-resp320.jpg?1487755327\",\"2\":\"local\\/cache-vignettes\\/L800xH500\\/inscription_masters-e160b-resp320-2.jpg?1487755327\"}},\"640\":{\"i\":{\"1\":\"IMG\\/jpg\\/inscription_masters-resp640.jpg?1487755327\",\"2\":\"IMG\\/jpg\\/inscription_masters-resp640-2.jpg?1487755327\"},\"p\":{\"1\":\"local\\/cache-vignettes\\/L800xH500\\/inscription_masters-e160b-resp640.jpg?1487755327\",\"2\":\"local\\/cache-vignettes\\/L800xH500\\/inscription_masters-e160b-resp640-2.jpg?1487755327\"}},\"800\":{\"i\":{\"1\":\"IMG\\/jpg\\/inscription_masters-resp800.jpg?1487755327\",\"2\":\"IMG\\/jpg\\/inscription_masters-resp800-2.jpg?1487755327\"},\"p\":{\"1\":\"local\\/cache-vignettes\\/L800xH500\\/inscription_masters-e160b-resp800.jpg?1487755327\",\"2\":\"local\\/cache-vignettes\\/L800xH500\\/inscription_masters-e160b-resp800-2.jpg?1487755327\"}}}' style='background-image:url(plugins/auto/image_responsive/v7.3.0/rien.gif)'></div>
+    </a><div class="ZoneHtml primary hasImg">
+      <div class="TextWysiwyg">
+        <h2>Contacts</h2>
+<p>Caroline ARMANGE <br class='autobr' />
+Tel : +33 5 6133 8025</p>
+<p>Catherine DUVAL <br class='autobr' />
+Tel : +33 5 6133 8037</p>
+<p><a href="/en/academics/advanced-masters/programs/advanced-master-helicopter-aircraft-and-drone-architecture-hada/#info-masters#mc#isae-supaero.fr#" title="info-masters..&aring;t..isae-supaero.fr" onclick="location.href=mc_lancerlien('info-masters','isae-supaero.fr'); return false;" class='spip_mail'>info-masters<span class='mcrypt'> at </span>isae-supaero.fr</a></p>
+      </div>
+      <div class="ZoneHtml-bg"  data-mtime='1477054454' data-italien-src='IMG/jpg/image-bloc-formations-10.jpg' data-italien-l='450' data-italien-h='300' data-portrait-src='local/cache-vignettes/L450xH300/image-bloc-formations-10-0c2d1.jpg' data-portrait-l='450' data-portrait-h='300' data-responsive='background' data-lazy='lazy' data-tailles='[\"0\",\"320\",\"640\",\"960\",\"1920\"]' data-autorisees='{\"0\":{\"i\":{\"1\":\"IMG\\/jpg\\/image-bloc-formations-10-resp0.jpg?1477054454\",\"2\":\"IMG\\/jpg\\/image-bloc-formations-10-resp0-2.jpg?1477054454\"},\"p\":{\"1\":\"local\\/cache-vignettes\\/L450xH300\\/image-bloc-formations-10-0c2d1-resp0.jpg?1477054454\",\"2\":\"local\\/cache-vignettes\\/L450xH300\\/image-bloc-formations-10-0c2d1-resp0-2.jpg?1477054454\"}},\"320\":{\"i\":{\"1\":\"IMG\\/jpg\\/image-bloc-formations-10-resp320.jpg?1477054454\",\"2\":\"IMG\\/jpg\\/image-bloc-formations-10-resp320-2.jpg?1477054454\"},\"p\":{\"1\":\"local\\/cache-vignettes\\/L450xH300\\/image-bloc-formations-10-0c2d1-resp320.jpg?1477054454\",\"2\":\"local\\/cache-vignettes\\/L450xH300\\/image-bloc-formations-10-0c2d1-resp320-2.jpg?1477054454\"}},\"450\":{\"i\":{\"1\":\"IMG\\/jpg\\/image-bloc-formations-10-resp450.jpg?1477054454\",\"2\":\"IMG\\/jpg\\/image-bloc-formations-10-resp450-2.jpg?1477054454\"},\"p\":{\"1\":\"local\\/cache-vignettes\\/L450xH300\\/image-bloc-formations-10-0c2d1-resp450.jpg?1477054454\",\"2\":\"local\\/cache-vignettes\\/L450xH300\\/image-bloc-formations-10-0c2d1-resp450-2.jpg?1477054454\"}}}' style='background-image:url(plugins/auto/image_responsive/v7.3.0/rien.gif)'></div>
+    </div>
 </div>
+                </main>
+            </div>
+
+            <div id="footer">
+                <footer role="contentinfo">
+    <section class="SectionCoordonnees">
+        <div class="row">
+            <div class="columns medium-6 SectionCoordonnees-coordonnees Coordonnees" itemscope itemtype="http://schema.org/PostalAddress">
+                <img src="plugins/supaero/assets/dist/img/logo-universite-federale.png" alt="Université Fédérale - Toulouse Midi-Pyrénées">
+                <img class="contact-isae" src="plugins/supaero/assets/dist/img/logo-isae-footer.png" alt="ISAE - Institut Supérieur de l'Aéronautique et de l'Espace">
+                <address>
+                    <p class="Coordonnees-title h4" itemprop="name">
+                        <span class="br">Institut Supérieur</span>
+                        <span class="br">de l'Aéronautique et de l'Espace</span>
+                    </p>
+                    <p class="Coordonnees-adresse">
+                        <span class="br" itemprop="streetAddress">10, avenue Édouard-Belin</span>
+                        <span class="br">BP <span itemprop="postOfficeBoxNumber">54032</span> - <span itemprop="postalCode">31055</span> <span itemprop="addressLocality">Toulouse</span> CEDEX 4</span>
+                    </p>
+                </address>
+                <div class="Coordonnees-tel" itemprop="telephone">
+                    33 (0)5 61 33 80 80
+                </div>
+                
+                
+                <a href="en/contact-isae-supaero/" class="button white Coordonnees-btn">Contact us</a>
+                
+            </div>
+            
+            <div class="columns medium-6 SectionCoordonnees-map">
+                <a href="https://www.google.com/maps/place/ISAE-SUPAERO/@43.5664595,1.4729086,17z/data=!4m13!1m7!3m6!1s0x12aebc312b9da2cb:0x13af08feec804218!2sISAE-SUPAERO!3b1!8m2!3d43.5664556!4d1.4750973!3m4!1s0x12aebc312b9da2cb:0x13af08feec804218!8m2!3d43.5664556!4d1.4750973" target="_blank" class="Carte" title="View the map on Google Maps"
+                  
+                   
+                     data-mtime='1478078102' data-italien-src='plugins/supaero/assets/dist/img/maps/map-footer-en.png' data-italien-l='1135' data-italien-h='640' data-portrait-src='local/cache-vignettes/L1135xH640/map-footer-en-ecfe5.png' data-portrait-l='1135' data-portrait-h='640' data-responsive='background' data-lazy='lazy' data-tailles='[\"0\",\"320\",\"640\",\"960\",\"1200\"]' data-autorisees='{\"0\":{\"i\":{\"1\":\"plugins\\/supaero\\/assets\\/dist\\/img\\/maps\\/map-footer-en-resp0.png?1478078102\",\"2\":\"plugins\\/supaero\\/assets\\/dist\\/img\\/maps\\/map-footer-en-resp0-2.png?1478078102\"},\"p\":{\"1\":\"local\\/cache-vignettes\\/L1135xH640\\/map-footer-en-ecfe5-resp0.png?1478078102\",\"2\":\"local\\/cache-vignettes\\/L1135xH640\\/map-footer-en-ecfe5-resp0-2.png?1478078102\"}},\"320\":{\"i\":{\"1\":\"plugins\\/supaero\\/assets\\/dist\\/img\\/maps\\/map-footer-en-resp320.png?1478078102\",\"2\":\"plugins\\/supaero\\/assets\\/dist\\/img\\/maps\\/map-footer-en-resp320-2.png?1478078102\"},\"p\":{\"1\":\"local\\/cache-vignettes\\/L1135xH640\\/map-footer-en-ecfe5-resp320.png?1478078102\",\"2\":\"local\\/cache-vignettes\\/L1135xH640\\/map-footer-en-ecfe5-resp320-2.png?1478078102\"}},\"640\":{\"i\":{\"1\":\"plugins\\/supaero\\/assets\\/dist\\/img\\/maps\\/map-footer-en-resp640.png?1478078102\",\"2\":\"plugins\\/supaero\\/assets\\/dist\\/img\\/maps\\/map-footer-en-resp640-2.png?1478078102\"},\"p\":{\"1\":\"local\\/cache-vignettes\\/L1135xH640\\/map-footer-en-ecfe5-resp640.png?1478078102\",\"2\":\"local\\/cache-vignettes\\/L1135xH640\\/map-footer-en-ecfe5-resp640-2.png?1478078102\"}},\"960\":{\"i\":{\"1\":\"plugins\\/supaero\\/assets\\/dist\\/img\\/maps\\/map-footer-en-resp960.png?1478078102\",\"2\":\"plugins\\/supaero\\/assets\\/dist\\/img\\/maps\\/map-footer-en-resp960-2.png?1478078102\"},\"p\":{\"1\":\"local\\/cache-vignettes\\/L1135xH640\\/map-footer-en-ecfe5-resp960.png?1478078102\",\"2\":\"local\\/cache-vignettes\\/L1135xH640\\/map-footer-en-ecfe5-resp960-2.png?1478078102\"}},\"1135\":{\"i\":{\"1\":\"plugins\\/supaero\\/assets\\/dist\\/img\\/maps\\/map-footer-en-resp1135.png?1478078102\",\"2\":\"plugins\\/supaero\\/assets\\/dist\\/img\\/maps\\/map-footer-en-resp1135-2.png?1478078102\"},\"p\":{\"1\":\"local\\/cache-vignettes\\/L1135xH640\\/map-footer-en-ecfe5-resp1135.png?1478078102\",\"2\":\"local\\/cache-vignettes\\/L1135xH640\\/map-footer-en-ecfe5-resp1135-2.png?1478078102\"}}}' style='background-image:url(plugins/auto/image_responsive/v7.3.0/rien.gif)'
+                  
+                  >
+                  <span class="Carte-legend">View the map on Google Maps</span>
+                </a>
+            </div>
+        </div>
+    </section>
+    
+    <section class="SectionSocial">
+        <div class="row">
+            <div class="columns small-12 medium-6">
+                <div class="SectionSocial-social">
+                    <p class="SectionSocial-title">Follow ISAE-SUPAERO</p>
+                    <ul class="Social big">
+                        <li><a href="https://www.facebook.com/isae.supaero" title="Facebook" rel="external" target="_blank" class="Social-elem facebook has-tip" data-tooltip aria-haspopup="true" data-v-offset="15">Facebook</a></li>
+        
+        
+    
+
+    
+
+     
+         
+            <li><a href="https://twitter.com/ISAE_officiel" title="Twitter" rel="external" target="_blank" class="Social-elem twitter has-tip" data-tooltip aria-haspopup="true" data-v-offset="15">Twitter</a></li>
+        
+        
+    
+
+    
+
+     
+         
+            <li><a href="https://www.linkedin.com/school/479301/" title="Linkedin" rel="external" target="_blank" class="Social-elem linkedin has-tip" data-tooltip aria-haspopup="true" data-v-offset="15">Linkedin</a></li>
+        
+        
+    
+
+    
+
+    
+
+    
+
+     
+         
+            <li><a href="http://www.youtube.com/ISAEcom" title="Youtube" rel="external" target="_blank" class="Social-elem youtube has-tip" data-tooltip aria-haspopup="true" data-v-offset="15">Youtube</a></li>
+        
+        
+    
+
+    
+
+     
+        
+         
+            <li class="has-tip" data-tooltip aria-haspopup="true" data-v-offset="15" title="RSS"><a href="en/flux-rss.xml" title="RSS" rel="external" target="_blank" class="Social-elem rss" data-toggle="js-pop-rss">RSS</a></li>                    </ul>
+                </div>
+            </div>
+            <div class="columns small-12 medium-6">
+                <div class="NewsletterFooter">
+                    <p class="SectionSocial-title NewsletterFooter-title">Subscribe to receive the newsletter</p>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="SectionCertification">
+        <div class="row">
+            <div class="columns small-12">
+                <p class="SectionCertification-title">ISAE-SUPAERO accredited by :</p>
+                <a class="SectionCertification-link" href="http://www.cti-commission.fr/" 											target="_blank" rel="external" title="CTI - Certification des titres d'ingénieur (External link)"><img src="plugins/supaero/assets/dist/img/certification/cti.png" 					alt="CTI - Certification des titres d'ingénieur"></a>
+                <a class="SectionCertification-link" href="https://certificats-attestations.afnor.org/certification=156961169882"	target="_blank" rel="external" title="Afaq iso 9001 quality (External link)"><img src="plugins/supaero/assets/dist/img/certification/conference-gds-ecoles.png"	alt="Afaq iso 9001 quality"></a>
+                <a class="SectionCertification-link" href="http://www.cge.asso.fr/" 												target="_blank" rel="external" title="Conférence des grandes écoles (an independent body that accredits higher education organizations in the fields of engineering and science in France) (External link)"><img src="plugins/supaero/assets/dist/img/certification/afaq.png" 					alt="Conférence des grandes écoles (an independent body that accredits higher education organizations in the fields of engineering and science in France)"></a>
+                <a class="SectionCertification-link" href="" 																		target="_blank" rel="external" title=""																				><img src="plugins/supaero/assets/dist/img/certification/EURACE_logo3.png" 			alt=""></a>
+            </div>
+        </div>
+    </section>
+    <section class="SectionMenuFooter">
+        <div class="row">
+            <div class="columns small-12">
+                <nav class="SectionMenuFooter-menu" aria-label="Menu main footer">
+                                    </nav>
+
+                <nav class="SectionMenuFooter-subMenu" aria-label="Menu secondary footer">
+                                    </nav>
+            </div>
+        </div>
+    </section>
+
+    <section class="SectionSloganFooter">
+        <div class="row">
+            <div class="columns small-12">World leader in aerospace engineering higher education</div>
+        </div>
+    </section>
+	<!-- AppYuser -->
+	<script src="https://tracker.quadran.eu/qa-combined.js" type="text/javascript"></script>
+	<script type="text/javascript">QWATracker.activate("ba3b436e313ae9f55e2d92275be69b77");</script>
+<!-- End AppYuser -->
+</footer>            </div>
+        </div>
+    </div>
+    <button class="BackToTop">Back to top</button>
+    <div class="CookieBar">
+  <span>By continuing your browsing on this site, you accept the use of cookies to offer you adapted content and services</span>
+  <a class="CookieBar-btn" href="/en/academics/advanced-masters/programs/advanced-master-helicopter-aircraft-and-drone-architecture-hada/#0">OK</a>
+</div>    <script>
+        var cheminLangOutdatedbrowser = "plugins/supaero/lib/outdatedbrowser/lang/en.html";
+    </script>
+    <div id="outdated"></div>
+    <div class="no-js-warning">For full functionality of this site it is necessary to enable JavaScript.
+         Here are the <a href="http://www.enable-javascript.com/" target="_blank">
+         instructions how to enable JavaScript in your web browser</a>.</div>
+
+     
+        <div class="ChooseRss tiny reveal" id="js-pop-rss" data-animate="fade-in fade-out" data-reveal data-close-on-click="true">
+        <div style='font-weight: 800;font-size: 18px;margin-bottom: 8px'>Choose an RSS feed</div>
+        <div class="TextWysiwyg">
+            <a class="button small" href="en/flux-rss.xml">The entire RSS feed</a>
+
+            
+                <div>RSS Feed by theme</div>
+            
+                <a href="en/flux-rss.xml?id_mot=5" class="Tag couleur6">Campus</a>
+            
+                <a href="en/flux-rss.xml?id_mot=6" class="Tag couleur2">Academic programs</a>
+            
+                <a href="en/flux-rss.xml?id_mot=7" class="Tag couleur1">Institute</a>
+            
+                <a href="en/flux-rss.xml?id_mot=8" class="Tag couleur4">International</a>
+            
+                <a href="en/flux-rss.xml?id_mot=9" class="Tag couleur7">Diversity program</a>
+            
+                <a href="en/flux-rss.xml?id_mot=10" class="Tag couleur3">Research</a>
+            
+                <a href="en/flux-rss.xml?id_mot=11" class="Tag couleur5">Companies</a>
+            
+        </div>
+        <button class="close-button" data-close aria-label="Close" type="button"><span class="show-for-sr">Close</span></button>
+    </div>    
+
+    <script>
+        // Google maps
+        $(function(){
+            if(typeof callback_maps !== 'undefined'){
+                // array exists and is not empty
+                $.getScript("https://maps.googleapis.com/maps/api/js?key=AIzaSyC3K81dboWzRQ3vfL7AijII_XgQSYrhAMA&language=en")
+                    .done(function (script, textStatus) {
+                        $(callback_maps).each(function(key, val){
+                            val();
+                        });
+
+                    });
+            }
+        });
+    </script>
+
+    
+    <script type="text/javascript"> 
+var _paq = _paq || [];
+(function(){ var u=(("https:" == document.location.protocol) ? "https://musis.isae.fr/" : "http://musis.isae.fr/"); 
+_paq.push(['setSiteId', 1]); 
+_paq.push(['setTrackerUrl', u+'piwik.php']); 
+_paq.push(['trackPageView']); 
+_paq.push(['enableLinkTracking']); 
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.defer=true; g.async=true; g.src=u+'piwik.js'; 
+s.parentNode.insertBefore(g,s); })();</script>	
+	# Linkedin Ads
+
+<script>
+_linkedin_partner_id = "408057";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script>
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="linkedin" src="https://dc.ads.linkedin.com/collect/?pid=408057&fmt=gif" />
 </noscript>
-</body></html>
+
+<script type="text/javascript">/*<![CDATA[*/
+function mc_lancerlien(a,b){x='ma'+'ilto'+':'+a+'@'+b.replace(/\.\..t\.\./g,'@'); return x;}
+jQuery(function(){
+	jQuery('.mcrypt').empty().append('@');
+	jQuery('a.spip_mail').attr('title',function(i, val) { if(val) return val.replace(/\.\..t\.\./g,'@');});
+});/*]]>*/</script></body></html>

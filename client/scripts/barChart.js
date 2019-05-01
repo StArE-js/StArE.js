@@ -66,7 +66,7 @@ function barChart(){
             chartSelection = selection;
             var div = selection,
                 svg = div.selectAll('svg'); //Select the SVG element.
-
+            chartSVG=svg;
             //Color Maping
             var colorBars;
             if (!customColors) {
@@ -107,7 +107,13 @@ function barChart(){
 
             // Scale the range of the data in the domains
             x.domain(data.map(function(d) { return d.title ; }));
-            y.domain([0, d3.max(data, function(d) { return d[attrHeight]; })]);
+            y.domain([0, d3.max(data,
+                function(d) {
+                if(d[attrHeight]){
+                    return d[attrHeight];
+                }else
+                    return 0;
+            })]);
 
             // append the rectangles for the bar chart
             svg.selectAll(".bar")
@@ -116,8 +122,19 @@ function barChart(){
                 .attr("class", "bar")
                 .attr("x", function(d) { return x(d.title) + margin.left; })
                 .attr("width", x.bandwidth())
-                .attr("y", function(d) { return y(d[attrHeight])+10; })
-                .attr("height", function(d) { return height - y(d[attrHeight]); })
+                .attr("y", function(d) {
+                    if(d[attrHeight]){
+                        return y(d[attrHeight])+10;
+                    }else
+                        return 0;
+
+                })
+                .attr("height", function(d) {
+                    if(d[attrHeight]){
+                        return height - y(d[attrHeight]);
+                    }else
+                        return 0;
+                     })
                 .style("fill", function(d){
                     if(d[attrColors]){
                         return colorBars(d[attrColors]);
@@ -219,9 +236,17 @@ function barChart(){
                 .data(data);
 
             update.transition(transition)
-                .attr("y", function(d) { return y(d[attrHeight])+10; })
+                .attr("y", function(d) {
+                    if(d[attrHeight]){
+                        return y(d[attrHeight])+10;
+                    }
+                        return 0;
+                     })
                 .attr("height", function(d) {
-                    return height - y(d[attrHeight]);
+                    if(d[attrHeight]){
+                        return height - y(d[attrHeight]);
+                    }
+                    return 0;
                 })
                 .style("fill", function(d){
                     if(d[attrColors]){
@@ -241,6 +266,7 @@ function barChart(){
     chart.height = chartHeight;
     chart.title = chartTitle;
     chart.minHeight= chartMinHeight;
+    chart.attrHeight= chartAttrHeight;
     chart.maxHeight= chartMaxHeight;
     chart.customColors = chartCustomColors;
     chart.remove = chartRemove;
@@ -258,6 +284,14 @@ function barChart(){
             return minHeight;
         }
         minHeight = value;
+        return chart;
+    }
+
+    function chartAttrHeight(value){
+        if (!arguments.length) {
+            return attrHeight;
+        }
+        attrHeight = value;
         return chart;
     }
 
@@ -312,6 +346,12 @@ function barChart(){
 
     function chartRemove(callback) {
         chartSVG.selectAll("text")
+            .style("opacity",1)
+            .transition()
+            .duration(500)
+            .style("opacity", "0")
+            .remove();
+        chartSVG.selectAll("rect")
             .style("opacity",1)
             .transition()
             .duration(500)

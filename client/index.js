@@ -1,144 +1,18 @@
+//Imports
 const axios = require('axios');
 const d3 = require('d3');
 const bubbleChart = require('./scripts/bubbleChart.js').bubbleChart;
 const barChart = require('./scripts/barChart.js').barChart;
 
+//Variables
 var chart;
 var t = 500; //time to update data in ms.
-
-//Bubble Chart
-const renderDataBubbleChart = () => {
-    document.getElementById("btn_1").innerText = "Quitar gráfico";
-    document.getElementById("chart").style.display = "block";
-    document.getElementById("chart2").style.display = "none";
-    document.getElementById("chart3").style.display = "none";
-    document.getElementById("btn_2").innerText = "Bar Chart";
-    document.getElementById("btn_3").innerText = "Classic Text";
-    let json;
-    axios.default.get('http://localhost:3000/json').then(
-        response => {
-            json = response.data;
-            chart = bubbleChart()
-                .height(600)
-                .width(700)
-                .title("Query: "+json.terminos)
-                .forceApart(-600)
-                .maxRadius(70)
-                .minRadius(10)
-                .attrRadius("length")
-                .showTitleOnCircle(true)
-                .customColors("perpiscuity", "A3", false);
-            d3.select('#chart').datum(json).call(chart);
-        },
-        error => console.error(error)
-    )
-};
-
-const updateDataBubbleChart=()=>{
-    let json;
-    axios.default.get('http://localhost:3000/update').then(
-        response => {
-            json = response.data;
-            d3.select('#chart').datum(json).call(chart);
-            console.log('updating...');
-        },
-        error => console.error(error)
-    )
-};
-
-const createBubbleChart = () => {
-    buttonState = ! buttonState;
-    if (buttonState) {
-        renderDataBubbleChart();
-        interval = setInterval(() => updateDataBubbleChart(), t)
-    } else {
-        clearInterval(interval);
-        document.getElementById("chart").innerHTML = "<svg></svg>"
-        document.getElementById("btn_1").innerText = "Bubble Chart"
-        document.getElementById("btn_1").className= "clicked";
-        document.getElementById("btn_2").className= "";
-        document.getElementById("btn_3").className= "";
-    }
-};
-
-//BAR CHART
-
-const renderDataBarChart = () => {
-    document.getElementById("btn_2").innerText = "Quitar gráfico";
-    document.getElementById("chart").style.display = "none";
-    document.getElementById("chart2").style.display = "block";
-    document.getElementById("chart3").style.display = "none";
-    document.getElementById("btn_1").innerText = "Bubble Chart";
-    document.getElementById("btn_3").innerText = "Classic Text";
-
-    let json;
-    axios.default.get('http://localhost:3000/json').then( //cambiar ruta later
-        response => {
-            json = response.data;
-            chart = barChart()
-                .height(600)
-                .width(700)
-                .customColors("perpiscuity", "A3", false);
-            d3.select('#chart2').datum(json).call(chart);
-        },
-        error => console.error(error)
-    )
-};
-
-const updateDataBarChart=()=>{
-    let json;
-    axios.default.get('http://localhost:3000/update').then(
-        response => {
-            json = response.data;
-            //Eliminar Axis Viejos y rehacerlos:
-            //d3.select('#chart2').selectAll("#yAxis").remove()
-            //d3.select('#chart2').selectAll("#xAxis").remove()
-            d3.select('#chart2').datum(json).call(chart);
-            console.log('updating...');
-        },
-        error => console.error(error)
-    )
-};
-
-
-const createBarChart = () => {
-    buttonState = ! buttonState;
-    if (buttonState) {
-        renderDataBarChart();
-        interval = setInterval(() => updateDataBarChart(), t)
-    } else {
-        clearInterval(interval);
-        document.getElementById("chart2").innerHTML = "<svg></svg>"
-        document.getElementById("btn_2").innerText = "Bar Chart"
-        document.getElementById("btn_1").className= "";
-        document.getElementById("btn_2").className= "clicked";
-        document.getElementById("btn_3").className= "";
-    }
-};
-
-
-//Maping Functions to Buttons
 var buttonState = false;
 var interval;
+var update=false;
+//Buttons Actions
 
-//Bubble Chart
-document.getElementById("btn_1").onclick = createBubbleChart;
-document.getElementById("btn_1").innerText = "Bubble Chart";
-
-//Bar Chart
-document.getElementById("btn_2").onclick = createBarChart;
-document.getElementById("btn_2").innerText = "Bar Chart";
-
-/**
- * EJEMPLO DE MANDAR COSAS DESDE FRONT A BACKEND
- *
- */
-/*
-axios.default.get('http://localhost:3000/ejemplo?whoRules=Devy+fandub').then( // mando un valor en la variable whoRules
-    response => console.log(response.data),
-    error => console.error(error)
-);
-*/
+//SEARCH ENGINES:
 const sendQueryEcosia= () =>{
     var q= document.getElementById("SearchBox").value;
     var p=0;
@@ -173,6 +47,158 @@ const sendQueryGoogle= () => {
 };
 
 
+//CHARTS:
+const removeChart=(chart)=>{
+    update =false;
+    chart.remove();
+    var chart= null;
+};
+
+//BUBBLE CHART:
+
+const renderDataBubbleChart = () => {
+    update= true;
+    let json;
+    axios.default.get('http://localhost:3000/json').then(
+        response => {
+            json = response.data;
+            chart = bubbleChart()
+                .height(600)
+                .width(700)
+                .forceApart(-600)
+                .maxRadius(70)
+                .minRadius(10)
+                .attrRadius("length")
+                .showTitleOnCircle(true)
+                .customColors("perpiscuity", "A3", false);
+            d3.select('#chart').datum(json).call(chart);
+        },
+        error => console.error(error)
+    )
+};
+
+const updateDataBubbleChart=()=>{
+    if(update){
+        let json;
+        axios.default.get('http://localhost:3000/update').then(
+            response => {
+                json = response.data;
+                d3.select('#chart').datum(json).call(chart);
+                console.log('updating...');
+            },
+            error => console.error(error)
+        )
+    }
+};
+
+//BAR CHART:
+const renderDataBarChart = () => {
+    update=true;
+    let json;
+    axios.default.get('http://localhost:3000/json').then( //cambiar ruta later
+        response => {
+            json = response.data;
+            chart = barChart()
+                .height(600)
+                .width(700)
+                .attrHeight('length')
+                .customColors("perpiscuity", "A3", false);
+            d3.select('#chart').datum(json).call(chart);
+        },
+        error => console.error(error)
+    )
+};
+
+const updateDataBarChart=()=>{
+    let json;
+    if(update){
+        axios.default.get('http://localhost:3000/update').then(
+            response => {
+                json = response.data;
+                d3.select('#chart').datum(json).call(chart);
+                console.log('updating...');
+            },
+            error => console.error(error)
+        )
+    }
+};
+
+
+//BUTTONS SETTINGS:
+const createBubbleChart = () => {
+    var status= document.getElementById("btn_1").className;
+    if(status==="clear"){
+        //set buttons values:
+        document.getElementById("btn_1").className="clicked";
+        document.getElementById("btn_1").innerText="Remove Bubble Chart";
+        document.getElementById("btn_2").className="clear";
+        document.getElementById("btn_2").innerText="Bar Chart";
+        document.getElementById("btn_3").className="clear";
+        document.getElementById("btn_3").innerText="Classic Text";
+        //ocultar los otros divs:
+        document.getElementById("chart").style.display = "block"; //maybe remove later
+        document.getElementById("searchResults").style.display = "none";
+        //create BubbleChart:
+        if(chart){
+            removeChart(chart);
+        }
+        renderDataBubbleChart();
+        interval = setInterval(() => updateDataBubbleChart(), t);
+    }else if(status==="clicked"){
+        //set buttons values:
+        document.getElementById("btn_1").className="clear";
+        document.getElementById("btn_1").innerText="Bubble Chart";
+        document.getElementById("btn_2").className="clear";
+        document.getElementById("btn_2").innerText="Bar Chart";
+        document.getElementById("btn_3").className="clear";
+        document.getElementById("btn_3").innerText="Classic Text";
+        //hide divs:
+        document.getElementById("searchResults").style.display = "none";
+        //Remove Bubble Chart:
+        removeChart(chart);
+    }
+
+};
+
+const createBarChart = () => {
+    var status= document.getElementById("btn_2").className;
+    if(status==="clear"){
+        //set buttons values:
+        document.getElementById("btn_1").className="clear";
+        document.getElementById("btn_1").innerText="Bubble Chart";
+        document.getElementById("btn_2").className="clicked";
+        document.getElementById("btn_2").innerText="Remove Bar Chart";
+        document.getElementById("btn_3").className="clear";
+        document.getElementById("btn_3").innerText="Classic Text";
+        //ocultar los otros divs:
+        document.getElementById("chart").style.display = "block"; //maybe remove later
+        document.getElementById("searchResults").style.display = "none";
+        //create BarChart:
+
+        if(chart){
+            removeChart(chart);
+        }
+        renderDataBarChart();
+        interval = setInterval(() => updateDataBarChart(), t)
+    }else if(status==="clicked"){
+        //set buttons values:
+        document.getElementById("btn_2").className="clear";
+        document.getElementById("btn_2").innerText="Bar Chart";
+        //hide divs:
+        document.getElementById("searchResults").style.display = "none";
+        //Remove Bar Chart:
+        removeChart(chart);
+    }
+};
+
+
+
+//BUTTONS METHOD CALLS:
+
 //SEND QUERYS TO THE RESPECTIVE SEARCH ENGINE:
 document.getElementById("btn_ecosia").onclick = sendQueryEcosia;
 document.getElementById("btn_google").onclick = sendQueryGoogle;
+
+//CHARTS
+document.getElementById("btn_1").onclick = createBubbleChart;
+document.getElementById("btn_2").onclick = createBarChart;
