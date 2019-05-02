@@ -102,6 +102,26 @@
         .graficos{
             padding-left: 25%;
         }
+        .loader {
+            margin-left: 30%;
+            margin-top:30%;
+            display:none;
+            border: 16px solid #f3f3f3; /* Light grey */
+            border-top: 16px solid #7386D5;
+            border-bottom: 16px solid #7386D5;
+            border-radius: 50%;
+            width: 120px;
+            height: 120px;
+            animation: spin 2s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .texto{
+            margin-left: 10%;
+        }
     </style>
 
 </head>
@@ -179,21 +199,22 @@
 
 
     <div class="graficos">
+        <div class="loader" id="loader"></div>
 
-                <div class="chart" id="chart" >
-                    <svg></svg>
-                </div>
+        <div class="chart" id="chart" >
+               <svg></svg>
+        </div>
 
-                <div class="chart" id="chart2">
-                    <svg></svg>
-                </div>
+        <div class="chart" id="chart2">
+               <svg></svg>
+        </div>
 
-                <div class="chart" id="searchResults" >
-                    <svg></svg>
-                </div>
+
 
     </div>
-
+    <div class="texto" id="searchResults" >
+        <pre id="json-renderer"></pre>
+    </div>
 
 </div>
 

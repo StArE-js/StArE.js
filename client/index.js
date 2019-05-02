@@ -3,7 +3,7 @@ const axios = require('axios');
 const d3 = require('d3');
 const bubbleChart = require('./scripts/bubbleChart.js').bubbleChart;
 const barChart = require('./scripts/barChart.js').barChart;
-
+import JSONFormatter from 'json-formatter-js'
 //Variables
 var chart;
 var t = 500; //time to update data in ms.
@@ -15,28 +15,49 @@ var update=false;
 //SEARCH ENGINES:
 const sendQueryEcosia= () =>{
     var q= document.getElementById("SearchBox").value;
+    if(chart){
+        removeChart(chart);
+    };
     var p=0;
+    document.getElementById("chart").style.display = "none";
+    document.getElementById("searchResults").style.display = "none";
+    document.getElementById("loader").style.display= "block";
     if(q!=""){
         axios.default.get('http://localhost:3000/ecosia?q=' + q + '&p='+p).then(
             response => {
-                json =JSON.stringify( response.data);
+                let json =JSON.stringify( response.data);
                 console.log(json);
+                document.getElementById("loader").style.display= "none";
                 document.getElementById("searchResults").innerHTML=json;
                 document.getElementById("searchResults").style.display = "block";
+                //const formatter= new JSONFormatter(json);
+                //document.body.appendChild(formatter.render());
+                //formatter.openAtDepth(3);
             },
-            error => console.error(error)
-        )
+            error =>{
+                console.error(error);
+                document.getElementById("loader").style.display= "none";
+                document.getElementById("searchResults").innerText="Ups! Something Went Wrong :(";
+
+            } )
     };
     console.log(q);
 };
 
 const sendQueryGoogle= () => {
     var q= document.getElementById("SearchBox").value;
+    if(chart){
+        removeChart(chart);
+    };
     var p=0;
+    document.getElementById("chart").style.display = "none";
+    document.getElementById("searchResults").style.display = "none";
+    document.getElementById("loader").style.display= "block";
     if(q!=""){
         axios.default.get('http://localhost:3000/google?q=' + q).then(
             response => {
-                json = JSON.stringify( response.data);
+                let json = JSON.stringify( response.data);
+                document.getElementById("loader").style.display= "none";
                 document.getElementById("searchResults").innerHTML=json;
                 document.getElementById("searchResults").style.display = "block";
             },
@@ -59,6 +80,7 @@ const removeChart=(chart)=>{
 const renderDataBubbleChart = () => {
     update= true;
     let json;
+    document.getElementById("loader").style.display= "block";
     axios.default.get('http://localhost:3000/json').then(
         response => {
             json = response.data;
@@ -71,6 +93,7 @@ const renderDataBubbleChart = () => {
                 .attrRadius("length")
                 .showTitleOnCircle(true)
                 .customColors("perpiscuity", "A3", false);
+            document.getElementById("loader").style.display= "none";
             d3.select('#chart').datum(json).call(chart);
         },
         error => console.error(error)
@@ -95,6 +118,7 @@ const updateDataBubbleChart=()=>{
 const renderDataBarChart = () => {
     update=true;
     let json;
+    document.getElementById("loader").style.display= "block";
     axios.default.get('http://localhost:3000/json').then( //cambiar ruta later
         response => {
             json = response.data;
@@ -104,6 +128,7 @@ const renderDataBarChart = () => {
                 .attrHeight('length')
                 .customColors("perpiscuity", "A3", false);
             d3.select('#chart').datum(json).call(chart);
+            document.getElementById("loader").style.display= "none";
         },
         error => console.error(error)
     )

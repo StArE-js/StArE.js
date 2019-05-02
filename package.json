@@ -26,6 +26,8 @@
     "express": "^4.16.4",
     "googleapis": "^37.2.0",
     "hyphenopoly": "^2.7.0",
+    "json-formatter-js": "^2.2.1",
+    "json-viewer": "^2.2.0",
     "languagedetect": "^1.2.0",
     "npm": "^6.7.0",
     "request": "^2.88.0",

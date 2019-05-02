@@ -101,7 +101,7 @@
       <link rel="stylesheet" type="text/css" media="all" href="/site/css/allfmpages.css" />
       <link rel="stylesheet" type="text/css" media="all"
             href="/site/includefiles/local_styles.css" />
-      <link rel="shortcut icon" href="/favicon.ico?ver=2" type="image/x-icon" /><script type="text/javascript" id="session-d21127206e1">var callbackToken='522ABE1B9E22AEE';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-shared.js"></script><script type="text/javascript" src="/local/js/oas_advertising.js"></script><script type="text/javascript" src="/local/js/hw-local.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
+      <link rel="shortcut icon" href="/favicon.ico?ver=2" type="image/x-icon" /><script type="text/javascript" id="session-d35359495e1">var callbackToken='522AB8D993433B7';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/hw-publisher-shared.js"></script><script type="text/javascript" src="/local/js/oas_advertising.js"></script><script type="text/javascript" src="/local/js/hw-local.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.fancybox-1.3.4.js"></script><script type="text/javascript" src="/shared/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript"
               src="/shared/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="/shared/js/util/content.jquery.addVariantLink.js"></script><script type="text/javascript" src="/shared/js/util/hw-col-expand.js"></script><script type="text/javascript" src="/local/js/local-col2.js"></script><script type="text/javascript" async="async"
               src="https://scholar.google.com/scholar_js/casa.js"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -141,7 +141,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
                <ul>
                   <li><a href="/cgi/adclick/?ad=52238&amp;adclick=true&amp;url=https%3A%2F%2Fasbmb.realmagnet.land%2Fdue-diligence"
                         target="_blank"><img class="adborder0" title="Do's and don'ts of data presentation"
-                             src="//www.jbc.org/adsystem/graphics/5544036045969754/jbc/due-doligence225x90.png?ad=52238&amp;adview=true"
+                             src="//www.jbc.org/adsystem/graphics/031595644468104256/jbc/due-doligence225x90.png?ad=52238&amp;adview=true"
                              alt="Do's and don'ts of data presentation" /></a></li>
                </ul>
                

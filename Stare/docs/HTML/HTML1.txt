@@ -767,8 +767,8 @@ Wakanda.registrarPosicion(publi_970x90_3);
 });
 </script></div></div></div><footer id="footer"><div class="footer2"><div class="container acenter cblanco"><div class="row">
 <div class="span12">
-<div class="mt1"><b><span id="videoauto49641titulo" data-titulo="V�deo del momento: Shakedown: Hawaii - Adquisici�n hostil">V�deo del momento: Shakedown: Hawaii - Adquisici�n hostil</span></b></div>
-<div class="videoauto publi_intext mt1" id="videoauto49641" data-video="49641"><iframe id="videoauto_49641" width="640" height="360" class="lazy_portada" src="" data-src="https://vandal.elespanol.com/iframevideo/49641?intext=1" frameborder="0" allowfullscreen></iframe><div class="videoyoutube"></div>
+<div class="mt1"><b><span id="videoauto49648titulo" data-titulo="V�deo del momento: Los juegos de PS Plus mayo 2019">V�deo del momento: Los juegos de PS Plus mayo 2019</span></b></div>
+<div class="videoauto publi_intext mt1" id="videoauto49648" data-video="49648"><iframe id="videoauto_49648" width="640" height="360" class="lazy_portada" src="" data-src="https://vandal.elespanol.com/iframevideo/49648?intext=1" frameborder="0" allowfullscreen></iframe><div class="videoyoutube"></div>
 <div class="clearer" id="beforevideodelmomento"></div>
 </div>
 <div class="clearer"></div>
