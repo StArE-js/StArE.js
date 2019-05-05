@@ -1,26 +1,30 @@
-misi�n la fuente de la gran hada de zelda: breath of the wild
-misi�n la fuente de la gran hada de zelda: breath of the wild
-ayuda a dangis a encontrar la fuente de hada oculta cerca de la aldea kakariko.
-para iniciar esta misi�n vuelve a la aldea kakariko y habla con dangis, que estar� cerca de la hoguera de la estatua de la diosa. solo estar� disponible cuando hayamos conseguido la c�mara de fotos.
-tras hablar con dangis dile que est�s listo para ir en busca de la fuente de la gran hada y s�guele. terminar�s pasando junto al santuario de ranhtoe y justo despu�s se cansar� y te dir� que sigas tu solo.
-todas las fuentes de la gran hada
-un poco m�s adelante del punto en el que te quedas solo ver�s una enorme planta. ac�rcate a ella y exam�nala para descubrir que dentro est� el gran hada seddha y p�gale las 100 rupias que te pide para que recupere sus poderes. una vez pagadas las 100 rupias te ofrecer� la posibilidad de mejorar alguna pieza de tu equipamiento previo pago de los materiales correspondientes.
-cuando hayas terminado de realizar las mejoras que quieras haz una foto a la fuente y ens��asela a dangis para completar la misi�n.
-
-		
-		var slideshows_init=new array();
-		var cargado_slide=0;
-		eventoscallback.push(
-function() {
-	if(!cargado_slide) {
-jquery.ajaxsetup({cache: true});
-jquery.getscript("https://www.vandalimg.com/rim/jquery.touchswipe.min.js");
-cargarscript("https://www.vandalimg.com/krogan/slideshows_estetica3.js?2018",function() {
-	procesar_slideshows();
-});
-cargado_slide=1;
-
-lo sentimos, adblock detecta err�neamente estas galer�as como publicidad.
-desactiva adblock para poder verlas
-buscar en la gu�a
-juegos relacionados
+hada awards $375,000 in scholarships | houston automobile dealers association
+hada awards $375,000 in scholarships
+media contact:
+roshelle salinas
+rsalinas@houstoncardealers.com
+281-509-1682
+hada awards $375,000 in scholarships to houston students
+houston (august 22, 2016) &#8211; the houston automobile dealers association (hada) issued $375,000 in scholarships to 126 deserving college students this week, providing financial support to houston area dealership employees, their dependents and students enrolled in automotive youth educational systems.
+two students whose parents work at classic chevrolet sugar land received $3,000 scholarships to attend college. both hanna kirby and hunter kolon will enter their first year of university in dallas this fall.
+kirby will attend the university of texas-dallas to study accounting. she also plans to play lacrosse and rush for a sorority her first year.
+“my older sister is also at ut dallas, so this scholarship greatly helps my parents in covering both our tuitions at the same time,” said kirby. “thanks to this scholarship, i’m excited to be studying with her instead of having to attend a junior college before a major university.”
+hunter will attend southern methodist university this fall studying human rights and pre-law.
+“i’m excited to receive a scholarship that will ease the financial burden of college,” said hunter. “i’m now prepared and as ready as i’ll ever be to study and work toward by educational goals.”
+hunter also has her own non-profit called lord of the streets helping homeless and poverty stricken communities in houston and the dominican republic. during college she plans to seek ways to expand her service to dallas and kenya.
+hannah kirby and hunter kolon“hada is dedicated to assisting dealer employees and their dependents in furthering their education,” said wyatt wainwright, president of hada. “it’s exciting to see these students put their scholarships to use by studying at universities and colleges across the nation and in industries from everything from automotive and healthcare to engineering and business.”
+“hada is dedicated to assisting dealer employees and their dependents in furthering their education,” said wyatt wainwright, president of hada. “it’s exciting to see these students put their scholarships to use by studying at universities and colleges across the nation and in industries from everything from automotive and healthcare to engineering and business.”
+the hada sponsored scholarship program is in its 13th year.  in the spring of each year, prospective applicants are screened and selected by a special committee based on financial need, community engagement and academic excellence.  in 2015, hada awarded 125 $3,000 scholarships to dealership employees, dependents of employees and ayes students.
+###
+about the houston automobile dealers association: 
+comprised of approximately 175 franchised new car and truck dealers, employing over 30,000 people in the houston area alone, hada is proud to serve as the local backbone for houston’s automotive industry. hada supports a robust scholarships program for dealership employees, their dependents and ayes students, produces the houston auto show and provides trucks for the harris county sheriff’s office’s motorist assistance program. hada is an active association offering its members a variety of serv
+&nbsp;
+&nbsp;
+search
+recent posts
+hada
+comprised of approximately 184 franchised new car and truck dealers, employing over 30,000 people in the houston area alone, hada is proud to serve as the local backbone for houston’s automotive industry. 
+by providing educational seminars and workshops, legislative representation, community service programs and services designed to assist franchised new car and truck dealers, we are committed to promoting and maintaining a competitive automotive industry in houston and the individual communities our members serve.
+contact
+links
+latest news

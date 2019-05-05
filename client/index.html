@@ -1,10 +1,108 @@
 <html>
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/css/bootstrap.min.css" integrity="sha384-PDle/QlgIONtM1aqA2Qemk5gPOE7wFq8+Em+G/hmo5Iq0CCmYZLv3fVRDJ4MMwEA" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/js/bootstrap.min.js" integrity="sha384-7aThvCh9TypR7fIc2HV4O/nFMVCBwyIUKL8XCtKE+8xgCgl/PQGuFsvShjr74PBp" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./styles/index.css" crossorigin="anonymous">
+
+</head>
+
+
 <body>
-  <h1>Hello world!</h1>
 
-  <div id="content"></div>
 
-  <script src="./index.js"></script>
+
+<div class="wrapper">
+    <!-- Sidebar -->
+    <nav id="sidebar">
+        <!-- Title -->
+        <div class="sidebar-header">
+            <h3>Menu</h3>
+            <p>Select Visualization</p>
+        </div>
+
+        <!-- Elements-->
+        <ul class="list-unstyled components bg-light">
+
+            <div class="viz2">
+                <ul class="list-unstyled">
+                    <li id="btn_1" class="clear">Bubble Chart</li>
+                    <li id="btn_2" class="clear">Bar Chart</li>
+                </ul>
+            </div>
+        </ul>
+
+        <!-- Footer -->
+        <div >
+            <p> © 2019 Copyright: Bellyster</p>
+            <p>USACH</p>
+        </div>
+    </nav>
+</div>
+<div class="content">
+    <div class="search-box">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3">
+
+                </div>
+                <div class="col-sm-6">
+                    <!-- Search form -->
+                    <div class="title">
+                        <h1>Stare.js</h1>
+                    </div>
+
+                </div>
+
+                <div class="col-sm-3">
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-3">
+
+                </div>
+                <div class="box active-pink-3 sm-4">
+
+                    <input style="width: 440px;" class="form-control" id="SearchBox" type="text" placeholder="Search" aria-label="Search">
+
+                </div>
+                <div class="options d-flex justify-content-center sm-4">
+
+                    <button type="button" id="btn_google" class="btn btn-secondary">Google</button>
+
+                    <button type="button" id="btn_ecosia" class="btn btn-secondary">Ecosia</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="graficos">
+        <div class="loader" id="loader"></div>
+
+        <div class="chart" id="chart" >
+               <svg></svg>
+        </div>
+
+        <div class="chart" id="chart2">
+               <svg></svg>
+        </div>
+
+
+
+    </div>
+    <div class="texto" id="searchResults" >
+        <pre id="json-renderer"></pre>
+    </div>
+
+</div>
+
+
+
+<div id="sideLine"></div>
+
+<script src="./index.js"></script>
 
 </body>
 </html>

@@ -1,9 +1,10 @@
 //Imports
+import JSONFormatter from 'json-formatter-js';
 const axios = require('axios');
 const d3 = require('d3');
-const bubbleChart = require('./scripts/bubbleChart.js').bubbleChart;
-const barChart = require('./scripts/barChart.js').barChart;
-import JSONFormatter from 'json-formatter-js'
+const bubbleChart = require('../Stare/visualizations/bubbleChart.js').bubbleChart;
+const barChart = require('../Stare/visualizations/barChart.js').barChart;
+
 //Variables
 var chart;
 var t = 500; //time to update data in ms.
@@ -15,51 +16,44 @@ var update=false;
 //SEARCH ENGINES:
 const sendQueryEcosia= () =>{
     var q= document.getElementById("SearchBox").value;
-    if(chart){
-        removeChart(chart);
-    };
     var p=0;
-    document.getElementById("chart").style.display = "none";
-    document.getElementById("searchResults").style.display = "none";
-    document.getElementById("loader").style.display= "block";
+    document.getElementById("loader").style.display="block";
+    const searchResults = document.getElementById("searchResults");
+    searchResults.innerHTML = "";
+
     if(q!=""){
         axios.default.get('http://localhost:3000/ecosia?q=' + q + '&p='+p).then(
             response => {
-                let json =JSON.stringify( response.data);
-                console.log(json);
-                document.getElementById("loader").style.display= "none";
-                document.getElementById("searchResults").innerHTML=json;
-                document.getElementById("searchResults").style.display = "block";
-                //const formatter= new JSONFormatter(json);
-                //document.body.appendChild(formatter.render());
-                //formatter.openAtDepth(3);
+                const json = response.data;
+                //format to put it in the view.
+                document.getElementById("loader").style.display="none";
+                searchResults.style.display = "block";
+                searchResults.style.overflow= "scroll";
+                const formatter = new JSONFormatter(json, 3);
+                document.getElementById("searchResults").appendChild(formatter.render());
             },
-            error =>{
-                console.error(error);
-                document.getElementById("loader").style.display= "none";
-                document.getElementById("searchResults").innerText="Ups! Something Went Wrong :(";
-
-            } )
+            error => console.error(error)
+        )
     };
     console.log(q);
 };
 
 const sendQueryGoogle= () => {
     var q= document.getElementById("SearchBox").value;
-    if(chart){
-        removeChart(chart);
-    };
     var p=0;
-    document.getElementById("chart").style.display = "none";
-    document.getElementById("searchResults").style.display = "none";
-    document.getElementById("loader").style.display= "block";
+    document.getElementById("loader").style.display="block";
+    const searchResults = document.getElementById("searchResults");
+    searchResults.innerHTML = "";
     if(q!=""){
         axios.default.get('http://localhost:3000/google?q=' + q).then(
             response => {
-                let json = JSON.stringify( response.data);
-                document.getElementById("loader").style.display= "none";
-                document.getElementById("searchResults").innerHTML=json;
-                document.getElementById("searchResults").style.display = "block";
+                let json =  response.data;
+
+                //format to put it in the view.
+                document.getElementById("loader").style.display="none";
+                searchResults.style.display = "block";
+                const formatter = new JSONFormatter(json, 3);
+                document.getElementById("searchResults").appendChild(formatter.render());
             },
             error => console.error(error)
         )
@@ -80,10 +74,11 @@ const removeChart=(chart)=>{
 const renderDataBubbleChart = () => {
     update= true;
     let json;
-    document.getElementById("loader").style.display= "block";
+    document.getElementById("loader").style.display="block";
     axios.default.get('http://localhost:3000/json').then(
         response => {
             json = response.data;
+            document.getElementById("loader").style.display="none";
             chart = bubbleChart()
                 .height(600)
                 .width(700)
@@ -93,8 +88,8 @@ const renderDataBubbleChart = () => {
                 .attrRadius("length")
                 .showTitleOnCircle(true)
                 .customColors("perpiscuity", "A3", false);
-            document.getElementById("loader").style.display= "none";
             d3.select('#chart').datum(json).call(chart);
+
         },
         error => console.error(error)
     )
@@ -118,17 +113,17 @@ const updateDataBubbleChart=()=>{
 const renderDataBarChart = () => {
     update=true;
     let json;
-    document.getElementById("loader").style.display= "block";
+    document.getElementById("loader").style.display="block";
     axios.default.get('http://localhost:3000/json').then( //cambiar ruta later
         response => {
             json = response.data;
+            document.getElementById("loader").style.display="none";
             chart = barChart()
                 .height(600)
                 .width(700)
                 .attrHeight('length')
                 .customColors("perpiscuity", "A3", false);
             d3.select('#chart').datum(json).call(chart);
-            document.getElementById("loader").style.display= "none";
         },
         error => console.error(error)
     )
@@ -158,8 +153,6 @@ const createBubbleChart = () => {
         document.getElementById("btn_1").innerText="Remove Bubble Chart";
         document.getElementById("btn_2").className="clear";
         document.getElementById("btn_2").innerText="Bar Chart";
-        document.getElementById("btn_3").className="clear";
-        document.getElementById("btn_3").innerText="Classic Text";
         //ocultar los otros divs:
         document.getElementById("chart").style.display = "block"; //maybe remove later
         document.getElementById("searchResults").style.display = "none";
@@ -175,8 +168,6 @@ const createBubbleChart = () => {
         document.getElementById("btn_1").innerText="Bubble Chart";
         document.getElementById("btn_2").className="clear";
         document.getElementById("btn_2").innerText="Bar Chart";
-        document.getElementById("btn_3").className="clear";
-        document.getElementById("btn_3").innerText="Classic Text";
         //hide divs:
         document.getElementById("searchResults").style.display = "none";
         //Remove Bubble Chart:
@@ -193,8 +184,6 @@ const createBarChart = () => {
         document.getElementById("btn_1").innerText="Bubble Chart";
         document.getElementById("btn_2").className="clicked";
         document.getElementById("btn_2").innerText="Remove Bar Chart";
-        document.getElementById("btn_3").className="clear";
-        document.getElementById("btn_3").innerText="Classic Text";
         //ocultar los otros divs:
         document.getElementById("chart").style.display = "block"; //maybe remove later
         document.getElementById("searchResults").style.display = "none";

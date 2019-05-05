@@ -1,6 +1,107 @@
+.active-pink-3 input[type=text] {
+    border: 1px solid #f48fb1;
+    box-shadow: 0 0 0 1px #f48fb1;
+    margin-bottom: 0px;
+}
+.search-box{
+    padding: 10px;
+    padding-top:30px;
+}
+
+.title{
+    text-align: center;
+    color: blueviolet;
+}
+
+.options button{
+    display: inline-block;
+    margin-left: 10px;
+    margin-righ:10px;
+}
+
+.chart{
+    display: none;
+}
+
+
+.wrapper ul{
+    height:80%;
+}
+#sidebar {
+    text-align: center;
+    padding-top:20px;
+    text-align: center;
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    z-index: 999;
+    background: #7386D5;
+    color: #fff;
+}
+
+.visualizations{
+    padding-top: 70%;
+}
+
+.viz2{
+    color: darkgray;
+    padding-top: 20%;
+    text-align: center;
+}
+.viz2 ul{
+    border-top: 1px solid lightgray;
+}
+.viz2 li{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid lightgray;
+}
+
+.viz2 li:hover{
+    background-color: #7386D5;
+    color: #fff;
+}
+
+.viz2 li:active{
+    padding-top: 11px;
+    padding-bottom: 12px;
+    border-top: 4px solid #5a6dbc;
+    border-left: 4px solid #5a6dbc;
+    border-bottom: 4px solid #94a9fc;
+    border-right: 4px solid #94a9fc;
+}
+.clicked{
+    color: white;
+    background-color: #7386D5;
+}
+
+.content{
+    padding-left:250px ;
+    margin-right: 10%;
+    background-color: white;
+    height: 100%;
+}
+#sideLine {
+    width: 2%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    z-index: 999;
+    background: #7386D5;
+}
+.graficos{
+    padding-left: 25%;
+}
 .loader {
+    margin-left: 30%;
+    margin-top:30%;
+    display:none;
     border: 16px solid #f3f3f3; /* Light grey */
-    border-top: 16px solid #3498db; /* Blue */
+    border-top: 16px solid #7386D5;
+    border-bottom: 16px solid #7386D5;
     border-radius: 50%;
     width: 120px;
     height: 120px;
@@ -11,4 +112,14 @@
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
 }
+.texto{
+    margin-left: 10%;
+}
 
+.searchResults{
+    display:none;
+    width:90%;
+    height:90%;
+    margin-top: 10%;
+    overflow: scroll;
+}

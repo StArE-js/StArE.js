@@ -541,7 +541,8 @@ margin: 20px 0 0 0;
   display: initial;
 }
 #Top_bar .logo #logo {
-  padding: 0px 40px 15px 0px;
+  padding: 0px 70px 5px 0px;
+height: initial;
 }
 #Header a.responsive-menu-toggle {
   right: 0px !important;

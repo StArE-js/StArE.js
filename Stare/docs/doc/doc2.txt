@@ -1,25 +1,26 @@
-el hada de la navidad | obras de teatro muy cortas
-el hada de la navidad
-descripción: en la víspera de navidad, lily recibe la visita de un hada que le demuestra lo valioso que es estar con sus seres queridos.
-personajes: lily, altea, papá, mamá, hermano
-¡hola! también puedes leer:
-primer acto
-el telón se abre y observamos a la familia de lily, una niña muy explosiva, reunida en torno a un árbol debajo del cual únicamente hay dos regalos pequeños, para ella y su hermano. ella abre el suyo y se molesta al ver que recibió una muñeca de trapo. lily: ¿una tonta muñeca? ¡mamá, yo quería un scooter! hermano: y yo quería una consola de videojuegos, ¡esta pelota barata no me gusta! mamá (malhumorada): pues fue para lo único que nos alcanzó este año, ¡agradecidos deberían estar
-segundo acto
-en su habitación, lily refunfuña y se queja de su familia. lily: vaya navidad más fea estamos pasando. los odio a todos. de pronto, un resplandor se hace presente en un extremo del escenario y la niña se sorprende. entra en escena una muchacha muy hermosa, ataviada con un largo vestido blanco, alas doradas y una varita mágica. lily: ¿quién eres tú? altea: soy altea, el hada de la navidad. y estoy aquí porque en esta casa hace falta bastante espíritu navideño. lily: pues sí, ¡
-tercer acto
-lily entra en escena, donde sus padres y su hermana se encuentran sentados cerca del árbol de navidad, apáticos y decepcionados. la pequeña abraza a su mamá y besa su mejilla. mamá: lily, ¿qué pasó? lily: pasa que es navidad, mamá y todos deberíamos estar felices por estar juntos. su familia se mira con sorpresa. lily: perdón por haberme portado tan mal como ustedes. no me importan los regalos, solo me importa pasar esta navidad con las personas que quiero. papá: perdónanos a
-fin
-deja tu voto para que el autor sepa cuánto te gustó:
-acerca del autor
-eve
-descarga gratis 20 guiones de obras de teatro cortas
-recomendamos leer:
-nuestros tipos de guiones para obras de teatro cortas
-obras de teatro clasificadas por n° de personajes
-¡hola!
-espero que la pases bien y que cuando tengas tiempo libre, vengas aquí a leer las historias que frecuentemente publicamos. (obras de teatro cortas y largas de drama, cómicas, infantiles, de amor, de terror, etc.)
-si es que deseas agradecerle a los autores y difundir la lectura de estas obras de teatro cortas, puedes hacer clic en los botones sociales que hay en cada obra de teatro para compartir la web con tus amigos (twitter, facebook, google plus, o por email)
-si es que quieres recibir en tu email los guiones de las obras para representar en el teatro, tan solo debes poner tu email en el recuadro de arriba para suscribirte gratis.
-si quieres aportar a la comunidad con tu obra de teatro corta, puedes enviarla por email aquí.
-por último, si quieres que seamos amigos, me puedes agregar aquí
+misi�n la fuente de la gran hada de zelda: breath of the wild
+misi�n la fuente de la gran hada de zelda: breath of the wild
+ayuda a dangis a encontrar la fuente de hada oculta cerca de la aldea kakariko.
+para iniciar esta misi�n vuelve a la aldea kakariko y habla con dangis, que estar� cerca de la hoguera de la estatua de la diosa. solo estar� disponible cuando hayamos conseguido la c�mara de fotos.
+tras hablar con dangis dile que est�s listo para ir en busca de la fuente de la gran hada y s�guele. terminar�s pasando junto al santuario de ranhtoe y justo despu�s se cansar� y te dir� que sigas tu solo.
+todas las fuentes de la gran hada
+un poco m�s adelante del punto en el que te quedas solo ver�s una enorme planta. ac�rcate a ella y exam�nala para descubrir que dentro est� el gran hada seddha y p�gale las 100 rupias que te pide para que recupere sus poderes. una vez pagadas las 100 rupias te ofrecer� la posibilidad de mejorar alguna pieza de tu equipamiento previo pago de los materiales correspondientes.
+cuando hayas terminado de realizar las mejoras que quieras haz una foto a la fuente y ens��asela a dangis para completar la misi�n.
+
+		
+		var slideshows_init=new array();
+		var cargado_slide=0;
+		eventoscallback.push(
+function() {
+	if(!cargado_slide) {
+jquery.ajaxsetup({cache: true});
+jquery.getscript("https://www.vandalimg.com/rim/jquery.touchswipe.min.js");
+cargarscript("https://www.vandalimg.com/krogan/slideshows_estetica3.js?2018",function() {
+	procesar_slideshows();
+});
+cargado_slide=1;
+
+lo sentimos, adblock detecta err�neamente estas galer�as como publicidad.
+desactiva adblock para poder verlas
+buscar en la gu�a
+juegos relacionados
