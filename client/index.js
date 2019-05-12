@@ -17,6 +17,15 @@ var update=false;
 const sendQueryEcosia= () =>{
     var q= document.getElementById("SearchBox").value;
     var p=0;
+    //Fix Styles
+    document.getElementById("btn_1").className="clear";
+    document.getElementById("btn_1").innerText="Bubble Chart";
+    document.getElementById("btn_2").className="clear";
+    document.getElementById("btn_2").innerText="Bar Chart";
+    document.getElementById("chart").style.display = "none";
+    if(chart){
+        removeChart(chart);
+    };
     document.getElementById("loader").style.display="block";
     const searchResults = document.getElementById("searchResults");
     searchResults.innerHTML = "";
@@ -43,6 +52,14 @@ const sendQueryGoogle= () => {
     var p=0;
     document.getElementById("loader").style.display="block";
     const searchResults = document.getElementById("searchResults");
+    document.getElementById("btn_1").className="clear";
+    document.getElementById("btn_1").innerText="Bubble Chart";
+    document.getElementById("btn_2").className="clear";
+    document.getElementById("btn_2").innerText="Bar Chart";
+    document.getElementById("chart").style.display = "none";
+    if(chart){
+        removeChart(chart);
+    };
     searchResults.innerHTML = "";
     if(q!=""){
         axios.default.get('http://localhost:3000/google?q=' + q).then(
@@ -85,7 +102,8 @@ const renderDataBubbleChart = () => {
                 .forceApart(-600)
                 .maxRadius(70)
                 .minRadius(10)
-                .attrRadius("length")
+                .attrRadius("lenght2")
+                .transition(1000)
                 .showTitleOnCircle(true)
                 .customColors("perpiscuity", "A3", false);
             d3.select('#chart').datum(json).call(chart);

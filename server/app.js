@@ -8,17 +8,13 @@ const google = require('./google_API');
 app.use(cors());
 app.options('*', cors()); //con esta linea y la anterior se permite la conexion desde cualquier servidor hacia el backend
 
-app.get('/', function (req, res) {
-    res.send('Hello World!');
-});
 
 app.get('/json', function(req, res){
     //res.send('JSON :D');
     var input= __dirname +"/files/SERP.json";
-
     //Document is an Object of Type "Documents", Defined.
     var Json= stare.get_Json();
-    stare.get_Metrics('length','ranking', 'language', 'perpiscuity');
+    stare.get_Metrics('length','lenght2','ranking', 'language', 'perpiscuity');
     res.send(Json);
 
 } );

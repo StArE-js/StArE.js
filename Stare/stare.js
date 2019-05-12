@@ -89,7 +89,7 @@ let get_HTML= function(num){
 var html=false, document=false, serp=false;
 var metric=[];
 var get_Metrics= function(){
-    console.log('tengo ' + arguments.length +'metricas que calcular');
+    console.log('tengo ' + arguments.length +' metricas que calcular');
     i=0;
     //Check if Documents or HTMLS are nedeed.
     while (i< arguments.length){

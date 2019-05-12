@@ -1,978 +1,825 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en-US" itemscope="itemscope" itemtype="https://schema.org/Article">
+<!--[if lt IE 7]><html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><html lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html lang="en" class="no-js ie ie8 lte8 lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html lang="en" class="no-js ie ie9 lte9"> <![endif]-->
+<!--[if gt IE 9]> <html lang="en" class="no-js"> <![endif]-->
+<!--[if !IE]><!--><html lang="en" class="no-js"> <!--<![endif]-->
 
-<!-- head -->
-<head>
-
-<!-- meta -->
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<title itemprop="name">HADA awards $375,000 in Scholarships to Houston Students | Houston Automobile Dealers Association</title>
-
-<meta name="description" content="Houston Automobile Dealers Association" />
-<meta name="keywords" content="Houston, Car Dealers Association, Automobile Dealers Association" />
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-68393750-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-<link rel="shortcut icon" href="https://www.houstoncardealers.com/wp-content/uploads/favicon.ico" type="image/x-icon" />	
-
-<!-- wp_head() -->
-<script>
-//<![CDATA[
-window.mfn_ajax = "https://www.houstoncardealers.com/wp-admin/admin-ajax.php";
-window.mfn_nicescroll = 40;
-window.mfn_prettyphoto = {style:"pp_default", width:0, height:0};
-window.mfn_sliders = {blog:0, clients:0, offer:0, portfolio:0, shop:0, slider:0, testimonials:0};
-window.mfn_retina_disable = 0;
-//]]>
-</script>
-<script type="text/javascript">pc_lb_classes = [".pc_lb_trig_314"]; pc_ready_lb = [];</script>
-<link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel="alternate" type="application/rss+xml" title="Houston Automobile Dealers Association &raquo; Feed" href="https://www.houstoncardealers.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Houston Automobile Dealers Association &raquo; Comments Feed" href="https://www.houstoncardealers.com/comments/feed/" />
-<link rel='stylesheet' id='wp-block-library-css'  href='https://www.houstoncardealers.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.houstoncardealers.com/wp-content/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
-<style id='rs-plugin-settings-inline-css' type='text/css'>
-.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
-</style>
-<link rel='stylesheet' id='mfn-base-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/css/base.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-btn-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/css/buttons.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-icons-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/fonts/mfn-icons.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-grid-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/css/grid.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-layout-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/css/layout.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-shortcodes-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/css/shortcodes.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-variables-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/css/variables.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-style-simple-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/css/style-simple.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-animations-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/js/animations/animations.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-colorpicker-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/js/colorpicker/css/colorpicker.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-jquery-ui-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/css/ui/jquery.ui.all.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-jplayer-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/css/jplayer/jplayer.blue.monday.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-prettyPhoto-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/css/prettyPhoto.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-responsive-1240-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/css/responsive-1240.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-responsive-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/css/responsive.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-style-colors-php-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/style-colors.php' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-style-php-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/style.php' type='text/css' media='all' />
-<link rel='stylesheet' id='PT+Sans-css'  href='https://fonts.googleapis.com/css?family=PT+Sans%3A300%2C400%2C700' type='text/css' media='all' />
-<link rel='stylesheet' id='Raleway-css'  href='https://fonts.googleapis.com/css?family=Raleway%3A300%2C400%2C700' type='text/css' media='all' />
-<link rel='stylesheet' id='Patua+One-css'  href='https://fonts.googleapis.com/css?family=Patua+One' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-custom-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme/css/custom.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mediaelement-css'  href='https://www.houstoncardealers.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-mediaelement-css'  href='https://www.houstoncardealers.com/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='views-pagination-style-css'  href='https://www.houstoncardealers.com/wp-content/plugins/wp-views/embedded/res/css/wpv-pagination.css' type='text/css' media='all' />
-<style id='views-pagination-style-inline-css' type='text/css'>
-.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item a {color: #444;background-color: #fff;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:focus {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item a {color: #444;background-color: #eeeeee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:focus {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item {border-color: #0099cc;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item a {color: #444;background-color: #cbddeb;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue a:focus {color: #000;background-color: #95bedd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #95bedd;}
-</style>
-<link rel='stylesheet' id='style-css'  href='https://www.houstoncardealers.com/wp-content/themes/betheme-child/style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='pc_fontawesome-css'  href='https://www.houstoncardealers.com/wp-content/plugins/private-content/css/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='pc_multiselect-css'  href='https://www.houstoncardealers.com/wp-content/plugins/private-content/js/multiple-select/multiple-select.css' type='text/css' media='all' />
-<link rel='stylesheet' id='pc_lightbox-css'  href='https://www.houstoncardealers.com/wp-content/plugins/private-content/js/magnific_popup/magnific-popup.css' type='text/css' media='all' />
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'></script>
-<script type='text/javascript'>
-var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
-</script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
-/* ]]> */
-</script>
-<link rel='https://api.w.org/' href='https://www.houstoncardealers.com/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.houstoncardealers.com/xmlrpc.php?rsd" />
-<link rel='prev' title='HADA Donates $50,000 to American Red Cross Greater Houston Chapter' href='https://www.houstoncardealers.com/hada-donates-50000-to-american-red-cross-greater-houston-chapter/' />
-<link rel='next' title='HADA and Individual Dealers Step Up to Support the Texas War Memorial' href='https://www.houstoncardealers.com/hada-and-individual-dealers-step-up-to-support-the-texas-war-memorial/' />
-
-<link rel="canonical" href="https://www.houstoncardealers.com/hada-awards-375000-in-scholarships-to-houston-students/" />
-<link rel='shortlink' href='https://www.houstoncardealers.com/?p=2248' />
-<link rel="alternate" type="application/json+oembed" href="https://www.houstoncardealers.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.houstoncardealers.com%2Fhada-awards-375000-in-scholarships-to-houston-students%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.houstoncardealers.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.houstoncardealers.com%2Fhada-awards-375000-in-scholarships-to-houston-students%2F&#038;format=xml" />
-<style>
-.post-password-form {
-margin: 50px 0;
-}
-
-body .gform_wrapper .gform_body .gform_fields .gfield .gfield_description {
-padding-top: initial;
-padding-bottom: 15px;
-}
-
-.column_column ul li {
-list-style: none;
-}
-
-.icon-locate {
-position: relative;
-top: 2px;
-}
-
-.widget_archive UL, .widget_nav_menu UL {
-  background : initial;
-}
-.widget_archive ul, .widget_nav_menu ul {
-  padding : initial;
-}
-#Footer .widget_recent_entries ul li {
-  padding : initial;
-}
-#Footer .widget_recent_entries ul li {
-  background : initial;
-}
-#Footer .widget_recent_entries ul li::after {
-  background-color : initial;
-}
-.post-nav {
-  padding: 30px 10px 4px 130px;
-}
-.hide-love .post-header .title_wrapper {
-  margin-left: -30px;
-  padding-top: 50px !important;
-}
-.post-header .title_wrapper h1 {
-  margin-bottom: -10px;
-}
-.column one-fourth li:after {
-  background-color : none;
-}
-.post-header .title_wrapper h1 {
-  line-height: initial;
-}
-.header-classic #Top_bar {
-  background: url(/wp-content/uploads/bgrd_menu.png) repeat-y center top;
-  padding: 25px 0;
-}
-body:not(.template-slider):not(.header-simple) #Header {
-  min-height: initial;
-}
-#Top_bar a.responsive-menu-toggle {
-  color : #cccccc;
-}
-#Top_bar .menu > LI > A SPAN:not(.description) {
-  text-transform : uppercase;
-  letter-spacing : 1px;
-  font-weight : bold;
-  padding: 0 17px;
-  border-right-width: initial;
-  border-style: initial;
-}
-#Top_bar .menu li ul li a span {
-  font-weight : bold;
-  font-style : italic;
-  font-size : medium;
-}
-#Top_bar .menu > li > a {
-  padding: 10px 0px;
-}
-#Top_bar #logo {
-  height : 92px;
-  line-height : 0px;
-  padding : 0;
-}
-
-#Action_bar .social-menu li {
-  font-size : 11px;
-  font-weight : bold;
-  letter-spacing : 1px;
-  text-transform : uppercase;
-}
-.header-classic #Action_bar .social-menu {
-  padding: 6px 0;
-}
-.textwidget {
-  font-size : 14px;
-  line-height : 20px;
-}
-#text-2 {
-  font-size : 24px;
-}
-.counter .desc_wrapper .number-wrapper {
-  color : #6f6f6f;
-  font-size: 70px;
-  line-height: 70px;
-  margin-bottom: 10px;
-}
-.counter .desc_wrapper .title {
-  font-size: 22px;
-}
-.menu-secondary-menu-container li {
-  color : #6f6f6f;
-}
-#Footer a {
-  color : white;
-}
-.post-date {
-  font-size : 13px;
-  font-style : italic;
-}
-.column, .columns {
-  float: left;
-  margin: 0 1% 20px;
-}
-.counter {
-  background-image : initial;
-}
-a.button .button_label {
-  padding: 5px 14px;
-  font-weight: bold;
-  font-style: italic;
-  font-size: smaller;
-  letter-spacing: 1px;
-}
-a.button {
-  border-radius: 2px;
-}
-.tparrows.round, .tparrows.navbar {
-  width : 30px;
-  height : 30px;
-  border-radius : 2px;
-}
-.column_column ul {
-  line-height : 24px;
-  margin : initial;
-  color : #626262;
-}
-ul.list_05 li {
-  margin-bottom: 20px;
-  position: relative;
-  list-style: none;
-  font-size : 18px;
-  font-style : italic;
-}
-ul.list_05 li:after {
-  content: "";
-  width: 50px;
-  height: 1px;
-  overflow: hidden;
-  background: rgba(0,0,0,.4);
-  position: absolute;
-  left: 0;
-  bottom: -11px;
-}
-ul.list_link li, li.list_link {
-  background: url(/wp-content/themes/betheme-child/images/icons/list_link.png) no-repeat 10px 5px;
-}
-ul.list_link li {
-  margin-bottom: 20px;
-  position: relative;
-  list-style: none;
-  padding-left: 50px;
-  margin-left: 0;
-}
-ul.list_pdf li, li.list_pdf {
-  background: url(/wp-content/themes/betheme-child/images/icons/list_pdf.png) no-repeat;
-}
-
-.list_pdf a {
-  color : #626262;
-}
-
-ul.list_form li, li.list_form {
-  background: url(/wp-content/themes/betheme-child/images/icons/list_form.png) no-repeat;
-}
-
-.list_form a {
-  color : #626262;
-}
-
-ul.list li {
-  margin-bottom: 22px;
-  position: relative;
-  list-style: none;
-  padding-left: 60px;
-  margin-left: 0;
-  font-size : 18px;
-  font-style : italic;
-  line-height : 28px;
-}
-
-ul.list li:after {
-  content: "";
-  width: 50px;
-  height: 1px;
-  overflow: hidden;
-  background: rgba(0,0,0,.4);
-  position: absolute;
-  left: 0;
-  bottom: -11px;
-  margin-left : 60px;
-}
-
-ul.list_flipbook li, li.list_flipbook {
-  background: url(/wp-content/themes/betheme-child/images/icons/list_flipbook.png) no-repeat;
-}
-ul.list_flipbook li {
-  margin-bottom: 22px;
-  position: relative;
-  list-style: none;
-  padding-left: 60px;
-  margin-left: 0;
-  font-size : 18px;
-  font-style : italic;
-  line-height : 28px;
-}
-.list_flipbook a {
-  color : #626262;
-}
-ul.list_flipbook li:after {
-  content: "";
-  width: 50px;
-  height: 1px;
-  overflow: hidden;
-  background: rgba(0,0,0,.4);
-  position: absolute;
-  left: 0;
-  bottom: -11px;
-  margin-left : 60px;
-}
-
-ul.list_mixed li, ul.list_check li, ul.list_star li, ul.list_idea li {
-  line-height: 22px;
-  font-size: 14px;
-}
-ul.list_mixed li:after, ul.list_check li:after, ul.list_star li:after, ul.list_idea li:after {
-  width: 50px;
-  background: rgba(0,0,0,.4);
-  margin-left: 40px;
-
-}
-
-.sub-menu-link, .sub-menu-link a {
-  font-size : 18px;
-  letter-spacing : 2px;
-  color: #cccccc;
-}
-.page-text-header {
-  font-family: 'Raleway';
-  font-size: 28px;
-  line-height: 40px;
-  color: #c14350;
-  text-transform: uppercase;
-}
-.page-text-header-02 {
-  font-family: 'Raleway';
-  font-size: 26px;
-  line-height: 36px;
-  color: #c14350;
-}
-.text-first-par {
-  font-size : 20px;
-  font-style : italic;
-  line-height : 30px;
-}
-.column .one-second {
-  margin-left : 0;
-  margin-right : 2%;
-}
-.content-title {
-  font-size : 18px;
-  font-weight : bold;
-}
-.content-cat {
-  font-size : 16px;
-  font-weight : bold;
-  font-variant: all-petite-caps;
-  letter-spacing: 1px;
-}
-.content-text {
-  font-size : 14px;
-}
-.content-url {
-  font-size : 14px;
-  font-style : italic;
-}
-ul.associate-list li, li.associate-list {
-  background: url(/wp-content/themes/betheme-child/images/icons/list_member.png) no-repeat no-repeat 2px 2px;
-}
-ul.associate-list li {
-  margin-bottom: 22px;
-  position: relative;
-  list-style: none;
-  padding-left: 34px;
-  margin-left: 0;
-  line-height : 28px;
-}
-
-/* ul.associate-list li:after {
-  content: "";
-  width: 50px;
-  height: 1px;
-  overflow: hidden;
-  background: rgba(0,0,0,.4);
-  position: absolute;
-  left: 0;
-  bottom: -11px;
-  margin-left : 34px;
-}
-*/
-ul.list_plus li, li.list_plus {
-  background: url(/wp-content/themes/betheme-child/images/icons/list_plus.png) no-repeat no-repeat 8px 5px;
-}
-ul.list_plus li {
-  margin-bottom: 22px;
-  position: relative;
-  list-style: none;
-  padding-left: 34px;
-  margin-left: 0;
-  line-height : 28px;
-  font-size : 17px;
-}
-ul.list_plus li:after {
-  content: "";
-  width: 50px;
-  height: 1px;
-  overflow: hidden;
-  background: rgba(0,0,0,.4);
-  position: absolute;
-  left: 0;
-  bottom: -11px;
-  margin-left : 34px;
-}
-.list_plus a {
-  color : #626262;
-  font-style : italic;
-}
-.counter .desc_wrapper .title {
-  line-height: 30px;
-}
-.pagination select {
-  width: initial;
-  display: initial;
-}
-
-body:not(.template-slider) #Content {
-  padding-top: initial;
-}
-hr {
-  margin: 10px 0;
-}
-.pagination {
-font-size: 14px;
-font-weight: 700;
-padding: 20px 0 0 34px;
-}
-.image_frame, .wp-caption {
-  border-width: 0px;
-}
-#Content {
-  background-image: url(/wp-content/uploads/bg_7px-grey.png);
-  background-repeat: repeat-x;
-}
-.detpage-cat {
-  font-size: 16px;
-  font-style: italic;
-  padding: 10px 0 20px;
-}
-.detpage-title {
-  font-family: "Raleway";
-  font-size: 28px;
-  color: #333333;
-  line-height: 40px;
-  padding-bottom: 10px;
-}
-.detpage-text {
-  font-size: 16px;
-  line-height: 28px;
-}
-.detpage-url {
-  line-height: 40px;
-}
-.detpage-contact {
-  font-weight: bold;
-  line-height: 24px;
-}
-.wp-caption-text {
-  text-align: left;
-  color: #333;
-  font-size: 13px;
-  font-style: italic;
-}
-.page-name {
-  font-size: 22px;
-  letter-spacing: initial;
-  font-weight : bold;
-}
-.page-title {
-  font-size: 15px;
-  font-style: italic;
-}
-.page-dealer {
-  font-size: 12px;
-  text-transform: uppercase;
-  letter-spacing: .7px;
-}
-.page-divider {
-  padding: 0 0 20px 0;
-}
-body:not(.template-slider) .widget-area {
-  margin-top: initial;
-}
-.fancy_heading .title {
-text-align: left;
-font-size: 38px;
-font-family: 'Raleway';
-}
-.column.one-fourth.column_column {
-margin-bottom: 5px;
-}
-
-#Top_bar .menu li ul {
-        top: 60px;
-}
-
-.pc_login_form {
-margin: 20px 0 0 0;
-}
-
-.members-menu2 UL {
-  padding : 0 0 0 20px;
-}
-
- @media only screen and (max-width: 767px) {
-#Top_bar #logo img.logo-main {
-  display: initial;
-}
-#Top_bar .logo #logo {
-  padding: 0px 70px 5px 0px;
-height: initial;
-}
-#Header a.responsive-menu-toggle {
-  right: 0px !important;
-  top: 22px !important;
-}
-.section_wrapper, .container, .four.columns {
-  width: 300px !important;
-}
-}
-
-@media only screen and (min-width: 641px) {
-.gform_wrapper ul.gform_fields:not(.top_label) li.gfield.gfield_error div.ginput_complex.ginput_container.gf_name_has_3 span {
-    width: 32%!important;
-}
-.gf_repeater_add {
-margin-left: 29%;
-}
-
-}
-
-.validation_message  {
-margin-left: 29%
-}
-
-.ginput_preview {
-margin-left: 29%
-}
-
-.gform_confirmation_wrapper .gform_confirmation_message {
-background: #283d6d;
-}
-
-.gform_wrapper .gform_page_footer {
-padding-left: 29%;
-}
-</style>
-
-<!--[if lt IE 9]>
-<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-<script>
-//<![CDATA[
-jQuery(window).load(function(){
-var retina = window.devicePixelRatio > 1 ? true : false;if( retina ){var retinaEl = jQuery("#logo img.logo-main");var retinaLogoW = retinaEl.width();var retinaLogoH = retinaEl.height();retinaEl.attr( "src", "https://www.houstoncardealers.com/wp-content/uploads/Houston-Car-Dealers_Logo2x.png" ).width( retinaLogoW ).height( retinaLogoH );var stickyEl = jQuery("#logo img.logo-sticky");var stickyLogoW = stickyEl.width();var stickyLogoH = stickyEl.height();stickyEl.attr( "src", "https://www.houstoncardealers.com/wp-content/uploads/Houston-Car-Dealers_Logo2x.png" ).width( stickyLogoW ).height( stickyLogoH );}});
-//]]>
-</script>
-<meta name="generator" content="Powered by Slider Revolution 5.4.8.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-<script type="text/javascript">pc_ms_countSelected = "# of % selected";pc_ms_allSelected = "All selected";pc_html5_validation = true;pc_ms_search_placeh = "Search options";pc_ms_search_nores = "No matches found";</script><script type="text/javascript">function setREVStartSize(e){									
-						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
-							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
-						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
-					};</script>
-</head>
-
-<!-- body -->
-<body class="post-template-default single single-post postid-2248 single-format-standard  with_aside aside_right color-custom style-default layout-full-width nice-scroll-on no-hover-tablet mobile-tb-left hide-love header-classic sticky-white ab-hide subheader-title-left menu-line-below-80 menuo-right pc_unlogged">
-	
-	<!-- mfn_hook_top --><!-- mfn_hook_top -->	
-		
-		
-	<!-- #Wrapper -->
-	<div id="Wrapper">
-	
-				
-			
-		<!-- #Header_bg -->
-		<div id="Header_wrapper"  class="bg-fixed">
-	
-			<!-- #Header -->
-			<header id="Header">
-				
-
-
-<!-- .header_placeholder 4sticky  -->
-<div class="header_placeholder"></div>
-
-<div id="Top_bar">
-
-	<div class="container">
-		<div class="column one">
-		
-			<div class="top_bar_left clearfix loading">
-			
-				<!-- .logo -->
-				<div class="logo">
-					<a id="logo" href="https://www.houstoncardealers.com" title="Houston Automobile Dealers Association"><img class="logo-main   scale-with-grid" src="https://www.houstoncardealers.com/wp-content/uploads/Houston-Car-Dealers_Logo.png" 	alt="Houston Automobile Dealers Association" /><img class="logo-sticky scale-with-grid" src="https://www.houstoncardealers.com/wp-content/uploads/Houston-Car-Dealers_Logo.png" alt="" /></a>				</div>
-			
-				<div class="menu_wrapper">
-					<nav id="menu" class="menu-main-menu-nov-2016-container"><ul id="menu-main-menu-nov-2016" class="menu"><li id="menu-item-3839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a href="https://www.houstoncardealers.com/"><span>Home</span></a></li>
-<li id="menu-item-3840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://www.houstoncardealers.com/about-us/"><span>About HADA</span></a>
-<ul class="sub-menu">
-	<li id="menu-item-3841" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.houstoncardealers.com/about-us/"><span>About Us</span></a></li>
-	<li id="menu-item-3842" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://www.houstonautoshow.com"><span>Houston Auto Show</span></a></li>
-	<li id="menu-item-3843" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.houstoncardealers.com/community-outreach/"><span>Community Outreach</span></a></li>
-</ul>
-</li>
-<li id="menu-item-3844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://www.houstoncardealers.com/member-services/"><span>Membership</span></a>
-<ul class="sub-menu">
-	<li id="menu-item-3845" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.houstoncardealers.com/member-services/"><span>Member Services</span></a></li>
-	<li id="menu-item-3846" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.houstoncardealers.com/associate-members/"><span>Associate Members</span></a></li>
-	<li id="menu-item-3847" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.houstoncardealers.com/dealer-members/"><span>Dealer Members</span></a></li>
-	<li id="menu-item-3959" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.houstoncardealers.com/members/"><span>Members Directory</span></a></li>
-</ul>
-</li>
-<li id="menu-item-3856" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent"><a href="https://www.houstoncardealers.com/news/"><span>News</span></a></li>
-<li id="menu-item-3857" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.houstoncardealers.com/resources/"><span>Resources</span></a></li>
-<li id="menu-item-3858" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.houstoncardealers.com/consumers/"><span>Consumers</span></a></li>
-<li id="menu-item-3859" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.houstoncardealers.com/contact/"><span>Contact</span></a></li>
-</ul></nav><a class="responsive-menu-toggle " href="#"><i class="icon-menu"></i></a>					
-				</div>			
-				
-				<div class="secondary_menu_wrapper">
-					<!-- #secondary-menu -->
-									</div>
-				
-				<div class="banner_wrapper">
-									</div>
-				
-				<div class="search_wrapper">
-					<!-- #searchform -->
-										<form method="get" id="searchform" action="https://www.houstoncardealers.com/">
-												<i class="icon_search icon-search"></i>
-						<a href="#" class="icon_close"><i class="icon-cancel"></i></a>
-						<input type="text" class="field" name="s" id="s" placeholder="Enter your search" />			
-						<input type="submit" class="submit" value="" style="display:none;" />
-					</form>
-				</div>				
-				
-			</div>
-			
-						
-		</div>
-	</div>
-</div>	
-							</header>
-				
-					
-		</div>
-		
-		<!-- mfn_hook_content_before --><!-- mfn_hook_content_before -->
-<!-- #Content -->
-<div id="Content">
-	<div class="content_wrapper clearfix">
-
-		<!-- .sections_group -->
-		<div class="sections_group">
-			
-<div id="post-2248" class="no-img no-share post-2248 post type-post status-publish format-standard has-post-thumbnail hentry category-press-release">
-
-	<div class="section section-post-header">
-		<div class="section_wrapper clearfix">
-			
-			
-			<div class="column one post-header">
-			
-				<div class="button-love"><a href="#" class="mfn-love " data-id="2248"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">1</span></a></div>
-				
-				<div class="title_wrapper">
-				
-					<h1 class="entry-title" itemprop="headline">HADA awards $375,000 in Scholarships to Houston Students</h1>					
-										
-										
-				</div>
-				
-			</div>
-			
-			<div class="column one single-photo-wrapper">
-				
-								
-									<div class="image_frame scale-with-grid disabled">
-						<div class="image_wrapper">
-							<img width="470" height="351" src="https://www.houstoncardealers.com/wp-content/uploads/post_scholarship.jpg" class="scale-with-grid wp-post-image" alt="" itemprop="image" srcset="https://www.houstoncardealers.com/wp-content/uploads/post_scholarship.jpg 470w, https://www.houstoncardealers.com/wp-content/uploads/post_scholarship-300x224.jpg 300w, https://www.houstoncardealers.com/wp-content/uploads/post_scholarship-195x146.jpg 195w, https://www.houstoncardealers.com/wp-content/uploads/post_scholarship-50x37.jpg 50w, https://www.houstoncardealers.com/wp-content/uploads/post_scholarship-100x75.jpg 100w" sizes="(max-width: 470px) 100vw, 470px" />						</div>
-					</div>
-								
-			</div>
-			
-		</div>
-	</div>
-
-	<div class="post-wrapper-content">
-
-		<div class="entry-content" itemprop="mainContentOfPage">
-			<div class="section the_content has_content"><div class="section_wrapper"><div class="the_content_wrapper"><p>Media contact:<br />
-RoShelle Salinas<br />
-<a href="mailto:rsalinas@houstoncardealers.com">rsalinas@houstoncardealers.com<br />
-</a>281-509-1682</p>
-<p><strong>HADA awards $375,000 in Scholarships to Houston Students<br />
-</strong><em>Three Spring area students receive $3,000 each towards college tuition.</em></p>
-<p>HOUSTON (August 5, 2015) &#8211; The Houston Automobile Dealers Association (HADA) issued $375,000 in scholarships to 125 deserving college students this week, providing financial support to Houston area dealership employees, their dependents and AYES students.</p>
-<p>Three students from the Spring area received $3,000 scholarships to attend college. Nathan Murphy attending Yale and Reynaldo Cienfuegos attending the University of Houston-Downtown, were selected from Fred Haas Toyota Scion World. Halie Fretwell was selected from the Automotive Youth Program at Carl Wunsche Senior High School and will attend San Jacinto College.</p>
-<p><img class="aligncenter wp-image-2291 size-full" src="https://www.houstoncardealers.com/wp-content/uploads/post_hada-scholarship-recipients.jpg" alt="post_hada-scholarship-recipients" width="875" height="284" srcset="https://www.houstoncardealers.com/wp-content/uploads/post_hada-scholarship-recipients.jpg 875w, https://www.houstoncardealers.com/wp-content/uploads/post_hada-scholarship-recipients-300x97.jpg 300w, https://www.houstoncardealers.com/wp-content/uploads/post_hada-scholarship-recipients-260x84.jpg 260w, https://www.houstoncardealers.com/wp-content/uploads/post_hada-scholarship-recipients-50x16.jpg 50w, https://www.houstoncardealers.com/wp-content/uploads/post_hada-scholarship-recipients-576x187.jpg 576w, https://www.houstoncardealers.com/wp-content/uploads/post_hada-scholarship-recipients-150x49.jpg 150w" sizes="(max-width: 875px) 100vw, 875px" /></p>
-<p>“This means a lot to me,” said Cienfuegos. “This pays most of my tuition this semester, helping me complete my senior year, and allowing me to take classes I’m passionate about, like cultural crisis and Native American archive classes.”</p>
-<p>Fretwell plans to put her knowledge back into the automotive industry by continuing to study collision repair and one day open her own shop that will cater to single parents in need of a trusting mechanic.</p>
-<p>“Having a single mom, this scholarship helps us financially pay for my first full year of college, and leads me further to achieving my dream of helping others,” said Fretwell.</p>
-<p>The HADA sponsored scholarship program is in its 13th year.  In the spring of each year, prospective applicants are screened and selected by a special committee based on financial need, community engagement and academic excellence.  In 2015, HADA awarded 125 $3,000 scholarships to dealership employees, dependents of employees and AYES students.</p>
-<p>“HADA is dedicated to assisting dealer employees and their dependents in furthering their education,” said Wyatt Wainwright, president of HADA. “It’s exciting to see these students be grateful for their scholarships and put them to good use.”</p>
-<p>###</p>
-<p><em><strong>About the Houston Automobile Dealers Association: </strong></em></p>
-<p><em>Comprised of approximately 175 franchised new car and truck dealers, employing over 30,000 people in the Houston area alone, HADA is proud to serve as the local backbone for Houston’s automotive industry.HADA supports a robustscholarships program for dealership employees, their dependents and AYES students, produces the Houston Auto Show and provides trucks for the Harris County Sheriff’s Office’s Motorist Assistance Program. HADA is an active association offering its members a variety of services to assist them in conducting good business and maintaining a quality community image.</em></p>
-</div></div></div>		</div>
-
-		<div class="section section-post-footer">
-			<div class="section_wrapper clearfix">
-			
-				<div class="column one post-pager">
-									</div>
-				
-			</div>
-		</div>
-		
-		<div class="section section-post-about">
-			<div class="section_wrapper clearfix">
-			
-							</div>	
-		</div>
-		
-	</div>
-			
-	<div class="section section-post-related">
-		<div class="section_wrapper clearfix">
-
-						
-		</div>
-	</div>
-	
-	
-</div>		</div>
-		
-		<!-- .four-columns - sidebar -->
-		<div class="sidebar sidebar-1 four columns"><div class="widget-area clearfix "><aside id="search-2" class="widget widget_search"><h3>Search</h3>
-<form method="get" id="searchform" action="https://www.houstoncardealers.com/">
-	<input type="text" class="field" name="s" id="s" placeholder="Enter your search" />
-	<input type="submit" class="submit" value="Search" />
-</form></aside>		<aside id="recent-posts-3" class="widget widget_recent_entries">		<h3>Recent Posts</h3>		<ul>
-											<li>
-					<a href="https://www.houstoncardealers.com/chairmans-corner-making-our-voices-heard/">Chairman&#8217;s Corner: Making Our Voices Heard</a>
-											<span class="post-date">April 22, 2019</span>
-									</li>
-											<li>
-					<a href="https://www.houstoncardealers.com/chairmans-corner-another-great-auto-show-builds-momentum-for-2019/">CHAIRMAN&#8217;S CORNER: Another Great Auto Show Builds Momentum for 2019</a>
-											<span class="post-date">February 18, 2019</span>
-									</li>
-											<li>
-					<a href="https://www.houstoncardealers.com/chairmans-corner-dealers-rally-against-new-auto-tariffs/">Chairman&#8217;s Corner &#8211; Dealers Rally Against New Auto Tariffs</a>
-											<span class="post-date">October 18, 2018</span>
-									</li>
-											<li>
-					<a href="https://www.houstoncardealers.com/chairmans-corner-tariffs-set-off-alarm-bells/">Chairman&#8217;s Corner &#8211; Tariffs set off Alarm Bells</a>
-											<span class="post-date">July 25, 2018</span>
-									</li>
-											<li>
-					<a href="https://www.houstoncardealers.com/houston-students-take-home-348000-in-scholarships/">Houston Students Take Home $348,000 in Scholarships</a>
-											<span class="post-date">June 29, 2018</span>
-									</li>
-					</ul>
-		</aside></div></div>			
-	</div>
+    <head>
+    <link rel="amphtml" href=>
+    <meta charset="utf-8" />
+    <link rel="canonical" href="https://www.politico.com/states/florida/story/2019/04/04/as-2020-nears-puerto-rico-statehood-looms-large-in-florida-951370">
+<link rel="stylesheet" type="text/css" href="https://static3.politico.com/resource/assets/css/style-core-story.min.29208ab24379c5aaadf5d6484c216a53.gz.css">
+<link rel="alternate" type="application/json+oembed" href="https://www.politico.com/states/florida/story/2019/04/04/as-2020-nears-puerto-rico-statehood-looms-large-in-florida-951370?_embed=true&amp;_format=oembed">
+<title>As 2020 nears, Puerto Rico statehood looms large in Florida</title>
+<meta property="og:title" content="As 2020 nears, Puerto Rico statehood looms large in Florida">
+<meta name="description" content="The issue could be pivotal for a growing and powerful voting bloc.">
+<meta property="og:description" content="The issue could be pivotal for a growing and powerful voting bloc.">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:type" content="article">
+<meta property="fb:pages" content="62317591679">
+<meta property="og:url" content="https://politi.co/2WKOudy">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@politico">
+<meta property="twitter:creator" content="@politico">
+<link rel="shortcut icon" type="image/x-icon" href="https://static.politico.com/21/8e/8fae7c044f8aa66f607a10f86d31/states.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://static.politico.com/dims4/default/32ae475/2147483647/legacy_thumbnail/144x144/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F21%2F8e%2F8fae7c044f8aa66f607a10f86d31%2Fstates.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://static.politico.com/dims4/default/1305115/2147483647/legacy_thumbnail/114x114/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F21%2F8e%2F8fae7c044f8aa66f607a10f86d31%2Fstates.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://static.politico.com/dims4/default/1b160c2/2147483647/legacy_thumbnail/72x72/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F21%2F8e%2F8fae7c044f8aa66f607a10f86d31%2Fstates.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://static.politico.com/dims4/default/519efd4/2147483647/legacy_thumbnail/57x57/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F21%2F8e%2F8fae7c044f8aa66f607a10f86d31%2Fstates.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" sizes="32x32" type="image/png" href="/favicon-32x32.png">
+<link rel="icon" sizes="192x192" type="image/png" href="/android-chrome-192x192.png">
+<link rel="icon" sizes="96x96" type="image/png" href="/favicon-96x96.png">
+<link rel="icon" sizes="16x16" type="image/png" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta msapplication-TileColor="content">
+<meta msapplication-TileImage="content">
+<meta theme-color="content">
+<meta property="og:site_name" content="Politico PRO">
+<meta property="og:image" content="https://static.politico.com/97/b6/2819611a4b7fbb29a807b8693bae/151023-puerto-rico-gty-1160.jpg">
+<meta name="host" content="www.politico.com">
+<meta name="build" content="release/2019-lorenzo a66f743 2019-05-06T20:43:15Z"><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><script type="text/javascript">window.jQuery || document.write('<script src="https://static3.politico.com/resource/js/website/shared/libraries/jquery-1.11.0.min.daf47dbdebc0881066106b1dda1c9db3.gz.js"><\/script>')</script><script type="text/javascript" src="https://static3.politico.com/resource/js/website/shared/libraries/modernizr-2.8.3.min.eb9167fd3c12f05553135ffda5fcd108.gz.js"></script><script type="text/javascript" src="https://static3.politico.com/resource/assets/js.min/preload.c4a0fa0e12f9277dfbe2982aa5bb508c.gz.js"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><script type="text/javascript">document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+    var setNptTechAdblockerCookie = function(adblocker) {
+        var d = new Date();
+        d.setTime(d.getTime() + 60 * 60 * 24 * 2 * 1000);
+        document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+    }
+    var script = document.createElement("script");
+    script.setAttribute("async", true);
+    script.setAttribute("src", "//www.npttech.com/advertising.js");
+    script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+    document.getElementsByTagName("head")[0].appendChild(script);</script></head>
+<body  class="template-story" id="pageStory" data-ad-refresh="45">
+        <div class="skip-nav">
+    <ul class="skip-nav__list">
+        <li class="skip-nav__action">
+            <!-- Using button due to browser issues with anchor tags, but would prefer to use anchor tags in the future -->
+            <button class="skip-nav__link" onclick="window.location.href='#main'">Skip to Main Content</button>
+        </li>
+    </ul>
 </div>
+<div class="global-wrapper" id="globalWrapper">
+            <header class="header on-core  on-dark bgc--politico-red73" id="js-top-header">
+    <div class="header__row header__main">
+        <div class="header__branding" role="banner">
+            <h1>
+                <a href="https://www.politico.com/">
+                    <b aria-hidden="true" class="bt-icon bt-icon--politico "></b>
+                    <b aria-hidden="true" class="bt-icon bt-icon--core-small"></b>
+                    <span class="icon-text">POLITICO</span>
+                </a>
+            </h1>
+        </div>
+        <div class="header__content">
+            <div class="header__left">
+                <button aria-label="Master menu" aria-expanded="false" class="hamburger js-hamburger">
+                        <span></span>
+                    </button>
+                </div>
+            <div class="header__right">
+                <div class="actions-lineup">
+                    <ul class="actions-lineup__list">
+                        <li class="actions-lineup__item hide-at-mobile">
+    <a href="https://www.politico.com/magazine/" target="_top" data-tracking="mpos=na&mid=site_header&lindex=1&lcol=1" class="js-tealium-tracking">Magazine</a></li>
 
+<li class="actions-lineup__item hide-at-mobile">
+    <a href="https://www.politico.com/agenda/" target="_top" data-tracking="mpos=na&mid=site_header&lindex=2&lcol=2" class="js-tealium-tracking">The Agenda</a></li>
 
-<!-- mfn_hook_content_after --><!-- mfn_hook_content_after -->
-<!-- #Footer -->		
-<footer id="Footer" class="clearfix">
-	
-		
-	<div class="widgets_wrapper"><div class="container"><div class="column one-fourth"><aside id="text-2" class="widget widget_text">			<div class="textwidget"><h2 style="letter-spacing: 2px; font-size: 38px;"><strong>HADA</strong></h2>
-<p>Comprised of approximately 184 franchised new car and truck dealers, employing over 30,000 people in the Houston area alone, HADA is proud to serve as the local backbone for Houston’s automotive industry. </p>
-<p>By providing educational seminars and workshops, legislative representation, community service programs and services designed to assist franchised new car and truck dealers, we are committed to promoting and maintaining a competitive automotive industry in Houston and the individual communities our members serve.</p>
+<li class="actions-lineup__item hide-at-mobile">
+    <a href="https://subscriber.politicopro.com/" target="_top" data-tracking="mpos=na&mid=site_header&lindex=3&lcol=3" class="js-tealium-tracking">Pro</a></li>
+
+<li class="actions-lineup__item ">
+    <div class="slide-search" role="presentation">
+        <a href="#" class="slide-search__open" id="search-open" aria-label="Open search form" aria-pressed="false" role="button" target="_top" data-tracking="mpos=na&mid=site_search_open&lindex=1&lcol=1" class="js-tealium-tracking"><b class="bt-icon bt-icon--search"></b><span class="icon-text">Search</span>
+        </a><div class="slide-search__content bgc--politico-red73" id="search-input" aria-hidden="true">
+            <form class="slide-search__form" action="https://www.politico.com/search" method="get">
+                <input class="slide-search__input" type="search" name="q" id="searchTerm" aria-label="Search for any story" placeholder="Enter search term..."/>
+                <button class="slide-search__run" type="submit" aria-label="Start search"><b class="bt-icon bt-icon--search"></b><span class="icon-text">Search</span></button>
+                <button class="slide-search__close" id="search-close" type="button"><b class="bt-icon bt-icon--close" aria-label="Close Search"></b></button>
+            </form>
+        </div>
+    </div>
+</li>
+
+</ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <nav class="master-menu js-master-menu" role="navigation" aria-hidden="true">
+    <div class="master-menu__content bgc--politico-red73">
+        <div class="row row--6-col">
+                <div class="col is-menu">
+                        <div class="col is-menu">
+                                <h2 class="menu-toggle js-menu-toggle section-heading">SECTIONS</h2>
+                                <ul class="master-menu__list">
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/agenda/" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=1&lcol=1" class="js-tealium-tracking">The Agenda</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/magazine/" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=2&lcol=1" class="js-tealium-tracking">Magazine</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/congress" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=3&lcol=1" class="js-tealium-tracking">Congress</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/white-house" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=4&lcol=1" class="js-tealium-tracking">White House</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/news/2020-elections" tabindex="-1" target="_blank" data-tracking="mpos=na&mid=site_navigation&lindex=5&lcol=1" class="js-tealium-tracking">Election 2020</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/election-results/2018/" tabindex="-1" target="_blank" data-tracking="mpos=na&mid=site_navigation&lindex=6&lcol=1" class="js-tealium-tracking">Election Results 2018</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/video" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=7&lcol=1" class="js-tealium-tracking">Video</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/podcasts" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=8&lcol=1" class="js-tealium-tracking">Podcasts</a></li>
+                                        </ul>
+                                </div>
+                        </div><div class="col is-menu">
+                        <div class="col is-menu">
+                                <h2 class="menu-toggle js-menu-toggle section-heading">NEWSLETTERS</h2>
+                                <ul class="master-menu__list">
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/playbook" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=1&lcol=2" class="js-tealium-tracking">Playbook</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/newsletters/playbook-pm" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=2&lcol=2" class="js-tealium-tracking">Playbook PM</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/huddle/" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=3&lcol=2" class="js-tealium-tracking">Huddle</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/newsletters" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=4&lcol=2" class="js-tealium-tracking">All Newsletters</a></li>
+                                        </ul>
+                                </div>
+                        </div><div class="col is-menu">
+                        <div class="col is-menu">
+                                <h2 class="menu-toggle js-menu-toggle section-heading">SERIES</h2>
+                                <ul class="master-menu__list">
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/magazine/thedeciders" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=1&lcol=3" class="js-tealium-tracking">The Deciders</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/agenda/future-of-prosperity" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=2&lcol=3" class="js-tealium-tracking">The Agenda: The Future of Prosperity</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/magazine/what-works-next/" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=3&lcol=3" class="js-tealium-tracking">What Works Next</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/WomenRule" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=4&lcol=3" class="js-tealium-tracking">Women Rule</a></li>
+                                        </ul>
+                                </div>
+                        </div><div class="col is-menu">
+                        <div class="col is-menu">
+                                <h2 class="menu-toggle js-menu-toggle section-heading">POLITICO LIVE</h2>
+                                <ul class="master-menu__list">
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/live-events" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=1&lcol=4" class="js-tealium-tracking">Live Home</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/live-events/upcoming" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=2&lcol=4" class="js-tealium-tracking">Upcoming Events</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/live-events/previous" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=3&lcol=4" class="js-tealium-tracking">Previous Events</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/live-events/about" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=4&lcol=4" class="js-tealium-tracking">About POLITICO Live</a></li>
+                                        </ul>
+                                </div>
+                        <div class="col is-menu">
+                                <h2 class="menu-toggle js-menu-toggle section-heading">COLUMNS & CARTOONS</h2>
+                                <ul class="master-menu__list">
+                                        <li class="master-menu__item">
+                                                </li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/blogs/under-the-radar" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=6&lcol=4" class="js-tealium-tracking">Josh Gerstein</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/magazine/tag/rich-lowry" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=7&lcol=4" class="js-tealium-tracking">Rich Lowry</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/magazine/tag/fourth-estate" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=8&lcol=4" class="js-tealium-tracking">Jack Shafer</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/news/matt-wuerker" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=9&lcol=4" class="js-tealium-tracking">Matt Wuerker</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/tag/cartoon-carousel" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=10&lcol=4" class="js-tealium-tracking">Cartoon Carousel</a></li>
+                                        </ul>
+                                </div>
+                        </div><div class="col is-menu">
+                        <div class="col is-menu">
+                                <h2 class="menu-toggle js-menu-toggle section-heading">POLICY</h2>
+                                <ul class="master-menu__list">
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/tag/agriculture" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=1&lcol=5" class="js-tealium-tracking">Agriculture</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/tag/cybersecurity" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=2&lcol=5" class="js-tealium-tracking">Cybersecurity</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/tag/defense" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=3&lcol=5" class="js-tealium-tracking">Defense</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/tag/education" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=4&lcol=5" class="js-tealium-tracking">Education</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/ehealth" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=5&lcol=5" class="js-tealium-tracking">eHealth</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/tag/employment-immigration" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=6&lcol=5" class="js-tealium-tracking">Employment & Immigration</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/energy-and-environment" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=7&lcol=5" class="js-tealium-tracking">Energy & Environment</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/finance" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=8&lcol=5" class="js-tealium-tracking">Finance & Tax</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/health-care" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=9&lcol=5" class="js-tealium-tracking">Health Care</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/tag/space" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=10&lcol=5" class="js-tealium-tracking">Space</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/technology" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=11&lcol=5" class="js-tealium-tracking">Technology</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/trade" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=12&lcol=5" class="js-tealium-tracking">Trade</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/transportation" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=13&lcol=5" class="js-tealium-tracking">Transportation</a></li>
+                                        </ul>
+                                </div>
+                        </div><div class="col is-menu">
+                        <div class="col is-menu">
+                                <h2 class="menu-toggle js-menu-toggle section-heading">EDITIONS</h2>
+                                <ul class="master-menu__list">
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/states/california" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=1&lcol=6" class="js-tealium-tracking">California</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/tag/pro-canada" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=2&lcol=6" class="js-tealium-tracking">Canada</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/tag/us-china-relations" tabindex="-1" target="_blank" data-tracking="mpos=na&mid=site_navigation&lindex=3&lcol=6" class="js-tealium-tracking">China</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.eu/" tabindex="-1" target="_blank" data-tracking="mpos=na&mid=site_navigation&lindex=4&lcol=6" class="js-tealium-tracking">Europe</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/states/florida" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=5&lcol=6" class="js-tealium-tracking">Florida</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/states/new-jersey" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=6&lcol=6" class="js-tealium-tracking">New Jersey</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://www.politico.com/states/new-york" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=7&lcol=6" class="js-tealium-tracking">New York</a></li>
+                                        <li class="master-menu__item">
+                                                <a href="https://subscriber.politicopro.com/" tabindex="-1" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=8&lcol=6" class="js-tealium-tracking">Pro</a></li>
+                                        </ul>
+                                </div>
+                        </div></div><footer class="row menu-footer">
+            <div class="menu-footer__follow">
+                    <h2 class="section-heading">Follow us</h2>
+                    <ul class="menu-footer__list menu-footer__list--follow">
+                        <li class="menu-footer__item">
+                                <a href="https://twitter.com/politico" tabindex="-1" target="_blank" data-tracking="mpos=na&mid=site_navigation&lindex=1&lcol=7" class="js-tealium-tracking">Twitter</a></li>
+                        <li class="menu-footer__item">
+                                <a href="https://www.instagram.com/politico/" tabindex="-1" target="_blank" data-tracking="mpos=na&mid=site_navigation&lindex=2&lcol=7" class="js-tealium-tracking">Instagram</a></li>
+                        <li class="menu-footer__item">
+                                <a href="https://www.facebook.com/politico/" tabindex="-1" target="_blank" data-tracking="mpos=na&mid=site_navigation&lindex=3&lcol=7" class="js-tealium-tracking">Facebook</a></li>
+                        </ul>
+                </div>
+            <div class="menu-footer__actions">
+                    <ul class="menu-footer__list menu-footer__list--actions">
+                        <li class="menu-footer__item">
+                                        <a href="https://secure.politico.com/settings" target="_top" data-tracking="mpos=na&mid=site_navigation&lindex=1&lcol=8" class="js-tealium-tracking">My Account</a></li>
+                                <li class="menu-footer__item">
+
+                                            <a href="https://subscriber.politicopro.com/_pro-login?base=https%3A%2F%2Fsubscriber.politicopro.com&amp;redirect=%2F_pro-login&amp;logout=%2F_logout&amp;lRedirect=true&amp;sRedirect=https%3A%2F%2Fwww.politico.com%2Fstates%2Fflorida%2Fstory%2F2019%2F04%2F04%2Fas-2020-nears-puerto-rico-statehood-looms-large-in-florida-951370&amp;js=false" style="display: none;" class="politico-auth auth-logged-out" target="_top" data-login="https://subscriber.politicopro.com/_pro-login?base=https%3A%2F%2Fsubscriber.politicopro.com&amp;redirect=/_pro-login&amp;logout=/_logout&amp;lRedirect=true&amp;sRedirect=https://www.politico.com/states/florida/story/2019/04/04/as-2020-nears-puerto-rico-statehood-looms-large-in-florida-951370" data-tracking="mpos=na&mid=site_navigation&lindex=2&lcol=8" class="js-tealium-tracking">Log In</a><a href="https://login.politico.com/_logout?base=https%3A%2F%2Fsubscriber.politicopro.com&amp;redirect=%2F_logout&amp;js=false" style="display: none;" class="politico-auth auth-logged-in" data-logout="https://login.politico.com/_logout?base=https%3A%2F%2Fsubscriber.politicopro.com&amp;redirect=/_logout" target="_blank" data-tracking="mpos=na&mid=site_navigation&lindex=2&lcol=8" class="js-tealium-tracking">Log Out</a></li>
+                                    </ul>
+                </div>
+            </footer>
+    </div>
+</nav>
+
+</header>
+
+<script src="https://static3.politico.com/resource/assets/js.min/core-header.min.d443bcf6cbf4d12d6792ff7f1914e25a.gz.js"></script>
+<div class="js-regional-header regional-header" role="banner">
+            <div class="regional-header-inner">
+                <div class="regional-branding">
+                    <h1>
+                        <a href="https://www.politico.com/states/florida" target="_top"><b aria-hidden="true" class="icon icon-florida"></b>
+                            <span class="icon-text">Florida</span>
+                        </a></h1>
+                </div>
+
+                <nav class="nav-region" role="navigation">
+                    <h2 class="region-list-toggle" tabindex="0">
+                        <b aria-hidden="true" class="icon icon-plus"></b>
+                        <span class="icon-text">Expand/Collapse Navigation</span>
+                    </h2>
+                    <ul class="region-list">
+                        <li class="subnav">
+      <button class="js-subnav-button">
+            Newsletters<b aria-hidden="true" class="icon icon-plus"></b>
+          </button>
+          <ul class="subnav-list">
+            <a href="https://www.politico.com/floridaplaybook" target="_blank">POLITICO Florida Playbook</a><a href="https://subscriber.politicopro.com/states/florida/newsletters/tallahassee-brief" target="_top">Tallahassee Morning Newsletter</a><a href="https://subscriber.politicopro.com/states/florida/newsletters/politico-florida-health-care-pro" target="_top">Florida Health Care Newsletter</a><a href="https://www.politicopro.com/states/florida/news/higher-education-watch" target="_blank">Florida Higher Education Watch</a></ul>
+        </li>
+  <li class="subnav">
+      <button class="js-subnav-button">
+            Trackers<b aria-hidden="true" class="icon icon-plus"></b>
+          </button>
+          <ul class="subnav-list">
+            <a href="https://subscriber.politicopro.com/states/florida/tag/procurement-tracker" target="_blank">Procurement Tracker</a><a href="https://subscriber.politicopro.com/states/florida/tag/building-permit-tracker" target="_blank">Building Permit Tracker</a></ul>
+        </li>
+  <li class="subnav">
+      <a href="https://subscriber.politicopro.com/document-drawer?region=FL" target="_blank">Document Drawer</a></li>
+  </ul>
+                </nav>
+            </div>
+        </div>
+    <main class="super-duper" role="main" id="main">
+        <div class="super  fixed-top">
+    <div class="super-inner">
+        <div class="content layout-full">
+            <section class="content-groupset pos-omega">
+                <div class="content-group ad " aria-label="Advertisement">
+    <div class="ad-slot js-lazy-load flex horizontal " id="pol-01" aria-hidden="true" >
+            </div>
+        </div>
+    </section>
+        </div>
+    </div>
 </div>
-		</aside></div><div class="column one-fourth"><aside id="text-3" class="widget widget_text"><h4>Contact</h4>			<div class="textwidget">P.O. Box 16550<br>
-Sugar Land, Texas<br>
-77496-6550<br>
-<br>
-281-980-3434 - phone<br>
-281-980-2608 - fax</div>
-		</aside></div><div class="column one-fourth"><aside id="nav_menu-2" class="widget widget_nav_menu"><h4>Links</h4><div class="menu-secondary-menu-container"><ul id="menu-secondary-menu" class="menu"><li id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-443"><a href="https://www.houstoncardealers.com/about-us/">About HADA</a></li>
-<li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a href="https://www.houstoncardealers.com/member-services/">Membership</a></li>
-<li id="menu-item-2951" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2951"><a href="https://www.houstoncardealers.com/news/">News</a></li>
-<li id="menu-item-442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442"><a href="https://www.houstoncardealers.com/resources/">Resources</a></li>
-<li id="menu-item-437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-437"><a href="https://www.houstoncardealers.com/consumers/">Consumers</a></li>
-<li id="menu-item-2952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2952"><a href="https://www.houstoncardealers.com/contact/">Contact</a></li>
-</ul></div></aside></div><div class="column one-fourth">		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h4>Latest News</h4>		<ul>
-											<li>
-					<a href="https://www.houstoncardealers.com/chairmans-corner-making-our-voices-heard/">Chairman&#8217;s Corner: Making Our Voices Heard</a>
-											<span class="post-date">April 22, 2019</span>
-									</li>
-											<li>
-					<a href="https://www.houstoncardealers.com/chairmans-corner-another-great-auto-show-builds-momentum-for-2019/">CHAIRMAN&#8217;S CORNER: Another Great Auto Show Builds Momentum for 2019</a>
-											<span class="post-date">February 18, 2019</span>
-									</li>
-											<li>
-					<a href="https://www.houstoncardealers.com/chairmans-corner-dealers-rally-against-new-auto-tariffs/">Chairman&#8217;s Corner &#8211; Dealers Rally Against New Auto Tariffs</a>
-											<span class="post-date">October 18, 2018</span>
-									</li>
-											<li>
-					<a href="https://www.houstoncardealers.com/chairmans-corner-tariffs-set-off-alarm-bells/">Chairman&#8217;s Corner &#8211; Tariffs set off Alarm Bells</a>
-											<span class="post-date">July 25, 2018</span>
-									</li>
-											<li>
-					<a href="https://www.houstoncardealers.com/houston-students-take-home-348000-in-scholarships/">Houston Students Take Home $348,000 in Scholarships</a>
-											<span class="post-date">June 29, 2018</span>
-									</li>
-					</ul>
-		</aside></div></div></div>	
-		<div class="footer_copy">
-		<div class="container">
-			<div class="column one">
-			
-								<a id="back_to_top" class="button button_left button_js " href=""><span class="button_icon"><i class="icon-up-open-big"></i></span></a>
-				
-				<!-- Copyrights -->
-				<div class="copyright">
-					© 2019 Houston Automobile Dealers Association. All Rights Reserved.				</div>
-				
-				<ul class="social"></ul>						
-			</div>
-		</div>
-	</div>
-		
+<div class="super">
+                <div class="super-inner ">
+                <article class="story-main-content ">
+                    <div class="content layout-story sticky-wrapper">
+                        <section class="content-groupset pos-alpha">
+                                <div class="content-group story-tools">
+                                    <div class="tools-group">
+                                        <div class="tools-item">
+                                            <aside class="user-tools orient-vertical sticky-content">
+                                                <ul class="share-tools tools-list">
+        <li class="share-facebook">
+            <a href="http://api.addthis.com/oexchange/0.8/forward/facebook/offer?pco=tbx32nj-1.0&amp;url=https://politi.co/2WKOudy&amp;pubid=politico.com"
+               target="_blank">
+                <b aria-hidden="true" class="icon icon-facebook"></b>
+                <span class="icon-text count-facebook" data-shares-text="false" style="opacity: 1;">Facebook</span>
+            </a>
+        </li>
+        <li class="share-twitter">
+        <a href="http://api.addthis.com/oexchange/0.8/forward/twitter/offer?pco=tbx32nj-1.0&amp;url=https://politi.co/2WKOudy&amp;text=As 2020 nears, Puerto Rico statehood looms large in Florida&amp;pubid=politico.com" target="_blank">
+                <b aria-hidden="true" class="icon icon-twitter"></b>
+                <span class="icon-text count-twitter" data-shares-text="true" style="opacity: 1;">Twitter</span>
+            </a>
+        </li>
+        </ul>
+<ul class="utility-tools tools-list">
+    <li class="utility-email">
+                    <a href="mailto:?to=&amp;subject=As 2020 nears, Puerto Rico statehood looms large in Florida&amp;body=https://www.politico.com/states/florida/story/2019/04/04/as-2020-nears-puerto-rico-statehood-looms-large-in-florida-951370">
+                        <b aria-hidden="true" class="icon icon-mail"></b>
+                        <span class="icon-text">Email</span>
+                    </a>
+                </li>
+            <li class="utility-print">  <a href="#" onClick="window.print();return false;">
+                <b aria-hidden="true" class="icon icon-print"></b>
+                <span class="icon-text">Print</span>
+            </a>
+        </li>
+    </ul>
+</aside>
+                                            <a role="button" class="continue-to-content" tabindex="0">Continue to article content</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section class="content-groupset pos-beta">
+                                <div class="content-group story-core">
+                                    <div class="story-text  " data-disable-viewport-ad="false">
+                                        <div class="shifty-wrapper empty-at-base empty-at-small empty-at-medium" data-set="shifty-story-interrupt"></div>
+                                        <div class=" story-intro format-s" itemscope itemprop="mainEntityOfPage" itemtype="http://schema.org/Article">
+            <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+    <meta itemprop="url" content="https://www.politico.com/">
+    <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://static.politico.com/6d/9f/1e153a1748fa9ea656c575dc6dff/politico-logo-60px-tall-1.png">
+            <meta itemprop="width" content="150">
+            <meta itemprop="height" content="35">
+        </span>
+    <meta itemprop="name" content="POLITICO">
+</div><span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                    <meta itemprop="url" content="https://static.politico.com/97/b6/2819611a4b7fbb29a807b8693bae/151023-puerto-rico-gty-1160.jpg">
+                    <meta itemprop="width" content="1160">
+                    <meta itemprop="height" content="550">
+                </span>
+            <figure class="art ">
+    <div class="fig-graphic">
+        <picture>
+                    <source srcset="https://static.politico.com/dims4/default/8812b2f/2147483647/resize/1160x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F97%2Fb6%2F2819611a4b7fbb29a807b8693bae%2F151023-puerto-rico-gty-1160.jpg" media="(min-width: 1012px)">
+                    <source srcset="https://static.politico.com/dims4/default/0126d1c/2147483647/resize/971x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F97%2Fb6%2F2819611a4b7fbb29a807b8693bae%2F151023-puerto-rico-gty-1160.jpg" media="(min-width: 667px)">
+                    <source srcset="https://static.politico.com/dims4/default/5b98d93/2147483647/resize/646x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F97%2Fb6%2F2819611a4b7fbb29a807b8693bae%2F151023-puerto-rico-gty-1160.jpg" media="(min-width: 485px)">
+                    <source srcset="https://static.politico.com/dims4/default/619c703/2147483647/resize/463x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F97%2Fb6%2F2819611a4b7fbb29a807b8693bae%2F151023-puerto-rico-gty-1160.jpg" media="(max-width: 484px)">
+                    <img src="https://static.politico.com/dims4/default/7af564c/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F97%2Fb6%2F2819611a4b7fbb29a807b8693bae%2F151023-puerto-rico-gty-1160.jpg" alt="Puerto Rico flag | Getty Images" title="Puerto Rico flag | Getty Images"></picture>
+            </div>
+    <figcaption>
+            <p>
+                Boricua voters are set to play a crucial role in Florida, the nation’s biggest swing state and a must-win for Trump if he hopes to be reelected in 2020. | Getty Images</p>
+        </figcaption>
+    </figure><div class="summary  ">
+            <header class="">
+                <h1 class=" " >
+                    <span itemprop="headline">As 2020 nears, Puerto Rico statehood looms large in Florida</span>
+                        </h1>
+
+                </header>
+            <footer class="meta">
+    <div itemprop="author" itemscope itemtype="https://schema.org/Person">
+                <meta itemprop="name" content="Gary Fineout"/>
+                <meta itemprop="email" content="gfineout@politico.com"/>
+            </div>
+        <p class="byline">
+                    By <a href="https://www.politico.com/states/staff/gary-fineout" rel="author" class="url fn" target="_top">GARY FINEOUT</a> and <a href="https://www.politico.com/states/florida/staff/marc-caputo" rel="author" class="url fn" target="_top">MARC CAPUTO</a></p>
+            <p class="timestamp"><time itemprop="datePublished" datetime='2019-04-04 12:12:16'>04/04/2019 12:12 PM EDT</time></p>
+                    <p class="updated">
+                    Updated <time datetime='2019-04-04 14:12:52'>04/04/2019 02:12 PM EDT</time></p>
+                    <span class="is-hidden" itemprop="dateModified">Thu Apr 04 14:12:52 EDT 2019</span>
+                    </footer></div>
+
+        </div><div class="story-share conditional">
+        <div class="interrupt-item social-share-btns">
+            <a href="http://api.addthis.com/oexchange/0.8/forward/facebook/offer?pco=tbx32nj-1.0&amp;url=https://politi.co/2WKOudy&amp;pubid=politico.com" class="button facebook-button" target="_blank"><b aria-hidden="true" class="icon icon-facebook"></b> Share on Facebook</a>
+            <a href="http://api.addthis.com/oexchange/0.8/forward/twitter/offer?pco=tbx32nj-1.0&amp;url=https://politi.co/2WKOudy&amp;pubid=politico.com&amp;text=As+2020+nears%2C+Puerto+Rico+statehood+looms+large+in+Florida" class="button twitter-button" target="_blank"><b aria-hidden="true" class="icon icon-twitter"></b> Share on Twitter</a>
+        </div>
+    </div>
+<style type="text/css">.cms-textAlign-left{text-align:left;}.cms-textAlign-center{text-align:center;}.cms-textAlign-right{text-align:right;}.cms-magazineStyles-smallCaps{font-variant:small-caps;}</style><p>As President Donald Trump and his pack of would-be 2020 Democratic opponents trade fire over disaster relief for Puerto Rico, another issue — statehood — is looming large for the island’s diaspora.</p>
+<p>More than 80 percent of Puerto Rican likely voters in Florida said the island should be granted statehood and said the issue would be important to them as they weigh presidential candidates, according to a <a href="https://www.politico.com/states/f/?id=00000169-e91a-d015-a36d-eb1bed6e0001" target="_blank">new poll</a>.</p><p class="story-continued">Story Continued Below</p>
+<div class="story-interrupt format-s pos-alpha predetermined  fixed-story-third-paragraph">
+    <div class="interrupt-item ad" aria-label="Advertisement">
+        <div class="ad-slot js-lazy-load flex vertical " id="pol-05" aria-hidden="true" >
+            </div>
+        </div>
+</div>
+ <p>In the survey, conducted by ALG Research and funded partly by pro-statehood backers, nearly half of respondents said they would “resent” Democrats who push statehood for Washington, D.C., and oppose it for Puerto Rico.</p>
+<p>Boricua voters are set to play a crucial role in Florida, the nation’s biggest swing state and a must-win for Trump if he hopes to be reelected in 2020. The president has meager favorability among Puerto Ricans in the state, and Democrats so far haven’t taken advantage.</p>
+<p>“Presidential candidates should pay close attention if they are interested in Florida,” said Harold Ickes, a former White House deputy chief of staff under President Bill Clinton who helped fund the poll. “How the island is treated, especially on the statehood issue, can be very influential with Puerto Ricans.”</p>
+<p>Puerto Rico’s status has taken on added political importance this election cycle as its pro-statehood governor, Ricardo Rossell&oacute;, is trying to schedule the island’s presidential primary earlier in March 2020. He has demanded that Democrats support statehood or at least give their opinion about it, a call that so far has been ignored by the major candidates except former Texas Rep. Beto O’Rourke, who endorsed making Puerto Rico the 51st state.</p>
+<p>ALG Research questioned 600 Puerto Rican likely voters in Florida between March 12 and March 20 by both landline and cellphone. The survey, commissioned by the Democratic firm Ickes &amp; Enright, had a margin of error of plus-or-minus 4 points.</p>
+<p>In the poll, 53 percent of respondents said they took a candidate’s position on statehood personally, agreeing with this sentence: “The inferior treatment by Republicans and Democrats in Congress to Puerto Ricans in the Island is a reflection of what they think of me as a Puerto Rican in Florida.”</p>
+<p>Only 39 percent surveyed disagreed with the sentiment.</p>
+<p>Puerto Ricans in Florida now number nearly 1.13 million, a population that exceeds New York’s boricua community. Puerto Ricans are estimated to account for as many as a third of Florida’s registered Hispanic voters, who account for nearly 17 percent of overall voter rolls in the state, according to the Division of Elections. </p>
+<p>And they turn out in high numbers. In 2018, 43 percent of an estimated 225,000 Florida voters born in Puerto Rico turned out, according to Daniel Smith, a political science professor at University of Florida. He cautioned that not all voters report where they’re born, and his data doesn’t include voters who are second- or third-generation Puerto Ricans.</p>
+<p>The survey showed that Trump, who has been widely vilified in the Puerto Rican community for his response to Hurricane Maria, is deeply unpopular. Only 21 percent of voters polled held a favorable opinion of him; 69 percent viewed him unfavorably.</p>
+<p>Sen. <a href="https://cd.politicopro.com/member/175586">Rick Scott</a>, who has visited the island nine times in the last two years, had a 48 percent favorable rating even though a majority of respondents said they voted for Bill Nelson in the 2018 election. </p>
+<p>A Rossell&oacute; advisor said the survey reaffirms Florida data he’s seen from 2016 and 2017.</p>
+<p>“Puerto Ricans living in Florida value their American citizenship and favor statehood,” Rossell&oacute; aide Manny Ortiz said. “And the second point is just as important: what happens on the island matters to them in Florida.”</p>
+<p>Not everyone buys the poll. Phillip Arroyo, an Orlando commentator who favors Puerto Rican independence, said he’s lost faith in public opinion surveys and questioned the sincerity of pro-statehood forces.</p>
+<p>“It’s another mechanism by the statehood supporters in Puerto Rico to create the illusion of doing something about statehood when many don’t really care about statehood,” Arroyo said. “They just care about firing up their base.”</p>
+<p>Florida politicians of both parties have reached out to the growing bloc, with Republicans such Scott and Gov. Ron DeSantis sparring with Trump on disaster recovery and the island’s death toll after Hurricane Michael.</p>
+<p>Voters surveyed were split on Sen. <a href="https://cd.politicopro.com/member/151820">Marco Rubio</a>, who was viewed unfavorably by 41 percent and favorably by 40 percent.</p>
+<p>Yet even as Puerto Rico’s statehood is at the center of an fight between Congress and Trump over disaster relief, few Democrats have staked out a position on it.</p>
+<p>O’Rourke, in a March video posted on Twitter by a CNN correspondent, said the only way to permanently resolve the “second-class status” of Puerto Ricans was to elevate the territory to statehood. That would give the island representation in Congress and allow its residents to vote for president.</p>
+<p>Sen. <a href="https://cd.politicopro.com/member/51503">Kirsten Gillibrand</a> of New York has endorsed the idea, saying “it sounds good to me.”</p>
+<p>Other Democratic candidates, including Vermont Sen. <a href="https://cd.politicopro.com/member/51605">Bernie Sanders</a>, California Sen. <a href="https://cd.politicopro.com/member/260059">Kamala Harris</a>, Massachusetts Sen. <a href="https://cd.politicopro.com/member/140963">Elizabeth Warren</a> and former U.S. housing Secretary Julian Castro have ducked the issue, saying they would respect the will of island voters.</p>
+<p>One of the Democratic primary’s newest entrants, Miramar Mayor Wayne Messam, told POLITICO that the people of Puerto Rico have voted overwhelmingly for statehood. </p>
+<p>“There is no good reason for them to continue to be treated as second-class citizens,” Messam said.</p>
+<p>Two years ago, 97 percent of Puerto Rican voters supported statehood, but opposition groups boycotted the vote and called the results into question. San Juan Mayor Carmen Yul&iacute;n Cruz, who opposes statehood, co-chairs the Sanders campaign.</p>
+<p>Arroyo said he once favored statehood, but came to favor independence as Congress mistreated the island. Entrenched corporate interests will never allow Puerto Rico to be treated fairly, he said. </p>
+<p>“Regardless of how controversial those plebiscites were in the past,” he said, “in the end, the people voted and the United States just ignored the results.”</p><div class="story-share ">
+        <div class="interrupt-item social-share-btns">
+            <a href="http://api.addthis.com/oexchange/0.8/forward/facebook/offer?pco=tbx32nj-1.0&amp;url=https://politi.co/2WKOudy&amp;pubid=politico.com" class="button facebook-button" target="_blank"><b aria-hidden="true" class="icon icon-facebook"></b> Share on Facebook</a>
+            <a href="http://api.addthis.com/oexchange/0.8/forward/twitter/offer?pco=tbx32nj-1.0&amp;url=https://politi.co/2WKOudy&amp;pubid=politico.com&amp;text=As+2020+nears%2C+Puerto+Rico+statehood+looms+large+in+Florida" class="button twitter-button" target="_blank"><b aria-hidden="true" class="icon icon-twitter"></b> Share on Twitter</a>
+        </div>
+    </div>
+<div class="story-supplement ">
+        <aside class="content-categories">
+            <h6>This article tagged under:</h6>
+                        <ul class="categories-list">
+                <li>
+                        <a href="https://www.politico.com/states/florida/tag/congressional-elections" target="_top">Congressional Elections</a></li>
+                <li>
+                        <a href="https://www.politico.com/states/florida/tag/2020" target="_top">2020</a></li>
+                <li>
+                        <a href="https://www.politico.com/states/florida/tag/trump-administration" target="_top">Trump Administration</a></li>
+                <li>
+                        <a href="https://www.politico.com/states/florida/tag/hurricane-relief" target="_top">Hurricane Relief</a></li>
+                </ul>
+        </aside>
+    </div>
+<div class="shifty-wrapper empty-at-large empty-at-extra" data-set="shifty-story-interrupt">
+                                            <div class="story-interrupt format-s pos-beta predetermined shifty-content is-masoned">
+                                                <div class="content-group ad " aria-label="Advertisement">
+    <div class="ad-slot js-lazy-load flex vertical " id="pol-02" aria-hidden="true" >
+            </div>
+        </div>
+    <aside class="content-group florida-playbook-sign-up-right-rail">
+        <div class="promo">
+            <header class="promo-header">
+                            <h2><b>Florida</b> Playbook</h2>
+                        </header>
+                    <div class="promo-content">
+                            <div class="spotlight color-inverted">
+                                <div class="thumb">
+                                        <img data-lazy-img="https://static.politico.com/dims4/default/4d6f52e/2147483647/resize/70x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F52%2Fab%2F98b2a5294cd2889950f245682daa%2Fflorida-playbook2019-logo.jpg" width="70" height="70" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="FineoutDixon logo"></div>
+                                <div class="summary">
+                                        <p>Gary Fineout and Matt Dixon's must-read briefing on what's hot, crazy or shady about politics in the Sunshine State.</p>
+                                    </div>
+                                </div>
+                        </div>
+                    <div class="promo-content">
+
+                        <div class="dari-frame dari-frame-loaded" name="florida-playbook-sign-up-right-rail-rail-0000014f-1646-d88f-a1cf-5f46b4500000" data-insertion-mode="replace" data-extra-form-data="_frame.path=d62341dabb91bd95eee92d81a6a31eee&amp;_frame.name=florida-playbook-sign-up-right-rail-rail-0000014f-1646-d88f-a1cf-5f46b4500000"><form class="simple-signup color-inverted" target="florida-playbook-sign-up-right-rail-rail-0000014f-1646-d88f-a1cf-5f46b4500000" method="post" action="/states/florida/story/2019/04/04/as-2020-nears-puerto-rico-statehood-looms-large-in-florida-951370?">
+                                        <input type="hidden" name="subscribeId" value="0000014f-1646-d88f-a1cf-5f46b4500000" />
+                                        <input type="hidden" name="processorId" value="00000154-c12f-d6f3-affe-e12f73a30001" />
+                                        <input type="hidden" name="validateEmail" value="true" />
+
+                                        <div class="signup-header">
+                                                <h6><strong>Sign up for POLITICO Florida Playbook</strong></h6>
+                                            </div>
+                                        <fieldset>
+                                            <label for="i6a95f85e848e42b88b13fea5b655d423">
+                                                <b aria-hidden="true" class="icon icon-mail"></b><span class="icon-text">Email</span>
+                                            </label>
+
+                                            <input type="email"
+                                                   name="subscribeEmail"
+                                                   id="i6a95f85e848e42b88b13fea5b655d423"
+                                                   value=""
+                                                   class=""
+                                                   placeholder="Your email&#8230;">
+
+                                            <button class="button type-brand" type="submit"> Sign Up</button>
+                                        </fieldset>
+
+                                        </form>
+                                </div></div>
+                    <footer class="promo-footer">
+                            <ul>
+                                <li><a href="http://www.politico.com/floridaplaybook" target="_blank" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking">Most Recent Issue</a></li>
+                                <li><a href="http://www.politico.com/tipsheets/florida-playbook/archive" target="_blank" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking">Archives</a></li>
+                                </ul>
+                        </footer>
+                    </div>
+    </aside>
+<aside class="content-group interrupt-item florida-about-us-right-rail">
+        <div class="widget caste-exclusive">
+            <header class="widget-header">
+                    <h2>About Us</h2>
+                </header>
+            <div class="widget-content">
+    <section class="reporters">
+
+        <header>
+                <h3>Editors</h3>
+            </header>
+        <div class="reporters-list">
+            <dl class="vcard">
+                        <dt>
+                            <a href="https://www.politico.com/states/staff/joseph-j-schatz" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/f0aca52/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fa7%2Fd1%2Fae23ff4f46b0a940c92bdddade10%2Fschatz-joe-2012-new.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="photo" alt="Joseph J. Schatz" data-size="promo_small_square"></a></dt>
+                        <dd>
+                            <a href="https://www.politico.com/states/staff/joseph-j-schatz" class="url fn" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking">Joseph J. Schatz</a></dd>
+                    </dl>
+                <dl class="vcard">
+                        <dt>
+                            <a href="https://www.politico.com/states/staff/angela-greiling-keane" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/1556a7d/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F1d%2F7d%2F7c088ce44370988481569dd4ff3d%2Fgreiling-keane-angela.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="photo" alt="Angela Greiling Keane" data-size="promo_small_square"></a></dt>
+                        <dd>
+                            <a href="https://www.politico.com/states/staff/angela-greiling-keane" class="url fn" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking">Angela Greiling Keane</a></dd>
+                    </dl>
+                <dl class="vcard">
+                        <dt>
+                            <a href="https://www.politico.com/states/staff/lorraine-woellert" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/12659d5/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc3%2F39%2Fe91a06ee44f8aca2596c6a1040b5%2Fwoellert-mug-shot.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="photo" alt="Lorraine Woellert" data-size="promo_small_square"></a></dt>
+                        <dd>
+                            <a href="https://www.politico.com/states/staff/lorraine-woellert" class="url fn" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking">Lorraine Woellert</a></dd>
+                    </dl>
+                </div>
+    </section>
+</div>
+<div class="widget-content">
+    <section class="reporters">
+
+        <header>
+                <h3>Reporters</h3>
+            </header>
+        <div class="reporters-list">
+            <dl class="vcard">
+                        <dt>
+                            <a href="https://www.politico.com/states/florida/staff/matt-dixon" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/d8e40da/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F29%2Fd3%2F89fc8e254bc39b67330decf8c772%2Fdixon-matt-crop.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="photo" alt="Matt Dixon" data-size="promo_small_square"></a></dt>
+                        <dd>
+                            <a href="https://www.politico.com/states/florida/staff/matt-dixon" class="url fn" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking">Matt Dixon</a></dd>
+                    </dl>
+                <dl class="vcard">
+                        <dt>
+                            <a href="https://www.politico.com/states/florida/staff/bruce-ritchie" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/b276321/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F0a%2Fb3%2F0e1e23f647e588f1e4a706bae685%2Fritchie-bruce.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="photo" alt="Bruce Ritchie" data-size="promo_small_square"></a></dt>
+                        <dd>
+                            <a href="https://www.politico.com/states/florida/staff/bruce-ritchie" class="url fn" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking">Bruce Ritchie</a></dd>
+                    </dl>
+                <dl class="vcard">
+                        <dt>
+                            <a href="https://www.politico.com/states/staff/alexandra-glorioso" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/8a90fb9/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F25%2Fd5%2F05eab1b64888a84f8ed635993b7e%2Fglorioso-alexandra2.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="photo" alt="Alexandra Glorioso" data-size="promo_small_square"></a></dt>
+                        <dd>
+                            <a href="https://www.politico.com/states/staff/alexandra-glorioso" class="url fn" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking">Alexandra Glorioso</a></dd>
+                    </dl>
+                <dl class="vcard">
+                        <dt>
+                            <a href="https://www.politico.com/states/staff/arek-sarkissian" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/763cd64/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F81%2F3e%2Fbb0fb56441aaa60c3bd1d026a9e5%2Fsarkissian-arek2.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="photo" alt="Arek Sarkissian" data-size="promo_small_square"></a></dt>
+                        <dd>
+                            <a href="https://www.politico.com/states/staff/arek-sarkissian" class="url fn" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking">Arek Sarkissian</a></dd>
+                    </dl>
+                <dl class="vcard">
+                        <dt>
+                            <a href="https://www.politico.com/states/staff/andrew-atterbury" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/911f051/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F79%2F47%2F558762d84d12878c8831b5139876%2Fatterburyedited.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="photo" alt="Andrew Atterbury" data-size="promo_small_square"></a></dt>
+                        <dd>
+                            <a href="https://www.politico.com/states/staff/andrew-atterbury" class="url fn" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking">Andrew Atterbury</a></dd>
+                    </dl>
+                <dl class="vcard">
+                        <dt>
+                            <a href="https://www.politico.com/states/staff/gary-fineout" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking"><img data-lazy-img="https://static.politico.com/dims4/default/6bc6f8f/2147483647/legacy_thumbnail/91x91%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F4f%2Fa7%2Fb9f0f2c6419bbbc50af8d768edb8%2Ffineout.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="photo" alt="Gary Fineout" data-size="promo_small_square"></a></dt>
+                        <dd>
+                            <a href="https://www.politico.com/states/staff/gary-fineout" class="url fn" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking">Gary Fineout</a></dd>
+                    </dl>
+                </div>
+    </section>
+</div>
+</div>
+    </aside>
+<aside class="content-group interrupt-item florida-more-stories-right-rail">
+    <div class="widget caste-exclusive">
+        <header class="widget-header">
+            <h2>More Florida Articles</h2>
+            </header>
+
+        <div class="widget-content">
+            <ol class="story-frag-list layout-linear">
+                <li>
+                        <article class="story-frag format-xxs">
+                            <div class="summary">
+                                <header>
+                                    <h3><a href="https://www.politico.com/states/florida/story/2019/05/08/florida-gop-sets-the-table-for-trump-in-2020-1009560" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking">Florida GOP sets the table for Trump in 2020</a></h3>
+                                </header>
+                            </div>
+                        </article>
+                    </li>
+                <li>
+                        <article class="story-frag format-xxs">
+                            <div class="summary">
+                                <header>
+                                    <h3><a href="https://www.politico.com/states/florida/story/2019/05/08/oncologists-wanted-out-of-their-contracts-lawmakers-obliged-1009725" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking">Oncologists wanted out of their contracts. Lawmakers obliged</a></h3>
+                                </header>
+                            </div>
+                        </article>
+                    </li>
+                <li>
+                        <article class="story-frag format-xxs">
+                            <div class="summary">
+                                <header>
+                                    <h3><a href="https://www.politico.com/states/florida/story/2019/05/07/florida-republicans-warn-trump-not-to-arrive-in-storm-torn-panhandle-empty-handed-1010176" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking">Florida Republicans warn Trump not to arrive in storm-torn Panhandle empty-handed</a></h3>
+                                </header>
+                            </div>
+                        </article>
+                    </li>
+                <li>
+                        <article class="story-frag format-xxs">
+                            <div class="summary">
+                                <header>
+                                    <h3><a href="https://subscriber.politicopro.com/states/florida/story/2019/05/07/bernhardt-denies-offshore-drilling-plan-shelved-indefinitely-1009724" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking">Bernhardt denies offshore drilling plan shelved ‘indefinitely’</a></h3>
+                                </header>
+                            </div>
+                        </article>
+                    </li>
+                <li>
+                        <article class="story-frag format-xxs">
+                            <div class="summary">
+                                <header>
+                                    <h3><a href="https://www.politico.com/states/florida/story/2019/05/07/mcconnell-aims-to-pass-disaster-aid-before-memorial-day-amid-fresh-snags-1009588" target="_top" data-tracking="mpos=right-rail&mid=Unknown&lindex=Unknown&lcol=Unknown" class="js-tealium-tracking">McConnell aims to pass disaster aid before Memorial Day amid fresh snags</a></h3>
+                                </header>
+                            </div>
+                        </article>
+                    </li>
+                </ol>
+            </div>
+
+        </div>
+</aside>
+<aside class="content-group social-follow">
+        <div class="widget caste-exclusive">
+            <header class="widget-header">
+                <h2>Follow Us</h2>
+            </header>
+            <div class="widget-content">
+                <ul class="vertical-follow clear">
+                    <li class="facebook">
+                                <iframe src="https://www.facebook.com/plugins/like.php?href=https://www.facebook.com/politicofl&width=95&layout=button_count&action=like&size=large&show_faces=false&share=false&height=21&appId" width="95" height="29" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+                            </li>
+                        <li class="twitter">
+                                <iframe src="https://platform.twitter.com/widgets/follow_button.html?screen_name=politicofl&show_screen_name=false&show_count=false&size=l"
+                                        width="100" height="50" style="border: 0; overflow: hidden;" title="Twitter"></iframe>
+                            </li>
+                        </ul>
+            </div>
+        </div>
+    </aside>
+</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            </div>
+
+                    <a class="continue-to-content" tabindex="0" role="link">Jump to sidebar section</a>  <div class="super">
+                        <div class="super-inner">
+                            <div class="content layout-full">
+                                <section class="content-groupset pos-omega">
+                                    <div class="content-group ad " aria-label="Advertisement">
+    <div class="ad-slot js-lazy-load taboola AR_10 " id="OUTBRAIN" aria-hidden="true" data-ad-refresh="0">
+            </div>
+        </div>
+    </section>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </main>
+<footer class="footer">
+    <nav class="footer__group footer__group--links" role="contentinfo">
+        <ul>
+    <li>
+            <a href="https://www.politico.com/about-us" target="_top" data-tracking="mpos=na&mid=site_footer&lindex=1&lcol=1" class="js-tealium-tracking">About Us</a></li>
+    <li>
+            <a href="https://www.politico.com/advertising" target="_top" data-tracking="mpos=na&mid=site_footer&lindex=2&lcol=1" class="js-tealium-tracking">Advertising</a></li>
+    <li>
+            <a href="https://www.politico.com/subscribe/breaking-news-alerts" target="_top" data-tracking="mpos=na&mid=site_footer&lindex=3&lcol=1" class="js-tealium-tracking">Breaking News Alerts</a></li>
+    <li>
+            <a href="https://www.politico.com/careers" target="_top" data-tracking="mpos=na&mid=site_footer&lindex=4&lcol=1" class="js-tealium-tracking">Careers</a></li>
+    <li>
+            <a href="https://secure.politico.com/payment" target="_top" data-tracking="mpos=na&mid=site_footer&lindex=5&lcol=1" class="js-tealium-tracking">Credit Card Payments</a></li>
+    <li>
+            <a href="http://edition.pagesuite-professional.co.uk/Launch.aspx?bypass=true&amp;PBID=74262970-aa07-44b3-80c8-21fa8a8ac376" target="_blank" data-tracking="mpos=na&mid=site_footer&lindex=6&lcol=1" class="js-tealium-tracking">Digital Edition</a></li>
+    <li>
+            <a href="https://www.politico.com/faq" target="_top" data-tracking="mpos=na&mid=site_footer&lindex=7&lcol=1" class="js-tealium-tracking">FAQ</a></li>
+    <li>
+            <a href="https://www.politico.com/feedback" target="_top" data-tracking="mpos=na&mid=site_footer&lindex=8&lcol=1" class="js-tealium-tracking">Feedback</a></li>
+    <li>
+            <a href="https://www.politico.com/politics" target="_top" data-tracking="mpos=na&mid=site_footer&lindex=9&lcol=1" class="js-tealium-tracking">Headlines</a></li>
+    <li>
+            <a href="https://www.politico.com/gallery" target="_top" data-tracking="mpos=na&mid=site_footer&lindex=10&lcol=1" class="js-tealium-tracking">Photos</a></li>
+    <li>
+            <a href="http://www.powerjobs.com/" target="_blank" data-tracking="mpos=na&mid=site_footer&lindex=11&lcol=1" class="js-tealium-tracking">POWERJobs</a></li>
+    <li>
+            <a href="https://www.politico.com/blogs/politico-press" target="_top" data-tracking="mpos=na&mid=site_footer&lindex=12&lcol=1" class="js-tealium-tracking">Press</a></li>
+    <li>
+            <a href="https://www.politico.com/subscriptions" target="_top" data-tracking="mpos=na&mid=site_footer&lindex=13&lcol=1" class="js-tealium-tracking">Print Subscriptions</a></li>
+    <li>
+            <a href="https://www.politico.com/rss" target="_top" data-tracking="mpos=na&mid=site_footer&lindex=14&lcol=1" class="js-tealium-tracking">RSS</a></li>
+    <li>
+            <a href="https://www.politico.com/sitemap" target="_top" data-tracking="mpos=na&mid=site_footer&lindex=15&lcol=1" class="js-tealium-tracking">Site Map</a></li>
+    </ul>
+
+<ul>
+    <li>
+            <a href="https://www.politico.com/terms-of-service" target="_top" data-tracking="mpos=na&mid=site_footer&lindex=1&lcol=2" class="js-tealium-tracking">Terms of Service</a></li>
+    <li>
+            <a href="https://www.politico.com/privacy-policy" target="_top" data-tracking="mpos=na&mid=site_footer&lindex=2&lcol=2" class="js-tealium-tracking">Privacy Policy</a></li>
+    </ul>
+
+</nav>
+    <div class="footer__group footer__group--legal">
+        <p class="footer__copyright"> &copy; 2019 POLITICO LLC</p>
+    </div>
 </footer>
+<script>var gptadslots=[];
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function(){
+  var gads = document.createElement('script');
+  gads.async = true;
+  gads.type = 'text/javascript';
+  var useSSL = 'https:' == document.location.protocol;
+  gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+})();
+</script><script type="text/javascript" src="https://static3.politico.com/resource/assets/js.min/scriptloader.7442b619cb6bcb0262a3c60a9737c14d.gz.js"></script><script>var scripts = [{'inline': function() { if (Modernizr.touch) { document.write('<script src="https://static3.politico.com/resource/js/website/shared/libraries/jquery-mobile-1.4.5.min.483cba40ca58d0ada0632d01953d42f4.gz.js"><\/script>'); } } },{'src': 'https://static3.politico.com/resource/js/website/shared/libraries/jquery.extra.fbf31263f39294c52d3a5cc6a2f6b309.gz.js'},{'src': 'https://static3.politico.com/resource/js/website/shared/libraries/popup.26b0ff7e738340d74b9af4387fb60a39.gz.js'},{'src': 'https://static3.politico.com/resource/js/website/shared/libraries/jquery-frame.1d5771fd21564e07a551e17f63fcc176.gz.js'},{'src': 'https://static3.politico.com/resource/assets/js.min/main.ef69e1e9446f3c97c7d02d86c663e587.gz.js'},{'src': 'https://static3.politico.com/resource/assets/js.min/bsp.20960d0aa4e4fd2bd46601100a9eb8e1.gz.js'},{'src': 'https://static3.politico.com/resource/assets/js.min/core-default18-delayed.min.db6d00782cf63e2a6a5916b64a622098.gz.js'},{'src': '//s7.addthis.com/js/300/addthis_widget.js#pubid=politico.com'},{'inline': function() { buildSocial(); } },];POLITICO_Script_Loader.loadScriptsSync(scripts);</script><script type='text/javascript'>
+var utag_data = 
+{"page_level_1":"states","page_level_2":"florida","page_level_3":"story","page_level_4":"2019","page_level_5":"04","page_level_6":"04","organization_division":"anonymous","organization_uuid":"anonymous","organization_name":"anonymous","user_login_type":"anonymous","us_em":"anonymous","content_uuid":"00000154-a007-d116-a555-b16fc8ae0000/00000169-e612-dcb9-af7b-e6fe93330000","distribution_channel":"politico","content_id":"951370","lead_media":"two-third","content_tag":"2020|Congressional Elections|Trump Administration|Hurricane Relief","free_paid_content":"free","publication_date":"20190404","site_section":"States","ad_unit_section":"florida","event_type":"story","page_format":"1 of 1","site_domain":"www.politico.com","internal_site_id":"florida","site_url":"https://www.politico.com/states/florida/story/2019/04/04/as-2020-nears-puerto-rico-statehood-looms-large-in-florida-951370","page_type":"story","content_byline":"By Gary Fineout and Marc Caputo","content_author":"Gary Fineout|Marc Caputo","content_source":"States","original_headline":"As 2020 nears, Puerto Rico statehood looms large in Florida","current_headline":"As 2020 nears, Puerto Rico statehood looms large in Florida","page_name":"story - 951370 - 20190404 - As 2020 nears, Puerto Rico statehood looms large in Florida","state_subcontent":"Florida - Florida","state_content":"Florida","enable_prebid":"false"};
 
-</div><!-- #Wrapper -->
-
-
-<!-- mfn_hook_bottom --><!-- mfn_hook_bottom -->	
-<!-- wp_footer() -->
-<script type="text/html" id="tmpl-wp-playlist-current-item">
-	<# if ( data.image ) { #>
-	<img src="{{ data.thumb.src }}" alt="" />
-	<# } #>
-	<div class="wp-playlist-caption">
-		<span class="wp-playlist-item-meta wp-playlist-item-title">
-		&#8220;{{ data.title }}&#8221;		</span>
-		<# if ( data.meta.album ) { #><span class="wp-playlist-item-meta wp-playlist-item-album">{{ data.meta.album }}</span><# } #>
-		<# if ( data.meta.artist ) { #><span class="wp-playlist-item-meta wp-playlist-item-artist">{{ data.meta.artist }}</span><# } #>
-	</div>
+utag_data["spokenlayer"] = document.getElementById('spokenlayer-audio-player-container') != null ? "true" : "false";
+if (typeof(Storage) !== 'undefined') {
+ if (localStorage.uId !== undefined && localStorage.uId !== '') {
+utag_data["us_id"] = localStorage.uId;
+}
+ if (localStorage.uStatus !== undefined && localStorage.uStatus !== '') {
+ if (localStorage.uStatus === "logged in"){ 
+var statusCookieFound = false;
+var nameEQ = "uStatus=";
+var ca = document.cookie.split(';');
+for (var i = 0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+    if (c.indexOf(nameEQ) == 0) {
+        statusCookieFound = true;
+    }
+}
+                    
+if (!statusCookieFound) {
+    localStorage.uStatus = 'logged out';
+}
+}
+utag_data["us_st"] = localStorage.uStatus;} else {
+utag_data["us_st"] = "anonymous";
+}
+ if (localStorage.uCid !== undefined && localStorage.uCid !== '') {
+utag_data["us_co"] = localStorage.uCid;
+}
+}
+;(function(a,b,c,d){
+a='//tags.tiqcdn.com/utag/politico/main/prod/utag.js';
+b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+})();
 </script>
-<script type="text/html" id="tmpl-wp-playlist-item">
-	<div class="wp-playlist-item">
-		<a class="wp-playlist-caption" href="{{ data.src }}">
-			{{ data.index ? ( data.index + '. ' ) : '' }}
-			<# if ( data.caption ) { #>
-				{{ data.caption }}
-			<# } else { #>
-				<span class="wp-playlist-item-title">
-				&#8220;{{{ data.title }}}&#8221;				</span>
-				<# if ( data.artists && data.meta.artist ) { #>
-				<span class="wp-playlist-item-artist"> &mdash; {{ data.meta.artist }}</span>
-				<# } #>
-			<# } #>
-		</a>
-		<# if ( data.meta.length_formatted ) { #>
-		<div class="wp-playlist-item-length">{{ data.meta.length_formatted }}</div>
-		<# } #>
-	</div>
-</script>
-	
-<div id="views-extra-css-ie7" style="display:none;" aria-hidden="true">
-<!--[if IE 7]><style>
-.wpv-pagination { *zoom: 1; }
-</style><![endif]-->
 </div>
-
-<script type="text/javascript">
-jQuery( document ).ready( function( $ ) {
-	var extra_css = $( "#views-extra-css" ) ? $( "#views-extra-css" ).text() : null;	if( extra_css ) {		$( 'head' ).append( '<style>' + extra_css + '</style>' );
-		$( "#views-extra-css" ).remove();	}
-	$( 'head' ).append( $( "#views-extra-css-ie7" ).html() );
-	$( "#views-extra-css-ie7" ).remove();});
-</script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/jquery/ui/core.min.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/jquery/ui/widget.min.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/jquery/ui/mouse.min.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/jquery/ui/sortable.min.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/jquery/ui/tabs.min.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/jquery/ui/accordion.min.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-content/themes/betheme/js/animations/animations.min.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-content/themes/betheme/js/jquery.jplayer.min.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-content/themes/betheme/js/colorpicker/js/colorpicker.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-content/themes/betheme/js/jquery.plugins.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-content/themes/betheme/js/mfn.menu.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-content/themes/betheme/js/scripts.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/jquery/ui/datepicker.min.js'></script>
-<script type='text/javascript'>
-jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
-</script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/mediaelement/wp-mediaelement.min.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/underscore.min.js'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/wp-util.min.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/backbone.min.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/mediaelement/wp-playlist.min.js'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var wpv_pagination_local = {"front_ajaxurl":"https:\/\/www.houstoncardealers.com\/wp-admin\/admin-ajax.php","calendar_image":"https:\/\/www.houstoncardealers.com\/wp-content\/plugins\/wp-views\/embedded\/res\/img\/calendar.gif","calendar_text":"Select date","datepicker_min_date":null,"datepicker_max_date":null,"resize_debounce_tolerance":"100","datepicker_style_url":"https:\/\/www.houstoncardealers.com\/wp-content\/plugins\/types\/vendor\/toolset\/toolset-common\/toolset-forms\/css\/wpt-jquery-ui\/jquery-ui-1.11.4.custom.css"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-content/plugins/wp-views/embedded/res/js/wpv-pagination-embedded.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-content/plugins/private-content/js/frontend.min.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-content/plugins/private-content/js/multiple-select/multiple.select.min.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-content/plugins/private-content/js/magnific_popup/magnific-popup.pckg.js'></script>
-<script type='text/javascript' src='https://www.houstoncardealers.com/wp-includes/js/wp-embed.min.js'></script>
-
-	<style type="text/css">
-	.pc_lightbox.mfp-bg {
-		background: #111111; 	
-	}
-	.pc_lightbox.mfp-bg.mfp-ready {
-		opacity: 0.8;	
-	}
-	.pc_lightbox .mfp-content {
-		padding-right: 15%;
-		padding-left: 15%;	
-	}
-	.pc_lightbox_contents:not(.pc_only_form_lb) {
-		padding: 25px;	
-		border-radius: 3px;
-		border: 0px solid #dddddd;
-		background-color: #ffffff;
-		color: #555555;
-	}
-	.pc_lightbox_contents .mfp-close {
-		background-color: #ffffff;
-		color: #555555;	
-		border-radius: 3px;
-	}
-	</style><div id="pc_lb_codes" style="display: none;"></div>
-</body>
-</html>
+        <div class="ad-slot js-lazy-load  " id="pol-oop" aria-hidden="true" data-ad-refresh="0">
+            </div>
+        </body>
+    </html>
