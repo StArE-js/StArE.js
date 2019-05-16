@@ -69,7 +69,7 @@ var clearJson= function(json){
     //SELECT CHARACTERISTICS TO USE:
     var query=[json.searchInformation.formattedTotalResults,
         json.queries.request[0].searchTerms,
-        json.queries.request[0].count,
+        json.items.length,
         json.queries.request[0].startIndex];
     var objeto= new cleanSerp(query);
     //CREATE AND ADD THE DOCUMENTS OBJECTS.

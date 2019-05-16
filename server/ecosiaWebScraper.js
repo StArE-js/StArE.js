@@ -2,6 +2,7 @@ const cheerio = require('cheerio')
 const rp = require('request-promise');
 const fs= require('fs');
 
+
 const scrap = (q = "", p = 0, ruta="") => {
 
     return new Promise(function(resolve,reject){
@@ -19,7 +20,7 @@ const scrap = (q = "", p = 0, ruta="") => {
                     resultsFrom: p*10,
                     resultsTo: 0,
                 }
-                $('div.result').each((index, element) => {
+                $('div.result:not(.results-ads)').each((index, element) => {
                     const result = {
                         title: '',
                         snippet: '',
@@ -28,7 +29,7 @@ const scrap = (q = "", p = 0, ruta="") => {
                     result.url = $(element).find('a.result-title').attr('href')
                     result.title = $(element).find('a.result-title').text().replace("\n","").trim()
                     result.description = $(element).find('p.result-snippet').text().replace("\n","").trim()
-                    if (result.url) {
+                    if (result.url && !result.url.startsWith('/search')) {
                         queryJson.websites[index] = result
                         queryJson.currentResults++
                     }
@@ -40,5 +41,4 @@ const scrap = (q = "", p = 0, ruta="") => {
         )
     });
 };
-
 module.exports = { scrap };

@@ -1,22 +1,13 @@
 {
   "name": "Stare.js",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Aplicación de testing para el modulo Stare.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "client": "parcel ./client/index.html ./client/index.html",
-    "//": "al darle mas de una entrada a parcel,se sirven multiples archivos en localhost:1234",
-    "server": "nodemon ./server/app.js",
-    "start": "concurrently \"npm run server\" \"npm run client\""
+
   },
   "author": "Camila Márquez <camila.marquez@usach.cl>",
   "license": "MIT",
-  "devDependencies": {
-    "concurrently": "^4.1.0",
-    "nodemon": "^1.18.9",
-    "parcel-bundler": "^1.11.0"
-  },
   "dependencies": {
     "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.2",
@@ -32,8 +23,5 @@
     "npm": "^6.7.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
-  },
-  "comentarios": {
-    "//": "(servidor localhost:1234 de frontend es considerado un servidor ajeno al servidor localhost:3000 del backend)"
   }
 }

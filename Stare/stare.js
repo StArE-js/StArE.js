@@ -1,12 +1,20 @@
+//*********************************************
+//*********************************************
+// Camila Márquez. Licence MIT.             ***
+// Universidad de Santiago de Chile -USACH  ***
+// Poyect Repository:                       ***
+//*********************************************
+//*********************************************
+
 var output= __dirname;
 var web_scraper = require('./Core/web_Scraper');
 var serp_manager;
-var json_object; //this variable store the Object SERP.
+var json_object; //this variable store the Object STANDAR SERP.
 
 
 
-
-//STEP 1: VALIDATE IF INPUT IS A PATH/URL OR AN OBJECT
+//STEP 1: VALIDATE IF INPUT IS A VALID PATH/URL
+//in case is a url:
 function ValidURL(str) {
     if(str !== "")
     {
@@ -20,8 +28,8 @@ function ValidURL(str) {
 
 //THIS FUNCTION PREPARES THE JSON AND TRANSFORM IT TO STANDARD FORM
 //INPUT:
-//serp_type: String -> valid type of SERP.
-//input: String or Object-> path/url of the SERP file or Object Json
+//serp_type: String -> valid type of SERP: google_serp, ecosia_serp
+//input: String or Object-> path/url of the SERP file or Object
 
 var prepareSerp= function(serp_type, input){
     return new Promise(function(resolve, reject){
@@ -86,8 +94,13 @@ let get_HTML= function(num){
 
 
 //STEP 3: GET THE METRICS!
-var html=false, document=false, serp=false;
-var metric=[];
+var html=false,
+    document=false,
+    serp=false,
+    metric=[];
+
+//FUNCTION THAT GET THE METRICS
+//INPUT: NAMES OF WANTED METRICS SEPARATED BY COMAS OF LENGTH N.
 var get_Metrics= function(){
     console.log('tengo ' + arguments.length +' metricas que calcular');
     i=0;
@@ -106,11 +119,10 @@ var get_Metrics= function(){
             json_object.documents[doc][arguments[i]]=1;
         }
         i++;};
-    //initialization of variables
-
-
 
     //Get The Metrics
+
+    //CASE 1: ONLY USE THE SERP INFORMATION
     if(document===false & html=== false){
         console.log("No Download Nedeed");
         j=0;
@@ -127,9 +139,10 @@ var get_Metrics= function(){
             }
             j++;
         };
-
         return (true);
-    }else if(html===true & document===false){
+    }
+    //CASE 2: ONLY NEEDS HTML INFORMATION
+    else if(html===true & document===false){
         console.log("no cleaning nedeed");
             for (doc in json_object.documents) {
                 get_Document(doc).then(
@@ -157,7 +170,9 @@ var get_Metrics= function(){
                     }
                 );
             }
-    }else{
+    }
+    //CASE 3: DOCUMENTS ARE NEEDED
+    else{
         console.log("all is nedeed");
 
             for (doc in json_object.documents) {
@@ -201,7 +216,6 @@ var get_Metrics= function(){
             };
         }
     };
-
 
 
 //GET NUMBER OF ITEMS

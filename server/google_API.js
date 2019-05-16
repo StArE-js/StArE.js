@@ -23,13 +23,15 @@ const customsearch = google.customsearch('v1');
 //      "API KEY"
 //      "CUSTOM ENGINE ID"
 
-async function runSample(options) {
-    console.log(options);
-    const res = await customsearch.cse.list({
+async function runSample(options, p = 0) {
+    const query = {
         cx: options.cx,
         q: options.q,
         auth: options.apiKey,
-    });
+        start: p*10+1,
+        num: 10
+    }
+    const res = await customsearch.cse.list(query);
     return res.data;
 }
 
