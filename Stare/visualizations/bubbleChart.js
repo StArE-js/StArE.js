@@ -1,6 +1,6 @@
 const d3 = require('d3');
 const palettes= require('./ColorPallettes.js');
-require("./styles/bubbleChart.css");
+
 /**
  * Based on the work from Déborah Martinez.
  *  License: MIT

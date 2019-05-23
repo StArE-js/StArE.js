@@ -13,6 +13,7 @@ const cors= require('cors');
 const stare=require('../Stare/stare.js');
 const ecosia= require('./ecosiaWebScraper.js');
 const google = require('./google_API');
+const fs= require('fs');
 
 var lastCall = {
     q: String,
@@ -35,6 +36,7 @@ app.get('/json', function(req, res){
     stare.get_Metrics(...metrics);
     //  Document is an Object of Type "Documents", Defined.
     var Json= stare.get_Json();
+
     //  Send the Doc to the url
     res.send(Json);
     }
