@@ -61,7 +61,7 @@ stare.prepareSerp('ecosia_serp', SERP)
                });
 ```
 The resultant SERP (standard) has the following structure:
-```json
+```
 {
 "resultados": number,
 "terminos": String[],
@@ -212,5 +212,5 @@ The implementation of the visualization must be done following the method chain 
 MIT
 
    [npm Package]: <https://www.npmjs.com/package/stare.js>
-   [Proof of Concept]: <https://github.com/StArE-js/StareConceptTest->
+   [Proof of Concept]: <https://github.com/StArE-js/StareConceptTest>
    [Development Environment]: <https://github.com/StArE-js/StArE.js>
