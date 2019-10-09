@@ -1,4 +1,4 @@
-# Stare.js
+# StArE.js
 
 Stare.js is a project that seek facilitate to developers the creation of alternative visualizations for search engine results, providing key functionalities to clean, manage, extract characteristic and create visualization of SERPs (Search Engine Result Pages).
   - Extensible
@@ -15,12 +15,12 @@ Stare.js is a project that seek facilitate to developers the creation of alterna
 
 ### Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
+Stare.js requires [Node.js](https://nodejs.org/) v4+ to run.
 
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ npm install -stare.js
+$ npm install stare.js
 ```
 
 ### Extensions
@@ -37,17 +37,17 @@ Stare.js is currently extended with the following plugins, all of them developed
 | Bubble Chart Visualization | Simple bubble chart visualization
 | Bar Chart Visualization | Simple bar chart visualization
 
-# Back-End Usage
+## Back-End Usage
 Import the package.
-```sh
+```javascript
 const stare=require('stare.js').stare;
 ```
 Define Metrics to calculate. Each Metric must be adressed by its name.
-```sh
+```javascript
 var metrics= ['length','ranking', 'language', 'perpiscuity'];
 ```
 Pre Process the SERP and extract characteristics:
-```sh
+```javascript
 //var SERP contains the SERP
 ...
 stare.prepareSerp('ecosia_serp', SERP)
@@ -61,7 +61,7 @@ stare.prepareSerp('ecosia_serp', SERP)
                });
 ```
 The resultant SERP (standard) has the following structure:
-```sh
+```json
 {
 "resultados": number,
 "terminos": String[],
@@ -79,18 +79,18 @@ The resultant SERP (standard) has the following structure:
     }]
 }
 ```
-# Front-End Usage
+## Front-End Usage
 In the front end of the app, import the visualization module:
-```sh
+```javascript
 const bubbleChart = require('stare.js/visualizations').bubbleChart;
 ```
 Define the variable that will contains the chart and set parameters:
-```sh
+```javascript
 var chart;
 var t = 500; //time to update data in ms.
 ```
 Create the chart and configurate internal parameters:
-```sh
+```javascript
 chart = bubbleChart()
                 .height(600)
                 .width(700)
@@ -103,7 +103,7 @@ chart = bubbleChart()
                 .customColors("perpiscuity", "A3", false);
 ```
 Finally, pass the data and update the chart if needed:
-```sh
+```javascript
 //var json contains processed SERP
 ...
 d3.select('#chart').datum(json).call(chart);
@@ -115,14 +115,14 @@ interval = setInterval(
             }, t
         );
 ```
-# Include New Extensions
+## Include New Extensions
 To add new characteristics through extensions you will have to add the script in the corresponding component of the pachage as indicated below:
 
-#### 1. SERP Handler
+### 1. SERP Handler
 To add a SERP handles you must create a JavaScript file named **searchEngineName_serp.js** and include it in the directory: **Stare/Serp_Process/**
 
-The Extensión must have the following structure (Is important to maintain the names of the methods):
-```sh
+The Extensión must have the following structure (it's important to maintain the names of the methods):
+```javascript
 //imports
   ...
   //Logic of the format transformation.
@@ -153,14 +153,14 @@ The Extensión must have the following structure (Is important to maintain the n
     };
 ```
 And that's all! Now, to use it, the name of the script must be passed as a paremeter when calling the function
-```sh
+```javascript
 stare.prepareSerp('searchEngineName_serp', SERP)
 ```
-#### 2. Characteristic Extractor
+### 2. Characteristic Extractor
 To add an extension to this component, it must be created a JavaScript file called **nameCharacteristic.js** and added it to: **Stare/metrics/**.
 
 This file must have the following structure (Is important to maintain the method names):
-```
+```javascript
 //import dependencies
 
 //support functions
@@ -184,13 +184,13 @@ This file must have the following structure (Is important to maintain the method
 ```
 
 the "name_var" will be the name used to use this component in the future.
-The implementation
-#### 3. Visualization
+
+### 3. Visualization
 To add an extension to this component, it must be created a JavaScript file called **nameVisualization.js** and added it to: **Stare/visualizations/**.
 
 This file must have the following structure (Is important to maintain the method names):
 
-```
+```javascript
  //Imports
     const d3 = require('d3');
     const palettes= require('./ColorPallettes.js');
@@ -207,12 +207,10 @@ This file must have the following structure (Is important to maintain the method
 The implementation of the visualization must be done following the method chain notation, to allow the setting of parameters through this mechanism.
 
 
-License
-----
+## License
 
 MIT
 
-
    [npm Package]: <https://www.npmjs.com/package/stare.js>
-   [Proof of Concept]: <https://github.com/bellyster/StareConceptTest>
-   [Development Environment]: <https://github.com/bellyster/Stare.js>
+   [Proof of Concept]: <https://github.com/StArE-js/StareConceptTest->
+   [Development Environment]: <https://github.com/StArE-js/StArE.js>
