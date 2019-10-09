@@ -210,11 +210,7 @@ The implementation of the visualization must be done following the method chain 
 License
 ----
 
-[Atribución 3.0 Chile (CC BY 3.0 CL)](https://creativecommons.org/licenses/by/3.0/cl/)
-Author: Camila Márquez.
-Mail: camila.marquez@usach.cl
-
-**Free Software, Hell Yeah!**
+MIT
 
 
    [npm Package]: <https://www.npmjs.com/package/stare.js>
