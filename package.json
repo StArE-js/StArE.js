@@ -24,7 +24,7 @@
     "cors": "^2.8.5",
     "d3": "^5.9.1",
     "express": "^4.16.4",
-    "googleapis": "^37.2.0",
+    "googleapis": "^39.1.0",
     "hyphenopoly": "^2.7.0",
     "json-formatter-js": "^2.2.1",
     "json-viewer": "^2.2.0",
