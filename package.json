@@ -18,7 +18,7 @@
     "parcel-bundler": "^1.11.0"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.2",
     "cheerio-html-to-text": "^0.4.4",
     "cors": "^2.8.5",
